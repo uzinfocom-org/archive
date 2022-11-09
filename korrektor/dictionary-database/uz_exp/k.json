@@ -1,0 +1,632 @@
+[
+    {
+        "word": "Kremniyorganik",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u0435\u043c\u043d\u0438\u0439\u043e\u0440\u0433\u0430\u043d\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Kapelmeyster",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043f\u0435\u043b\u044c\u043c\u0435\u0439\u0441\u0442\u0435\u0440"
+        ]
+    },
+    {
+        "word": "Kinofestival",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043d\u043e\u0444\u0435\u0441\u0442\u0438\u0432\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kseroftalmiya",
+        "type": [],
+        "definition": [
+            "\u043a\u0441\u0435\u0440\u043e\u0444\u0442\u0430\u043b\u044c\u043c\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Kinossenariy",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043d\u043e\u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Kinoobyektiv",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043d\u043e\u043e\u0431\u044a\u0435\u043a\u0442\u0438\u0432"
+        ]
+    },
+    {
+        "word": "Konyunktivit",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0442\u0438\u0432\u0438\u0442"
+        ]
+    },
+    {
+        "word": "Kriptoftalm",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u0438\u043f\u0442\u043e\u0444\u0442\u0430\u043b\u044c\u043c"
+        ]
+    },
+    {
+        "word": "Kontratsepsiya",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0442\u0440\u0430\u0446\u0435\u043f\u0446\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Koeffitsiyent",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442"
+        ]
+    },
+    {
+        "word": "Kinokonsert",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043d\u043e\u043a\u043e\u043d\u0446\u0435\u0440\u0442"
+        ]
+    },
+    {
+        "word": "Konferansye",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0444\u0435\u0440\u0430\u043d\u0441\u044c\u0435"
+        ]
+    },
+    {
+        "word": "Konyunktura",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0442\u0443\u0440\u0430"
+        ]
+    },
+    {
+        "word": "Konyuktivit",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044c\u044e\u043a\u0442\u0438\u0432\u0438\u0442"
+        ]
+    },
+    {
+        "word": "Konyunktiva",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0442\u0438\u0432\u0430"
+        ]
+    },
+    {
+        "word": "Konstebl",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0441\u0442\u0435\u0431\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kronsirkul",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u043e\u043d\u0446\u0438\u0440\u043a\u0443\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kanserogen",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043d\u0446\u0435\u0440\u043e\u0433\u0435\u043d"
+        ]
+    },
+    {
+        "word": "Kastryulka",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0441\u0442\u0440\u044e\u043b\u044c\u043a\u0430"
+        ]
+    },
+    {
+        "word": "Kolonsifra",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043b\u043e\u043d\u0446\u0438\u0444\u0440\u0430"
+        ]
+    },
+    {
+        "word": "Katapulta",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0442\u0430\u043f\u0443\u043b\u044c\u0442\u0430"
+        ]
+    },
+    {
+        "word": "Konslager",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0446\u043b\u0430\u0433\u0435\u0440[\u044c]"
+        ]
+    },
+    {
+        "word": "Kulturizm",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0438\u0437\u043c"
+        ]
+    },
+    {
+        "word": "Kinosyomka",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043d\u043e\u0441\u044a\u0451\u043c\u043a\u0430"
+        ]
+    },
+    {
+        "word": "Konyugatsiya",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044a\u044e\u0433\u0430\u0446\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Konyunksiya",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044a\u044e\u043d\u043a\u0446\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Kontralto",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0442\u0440\u0430\u043b\u044c\u0442\u043e"
+        ]
+    },
+    {
+        "word": "Kontrrels",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0442\u0440\u0440\u0435\u043b\u044c\u0441"
+        ]
+    },
+    {
+        "word": "Krendel",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u0435\u043d\u0434\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Konsession",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0446\u0435\u0441\u0441\u0438\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Konsepsiya",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Konsessiya",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0446\u0435\u0441\u0441\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Korrupsiya",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0440\u0440\u0443\u043f\u0446\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Kompanyon",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043c\u043f\u0430\u043d\u044c\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Kompyuter",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440"
+        ]
+    },
+    {
+        "word": "Konferens",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0444\u0435\u0440\u0435\u043d\u0446"
+        ]
+    },
+    {
+        "word": "Kanstovar",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043d\u0446\u0442\u043e\u0432\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Kalendar",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043b\u0435\u043d\u0434\u0430\u0440[\u044c]"
+        ]
+    },
+    {
+        "word": "Kinofilm",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043d\u043e\u0444\u0438\u043b\u044c\u043c"
+        ]
+    },
+    {
+        "word": "Konsulta",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430"
+        ]
+    },
+    {
+        "word": "Konyugant",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044a\u044e\u0433\u0430\u043d\u0442"
+        ]
+    },
+    {
+        "word": "Konsol",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0441\u043e\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kremen",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u0435\u043c\u0435\u043d[\u044c]"
+        ]
+    },
+    {
+        "word": "Kromanyon",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u043e\u043c\u0430\u043d\u044c\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Kunial",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u043d\u0438\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Konfutsiy",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0444\u0443\u0446\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Kalkulya",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043b\u044c\u043a\u0443\u043b\u044f"
+        ]
+    },
+    {
+        "word": "Kastryul",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0441\u0442\u0440\u044e\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Konsentr",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440"
+        ]
+    },
+    {
+        "word": "Konveyer",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0432\u0435\u0439\u0435\u0440"
+        ]
+    },
+    {
+        "word": "Kanifol",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043d\u0438\u0444\u043e\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Karamel",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0430\u043c\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Karusel",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0443\u0441\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kokteyl",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043a\u0442\u0435\u0439\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kontrol",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0442\u0440\u043e\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kulmina",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u043b\u044c\u043c\u0438\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Kultiva",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u043b\u044c\u0442\u0438\u0432\u0430"
+        ]
+    },
+    {
+        "word": "Konyugat",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044a\u044e\u0433\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Konvuls",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0432\u0443\u043b\u044c\u0441"
+        ]
+    },
+    {
+        "word": "Konsult",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442"
+        ]
+    },
+    {
+        "word": "Konversiya",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0432\u0435\u0440\u0441\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Kaxeksiya",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0445\u0435\u043a\u0441\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Kansler",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043d\u0446\u043b\u0435\u0440"
+        ]
+    },
+    {
+        "word": "Kapsyul",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043f\u0441\u044e\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kartech",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0442\u0435\u0447[\u044c]"
+        ]
+    },
+    {
+        "word": "Konsern",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0446\u0435\u0440\u043d"
+        ]
+    },
+    {
+        "word": "Konsert",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0446\u0435\u0440\u0442"
+        ]
+    },
+    {
+        "word": "Kalsiy",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043b\u044c\u0446\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Kartel",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0442\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kobalt",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0431\u0430\u043b\u044c\u0442"
+        ]
+    },
+    {
+        "word": "Krovat",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u043e\u0432\u0430\u0442[\u044c]"
+        ]
+    },
+    {
+        "word": "Krol",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u043e\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kulmin",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u043b\u044c\u043c\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Konsept",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u0446\u0435\u043f\u0442"
+        ]
+    },
+    {
+        "word": "Koersit",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u044d\u0440\u0446\u0438\u0442"
+        ]
+    },
+    {
+        "word": "Karate",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0430\u0442\u044d"
+        ]
+    },
+    {
+        "word": "Karyer",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u044c\u0435\u0440"
+        ]
+    },
+    {
+        "word": "Konyak",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044c\u044f\u043a"
+        ]
+    },
+    {
+        "word": "Kuryer",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u0440\u044c\u0435\u0440"
+        ]
+    },
+    {
+        "word": "Kabel",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0431\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kafel",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0444\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kalka",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043b\u044c\u043a\u0430"
+        ]
+    },
+    {
+        "word": "Kisel",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u0441\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Kitel",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u0442\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Konki",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d\u044c\u043a\u0438"
+        ]
+    },
+    {
+        "word": "Kreml",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u0435\u043c\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Knyaz",
+        "type": [],
+        "definition": [
+            "\u043a\u043d\u044f\u0437[\u044c]"
+        ]
+    },
+    {
+        "word": "Kvars",
+        "type": [],
+        "definition": [
+            "\u043a\u0432\u0430\u0440\u0446"
+        ]
+    },
+    {
+        "word": "Kolt",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043b\u044c\u0442"
+        ]
+    },
+    {
+        "word": "Kyat",
+        "type": [],
+        "definition": [
+            "\u043a\u044c\u044f\u0442"
+        ]
+    }
+]

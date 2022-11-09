@@ -1,0 +1,804 @@
+[
+    {
+        "word": "\u0428\u0430\u0433",
+        "type": [],
+        "definition": [
+            "qadam, odim;<\/p>",
+            "<strong>\u0441\u0434\u0435\u043b\u0430\u0442\u044c<\/strong> ~ qadam tashlamoq, qadam bosmoq;",
+            "<strong>\u0438\u0434\u0442\u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u043c <\/strong> ~<strong>\u043e\u043c <\/strong> ildam qadamlar bilan ketmoq (bormoq);",
+            "ish, harakat;<\/p>",
+            "chora, tadbir;",
+            "qadam;",
+            "<strong>\u0441\u0435\u0440\u044c\u0451\u0437\u043d\u044b\u0439<\/strong> ~ jiddiy ish, jiddiy tadbir;",
+            "<strong>\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439<\/strong> ~ mas'ul ish;",
+            "",
+            "<strong>\u043d\u0430 \u043a\u0430\u0436\u0434\u043e\u043c \u0448\u0430\u0433\u0443<\/strong> <em>\u0441\u043c. <\/em><strong>\u043a\u0430\u0436\u0434\u044b\u0439<\/strong> ;",
+            "<strong>\u0432 \u0434\u0432\u0443\u0445 \u0448\u0430\u0433\u0430\u0445<\/strong> orasi ikki qadam;",
+            "juda yaqin;",
+            "<strong>\u043f\u0435\u0440\u0432\u044b\u0435 \u0448\u0430\u0433\u0438<\/strong> birinchi (dastlabki) qadamlar;",
+            "<strong>\u0447\u0435\u0440\u0435\u043f\u0430\u0448\u044c\u0438\u043c <\/strong> ~<strong>\u043e\u043c <\/strong> (<strong>\u0438\u0434\u0442\u0438<\/strong> , <strong>\u0434\u0432\u0438\u0433\u0430\u0442\u044c\u0441\u044f \u0432\u043f\u0435\u0440\u0451\u0434<\/strong> ) toshbaqa yurish bilan (juda sekin) harakat qilmoq;",
+            "~<strong>\u0443 \u043d\u0435\u043b\u044c\u0437\u044f \u0441\u0434\u0435\u043b\u0430\u0442\u044c<\/strong> <em>\u0440\u0430\u0437\u0433. <\/em>ko'z ochgani qo'yishmaydi, ko'z ochirishmaydi;",
+            "biror ish qilishga erkinlik yo'q, chiziqdan chiqarishmaydi;",
+            "<strong>\u043d\u0438 \u043d\u0430<\/strong> ~ <strong>\u043d\u0435 \u043e\u0442\u0445\u043e\u0434\u0438\u0442\u044c<\/strong> bir qadam ham nari ketmaslik;",
+            "joyidan jilmaslik;",
+            "qimir etmaslik."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0433\u0430\u0442\u044c",
+        "type": [],
+        "definition": [
+            "qadam tashlamoq, qadam tashlab bormoq (yurmoq);<\/p>",
+            "~ <strong>\u043f\u043e \u0434\u043e\u0440\u043e\u0433\u0435<\/strong> yo'ldan qadam tashlab bormoq;",
+            "hatlamoq, sakramoq, hatlab o'tmoq, sakrab o'tmoq;<\/p>",
+            "~ <strong>\u0447\u0435\u0440\u0435\u0437 \u043b\u0443\u0436\u0438<\/strong> ko'lmakdan hatlab o'tmoq;",
+            "<strong>\u0448\u0430\u0433\u043d\u0443\u0442\u044c \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u0440\u043e\u0433<\/strong> ostonadan hatlab o'tmoq;",
+            "",
+            "~ <strong>\u043d\u043e\u0433\u0430 \u0432 \u043d\u043e\u0433\u0443<\/strong> baravar qadam tashlamoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u043f\u043a\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>telpak, shapka, qalpoq;",
+            "<strong>\u043c\u0443\u0436\u0441\u043a\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> erkaklar qalpog'i;",
+            "<strong>\u043c\u0435\u0445\u043e\u0432\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> telpak;",
+            "<strong>\u0438 \u043f\u043e\u0434 \u0434\u044b\u0440\u044f\u0432\u043e\u0439<\/strong> ~<strong>\u043e\u0439 \u0436\u0438\u0432\u0451\u0442 \u0433\u043e\u043b\u043e\u0432\u0430<\/strong> <em>\u043f\u043e\u0441\u043b. <\/em>teshik bo'rk ostida ham bosh omon turar (fikr yuritar);",
+            "",
+            "~<strong>\u0430<\/strong> -<strong>\u043d\u0435\u0432\u0438\u0434\u0438\u043c\u043a\u0430<\/strong> <em>\u0444\u043e\u043b\u044c\u043a. <\/em>sehrli qalpoq (kiygan kishini ko'zga ko'rinmaydigan qilib qo'yadigan qalpoq);",
+            "<strong>\u043d\u0430 \u0432\u043e\u0440\u0435<\/strong> ~<strong>\u0430 \u0433\u043e\u0440\u0438\u0442<\/strong> ishtonsizning hadigi cho'pdan;",
+            "~<strong>\u0430\u043c\u0438 \u0437\u0430\u043a\u0438\u0434\u0430\u0435\u043c <\/strong> bir cho'qishda qochiramiz;",
+            "do'ppi bilan urib yiqitamiz;",
+            "~<strong>\u0443 \u043b\u043e\u043c\u0430\u0442\u044c \u043f\u0435\u0440\u0435\u0434 \u043a\u0435\u043c <\/strong> o'zini oyoq osti qilmoq;",
+            "xushomad qilmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u043f\u043e\u0447\u043a\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em><strong>\u0443\u043c\u0435\u043d\u044c\u0448<\/strong> .-<em>\u043b\u0430\u0441\u043a. <\/em><strong>\u043e\u0442 \u0448\u0430\u043f\u043a\u0430<\/strong> shapkacha, telpakcha."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u043f\u043e\u0447\u043d\u044b\u0439",
+        "type": [],
+        "definition": [
+            "shapkaga (telpakka) oid;",
+            "shapka (telpak) ...;",
+            "~<strong>\u0430\u044f \u043c\u0430\u0441\u0442\u0435\u0440\u0441\u043a\u0430\u044f<\/strong> shapka (telpak) ustaxonasi;",
+            "",
+            "<strong>\u043a<\/strong> ~<strong>\u043e\u043c\u0443 \u0440\u0430\u0437\u0431\u043e\u0440\u0443 \u043f\u0440\u0438\u0439\u0442\u0438<\/strong> to'y tarqalganda yetib kelmoq;",
+            "~<strong>\u043e\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e<\/strong> ko'z oshna (tanish) bo'lish, salom-alik qilib yuriladigan tanish."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0440",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>shar;",
+            "<strong>\u0432\u043e\u0434\u0443\u0448\u043d\u044b\u0439<\/strong> ~ havo shari;",
+            "<strong>\u0434\u0432\u0430 \u0448\u0430\u0440\u0430<\/strong> ikkita shar;",
+            "",
+            "<strong>\u0437\u0435\u043c\u043d\u043e\u0439<\/strong> ~ <em>\u0441\u043c. <\/em><strong>\u0437\u0435\u043c\u043d\u043e\u0439<\/strong> ;",
+            "",
+            "<strong>\u0445\u043e\u0442\u044c \u0448\u0430\u0440\u043e\u043c \u043f\u043e\u043a\u0430\u0442\u0438<\/strong> hech narsa yo'q, ship-shiydam, bo'm-bo'sh, qup-quruq;",
+            "qoqqanda qoziq, osganda xurmacha yo'q."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0440\u0438\u0442\u044c",
+        "type": [],
+        "definition": [
+            "<em>\u043d\u0435\u0441\u043e\u0432. <\/em>titkilamoq, titmoq, qidirmoq, axtarmoq;",
+            "kovlamoq;",
+            "~<strong>\u0442\u044c \u0432 \u043a\u0430\u0440\u043c\u0430\u043d\u0430\u0445<\/strong> cho'ntak kovlamoq;",
+            "",
+            "~<strong>\u0442\u044c \u0433\u043b\u0430\u0437\u0430\u043c\u0438<\/strong> ko'z yugurtirib qaramoq (qidirmoq)."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0440\u0444",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>sharf;",
+            "<strong>\u0448\u0435\u0440\u0441\u0442\u044f\u043d\u043e\u0439<\/strong> ~ jun sharf;",
+            "<strong>\u043c\u0443\u0436\u0441\u043a\u043e\u0439<\/strong> ~ erkaklar sharfi."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0442\u0451\u0440",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>(<em>\u043c\u043d.<\/em> <strong>\u0448\u0430\u0442\u0440\u044b<\/strong> );",
+            "chodir;",
+            "<strong>\u0446\u044b\u0433\u0430\u043d\u0441\u043a\u0438\u0435 \u0448\u0430\u0442\u0440\u044b<\/strong> lo'lilarning chodirlari;",
+            "<strong>\u0433\u043e\u043b\u0443\u0431\u043e\u0439<\/strong> ~ <strong>\u0432\u0435\u0441\u044c \u043c\u0438\u0440 \u043d\u0430\u043a\u0440\u044b\u043b \u0437\u0430\u0433\u0430\u0434\u043a\u0430<\/strong> (<strong>\u041d\u0435\u0431\u043e<\/strong> ) ko'k chodir butun olamni qoplagan."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0445\u043c\u0430\u0442\u044b",
+        "type": [],
+        "definition": [
+            "<em>\u043c\u043d. <\/em>shaxmat;",
+            "<strong>\u0438\u0433\u0440\u0430\u0442\u044c \u0432<\/strong> ~<strong>\u044b<\/strong> shaxmat o'ynamoq;",
+            "<strong>\u0447\u0435\u043c\u043f\u0438\u043e\u043d \u043c\u0438\u0440\u0430 \u043f\u043e<\/strong> ~<strong>\u0430\u043c <\/strong> shaxmat bo'yicha jahon chempioni."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0445\u0442\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>shaxta;",
+            "<strong>\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u0432<\/strong> ~<strong>\u0443<\/strong> shaxtaga tushmoq;",
+            "<strong>\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0432<\/strong> ~<strong>\u0435<\/strong> shaxtada ishlamoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0445\u0442\u0451\u0440",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>shaxtyor, konchi, kon ishchisi;",
+            "<strong>\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c<\/strong> ~<strong>\u043e\u043c <\/strong> shaxtyor bo'lib ishlamoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0430\u0448\u043a\u0438",
+        "type": [],
+        "definition": [
+            "<em>\u043c\u043d. <\/em>shashka;",
+            "damka;",
+            "<strong>\u0438\u0433\u0440\u0430\u0442\u044c \u0432<\/strong> ~ shashka o'ynamoq;",
+            "<strong>\u0432\u044b\u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0430\u0440\u0442\u0438\u044e \u0432<\/strong> ~ shashka (damka) o'yinida (partiyani) yutmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0432\u0435\u0446",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>tikuvchi;",
+            "",
+            "<strong>\u0438<\/strong> ~, <strong>\u0438 \u0436\u043d\u0435\u0446<\/strong> , <strong>\u0438 \u0432 \u0434\u0443\u0434\u0443 \u0438\u0433\u0440\u0435\u0446<\/strong> <em>\u043f\u043e\u0433\u043e\u0432. <\/em>[ham tikuvchi, ham o'roqchi, ham sozanda];",
+            "hamma ish qo'lidan keladigan, hunarmand, epchil kishi;",
+            "hamma ishga o'zi balogardon."
+        ]
+    },
+    {
+        "word": "\u0428\u0432\u0435\u044f",
+        "type": [],
+        "definition": [
+            "<em>\u0436<\/em> tikuvchi ayol."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0432\u0435\u043b\u0438\u0442\u044c",
+        "type": [],
+        "definition": [
+            "<em>\u043d\u0435\u0441\u043e\u0432<\/em><em>. <\/em>qimirlatmoq, silkitmoq;",
+            "~<strong>\u0442\u044c \u0433\u0443\u0431\u0430\u043c\u0438<\/strong> labni sal qimirlatmoq;",
+            "~<strong>\u0442\u044c \u0441\u0435\u043d\u043e<\/strong> yoyilgan pichanni ag'darmoq;",
+            "",
+            "~<strong>\u0442\u044c \u043c\u043e\u0437\u0433\u0430\u043c\u0438<\/strong> <em>\u0448\u0443\u0442\u043b<\/em><em>. <\/em>miyani (aql, kalla, fahm-farosatni) ishlatmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0432\u0435\u043b\u0438\u0442\u044c\u0441\u044f",
+        "type": [],
+        "definition": [
+            "<em>\u043d\u0435\u0441\u043e\u0432. <\/em>qimirlamoq, tebranmoq;",
+            "joyidan jilmoq;",
+            "",
+            "~<strong>\u044f\u0442\u0441\u044f \u0434\u0435\u043d\u044c\u0433\u0438 \u0443 \u043a\u043e\u0433\u043e<\/strong> <em>\u0443\u0441\u0442. \u043f\u0440\u043e\u0441\u0442. <\/em><strong><\/strong>",
+            "",
+            "<em><\/em>",
+            "",
+            "pul bor (ko'p)."
+        ]
+    },
+    {
+        "word": "\u0428\u0451\u043b\u043a",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>shoyi;",
+            "ipak;",
+            "<strong>\u0448\u0451\u043b\u043a\u043e\u0432 \u043a\u043b\u0443\u0431<\/strong> , <strong>\u0441\u0435\u043c\u044c \u0434\u044b\u0440 \u0432\u043e\u043a\u0440\u0443\u0433 \u0437\u0430\u0433\u0430\u0434\u043a\u0430<\/strong> (<strong>\u0413\u043e\u043b\u043e\u0432\u0430<\/strong> ) ipak koptok, yettita teshigi bor;",
+            "<strong>\u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439<\/strong> ~ sun'iy shoyi;",
+            "<strong>\u043f\u043b\u0430\u0442\u044c\u0435 \u0438\u0437<\/strong> ~<strong>\u0430<\/strong> shoyi (ipak) ko'ylak;",
+            "",
+            "<strong>\u0432 \u0434\u043e\u043b\u0433\u0443<\/strong> , <strong>\u043a\u0430\u043a \u0432 \u0448\u0435\u043b\u043a\u0443<\/strong> <em>\u043f\u043e\u0433\u043e\u0432. \u0448\u0443\u0442\u043b. <\/em>qarzga botgan, bo'g'zigacha qarz;",
+            "itga suyak, mushukka bez (qarzdor)."
+        ]
+    },
+    {
+        "word": "\u0428\u0451\u043b\u043a\u043e\u0432\u044b\u0439",
+        "type": [],
+        "definition": [
+            "shoyi ...;<\/p>",
+            "ipak ...;",
+            "~<strong>\u044b\u0439 \u043f\u043b\u0430\u0442\u043e\u043a<\/strong> shoyi ro'mol;",
+            "~<strong>\u043e\u0435 \u043f\u043b\u0430\u0442\u044c\u0435<\/strong> shoyi ko'ylak;",
+            "<em>\u043f\u0435\u0440\u0435\u043d. \u0440\u0430\u0437\u0433. <\/em>mo'min, qobil, ipakdek muloyim;<\/p>",
+            "<strong>\u043c\u0430\u043b\u044c\u0447\u0438\u043a \u0441\u0442\u0430\u043b<\/strong> ~<strong>\u044b\u043c <\/strong> (<strong>\u043a\u0430\u043a<\/strong> ~<strong>\u044b\u0439<\/strong> ) bola mo'min (ipakdek muloyim) bo'lib qoldi."
+        ]
+    },
+    {
+        "word": "\u0428\u0451\u043f\u043e\u0442",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>pichirlash, shivirlash;",
+            "pichir-pichir (shivir-shivir) gap;",
+            "<strong>\u0443\u0441\u043b\u044b\u0448\u0430\u0442\u044c<\/strong> ~ pichir-pichir ovoz eshitmoq;",
+            "<strong>\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c<\/strong> ~<strong>\u043e\u043c <\/strong> pichirlab gapirmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u043f\u0442\u0430\u0442\u044c",
+        "type": [],
+        "definition": [
+            "<em>\u043d\u0435\u0441\u043e\u0432. <\/em>(<strong>\u043f\u0440\u043e\u0448\u0435\u043f\u0442\u0430\u0442\u044c <\/strong> <em> \u0441\u043e\u0432.<\/em>) pichirlamoq, shivirlamoq, pichir-pichir qilib gapirmoq;",
+            "~ <strong>\u043d\u0430 \u0443\u0445\u043e<\/strong> pichirlab qulog'iga gapirmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0440\u0441\u0442\u044c",
+        "type": [],
+        "definition": [
+            "jun, yung;<\/p>",
+            "<strong>\u0432\u0435\u0441\u044c \u0432<\/strong> ~<strong>\u0438<\/strong> , <strong>\u0430 \u043a\u043e\u0436\u0438 \u043d\u0435\u0442 \u0437\u0430\u0433\u0430\u0434\u043a\u0430<\/strong> (<strong>\u0412\u0430\u043b\u0435\u043d\u043a\u0438<\/strong> ) hamma yog'i jun (bo'lsa-da), terisi yo'q;",
+            "<strong>\u0433\u0443\u0441\u0442\u0430\u044f<\/strong> ~<strong>\u044c<\/strong> qalin jun;",
+            "<strong>\u0443 \u043a\u043e\u0448\u043a\u0438 \u043c\u044f\u0433\u043a\u0430\u044f<\/strong> ~<strong>\u044c<\/strong> mushukning yungi yumshoq bo'ladi;",
+            "<strong>\u0441\u0442\u0440\u0438\u0447\u044c<\/strong> ~<strong>\u044c \u0443 \u043e\u0432\u0435\u0446<\/strong> qo'ylarning junini olmoq;",
+            "jun (yung) gazlama;<\/p>",
+            "<strong>\u043a\u043e\u0441\u0442\u044e\u043c \u0438\u0437 \u0434\u043e\u0440\u043e\u0433\u043e\u0439<\/strong> ~<strong>\u0438<\/strong> qimmatbaho yungdan tikilgan kostum;",
+            "",
+            "<strong>\u0433\u043b\u0430\u0434\u0438\u0442\u044c \u043f\u0440\u043e\u0442\u0438\u0432<\/strong> ~<strong>\u0438<\/strong> ziddiga gapirmoq;",
+            "teskarisiga ish qilmoq, aksini olmoq;",
+            "<strong>\u0433\u043b\u0430\u0434\u0438\u0442\u044c \u043f\u043e<\/strong> ~<strong>\u0438<\/strong> ko'ngliga qaramoq, aytganini qilmoq;",
+            "<strong>\u0441 \u043f\u0430\u0440\u0448\u0438\u0432\u043e\u0439 \u043e\u0432\u0446\u044b \u0445\u043e\u0442\u044c<\/strong> ~<strong>\u0438 \u043a\u043b\u043e\u043a<\/strong> <em>\u0441\u043c. <\/em><strong>\u043a\u043b\u043e\u043a<\/strong> ;",
+            "<strong>\u043f\u043e\u0448\u0435\u043b \u043f\u043e<\/strong> ~<strong>\u044c<\/strong> , <strong>\u0430 \u0432\u043e\u0440\u043e\u0442\u0438\u043b\u0441\u044f \u0441\u0442\u0440\u0438\u0436\u0435\u043d\u043d\u044b\u0439<\/strong> <em>\u043f\u043e\u0441\u043b. <\/em>[jun orzu qilgan",
+            "yungi qirqilib qaytipti];",
+            "men qilaman o'ttiz, tangrim qiladi to'qqiz."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0440\u0441\u0442\u044f\u043d\u043e\u0439",
+        "type": [],
+        "definition": [
+            "jun..., yung...;",
+            "~<strong>\u043e\u0435 \u043f\u043b\u0430\u0442\u044c\u0435<\/strong> yung ko'ylak;",
+            "~<strong>\u044b\u0435 \u043f\u0435\u0440\u0447\u0430\u0442\u043a\u0438<\/strong> jun qo'lqop."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u0438\u0434\u0435\u0441\u044f\u0442\u044b\u0439",
+        "type": [],
+        "definition": [
+            "<em>\u0447\u0438\u0441\u043b. <\/em>oltmishinchi;",
+            "~<strong>\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430<\/strong> oltmishinchi bet."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u0438\u0441\u043e\u0442\u044b\u0439",
+        "type": [],
+        "definition": [
+            "<em>\u0447\u0438\u0441\u043b. <\/em>olti yuzinchi;",
+            "~ <strong>\u043d\u043e\u043c\u0435\u0440<\/strong> olti yuzinchi raqam."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u043d\u0430\u0434\u0446\u0430\u0442\u044b\u0439",
+        "type": [],
+        "definition": [
+            "<em>\u0447\u0438\u0441\u043b. <\/em>o'n oltinchi;",
+            "~<strong>\u044b\u0439 \u0433\u043e\u0434<\/strong> o'n oltinchi yil;",
+            "~<strong>\u043e\u0435 \u043c\u0430\u044f<\/strong> o'n oltinchi may."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u043d\u0430\u0434\u0446\u0430\u0442\u044c",
+        "type": [],
+        "definition": [
+            "<em>\u0447\u0438\u0441\u043b. <\/em>o'n olti, o'n oltita;",
+            "~<strong>\u044c \u0447\u0435\u043b\u043e\u0432\u0435\u043a<\/strong> o'n oltita odam;",
+            "<strong>\u0434\u0435\u0432\u0443\u0448\u043a\u0430<\/strong> ~<strong>\u0438 \u043b\u0435\u0442<\/strong> o'n olti yashar qiz."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u043e\u0439",
+        "type": [],
+        "definition": [
+            "<em>\u0447\u0438\u0441\u043b. <\/em>oltinchi;",
+            "~<strong>\u043e\u0439 \u0434\u0435\u043d\u044c \u043d\u0435\u0434\u0435\u043b\u0438<\/strong> haftaning oltinchi kuni;",
+            "<strong>\u0434\u0435\u0432\u043e\u0447\u043a\u0435 \u043f\u043e\u0448\u0451\u043b<\/strong> ~<strong>\u043e\u0439 \u0433\u043e\u0434<\/strong> qizcha oltiga qadam qo'ydi;",
+            "",
+            "~<strong>\u043e\u0435 \u0447\u0443\u0432\u0441\u0442\u0432\u043e<\/strong> oltinchi hissiyot (sodir bo'ladigan voqea-hodisalarni oldindan sezish hissi)."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u043e\u043a",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>pech oldi (rus pechi oldidagi supacha);",
+            "pechka oldi;",
+            "o'choqboshi;",
+            "<strong>\u0432\u0441\u044f\u043a \u0441\u0432\u0435\u0440\u0447\u043e\u043a \u0437\u043d\u0430\u0439 \u0441\u0432\u043e\u0439<\/strong> ~ <em>\u043f\u043e\u0441\u043b. \u0441\u043c. <\/em><strong>\u0441\u0432\u0435\u0440\u0447\u043e\u043a<\/strong> ."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u044c",
+        "type": [],
+        "definition": [
+            "<em>\u0447\u0438\u0441\u043b. <\/em>olti, oltita;",
+            "<strong>\u043f\u0440\u043e\u0448\u043b\u043e<\/strong> ~<strong>\u044c \u043b\u0435\u0442<\/strong> olti yil vaqt o'tdi;",
+            "<strong>\u0441\u0435\u043c\u044c\u044f \u0438\u0437<\/strong> ~<strong>\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a<\/strong> olti kishidan iborat oila;",
+            "~<strong>\u044c \u043d\u043e\u0433<\/strong> , <strong>\u0434\u0432\u0435 \u0433\u043e\u043b\u043e\u0432\u044b<\/strong> , <strong>\u043e\u0434\u0438\u043d \u0445\u0432\u043e\u0441\u0442 \u0437\u0430\u0433\u0430\u0434\u043a\u0430<\/strong> (<strong>\u0412\u0435\u0440\u0445\u043e\u0432\u043e\u0439<\/strong> ) kallasi ikkita, oyog'i oltita, dumi bitta."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u044c\u0434\u0435\u0441\u044f\u0442",
+        "type": [],
+        "definition": [
+            "<em>\u0447\u0438\u0441\u043b. <\/em>oltmish, oltmishta;",
+            "~ <strong>\u043a\u0438\u043b\u043e\u043c\u0435\u0442\u0440\u043e\u0432<\/strong> oltmish kilometr;",
+            "<strong>\u043e\u043a\u043e\u043b\u043e \u0448\u0435\u0441\u0442\u0438\u0434\u0435\u0441\u044f\u0442\u0438 \u043b\u0435\u0442<\/strong> oltmish yil atrofida."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u0441\u0442\u044c\u0441\u043e\u0442",
+        "type": [],
+        "definition": [
+            "<em>\u0447\u0438\u0441\u043b. <\/em>olti yuz, olti yuzta;",
+            "~ <strong>\u0440\u0443\u0431\u043b\u0435\u0439<\/strong> olti yuz rubl;",
+            "<strong>\u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0448\u0435\u0441\u0442\u0438\u0441\u043e\u0442 \u043a\u0438\u043b\u043e\u043c\u0435\u0442\u0440\u043e\u0432<\/strong> olti yuz kilometrdan ko'proq masofa."
+        ]
+    },
+    {
+        "word": "\u0428\u0435\u044f",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>bo'yin, gardan;",
+            "<strong>\u0434\u043b\u0438\u043d\u043d\u0430\u044f<\/strong> ~ uzun bo'yin;",
+            "",
+            "<strong>\u0431\u044b\u043b\u0430 \u0431\u044b<\/strong> ~, <strong>\u0430 \u0445\u043e\u043c\u0443\u0442 \u043d\u0430\u0439\u0434\u0435\u0442\u0441\u044f<\/strong> <em>\u043f\u043e\u0441\u043b. <\/em>xizmatchilar bo'lsa, ish har vaqt topiladi;",
+            "to'ying bo'lsa, tamoshabin topilar;",
+            "<strong>\u0432\u0438\u0441\u0435\u0442\u044c \u043d\u0430 \u0448\u0435\u0435 \u0443 \u043a\u043e\u0433\u043e<\/strong> yelkasiga minib olmoq;",
+            "tekinxo'rlik yo'liga o'tmoq;",
+            "<strong>\u0433\u043d\u0430\u0442\u044c \u0432 \u0448\u0435\u044e<\/strong> <em>\u043f\u0440\u043e\u0441\u0442. <\/em><strong><\/strong>",
+            "",
+            "<em><\/em>",
+            "",
+            "quvib chiqarmoq;",
+            "ketiga tepib haydab yubormoq;",
+            "<strong>\u0441\u043b\u043e\u043c\u0430\u0442\u044c \u0441\u0435\u0431\u0435 \u0448\u0435\u044e \u043d\u0430 \u0447\u0451\u043c <\/strong> biror ish qilaman deb qattiq pand yemoq;",
+            "biror baloga yo'liqmoq;",
+            "bir shikast orttirmoq;",
+            "<strong>\u0441\u0435\u0441\u0442\u044c \u043d\u0430 \u0448\u0435\u044e<\/strong> <em>\u0441\u043c. <\/em><strong>\u0441\u0435\u0441\u0442\u044c<\/strong> ."
+        ]
+    },
+    {
+        "word": "\u0428\u0438\u043b\u043e",
+        "type": [],
+        "definition": [
+            "<em>\u0441 <\/em>bigiz;",
+            "~<strong>\u0430 \u0432 \u043c\u0435\u0448\u043a\u0435 \u043d\u0435 \u0443\u0442\u0430\u0438\u0448\u044c<\/strong> <em>\u043f\u043e\u0441\u043b. <\/em>kasalni yashirsang, isitmasi oshkor qiladi;",
+            "oyni etak bilan yopib bo'lmaydi;",
+            "<strong>\u0441\u043e\u043b\u0434\u0430\u0442\u044b<\/strong> ~<strong>\u043e\u043c \u0431\u0440\u0435\u044e\u0442\u0441\u044f<\/strong> , <strong>\u0441\u043e\u043b\u0434\u0430\u0442\u044b \u0434\u044b\u043c\u043e\u043c \u0433\u0440\u0435\u044e\u0442\u0441\u044f<\/strong> <em>\u043f\u043e\u0433\u043e\u0432. \u0448\u0443\u0442\u043b. <\/em>askarlar bigiz bilan soch-soqolini oldiradilar, askarlar tutundan isinadilar (ya'ni ko'pni ko'rganlar topqir bo'ladi)."
+        ]
+    },
+    {
+        "word": "\u0428\u0438\u0440\u0438\u043d\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>en, kenglik;",
+            "~ <strong>\u0443\u043b\u0438\u0446\u044b<\/strong> ko'chaning kengligi;",
+            "<strong>\u0438\u0437\u043c\u0435\u0440\u0438\u0442\u044c<\/strong> ~<strong>\u0443 \u0440\u0435\u043a\u0438<\/strong> daryoning kengligini (enini) o'lchamoq;",
+            "<strong>\u0432 \u043f\u0430\u043b\u0435\u0446<\/strong> ~<strong>\u043e\u0439<\/strong> eni bir barmoq (bir enlik)."
+        ]
+    },
+    {
+        "word": "\u0428\u0438\u0440\u043e\u043a\u0438\u0439",
+        "type": [],
+        "definition": [
+            "keng, enlik, serbar;<\/p>",
+            "~<strong>\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442<\/strong> keng shoh ko'cha;",
+            "~<strong>\u0430\u044f \u0442\u043a\u0430\u043d\u044c<\/strong> enlik gazlama;",
+            "~<strong>\u043e\u0435 \u043e\u043a\u043d\u043e<\/strong> keng (enlik) deraza;",
+            "keng;<\/p>",
+            "<strong>\u043f\u0430\u043b\u044c\u0442\u043e \u0432\u0430\u043c \u0448\u0438\u0440\u043e\u043a\u043e<\/strong> palto sizga kenglik qiladi;",
+            "keng;<\/p>",
+            "ommaviy;",
+            "~<strong>\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435<\/strong> keng ijtimoiy harakat;",
+            "~<strong>\u0438\u0435 \u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u043c\u0430\u0441\u0441\u044b<\/strong> keng xalq ommasi;",
+            "",
+            "<strong>\u0448\u0438\u0440\u043e\u043a\u043e \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0433\u043b\u0430\u0437\u0430<\/strong> ko'zi moshday ochilmoq (hayron bo'lib qolmoq);",
+            "~<strong>\u0430\u044f \u043d\u0430\u0442\u0443\u0440\u0430<\/strong> keng fe'l, bag'ri kenglik;",
+            "qo'li ochiq (saxiy, tanti) odam;",
+            "<strong>\u0436\u0438\u0442\u044c \u043d\u0430<\/strong> ~<strong>\u0443\u044e \u043d\u043e\u0433\u0443<\/strong> <em>\u0441\u043c. <\/em><strong>\u0436\u0438\u0442\u044c<\/strong> ;",
+            "<strong>\u0441\u0434\u0435\u043b\u0430\u0442\u044c<\/strong> ~<strong>\u0438\u0439 \u0436\u0435\u0441\u0442<\/strong> o'zini Hotamtoy (saxiy) qilib ko'rsatmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0438\u0442\u044c",
+        "type": [],
+        "definition": [
+            "<em>\u043d\u0435\u0441\u043e\u0432. <\/em>(<strong>\u0441\u0448\u0438\u0442\u044c <\/strong> <em> \u0441\u043e\u0432.<\/em>) tikmoq;",
+            "~ <strong>\u043f\u043b\u0430\u0442\u044c\u0435<\/strong> ko'ylak tikmoq;",
+            "",
+            "<strong>\u0448\u0438\u0442\u043e \u0434\u0430 \u043a\u0440\u044b\u0442\u043e<\/strong> yopti-yopti (gumon) qilingan;",
+            "boshqalarga bildirmay, mutlaqo maxfiy holda qilinayotgan;",
+            "tuya ko'rdingmi",
+            "yo'q;",
+            "<strong>\u0448\u0438\u0442\u043e \u0431\u0435\u043b\u044b\u043c\u0438 \u043d\u0438\u0442\u043a\u0430\u043c\u0438<\/strong> (biror yashirin qalbaki ish) ko'rga hassa bo'lib turibdi, ochiq-oydin ko'rinib turibdi;",
+            "<strong>\u043d\u0435 \u043b\u044b\u043a\u043e\u043c \u0448\u0438\u0442<\/strong> <em>\u0441\u043c. <\/em><strong>\u043b\u044b\u043a\u043e<\/strong> ."
+        ]
+    },
+    {
+        "word": "\u0428\u0438\u0448\u043a\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>so'ta;",
+            "bujur, to'ng'izoyoq;",
+            "<strong>\u0441\u043e\u0441\u043d\u043e\u0432\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> qarag'ay bujuri (so'tasi);",
+            "shish, g'urra, g'udda;<\/p>",
+            "<strong>\u043d\u0430\u0431\u0438\u0442\u044c<\/strong> ~<strong>\u0443 \u043d\u0430 \u043b\u0431\u0443<\/strong> peshanasini (urib) g'urra qilib olmoq;",
+            "",
+            "~<strong>\u0430 \u043d\u0430 \u0440\u043e\u0432\u043d\u043e\u043c \u043c\u0435\u0441\u0442\u0435<\/strong> <em>\u043f\u0440\u043e\u0441\u0442. <\/em><strong><\/strong>",
+            "",
+            "<em><\/em>",
+            "",
+            "kim bo'lipti u;",
+            "u hech kim emas;",
+            "mavqei yo'q (salmoqsiz) odam;",
+            "<strong>\u0432\u0441\u0435<\/strong> ~<strong>\u0438 \u043f\u0430\u0434\u0430\u044e\u0442<\/strong> (<strong>\u0432\u0430\u043b\u044f\u0442\u0441\u044f<\/strong> ) <strong>\u043d\u0430 \u0435\u0433\u043e \u0433\u043e\u043b\u043e\u0432\u0443<\/strong> hamma balo (kaltak) uning boshiga yog'iladi."
+        ]
+    },
+    {
+        "word": "\u0428\u043a\u0430\u0442\u0443\u043b\u043a\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>quticha, ishquti, g'aladon;",
+            "<strong>\u0441\u0442\u0430\u0440\u0438\u043d\u043d\u0430\u044f<\/strong> ~<strong>\u0430 \u0441 \u0438\u043d\u043a\u0440\u0443\u0441\u0442\u0430\u0446\u0438\u044f\u043c\u0438<\/strong> naqsh solingan qadimiy quticha;",
+            "",
+            "<strong>\u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> musiqali quticha (qutisimon musiqa asbobi)."
+        ]
+    },
+    {
+        "word": "\u0428\u043a\u0430\u0444",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>javon, shkaf;",
+            "<strong>\u043a\u043d\u0438\u0436\u043d\u044b\u0439<\/strong> ~ kitob javoni;",
+            "<strong>\u0431\u0435\u043b\u044c\u0451 \u043b\u0435\u0436\u0438\u0442 \u0432<\/strong> ~<strong>\u0443<\/strong> ich-kiyimlar shkafga solingan;",
+            "",
+            "<strong>\u043d\u0435\u0441\u0433\u043e\u0440\u0430\u0435\u043c\u044b\u0439<\/strong> ~ po'lat sandiq (shkaf)."
+        ]
+    },
+    {
+        "word": "\u0428\u043a\u043e\u043b\u0430",
+        "type": [],
+        "definition": [
+            "maktab;<\/p>",
+            "<strong>\u0443\u0447\u0438\u0442\u044c\u0441\u044f \u0432<\/strong> ~<strong>\u0435<\/strong> maktabda o'qimoq;",
+            "<strong>\u043a\u043e\u043d\u0447\u0438\u0442\u044c \u0441\u0440\u0435\u0434\u043d\u044e\u044e<\/strong> ~<strong>\u0443<\/strong> o'rta maktabni tamomlamoq;",
+            "o'quv (bilim) yurti;<\/p>",
+            "maktab;",
+            "<strong>\u043b\u0451\u0442\u043d\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> uchuvchilar bilim yurti;",
+            "<strong>\u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> musiqa maktabi;",
+            "3.saboq, tajriba, ta'lim, maktab;",
+            "<strong>\u0441\u0443\u0440\u043e\u0432\u0430\u044f<\/strong> ~<strong>\u0430 \u0436\u0438\u0437\u043d\u0438<\/strong> hayotning og'ir maktabi;",
+            "maktab, yo'nalish;<\/p>",
+            "<strong>\u0440\u0435\u043f\u0438\u043d\u0441\u043a\u0430\u044f<\/strong> ~<strong>\u0430 \u0432 \u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0438<\/strong> rassomlikdagi Repin maktabi;",
+            "<strong>\u0440\u0443\u0441\u0441\u043a\u0430\u044f<\/strong> ~<strong>\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0431\u0430\u043b\u0435\u0442\u0430<\/strong> rus mumtoz baleti maktabi."
+        ]
+    },
+    {
+        "word": "\u0428\u043a\u043e\u043b\u044c\u043d\u0438\u043a",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>o'quvchi;",
+            "maktab bolasi;",
+            "<strong>\u0443\u0437\u0431\u0435\u043a\u0441\u043a\u0438\u0435<\/strong> ~<strong>\u0438<\/strong> o'zbek o'quvchilari."
+        ]
+    },
+    {
+        "word": "\u0428\u043a\u043e\u043b\u044c\u043d\u0438\u0446\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>o'quvchi qiz."
+        ]
+    },
+    {
+        "word": "\u0428\u043a\u043e\u043b\u044c\u043d\u044b\u0439",
+        "type": [],
+        "definition": [
+            "maktab...;",
+            "~<strong>\u044b\u0439 \u0434\u0432\u043e\u0440<\/strong> maktab hovlisi;",
+            "~<strong>\u044b\u0435 \u0437\u0430\u043d\u044f\u0442\u0438\u044f<\/strong> maktab mashg'ulotlari;",
+            "",
+            "<strong>\u043d\u0430<\/strong> ~<strong>\u043e\u0439 \u0441\u043a\u0430\u043c\u044c\u0435<\/strong> , <strong>\u0441\u043e<\/strong> ~<strong>\u043e\u0439 \u0441\u043a\u0430\u043c\u044c\u0438<\/strong> <em>\u0441\u043c. <\/em><strong>\u0441\u043a\u0430\u043c\u044c\u044f<\/strong> ;",
+            "~<strong>\u044b\u0439 \u0432\u043e\u0437\u0440\u0430\u0441\u0442<\/strong> maktab yoshi;",
+            "o'quvchilik yoshi."
+        ]
+    },
+    {
+        "word": "\u0428\u043a\u0443\u0440\u0430",
+        "type": [],
+        "definition": [
+            "teri;<\/p>",
+            "<strong>\u0432\u043e\u043b\u0447\u044c\u044f<\/strong> ~<strong>\u0430<\/strong> bo'ri terisi;",
+            "<em>\u0440\u0430\u0437\u0433. <\/em>po'st, po'choq;<\/p>",
+            "~<strong>\u0430 \u0430\u043f\u0435\u043b\u044c\u0441\u0438\u043d\u0430<\/strong> apelsin po'sti (po'chog'i);",
+            "<em>\u043f\u0435\u0440\u0435\u043d. \u043f\u0440\u043e\u0441\u0442. <\/em><strong><\/strong><\/p>",
+            "",
+            "<em><\/em>",
+            "",
+            "hayot, jon, hayot-mamot;",
+            "tiriklik;",
+            "<strong>\u0441\u043f\u0430\u0441\u0430\u0442\u044c \u0441\u0432\u043e\u044e<\/strong> ~<strong>\u0443<\/strong> faqat o'zini (o'z hayotini) qutqarib qolmoq;",
+            "faqat o'zini o'ylamoq;",
+            "o'zini panaga olmoq;",
+            "<strong>\u0441\u043f\u0443\u0441\u0442\u0438\u0442\u044c<\/strong> ~<strong>\u0443<\/strong> <em>\u0441\u043c. <\/em><strong>\u0441\u043f\u0443\u0441\u0442\u0438\u0442\u044c<\/strong> ;",
+            "<strong>\u0434\u0435\u043b\u0438\u0442\u044c<\/strong> ~<strong>\u0443 \u043d\u0435\u0443\u0431\u0438\u0442\u043e\u0433\u043e \u043c\u0435\u0434\u0432\u0435\u0434\u044f<\/strong> <em>\u0441\u043c. <\/em><strong>\u0434\u0435\u043b\u0438\u0442\u044c<\/strong> ;",
+            "<strong>\u0432\u043e\u043b\u043a \u0432 \u043e\u0432\u0435\u0447\u044c\u0435\u0439<\/strong> ~<strong>\u0435<\/strong> <em>\u0441\u043c. <\/em><strong>\u0432\u043e\u043b\u043a<\/strong> ."
+        ]
+    },
+    {
+        "word": "\u0428\u043b\u044f\u043f\u0430",
+        "type": [],
+        "definition": [
+            "shlapa;<\/p>",
+            "<strong>\u043b\u0435\u0442\u043d\u044f\u044f<\/strong> ~<strong>\u0430<\/strong> yozlik shlapa;",
+            "<strong>\u043d\u043e\u0441\u0438\u0442\u044c<\/strong> ~<strong>\u0443<\/strong> shyapa kiyib yurmoq;",
+            "<strong>\u043f\u043e\u0434 \u043e\u0434\u043d\u043e\u0439<\/strong> ~<strong>\u043e\u0439 \u0447\u0435\u0442\u044b\u0440\u0435 \u0431\u0440\u0430\u0442\u0446\u0430 \u0441\u0442\u043e\u044f\u0442 \u0437\u0430\u0433\u0430\u0434\u043a\u0430<\/strong> (<strong>\u0421\u0442\u043e\u043b<\/strong> ) bir shlapa tagida to'rt og'ayni turipti;",
+            "<em>\u043f\u0435\u0440\u0435\u043d. \u043f\u0440\u043e\u0441\u0442. <\/em><strong><\/strong><\/p>",
+            "",
+            "<em><\/em>",
+            "",
+            "lapashang, bo'shang, landovur;",
+            "",
+            "<strong>\u0434\u0435\u043b\u043e \u0432<\/strong> ~<strong>\u0435<\/strong> <em>\u0441\u043c. <\/em><strong>\u0434\u0435\u043b\u043e<\/strong> ;",
+            "<strong>\u0441\u043d\u0438\u043c\u0430\u0442\u044c<\/strong> ~<strong>\u0443 \u043f\u0435\u0440\u0435\u0434 \u043a\u0435\u043c <\/strong> o'z hurmatini, ehtiromini bildirmoq;",
+            "ta'zim qilmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u043b\u044f\u043f\u043a\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>1.<em> \u0443\u043c\u0435\u043d\u044c\u0448. <\/em><strong>\u043e\u0442 \u0448\u043b\u044f\u043f\u0430<\/strong> ;",
+            "<em>\u043f\u0435\u0440\u0435\u043d. <\/em>qalpoq, qalpoqcha;<\/p>",
+            "salla;",
+            "~ <strong>\u0433\u0432\u043e\u0437\u0434\u044f<\/strong> mixning qalpog'i;",
+            "<strong>\u0435\u0441\u0442\u044c \u043a\u043e\u0440\u0435\u043d\u043e\u043a<\/strong> , <strong>\u0435\u0441\u0442\u044c \u0438<\/strong> ~, <strong>\u0430 \u043d\u0435 \u0433\u0440\u0438\u0431 \u0437\u0430\u0433\u0430\u0434\u043a\u0430<\/strong> (<strong>\u0417\u043e\u043d\u0442<\/strong> ) ildizi bor, qalpog'i bor, ammo qo'ziqorin emas."
+        ]
+    },
+    {
+        "word": "\u0428\u043c\u0435\u043b\u044c",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>tukli ari."
+        ]
+    },
+    {
+        "word": "\u0428\u043d\u0443\u0440",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>bog'ich, chiyratma ip, kanop, chilvir;",
+            "~ <strong>\u0434\u043b\u044f \u0437\u0430\u043d\u0430\u0432\u0435\u0441\u043a\u0438<\/strong> pardabop kanop (chilvir)."
+        ]
+    },
+    {
+        "word": "\u0428\u043d\u0443\u0440\u043e\u043a",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>bog'ich, ingichka ip;",
+            "<strong>\u043a\u0440\u0435\u043f\u043a\u0438\u0439<\/strong> ~<strong>\u043e\u043a<\/strong> qattiq (pishiq) shnur;",
+            "~<strong>\u043a\u0438 \u043a \u0431\u043e\u0442\u0438\u043d\u043a\u0430\u043c <\/strong> botinkaning ipi."
+        ]
+    },
+    {
+        "word": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>shokolad;",
+            "<strong>\u043a\u043e\u0440\u043e\u0431\u043a\u0430<\/strong> ~<strong>\u0430<\/strong> bir quti shokolad;",
+            "<strong>\u043f\u043b\u0438\u0442\u043a\u0430<\/strong> ~<strong>\u0430<\/strong> taxta shokolad."
+        ]
+    },
+    {
+        "word": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434\u043d\u044b\u0439",
+        "type": [],
+        "definition": [
+            "shokolad ...;",
+            "shokoladli;",
+            "~<strong>\u0430\u044f \u043a\u043e\u043d\u0444\u0435\u0442\u0430<\/strong> shokoladli konfet."
+        ]
+    },
+    {
+        "word": "\u0428\u043e\u0441\u0441\u0435",
+        "type": [],
+        "definition": [
+            "<em>\u0441 \u043d\u0435\u0441\u043a\u043b. <\/em>katta yo'l;",
+            "<strong>\u0435\u0445\u0430\u0442\u044c \u043f\u043e<\/strong> ~ katta yo'ldan ketmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u043e\u0444\u0451\u0440",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>haydovchi, shofyor;",
+            "<strong>\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c<\/strong> ~<strong>\u043e\u043c <\/strong> shofyor bo'lib ishlamoq."
+        ]
+    },
+    {
+        "word": "\u0428\u043f\u043e\u0440\u0430",
+        "type": [],
+        "definition": [
+            "shpor (chavandoz etigining poshnasiga taqiladigan temir tepki);<\/p>",
+            "<strong>\u0434\u0430\u0442\u044c<\/strong> ~<strong>\u044b \u043a\u043e\u043d\u044e<\/strong> otni shpor bilan niqtamoq (tezlatmoq);",
+            "pix;<\/p>",
+            "~<strong>\u044b \u043f\u0435\u0442\u0443\u0445\u043e\u0432<\/strong> xo'rozlarning pixi."
+        ]
+    },
+    {
+        "word": "\u0428\u0442\u043e\u0440\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436 <\/em>parda;",
+            "deraza pardasi;",
+            "darparda;",
+            "<strong>\u0442\u043e\u043d\u043a\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> yupqa darparda;",
+            "<strong>\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u044c<\/strong> ~<strong>\u044b \u043d\u0430 \u043e\u043a\u043d\u0430\u0445<\/strong> deraza pardalarini tushirmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0442\u0440\u0430\u0444",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>jarima;",
+            "<strong>\u0431\u0440\u0430\u0442\u044c<\/strong> ~ jarima olmoq;",
+            "<strong>\u0437\u0430\u043f\u043b\u0430\u0442\u0438\u0442\u044c<\/strong> ~ <strong>\u0437\u0430 \u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u0435 \u043f\u0440\u0430\u0432\u0438\u043b \u0443\u043b\u0438\u0447\u043d\u043e\u0433\u043e \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f<\/strong> ko'cha harakati qoidasini buzganlik uchun jarima to'lamoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0442\u0443\u043a\u0430",
+        "type": [],
+        "definition": [
+            "dona, bir dona;<\/p>",
+            "<strong>\u043f\u044f\u0442\u044c<\/strong> ~ <strong>\u044f\u0438\u0446<\/strong> besh dona tuxum;",
+            "<em>\u0440\u0430\u0437\u0433. \u0448\u0443\u0442\u043b. <\/em>narsa, buyum.<\/p>"
+        ]
+    },
+    {
+        "word": "\u0428\u0442\u0443\u0447\u043a\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em><strong>\u0442\u043e \u0436\u0435<\/strong> , <strong>\u0447\u0442\u043e \u0448\u0442\u0443\u043a\u0430<\/strong> 2."
+        ]
+    },
+    {
+        "word": "\u0428\u0443\u0431\u0430",
+        "type": [],
+        "definition": [
+            "po'stin;",
+            "<strong>\u0436\u0435\u043d\u0441\u043a\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> ayollar po'stini;",
+            "~<strong>\u0430 \u0438\u0437 \u0434\u043e\u0440\u043e\u0433\u043e\u0433\u043e \u043c\u0435\u0445\u0430<\/strong> qimmatbaho mo'ynadan tikilgan po'stin;",
+            "",
+            "~<strong>\u044b \u043d\u0435 \u0441\u043e\u0448\u044c\u0451\u0448\u044c \u0438\u0437 \u0447\u0435\u0433\u043e<\/strong> hech foydasi yo'q narsa;",
+            "hech qanday naf keltirmaydigan narsa."
+        ]
+    },
+    {
+        "word": "\u0428\u0443\u043c",
+        "type": [],
+        "definition": [
+            "shovqin;<\/p>",
+            "g'ovur-g'uvur, shov-shuv;",
+            "g'uvullagan tovush;",
+            "~ <strong>\u043c\u043e\u0440\u044f<\/strong> dengizning g'uvullagan (shovullagan) ovozi;",
+            "<strong>\u0440\u0430\u0437\u0434\u0430\u043b\u0441\u044f \u0441\u0438\u043b\u044c\u043d\u044b\u0439<\/strong> ~ kuchli shovqin (to'polon) eshitildi;",
+            "<strong>\u0432 \u0437\u0430\u043b\u0435 \u0441\u0442\u043e\u044f\u043b<\/strong> ~ zal shov-shuv edi;",
+            "zalda g'ovur-g'uvur hukm surardi;",
+            "<em>\u043f\u0435\u0440\u0435\u043d. \u0440\u0430\u0437\u0433. <\/em>shov-shuv, dovruq;<\/p>",
+            "duv-duv gap;",
+            "<strong>\u043a\u043d\u0438\u0433\u0430 \u0432\u044b\u0437\u0432\u0430\u043b\u0430<\/strong> ~ kitob shov-shuv ko'tardi (shov-shuvga sabab bo'ldi);",
+            "",
+            "~ <strong>\u0432 \u0433\u043e\u043b\u043e\u0432\u0435<\/strong> boshning sirqirashi;",
+            "~ <strong>\u0432 \u0443\u0448\u0430\u0445<\/strong> quloqning shang'illashi;",
+            "<strong>\u0447\u0442\u043e \u0437\u0430<\/strong> ~, <strong>\u0430 \u0434\u0440\u0430\u043a\u0438 \u043d\u0435\u0442<\/strong> ? <em>\u0448\u0443\u0442\u043b. <\/em>[bu qanaqa shovqin-suron",
+            "urish-janjali bo'lmasa?];",
+            "o'zi tinchlikmi?;",
+            "nima gap?"
+        ]
+    },
+    {
+        "word": "\u0428\u0443\u043c\u0435\u0442\u044c",
+        "type": [],
+        "definition": [
+            "<em>\u043d\u0435\u0441\u043e\u0432<\/em><em>. <\/em>shovqin qilmoq, to'polon (shovqin-suron) ko'tarmoq;",
+            "g'uvullamoq, g'uldiramoq;",
+            "<strong>\u0434\u0435\u0442\u0438<\/strong> ~<strong>\u044f\u0442<\/strong> bolalar to'polon qilishyapti;",
+            "<strong>\u043b\u0435\u0441<\/strong> ~<strong>\u0438\u0442<\/strong> o'rmon g'uvullaydi;",
+            "",
+            "~<strong>\u044f\u0442<\/strong> , <strong>\u043a\u0430\u043a \u0432\u043e\u0440\u043e\u0431\u044c\u0438 \u043d\u0430 \u0434\u043e\u0436\u0434\u044c<\/strong> <em>\u043f\u043e\u0433\u043e\u0432<\/em><em>. <\/em>yomg'ir oldidan chirqillayotgan chumchuqlarday shovqin-suron ko'tarib yuborishdi;",
+            "~<strong>\u0435\u0442\u044c \u0438\u0437<\/strong> -<strong>\u0437\u0430 \u043f\u0443\u0441\u0442\u044f\u043a\u043e\u0432<\/strong> arzimagan narsa uchun aytishib (olishib) qolmoq;",
+            "<strong>\u0441\u0430\u043c\u043e\u0432\u0430\u0440<\/strong> ~<strong>\u0438\u0442<\/strong> samovar jig'illamoqda."
+        ]
+    },
+    {
+        "word": "\u0428\u0443\u043c\u043d\u043e",
+        "type": [],
+        "definition": [
+            "<em>\u0431\u0435\u0437\u043b<\/em><em>. <\/em><em>\u0432<\/em> <em>\u0437\u043d\u0430\u0447<\/em><em>. <\/em><em>\u0441\u043a\u0430\u0437<\/em><em>.<\/em> shovqinli;",
+            "<strong>\u0432 \u0437\u0430\u043b\u0435 \u0431\u044b\u043b\u043e<\/strong> ~ zal shovqinli edi."
+        ]
+    },
+    {
+        "word": "\u0428\u0443\u043c\u043d\u044b\u0439",
+        "type": [],
+        "definition": [
+            "sershovqin, shovqini zo'r, ovozi baralla eshitilib turadigan;",
+            "~<strong>\u044b\u0439 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440<\/strong> sershovqin suhbat, baralla ovoz chiqarib gaplashish;",
+            "~<strong>\u044b\u0439 \u0433\u043e\u0440\u043e\u0434<\/strong> sershovqin shahar;",
+            "~<strong>\u044b\u0439 \u0443\u0441\u043f\u0435\u0445<\/strong> ovozasi olamga ketgan muvaffaqiyat."
+        ]
+    },
+    {
+        "word": "\u0428\u0443\u0442\u0438\u0442\u044c",
+        "type": [],
+        "definition": [
+            "hazillashmoq, hazil qilmoq, hazilkashlik qilmoq;<\/p>",
+            "~ <strong>\u0441 \u0434\u0440\u0443\u0437\u044c\u044f\u043c\u0438<\/strong> o'rtoqlari bilan hazillashmoq;",
+            "masxara qilmoq, mazax qilmoq;<\/p>",
+            "mayna qilmoq;",
+            "<strong>\u043d\u0430\u0434 \u043d\u0438\u043c \u0447\u0430\u0441\u0442\u043e \u0448\u0443\u0442\u0438\u043b\u0438<\/strong> ko'pincha uning ustidan kulishar edi;",
+            "",
+            "<strong>\u0447\u0435\u043c \u0447\u0451\u0440\u0442 \u043d\u0435 \u0448\u0443\u0442\u0438\u0442<\/strong> <em>\u0441\u043c<\/em><em>. <\/em><strong>\u0447\u0451\u0440\u0442<\/strong> ;",
+            "<strong>\u0448\u0443\u0442\u043a\u0438<\/strong> ~ <em>\u0440\u0430\u0437\u0433<\/em><em>. <\/em>mazax qilmoq;",
+            "hazil (o'yin) qilmoq;",
+            "~ <strong>\u0441 \u043e\u0433\u043d\u0451\u043c<\/strong> [o't bilan o'ynamoq];",
+            "qaltis (xavfli) ish qilmoq."
+        ]
+    },
+    {
+        "word": "\u0428\u0443\u0442\u043a\u0430",
+        "type": [],
+        "definition": [
+            "<em>\u0436<\/em> hazil;",
+            "<strong>\u043e\u0441\u0442\u0440\u043e\u0443\u043c\u043d\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> o'tkir hazil;",
+            "<strong>\u0437\u043b\u0430\u044f<\/strong> ~<strong>\u0430<\/strong> qaltis hazil;",
+            "<strong>\u044d\u0442\u043e \u0431\u044b\u043b\u0430 \u0442\u043e\u043b\u044c\u043a\u043e<\/strong> ~<strong>\u0430<\/strong> bu hazil edi, xolos;",
+            "",
+            "<strong>\u0432<\/strong> ~<strong>\u0443<\/strong> (<strong>\u0441\u043a\u0430\u0437\u0430\u0442\u044c<\/strong> , <strong>\u0441\u0434\u0435\u043b\u0430\u0442\u044c<\/strong> ) hazillashib, tegishib, hazil qilib [aytmoq, demoq, qilmoq];",
+            "<strong>\u044f \u0441\u043a\u0430\u0437\u0430\u043b \u044d\u0442\u043e \u0432<\/strong> ~<strong>\u0443<\/strong> men buni hazillashib aytgan edim;",
+            "<strong>\u043d\u0435 \u043d\u0430<\/strong> ~<strong>\u0443<\/strong> rosti bilan, rostakam, juda jiddiy;",
+            "nihoyatda;",
+            "<strong>\u043e\u043d \u043d\u0435 \u043d\u0430<\/strong> ~<strong>\u0443 \u043e\u0431\u0438\u0434\u0435\u043b\u0441\u044f<\/strong> u juda ham xafa bo'ldi;",
+            "~<strong>\u0438 \u0432 \u0441\u0442\u043e\u0440\u043e\u043d\u0443<\/strong> hazilingni qo'yib tur, hazilni yig'ishtir;",
+            "<strong>\u043a\u0440\u043e\u043c\u0435 \u0448\u0443\u0442\u043e\u043a<\/strong> <em>\u0441\u043c<\/em><em>. <\/em><strong>\u043a\u0440\u043e\u043c\u0435<\/strong> ;",
+            "~<strong>\u0430 \u0433\u0440\u0435\u0435\u0442 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430<\/strong> <em>\u043f\u043e\u0433\u043e\u0432<\/em><em>. <\/em>hazil odamga rohat beradi;",
+            "<strong>\u043c\u043d\u0435 \u043d\u0435 \u0434\u043e \u0448\u0443\u0442\u043e\u043a<\/strong> hazil qiladigan vaqt emas;",
+            "<strong>\u043d\u0435<\/strong> ~<strong>\u0430<\/strong> hazil (gap) emas;",
+            "oson emas;",
+            "juda qiyin;",
+            "~<strong>\u0438 \u043f\u043b\u043e\u0445\u0438 \u0441 \u043a\u0435\u043c<\/strong> u hazilni ko'tarmaydi, hazillashib bo'lmaydi;",
+            "hazillasha ko'rma;",
+            "~<strong>\u0430 \u043b\u0438 \u0441\u043a\u0430\u0437\u0430\u0442\u044c<\/strong> bu hazil gap emas;",
+            "aytishga oson;",
+            "oson emas;",
+            "hazilakammi;",
+            "~<strong>\u0438<\/strong> ~<strong>\u0430\u043c\u0438<\/strong> (<strong>\u0430<\/strong> ..., <strong>\u043d\u043e<\/strong> ...) hazil o'z yo'liga ...;",
+            "<strong>\u0441\u044b\u0433\u0440\u0430\u0442\u044c<\/strong> ~<strong>\u0443<\/strong> <em>\u0441\u043c<\/em><em>. <\/em><strong>\u0441\u044b\u0433\u0440\u0430\u0442\u044c<\/strong> ."
+        ]
+    },
+    {
+        "word": "\u0428\u0443\u0442\u043d\u0438\u043a",
+        "type": [],
+        "definition": [
+            "<em>\u043c <\/em>hazilkash, qiziqchi;",
+            "masxaraboz;",
+            "<strong>\u0431\u043e\u043b\u044c\u0448\u043e\u0439<\/strong> ~ o'ta hazilkash odam."
+        ]
+    }
+]

@@ -1,0 +1,1402 @@
+[
+    {
+        "word": "Xabar",
+        "type": [],
+        "definition": [
+            "Message [\/mes.\u026ad\u0292\/]"
+        ]
+    },
+    {
+        "word": "Xabar Berish",
+        "type": [],
+        "definition": [
+            "Communication [\/k\u0259mju.n\u026ake\u026a.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xabar Bermoq",
+        "type": [],
+        "definition": [
+            "Herald [\/her.\u0259ld\/]"
+        ]
+    },
+    {
+        "word": "Xabar Beruvchi",
+        "type": [],
+        "definition": [
+            "Informative [\/\u026anf\u0254:.m\u0259.t\u026av\/]"
+        ]
+    },
+    {
+        "word": "Xabar Qilmoq",
+        "type": [],
+        "definition": [
+            "Inform [\/\u026anf\u0254:m\/]"
+        ]
+    },
+    {
+        "word": "Xabarchi",
+        "type": [],
+        "definition": [
+            "Courier [\/k\u028ar.i.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xabardor",
+        "type": [],
+        "definition": [
+            "Aware [\/\u0259we\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xachir",
+        "type": [],
+        "definition": [
+            "Mule [\/mju:l\/]"
+        ]
+    },
+    {
+        "word": "Xafa",
+        "type": [],
+        "definition": [
+            "Crest-Fallen [\/krestf\u0254:.l\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xafa Qiladigan",
+        "type": [],
+        "definition": [
+            "Vexatious [\/vekse\u026a.\u0283\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xafa Qilmoq",
+        "type": [],
+        "definition": [
+            "Depress [\/d\u026apres\/]"
+        ]
+    },
+    {
+        "word": "Xafa Qiluvchi",
+        "type": [],
+        "definition": [
+            "Offensive [\/\u0259fent.s\u026av\/]"
+        ]
+    },
+    {
+        "word": "Xaki",
+        "type": [],
+        "definition": [
+            "Khaki [\/k\u0251:.ki\/]"
+        ]
+    },
+    {
+        "word": "Xalal Berish",
+        "type": [],
+        "definition": [
+            "Barrier [\/b\u00e6r.i.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xalal Bermoq",
+        "type": [],
+        "definition": [
+            "Impede [\/\u026ampi:d\/]"
+        ]
+    },
+    {
+        "word": "Xalaqit Beradigan",
+        "type": [],
+        "definition": [
+            "Retarded [\/r\u026at\u0251:.d\u026ad\/]"
+        ]
+    },
+    {
+        "word": "Xalaqit Bermoq",
+        "type": [],
+        "definition": [
+            "Hamper [\/h\u00e6m.p\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xalaqit Qilish",
+        "type": [],
+        "definition": [
+            "Disturbance [\/d\u026ast\u025c:.b\u0259nts\/]"
+        ]
+    },
+    {
+        "word": "Xalaqit Qilmoq",
+        "type": [],
+        "definition": [
+            "Disturb [\/d\u026ast\u025c:b\/]"
+        ]
+    },
+    {
+        "word": "Xalat",
+        "type": [],
+        "definition": [
+            "Dressing-Gown [\/dres.\u026a\u014bga\u028an \/]"
+        ]
+    },
+    {
+        "word": "Xalifa",
+        "type": [],
+        "definition": [
+            "Caliph [\/ke\u026a.l\u026af\/]"
+        ]
+    },
+    {
+        "word": "Xalos Bo\u02bblish",
+        "type": [],
+        "definition": [
+            "Disposal [\/d\u026asp\u0259\u028a.z\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xalos Bo\u02bblmoq",
+        "type": [],
+        "definition": [
+            "Dispose [\/d\u026asp\u0259\u028az\/]"
+        ]
+    },
+    {
+        "word": "Xaloyiq",
+        "type": [],
+        "definition": [
+            "Crowd [\/kra\u028ad\/]"
+        ]
+    },
+    {
+        "word": "Xalq",
+        "type": [],
+        "definition": [
+            "Folk [\/f\u0259\u028ak\/]"
+        ]
+    },
+    {
+        "word": "Xalqaro",
+        "type": [],
+        "definition": [
+            "International [\/\u026an.t\u0259n\u00e6\u0283.\u0259n.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xalqaro Telefon Orqali Chaqirish",
+        "type": [],
+        "definition": [
+            "Trunk Call [\/tr\u028c\u014bkk\u0254:l\/]"
+        ]
+    },
+    {
+        "word": "Xameleon",
+        "type": [],
+        "definition": [
+            "Chameleon [\/k\u0259mi:.li.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xamir",
+        "type": [],
+        "definition": [
+            "Dough [\/d\u0259\u028a\/]"
+        ]
+    },
+    {
+        "word": "Xamir Qormoq",
+        "type": [],
+        "definition": [
+            "Knead [\/ni:d\/]"
+        ]
+    },
+    {
+        "word": "Xamirturush",
+        "type": [],
+        "definition": [
+            "Leaven [\/lev.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xanjar",
+        "type": [],
+        "definition": [
+            "Dagger [\/d\u00e6g.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xansiramoq",
+        "type": [],
+        "definition": [
+            "Wheeze [\/wi:z\/]"
+        ]
+    },
+    {
+        "word": "Xantal",
+        "type": [],
+        "definition": [
+            "Mustard [\/m\u028cs.t\u0259d\/]"
+        ]
+    },
+    {
+        "word": "Xarajat",
+        "type": [],
+        "definition": [
+            "Expenditure [\/\u026akspen.d\u026a.t\u0283\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xarajat Qilmoq",
+        "type": [],
+        "definition": [
+            "Consume [\/k\u0259nsju:m\/]"
+        ]
+    },
+    {
+        "word": "Xarakter",
+        "type": [],
+        "definition": [
+            "Character [\/k\u00e6r.\u026ak.t\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xarakterli",
+        "type": [],
+        "definition": [
+            "Characteristic [\/k\u00e6r.\u026ak.t\u0259r\u026as.t\u026ak\/]"
+        ]
+    },
+    {
+        "word": "Xarid Qilish",
+        "type": [],
+        "definition": [
+            "Shopping [\/\u0283\u0252p.\u026a\u014b\/]"
+        ]
+    },
+    {
+        "word": "Xaridor",
+        "type": [],
+        "definition": [
+            "Client [\/kla\u026a.\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Xaridorgir",
+        "type": [],
+        "definition": [
+            "Bestseller [\/bestsel.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xarita",
+        "type": [],
+        "definition": [
+            "Map [\/m\u00e6p\/]"
+        ]
+    },
+    {
+        "word": "Xarob",
+        "type": [],
+        "definition": [
+            "Bleak [\/bli:k\/]"
+        ]
+    },
+    {
+        "word": "Xaroba",
+        "type": [],
+        "definition": [
+            "Debris [\/deb.ri:\/]"
+        ]
+    },
+    {
+        "word": "Xaroba Uy",
+        "type": [],
+        "definition": [
+            "Shanty [\/\u0283\u00e6n.ti\/]"
+        ]
+    },
+    {
+        "word": "Xashak",
+        "type": [],
+        "definition": [
+            "Fodder [\/f\u0252d.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xasis Odam",
+        "type": [],
+        "definition": [
+            "Miser [\/ma\u026a.z\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xaskash",
+        "type": [],
+        "definition": [
+            "Harrow [\/h\u00e6r.\u0259\u028a\/]"
+        ]
+    },
+    {
+        "word": "Xastalanmoq",
+        "type": [],
+        "definition": [
+            "Ail [\/e\u026al\/]"
+        ]
+    },
+    {
+        "word": "Xat",
+        "type": [],
+        "definition": [
+            "Correspondence [\/k\u0252r.\u026asp\u0252n.d\u0259nts\/]"
+        ]
+    },
+    {
+        "word": "Xat Tashuvchi",
+        "type": [],
+        "definition": [
+            "Mailman [\/me\u026al.m\u00e6n\/]"
+        ]
+    },
+    {
+        "word": "Xat Yozishmoq",
+        "type": [],
+        "definition": [
+            "Correspond [\/k\u0252r.\u026asp\u0252nd\/]"
+        ]
+    },
+    {
+        "word": "Xatarli",
+        "type": [],
+        "definition": [
+            "Dangerous [\/de\u026an.d\u0292\u0259r.\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xatna",
+        "type": [],
+        "definition": [
+            "Circumcision [\/s\u025c:.k\u0259ms\u026a\u0292.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xato",
+        "type": [],
+        "definition": [
+            "Defect [\/di:.fekt\/]"
+        ]
+    },
+    {
+        "word": "Xato Ma\u02bclumot Bermoq",
+        "type": [],
+        "definition": [
+            "Misinform [\/m\u026as.\u026anf\u0254:m\/]"
+        ]
+    },
+    {
+        "word": "Xato Nashr",
+        "type": [],
+        "definition": [
+            "Misprint [\/m\u026as.pr\u026ant\/]"
+        ]
+    },
+    {
+        "word": "Xato Qilmoq",
+        "type": [],
+        "definition": [
+            "Err [\/\u025c:r\/]"
+        ]
+    },
+    {
+        "word": "Xato Talaffuz Qilmoq",
+        "type": [],
+        "definition": [
+            "Mispronounce [\/m\u026as.pr\u0259na\u028ants\/]"
+        ]
+    },
+    {
+        "word": "Xato Tarjima Qilmoq",
+        "type": [],
+        "definition": [
+            "Misinterpret [\/m\u026as.\u026ant\u025c:.pr\u026at\/]"
+        ]
+    },
+    {
+        "word": "Xavf",
+        "type": [],
+        "definition": [
+            "Danger [\/de\u026an.d\u0292\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xavf Ostida Qoldirmoq",
+        "type": [],
+        "definition": [
+            "Endanger [\/\u026ande\u026an.d\u0292\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xavf Ostida Qolmoq",
+        "type": [],
+        "definition": [
+            "Imperil [\/\u026amper.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xavf Solmoq",
+        "type": [],
+        "definition": [
+            "Jeopardise [\/d\u0292ep.\u0259.da\u026az\/]"
+        ]
+    },
+    {
+        "word": "Xavfdan Qutilish",
+        "type": [],
+        "definition": [
+            "Salvation [\/s\u00e6lve\u026a.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xavfli",
+        "type": [],
+        "definition": [
+            "Dangerous [\/de\u026an.d\u0292\u0259r.\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xavfsiz",
+        "type": [],
+        "definition": [
+            "Harmless [\/h\u0251:m.l\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xavfsiz Joy",
+        "type": [],
+        "definition": [
+            "Haven [\/he\u026a.v\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xavfsizlik",
+        "type": [],
+        "definition": [
+            "Safety [\/se\u026af.ti\/]"
+        ]
+    },
+    {
+        "word": "Xavoriy",
+        "type": [],
+        "definition": [
+            "Apostle [\/\u0259p\u0252s.l\u2006\u0329\/]"
+        ]
+    },
+    {
+        "word": "Xavotir",
+        "type": [],
+        "definition": [
+            "Anxiety [\/\u00e6\u014bza\u026a.\u0259.ti\/]"
+        ]
+    },
+    {
+        "word": "Xavotir Olmoq",
+        "type": [],
+        "definition": [
+            "Worry [\/w\u028cr.i\/]"
+        ]
+    },
+    {
+        "word": "Xavotirga Solmoq",
+        "type": [],
+        "definition": [
+            "Bother [\/b\u0252\u00f0.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xavotirli",
+        "type": [],
+        "definition": [
+            "Anxious [\/\u00e6\u014bk.\u0283\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xayol",
+        "type": [],
+        "definition": [
+            "Day-Dream [\/de\u026a.dri:m\/]"
+        ]
+    },
+    {
+        "word": "Xayoldagi",
+        "type": [],
+        "definition": [
+            "Imaginary [\/\u026am\u00e6d\u0292\u026an\u0259r.i\/]"
+        ]
+    },
+    {
+        "word": "Xayoliy",
+        "type": [],
+        "definition": [
+            "Fanciful [\/f\u00e6nt.s\u026a.f\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xayolot",
+        "type": [],
+        "definition": [
+            "Phantom [\/f\u00e6n.t\u0259m\/]"
+        ]
+    },
+    {
+        "word": "Xayolparast",
+        "type": [],
+        "definition": [
+            "Dreamy [\/dri:.mi\/]"
+        ]
+    },
+    {
+        "word": "Xayr",
+        "type": [],
+        "definition": [
+            "Bye [\/ba\u026a.ba\u026a\/]"
+        ]
+    },
+    {
+        "word": "Xayriya",
+        "type": [],
+        "definition": [
+            "Welfare [\/wel.fe\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xayrlashish",
+        "type": [],
+        "definition": [
+            "Valediction [\/v\u00e6l.\u0259d\u026ak.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xayrlashmoq",
+        "type": [],
+        "definition": [
+            "Farewell [\/fe\u0259wel\/]"
+        ]
+    },
+    {
+        "word": "Xayrli",
+        "type": [],
+        "definition": [
+            "Virtuous [\/v\u025c:.tju.\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xazina",
+        "type": [],
+        "definition": [
+            "Treasure [\/tre\u0292.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xeres",
+        "type": [],
+        "definition": [
+            "Sherry [\/\u0283er.i\/]"
+        ]
+    },
+    {
+        "word": "Xijolat Qilmoq",
+        "type": [],
+        "definition": [
+            "Embarrass [\/\u026amb\u00e6r.\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xijolatga Qo\u02bbymoq",
+        "type": [],
+        "definition": [
+            "Disconcert [\/d\u026as.k\u0259ns\u025c:t\/]"
+        ]
+    },
+    {
+        "word": "Xil",
+        "type": [],
+        "definition": [
+            "Type [\/ta\u026ap\/]"
+        ]
+    },
+    {
+        "word": "Ximchistka",
+        "type": [],
+        "definition": [
+            "Dry-Cleaning [\/dra\u026akli:.n\u026a\u014b\/]"
+        ]
+    },
+    {
+        "word": "Xina",
+        "type": [],
+        "definition": [
+            "Henna [\/hen.\u0259\/]"
+        ]
+    },
+    {
+        "word": "Xira",
+        "type": [],
+        "definition": [
+            "Blur [\/bl\u025c:r\/]"
+        ]
+    },
+    {
+        "word": "Xiralashmoq",
+        "type": [],
+        "definition": [
+            "Blur [\/bl\u025c:r\/]"
+        ]
+    },
+    {
+        "word": "Xiralashtirmoq",
+        "type": [],
+        "definition": [
+            "Overshadow [\/\u0259\u028a.v\u0259\u0283\u00e6d.\u0259\u028a\/]"
+        ]
+    },
+    {
+        "word": "Xirillagan",
+        "type": [],
+        "definition": [
+            "Hoarse [\/h\u0254:s\/]"
+        ]
+    },
+    {
+        "word": "Xirillamoq",
+        "type": [],
+        "definition": [
+            "Grunt [\/gr\u028cnt\/]"
+        ]
+    },
+    {
+        "word": "Xitob",
+        "type": [],
+        "definition": [
+            "Exclamation [\/ek.skl\u0259me\u026a.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xitoy",
+        "type": [],
+        "definition": [
+            "China [\/t\u0283a\u026a.n\u0259\/]"
+        ]
+    },
+    {
+        "word": "Xiyonat",
+        "type": [],
+        "definition": [
+            "Adultery [\/\u0259d\u028cl.t\u0259r.i\/]"
+        ]
+    },
+    {
+        "word": "Xiyonat Qilmoq",
+        "type": [],
+        "definition": [
+            "Betray [\/b\u026atre\u026a\/]"
+        ]
+    },
+    {
+        "word": "Xizmat",
+        "type": [],
+        "definition": [
+            "Service [\/s\u025c:.v\u026as\/]"
+        ]
+    },
+    {
+        "word": "Xizmat Qilmoq",
+        "type": [],
+        "definition": [
+            "Serve [\/s\u025c:v\/]"
+        ]
+    },
+    {
+        "word": "Xizmatchi",
+        "type": [],
+        "definition": [
+            "Clerk [\/kl\u0251:k\/]"
+        ]
+    },
+    {
+        "word": "Xizmatkor",
+        "type": [],
+        "definition": [
+            "Attendant [\/\u0259ten.d\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Xizmatkor Ayol",
+        "type": [],
+        "definition": [
+            "Maid [\/me\u026ad\/]"
+        ]
+    },
+    {
+        "word": "Xlor",
+        "type": [],
+        "definition": [
+            "Chlorine [\/kl\u0254:.rin\/]"
+        ]
+    },
+    {
+        "word": "Xobbi",
+        "type": [],
+        "definition": [
+            "Hobby [\/h\u0252b.i\/]"
+        ]
+    },
+    {
+        "word": "Xoch",
+        "type": [],
+        "definition": [
+            "Cross [\/kr\u0252s\/]"
+        ]
+    },
+    {
+        "word": "Xodim",
+        "type": [],
+        "definition": [
+            "Contributor [\/k\u0259ntr\u026ab.j\u028a.t\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xodimlar",
+        "type": [],
+        "definition": [
+            "Personnel [\/p\u025c:.s\u0259nel\/]"
+        ]
+    },
+    {
+        "word": "Xohish",
+        "type": [],
+        "definition": [
+            "Incentive [\/\u026ansen.t\u026av\/]"
+        ]
+    },
+    {
+        "word": "Xohishsiz",
+        "type": [],
+        "definition": [
+            "Reluctant [\/r\u026al\u028ck.t\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Xohlamaydigan",
+        "type": [],
+        "definition": [
+            "Indisposed [\/\u026an.d\u026asp\u0259\u028azd\/]"
+        ]
+    },
+    {
+        "word": "Xohlamoq",
+        "type": [],
+        "definition": [
+            "Aspire [\/\u0259spa\u026a\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xoin",
+        "type": [],
+        "definition": [
+            "Disloyal [\/d\u026asl\u0254\u026a.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xokkey",
+        "type": [],
+        "definition": [
+            "Hockey [\/h\u0252k.i\/]"
+        ]
+    },
+    {
+        "word": "Xol",
+        "type": [],
+        "definition": [
+            "Dot [\/d\u0252t\/]"
+        ]
+    },
+    {
+        "word": "Xola",
+        "type": [],
+        "definition": [
+            "Aunt [\/\u0251:nt\/]"
+        ]
+    },
+    {
+        "word": "Xolavachcha",
+        "type": [],
+        "definition": [
+            "Cousin [\/k\u028cz.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xolesterin",
+        "type": [],
+        "definition": [
+            "Cholesterol [\/k\u0259les.t\u0259r.\u0252l\/]"
+        ]
+    },
+    {
+        "word": "Xolis",
+        "type": [],
+        "definition": [
+            "Impartial [\/\u026amp\u0251:.\u0283\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xom",
+        "type": [],
+        "definition": [
+            "Crude [\/kru:d\/]"
+        ]
+    },
+    {
+        "word": "Xomaki Nusxa",
+        "type": [],
+        "definition": [
+            "Sketch [\/sket\u0283\/]"
+        ]
+    },
+    {
+        "word": "Xomsemiz",
+        "type": [],
+        "definition": [
+            "Bloated [\/bl\u0259\u028a.t\u026ad\/]"
+        ]
+    },
+    {
+        "word": "Xomush",
+        "type": [],
+        "definition": [
+            "Blue [\/blu:\/]"
+        ]
+    },
+    {
+        "word": "Xona",
+        "type": [],
+        "definition": [
+            "Chamber [\/t\u0283e\u026am.b\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xonadon",
+        "type": [],
+        "definition": [
+            "Apartment [\/\u0259p\u0251t.m\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Xonadosh",
+        "type": [],
+        "definition": [
+            "Room-Mate [\/r\u028am.me\u026at\/]"
+        ]
+    },
+    {
+        "word": "Xonaki",
+        "type": [],
+        "definition": [
+            "Domestic [\/d\u0259mes.t\u026ak\/]"
+        ]
+    },
+    {
+        "word": "Xonim",
+        "type": [],
+        "definition": [
+            "Dame [\/de\u026am\/]"
+        ]
+    },
+    {
+        "word": "Xonqizi",
+        "type": [],
+        "definition": [
+            "Ladybird [\/le\u026a.di.b\u025c:d\/]"
+        ]
+    },
+    {
+        "word": "Xor",
+        "type": [],
+        "definition": [
+            "Choir [\/kwa\u026a\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xorij",
+        "type": [],
+        "definition": [
+            "Abroad [\/\u0259br\u0254d\/]"
+        ]
+    },
+    {
+        "word": "Xorijiy",
+        "type": [],
+        "definition": [
+            "Foreign [\/f\u0252r.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xot-Dog",
+        "type": [],
+        "definition": [
+            "Hot Dog [\/h\u0252t.d\u0252g\/]"
+        ]
+    },
+    {
+        "word": "Xotima",
+        "type": [],
+        "definition": [
+            "Epilogue [\/ep.\u026a.l\u0252g\/]"
+        ]
+    },
+    {
+        "word": "Xotin",
+        "type": [],
+        "definition": [
+            "Wife [\/wa\u026af\/]"
+        ]
+    },
+    {
+        "word": "Xotinboz",
+        "type": [],
+        "definition": [
+            "Promiscuous [\/pr\u0259m\u026as.kju.\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xotinchalish",
+        "type": [],
+        "definition": [
+            "Effeminate [\/\u026afem.\u026a.n\u0259t\/]"
+        ]
+    },
+    {
+        "word": "Xotinlar",
+        "type": [],
+        "definition": [
+            "Wives [\/wa\u026avz\/]"
+        ]
+    },
+    {
+        "word": "Xotinquli",
+        "type": [],
+        "definition": [
+            "Henpecked [\/hen.pekt\/]"
+        ]
+    },
+    {
+        "word": "Xotira",
+        "type": [],
+        "definition": [
+            "Memory [\/mem.\u0259r.i\/]"
+        ]
+    },
+    {
+        "word": "Xotirasi Past",
+        "type": [],
+        "definition": [
+            "Oblivious [\/\u0259bl\u026av.i.\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xotirjam",
+        "type": [],
+        "definition": [
+            "Composed [\/k\u0259mp\u0259\u028azd\/]"
+        ]
+    },
+    {
+        "word": "Xotirjamlik",
+        "type": [],
+        "definition": [
+            "Composure [\/k\u0259mp\u0259\u028a.\u0292\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xotirlash",
+        "type": [],
+        "definition": [
+            "Nostalgia [\/n\u0252st\u00e6l.d\u0292\u0259\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbjalik Ishlari Mudirasi",
+        "type": [],
+        "definition": [
+            "Matron [\/me\u026a.tr\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbjayin",
+        "type": [],
+        "definition": [
+            "Boss [\/b\u0252s\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbmraygan",
+        "type": [],
+        "definition": [
+            "Sulky [\/s\u028clk.i\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbmraymoq",
+        "type": [],
+        "definition": [
+            "Scowl [\/ska\u028al\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbp",
+        "type": [],
+        "definition": [
+            "Aye [\/a\u026a\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbplab Ichmoq",
+        "type": [],
+        "definition": [
+            "Sip [\/s\u026ap\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbrlash",
+        "type": [],
+        "definition": [
+            "Contempt [\/k\u0259ntempt\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbrlaydigan",
+        "type": [],
+        "definition": [
+            "Pejorative [\/p\u026ad\u0292\u0252r.\u0259.t\u026av\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbroz",
+        "type": [],
+        "definition": [
+            "Cock [\/k\u0252k\/]"
+        ]
+    },
+    {
+        "word": "Xo\u02bbrozqand",
+        "type": [],
+        "definition": [
+            "Lollipop [\/l\u0252l.i.p\u0252p\/]"
+        ]
+    },
+    {
+        "word": "Xristian",
+        "type": [],
+        "definition": [
+            "Christian [\/kr\u026as.t\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xristian Diniga Oid",
+        "type": [],
+        "definition": [
+            "Ecclesiastical [\/\u026akli:.zi\u00e6s.t\u026ak.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xristianlik",
+        "type": [],
+        "definition": [
+            "Christianity [\/kr\u026as.ti\u00e6n.\u026a.ti\/]"
+        ]
+    },
+    {
+        "word": "Xrizantema",
+        "type": [],
+        "definition": [
+            "Chrysanthemum [\/kr\u026as\u00e6n\u03b8.\u0259.m\u0259m\/]"
+        ]
+    },
+    {
+        "word": "Xrom",
+        "type": [],
+        "definition": [
+            "Chrome [\/kr\u0259\u028am\/]"
+        ]
+    },
+    {
+        "word": "Xromosoma",
+        "type": [],
+        "definition": [
+            "Chromosome [\/kr\u0259\u028a.m\u0259.s\u0259\u028am\/]"
+        ]
+    },
+    {
+        "word": "Xronologik Jadval",
+        "type": [],
+        "definition": [
+            "Chronology [\/kr\u0259n\u0252l.\u0259.d\u0292i\/]"
+        ]
+    },
+    {
+        "word": "Xronologiya",
+        "type": [],
+        "definition": [
+            "Chronology [\/kr\u0259n\u0252l.\u0259.d\u0292i\/]"
+        ]
+    },
+    {
+        "word": "Xronometr",
+        "type": [],
+        "definition": [
+            "Chronometre [\/kr\u0259n\u0252m.\u026a.t\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xudbin",
+        "type": [],
+        "definition": [
+            "Cynical [\/s\u026an.\u026a.k\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xudbinlik",
+        "type": [],
+        "definition": [
+            "Egoism [\/i:.g\u0259\u028a.\u026a.z\u0259m\/]"
+        ]
+    },
+    {
+        "word": "Xudo",
+        "type": [],
+        "definition": [
+            "God [\/g\u0252d\/]"
+        ]
+    },
+    {
+        "word": "Xudosiz",
+        "type": [],
+        "definition": [
+            "Godless [\/g\u0252d.l\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xuligan",
+        "type": [],
+        "definition": [
+            "Hooligan [\/hu:.l\u026a.g\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xulosa",
+        "type": [],
+        "definition": [
+            "Conclusion [\/k\u0259nklu;.\u0292\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Xulosa Chiqarish",
+        "type": [],
+        "definition": [
+            "Deduce [\/d\u026adjus\/]"
+        ]
+    },
+    {
+        "word": "Xulosa Chiqarmoq",
+        "type": [],
+        "definition": [
+            "Generalize [\/d\u0292en.r.\u0259.la\u026az\/]"
+        ]
+    },
+    {
+        "word": "Xulosa Qilmoq",
+        "type": [],
+        "definition": [
+            "Summarize [\/s\u028cm.\u0259r.a\u026az\/]"
+        ]
+    },
+    {
+        "word": "Xulq",
+        "type": [],
+        "definition": [
+            "Attitude [\/\u00e6t.\u026a.tjud\/]"
+        ]
+    },
+    {
+        "word": "Xum",
+        "type": [],
+        "definition": [
+            "Pitcher [\/p\u026at\u0283.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xunuk",
+        "type": [],
+        "definition": [
+            "Atrocious [\/\u0259tr\u0259\u028a.\u0283\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xunuk Yozmoq",
+        "type": [],
+        "definition": [
+            "Scribble [\/skr\u026ab.l\u2006\u0329\/]"
+        ]
+    },
+    {
+        "word": "Xurasandchilik",
+        "type": [],
+        "definition": [
+            "Spree [\/spri:\/]"
+        ]
+    },
+    {
+        "word": "Xurjun",
+        "type": [],
+        "definition": [
+            "Holdall [\/h\u0259\u028ald.\u0254:l\/]"
+        ]
+    },
+    {
+        "word": "Xurrak Otmoq",
+        "type": [],
+        "definition": [
+            "Snore [\/sn\u0254:r\/]"
+        ]
+    },
+    {
+        "word": "Xursand",
+        "type": [],
+        "definition": [
+            "Gay [\/ge\u026a\/]"
+        ]
+    },
+    {
+        "word": "Xursand Bo\u02bblmoq",
+        "type": [],
+        "definition": [
+            "Rejoice [\/r\u026ad\u0292\u0254\u026as\/]"
+        ]
+    },
+    {
+        "word": "Xursand Kishi",
+        "type": [],
+        "definition": [
+            "Extrovert [\/ek.str\u0259.v\u025c:t\/]"
+        ]
+    },
+    {
+        "word": "Xursand Qilmoq",
+        "type": [],
+        "definition": [
+            "Excite [\/\u026aksa\u026at\/]"
+        ]
+    },
+    {
+        "word": "Xursandchilik",
+        "type": [],
+        "definition": [
+            "Fun [\/f\u028cn\/]"
+        ]
+    },
+    {
+        "word": "Xursandlik",
+        "type": [],
+        "definition": [
+            "Rapture [\/r\u00e6p.t\u0283\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xuruj",
+        "type": [],
+        "definition": [
+            "Bout [\/ba\u028at\/]"
+        ]
+    },
+    {
+        "word": "Xuruj Qilish",
+        "type": [],
+        "definition": [
+            "Twinge [\/tw\u026and\u0292\/]"
+        ]
+    },
+    {
+        "word": "Xush Kelibsiz",
+        "type": [],
+        "definition": [
+            "Welcome [\/wel.k\u0259m\/]"
+        ]
+    },
+    {
+        "word": "Xushboy Hid",
+        "type": [],
+        "definition": [
+            "Aroma [\/\u0259r\u0259\u028a.m\u0259\/]"
+        ]
+    },
+    {
+        "word": "Xushbo\u02bby",
+        "type": [],
+        "definition": [
+            "Fragrant [\/fre\u026a.gr\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Xushbo\u02bby Hid",
+        "type": [],
+        "definition": [
+            "Fragrance [\/fre\u026a.gr\u0259nts\/]"
+        ]
+    },
+    {
+        "word": "Xushchaqchaq",
+        "type": [],
+        "definition": [
+            "Buoyant [\/b\u0254\u026a.\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Xushmuomala",
+        "type": [],
+        "definition": [
+            "Tactful [\/t\u00e6kt.f\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Xushmuomalalik",
+        "type": [],
+        "definition": [
+            "Politeness [\/p\u0259la\u026at.n\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Xushomad Qilmoq",
+        "type": [],
+        "definition": [
+            "Flatter [\/fl\u00e6t.\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Xushtam Vino",
+        "type": [],
+        "definition": [
+            "Bouquet [\/b\u028ake\u026a\/]"
+        ]
+    },
+    {
+        "word": "Xushtor",
+        "type": [],
+        "definition": [
+            "Boy-Friend [\/b\u0254\u026a.frend\/]"
+        ]
+    },
+    {
+        "word": "Xususiyat",
+        "type": [],
+        "definition": [
+            "Feature [\/fi:.t\u0283\u0259r\/]"
+        ]
+    }
+]

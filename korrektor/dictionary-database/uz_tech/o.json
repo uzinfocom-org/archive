@@ -1,0 +1,177 @@
+[
+    {
+        "word": "Oxirgi avtomat",
+        "type": [],
+        "definition": [
+            "Holatlarning oxirgi ko\u2018pligiga hamda oxirgi kirish va chiqish alifbolariga ega bo\u2018lgan avtomat."
+        ]
+    },
+    {
+        "word": "Ochiq arxitektura",
+        "type": [],
+        "definition": [
+            "Shaxsiy kompyuterlar uchun IBM firmasi tomnidan ishlab chiqilgan arxitektura. Uning asosiy xarakteristikalari: kengayish razyomlari orqali turli qo\u2018shimcha qurilmalar ulanadigan umumiy axborot shinasining mavjudligi; kompyuterning modulli tuzilishi; barcha yangi qurilmalar va dasturiy vositalarning \u00abyuqoridan pastga\u00bb prinsipi bo\u2018yicha oldingi versiyalar bilan mosligi, ya\u2019ni keyingi ishlanmalar birmuncha avvalgi ishlanmalarni quvvatlashi kerak."
+        ]
+    },
+    {
+        "word": "Osiris serversiz portal tizimi",
+        "type": [],
+        "definition": [
+            "Markazlashtirilgan serverlarga bog\u2018liq bo\u2018lmagan va P2P vositasida tarqatiladigan Web-portallarni yaratish va ko\u2018rib chiqish uchun belgilangan bepul dastur."
+        ]
+    },
+    {
+        "word": "Optik tolali kabel",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar yorug\u2018lik yordamida uzatiladigan kabel, bu uzatish sifati va tezligini oshiradi. Kompyuter tarmoqlarida ishlatiladi. Kvarts shisha asosida qilingan va sindirish ko\u2018rsatkichi o\u2018zakdagiga nisbatan kichik bo\u2018lgan qobiq bilan o\u2018ralgan tolali (egiluvchan) dielektrik."
+        ]
+    },
+    {
+        "word": "Operatsion tizim yuklagichi",
+        "type": [],
+        "definition": [
+            "Bevosita kompyuter ulangandan so\u2018ng operatsion tizimning yuklanishini ta\u2019minlaydigan tizimli dasturiy ta\u2019minot."
+        ]
+    },
+    {
+        "word": "Operatsiyalarni tadqiq qilish",
+        "type": [],
+        "definition": [
+            "Odam faoliyatining turli sohalarida eng yaxshi yechimlarni topish metodlarini ishlab chiqish va qo\u2018llash bilan shug\u2018ullanadigan matematik fan. Ope-ratsiyalarni tadqiq qilishning asosiy prinsiplari haqiqiy muammoning modelini tuzishdan iborat. Bunda natijada erishilishi kerak bo\u2018lgan maqsad; qanoatlantirilishi kerak bo\u2018lgan cheklashlar; boshqarilishi maqsadga erishish imkonini beradigan parametrlar ajratiladi. Operatsiyalarni tadqiq qilishning ko\u2018plab masalalarini hal qilish imkonini beradigan dasturiy komplekslar ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Olisdagi uzellar serveri",
+        "type": [],
+        "definition": [
+            "Olisdagi shaxsiy kompyuterning lokal kompyuter tarmog\u2018i bilan ishlashini ta\u2019minlaydigan maxsus dasturlar va kompyuter. Server va olisdagi shaxsiy kompyuter modemlar bilan ta\u2019minlanishi kerak. Asosiy vazifalari \u2013 ruxsat etilmagan tarzda erkin foydalanishga yo\u2018l qo\u2018ymaslik, ma\u2019lumotlar uzatish va birlashtirish ishonchliligini ta\u2019minlashdir."
+        ]
+    },
+    {
+        "word": "Obyekt",
+        "type": [],
+        "definition": [
+            "Tizim yoki muhit elementi. Obyektga yo\u2018naltirilgan dasturlash tushunchasi, ma\u2019lumotlar bilan ishlaydigan dasturlar va ma\u2019lumotlarni bir butun yaxlit qilib birlashtiradigan dasturiy modul. Obyekt, obyektning parametrlari bo\u2018lgan xossalar, obyektga va uning xossalariga ta\u2019sir ko\u2018rsatadigan metodlar bilan tavsif-lanadi. Obyekt protseduraga yo\u2018naltirilgan dasturlash tillarining ajralmas elementi hisoblanadi."
+        ]
+    },
+    {
+        "word": "Obyektga yo\u02bbnaltirilgan dasturlash",
+        "type": [],
+        "definition": [
+            "Asosiga obyekt tushunchasi qo\u2018yilgan dasturlash. Uchta asosiy xossa: inkapsulyatsiya, vorislik va polimorfizm bilan tavsiflanadi."
+        ]
+    },
+    {
+        "word": "Obyekt fayli",
+        "type": [],
+        "definition": [
+            "Kompilyator bilan boshlang\u2018ich kodni qayta ishlash natijasida olingan, dasturning alohida moduli oraliq taqdim etilgan fayl. Obyekt fayli o\u2018z ichiga alohida tarzda tayyorlangan (ko\u2018pincha, ikkilik yoki binar kod deb ataladigan) kodni oladi. Bu kod, tayyor bajariladigan modulni yoki bibliotekani olish uchun, bog\u2018lanishlar redaktori (komponovkachi) yordamida boshqa obyekt fayllari bilan birlashtirilishi mumkin."
+        ]
+    },
+    {
+        "word": "Oyna",
+        "type": [],
+        "definition": [
+            "Displey ekranining to\u2018rtburchakli qismi, u orqali ilova yoki uning qismi bilan birga ishlash amalga oshiriladi. Grafik foydalanuvchi interfeyslarida va barcha mumkin bo\u2018lgan qobiqlarda keng qo\u2018llaniladi, status satri, sarlavha va menyu kabi standart elementlarni o\u2018z ichiga oladi. Ekranning dastur va jarayonlar bajarilishi mumkin bo\u2018lgan qismi. Bir vaqtda bir nechta oyna ochilishi mumkin. Masalan, bir oynada elektron pochta dasturini ochish, boshqasida elektron jadval bilan ishlash, uchinchisida raqamli kamerada tasvirni yuklash, to\u2018rtinchisida esa Internet-magazinda buyurtmani rasmiylashtirish mumkin. Oynani yopish, hajmini o\u2018zgartirish, vazifalar panelida tugmalarni burish yoki ekranda to\u2018laligicha aks ettirish mumkin."
+        ]
+    },
+    {
+        "word": "Operand",
+        "type": [],
+        "definition": [
+            "Ustida amallar bajariladigan dasturlash tili obyekti. Bu konstantalar, o\u2018zgaruvchilar, funksiyalar, ifodalar bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Operativ xotira qurilmasi",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni yozish va o\u2018qish uchun mo\u2018ljallangan yarimo\u2018tkazgichli qurilma. Oddiy kompyuterlarda dastur bajarilishi uchun yuklanadigan joy."
+        ]
+    },
+    {
+        "word": "Operator",
+        "type": [],
+        "definition": [
+            "Operandlar ustida bajariladigan bir yoki bir nechta amalni belgilaydigan, dasturlash tili konstruksiyasi."
+        ]
+    },
+    {
+        "word": "OS\/2 operatsion tizimi",
+        "type": [],
+        "definition": [
+            "IBM korporatsiyasi tomonidan ishlab chiqilgan ope-ratsion tizim. Bir vaqtning o\u2018zida ko\u2018plab amaliy dasturlarni ishlatish, bitta amaliy dasturning bir necha vazifasi parallel bajarilishini, tashqi xotiraga ma\u2019lumotlarni yozishda ularning zichlashtirilishini, za\u0445ira nusxalar tashkillashtirilishini, xotira himoya-sini, milliy tillarning qo\u2018llanilishini ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "Operatsion tizim",
+        "type": [],
+        "definition": [
+            "Elektron-hisoblash mashinasi resurslarini boshqarish, amaliy dasturlarni ishga tushirish va ularning tashqi qurilmalar, boshqa dasturlar bilan o\u2018zaro aloqasini amalga oshiradigan, shuningdek, foydalanuvchining kompyuter bilan muloqotini ta\u2019minlaydigan dasturiy vositalar yig\u2018indisi."
+        ]
+    },
+    {
+        "word": "Optik disk",
+        "type": [],
+        "definition": [
+            "O\u2018qish optik nurlanish yordamida boradigan disk ko\u2018rinishidagi axborot tashuvchi. Disk odatda, yassi bo\u2018lib, asosi polikarbonatdan qilingan. Polikarbonat asosga axborotni saqlash uchun xizmat qiladigan maxsus qatlam surtilgan. Axborotni o\u2018qish uchun maxsus qatlamga yo\u2018naltiriladigan va undan qaytadigan lazer nuridan foydalaniladi."
+        ]
+    },
+    {
+        "word": "Optik to\u02bbplagich",
+        "type": [],
+        "definition": [
+            "Lazer texnologiyasiga asoslangan ma\u2019lumotlarni saqlash qurilmasi. Optik to\u2018plagichlar \u00abfaqat o\u2018qish uchun\u00bb (CD-ROM), \u00abo\u2018qish va bir marta yozish uchun\u00bb (CD-R, Compact Disk-Recordable), \u00abo\u2018qish va ko\u2018p marta yozish uchun\u00bb (CD-RW, Compact Disk-Re Writable) kabi turlarga bo\u2018linadi. Bu turlardan tashqari, magnitooptik to\u2018plagichlar va DVD qurilmalari bor."
+        ]
+    },
+    {
+        "word": "Optik tolali taqsimlangan ma\u02bclumotlar interfeysi",
+        "type": [],
+        "definition": [
+            "Optik tolali kompyuter tarmoqlarida ma\u2019lumotlarni 100 Mbit\/s tezlik bilan uzatish tizimlari uchun mo\u2018ljallangan standart."
+        ]
+    },
+    {
+        "word": "Optoelektronika",
+        "type": [],
+        "definition": [
+            "Elektronikaning, optik diapazondagi elektromagnit nurlanishlarni ma\u2019lumotlarni saqlash, qayta ishlash, uzatish va aks ettirish qurilmalarida qo\u2018llanish masalalari bilan shug\u2018ullanadigan bo\u2018limi. Asosiy optoelektron qurilmalar: yarimo\u2018tkazgichli lazerlar (kogerent optik nurlanish manbalari), yorug\u2018lik diodlari (nokogerent optik nurlanish manbalari), fotodiodlar (optik nurlanishni qabulqilgichlar)."
+        ]
+    },
+    {
+        "word": "Optsiya",
+        "type": [],
+        "definition": [
+            "Bajarish uchun tanlab olinishi mumkin bo\u2018lgan menyu elementi."
+        ]
+    },
+    {
+        "word": "Ochiq tizim",
+        "type": [],
+        "definition": [
+            "Ishlab chiquvchilar tomonidan ishlab chiqilgan tizimning barcha zarur standartlaridan umumfoydalanib bo\u2018ladigan tizim. Bu, boshqa bir ishlab chiquvchiga o\u2018xshash tizimni yaratish, uning xarakteristikalarini yaxshilash, o\u2018z qurilmalari yoki dasturiy vositalarini qo\u2018shish, ularnnig birgalikda ishlashini tashkil qilish imkonini beradi. Ochiq tizimlarga misollar: IBM firmasining shaxsiy kompyuterlari, dBASE turidagi ma\u2019lumotlar bazalari, Internet."
+        ]
+    },
+    {
+        "word": "Ochish",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni saqlash va uzatish uchun qulay bo\u2018lgan shakldan qayta ishlash uchun qulay shaklga o\u2018zgartirish jarayoni. Joylashtirish jarayoniga teskari jarayon."
+        ]
+    },
+    {
+        "word": "Operatsion tizim yadrosi",
+        "type": [],
+        "definition": [
+            "Operatsion tizimning markaziy, asosiy qismi bo\u2018lib, operativ xotirada doimo bo\u2018ladi, operatsion tizimni boshqaradi; qurilmalar drayverlari, xotirani boshqaruvchi kichik dasturlar, vazifalarni rejalovchidan tashkil topgan."
+        ]
+    },
+    {
+        "word": "Olislashtirilgan foydalanish",
+        "type": [],
+        "definition": [
+            "Kompyuter tarmog\u2018ining elementlari o\u2018rtasida birgalikda ishlashning uchta variantini ta\u2019minlaydigan foydalanish: masofadan boshqarish \u2013 olisdagi abonent va\/yoki server dasturlarining ishga tushirilishini amalga oshirish imkonini beradi; tizimning uzoq muddatli xotirasidan foydalanish; elektron pochta rejimida ishlash."
+        ]
+    }
+]

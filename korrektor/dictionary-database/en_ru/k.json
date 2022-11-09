@@ -1,0 +1,940 @@
+[
+    {
+        "word": "KGB",
+        "type": [],
+        "definition": [
+            "\u043a\u0433\u0431 [n.]"
+        ]
+    },
+    {
+        "word": "Kabardian",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Kalmyk",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043b\u043c\u044b\u0446\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Kamchadal",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043c\u0447\u0430\u0434\u0430\u043b\u044c\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Kampuchean",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043c\u043f\u0443\u0447\u0438\u0439\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Kantian",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043d\u0442\u0438\u0430\u043d\u0441\u043a\u0438\u0439 [adj.]",
+            "\u043a\u0430\u043d\u0442\u043e\u0432\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Karachai",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Karaite",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0430\u0438\u043c\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Karakalpak",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0430\u043a\u0430\u043b\u043f\u0430\u043a\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Karelian",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0440\u0435\u043b\u044c\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Katyusha",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0442\u044e\u0448\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "Kazakh",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0437\u0430\u0445\u0441\u043a\u0438\u0439 [adj.]",
+            "\u043a\u0430\u0437\u0430\u0445 [n.]"
+        ]
+    },
+    {
+        "word": "Kazakhstan",
+        "type": [],
+        "definition": [
+            "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d [n.]"
+        ]
+    },
+    {
+        "word": "Kenyan",
+        "type": [],
+        "definition": [
+            "\u043a\u0435\u043d\u0438\u0439\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Keyboard key",
+        "type": [],
+        "definition": [
+            "\u043a\u043b\u0430\u0432\u0438\u0448\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "Khabarovsk",
+        "type": [],
+        "definition": [
+            "\u0445\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Khakass",
+        "type": [],
+        "definition": [
+            "\u0445\u0430\u043a\u0430\u0441\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Khmer",
+        "type": [],
+        "definition": [
+            "\u043a\u0445\u043c\u0435\u0440\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Kiev",
+        "type": [],
+        "definition": [
+            "\u041a\u0438\u0435\u0432 [n.]"
+        ]
+    },
+    {
+        "word": "Kirghiz",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u0440\u0433\u0438\u0437\u0441\u043a\u0438\u0439 [adj.]",
+            "\u043a\u0438\u0440\u0433\u0438\u0437 [n.]"
+        ]
+    },
+    {
+        "word": "Komsomol",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043c\u0441\u043e\u043c\u043e\u043b [n.]"
+        ]
+    },
+    {
+        "word": "Korea",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0440\u0435\u044f [n.]"
+        ]
+    },
+    {
+        "word": "Korean",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0440\u0435\u0439\u0441\u043a\u0438\u0439 [adj.]",
+            "\u043a\u043e\u0440\u0435\u0435\u0446 [n.]"
+        ]
+    },
+    {
+        "word": "Koryak",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0440\u044f\u043a\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Koschei",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0449\u0435\u0439 [n.]"
+        ]
+    },
+    {
+        "word": "Kostya",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0441\u0442\u044f [n.]"
+        ]
+    },
+    {
+        "word": "Kurd",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u0440\u0434\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "Kurdish woman",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u0440\u0434\u044f\u043d\u043a\u0430"
+        ]
+    },
+    {
+        "word": "Kyiv",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u0435\u0432\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kalatch",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043b\u0430\u0447 [n.]"
+        ]
+    },
+    {
+        "word": "kaleidoscopic",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043b\u0435\u0439\u0434\u043e\u0441\u043a\u043e\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kangaroo",
+        "type": [],
+        "definition": [
+            "\u043a\u0435\u043d\u0433\u0443\u0440\u0443 [n.]"
+        ]
+    },
+    {
+        "word": "kapron",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u043f\u0440\u043e\u043d\u043e\u0432\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kaput",
+        "type": [],
+        "definition": [
+            "\u0430\u043c\u0431\u0430"
+        ]
+    },
+    {
+        "word": "kasha",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0448\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "kayak",
+        "type": [],
+        "definition": [
+            "\u0431\u0430\u0439\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 [adj.]",
+            "\u0431\u0430\u0439\u0434\u0430\u0440\u043a\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "keel",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043b\u044c [n.]"
+        ]
+    },
+    {
+        "word": "keen",
+        "type": [],
+        "definition": [
+            "\u043e\u0445\u043e\u0447\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "keenly",
+        "type": [],
+        "definition": [
+            "\u0447\u0443\u0442\u043a\u043e"
+        ]
+    },
+    {
+        "word": "keep",
+        "type": [],
+        "definition": [
+            "\u0434\u0435\u0440\u0436\u0430\u0442\u044c [v.]",
+            "\u0434\u0435\u0440\u0436\u0430\u0442\u044c\u0441\u044f [v.]",
+            "\u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c [v.]",
+            "\u0445\u0440\u0430\u043d\u0438\u0442\u044c [v.]",
+            "\u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0442\u044c [v.]",
+            "\u043f\u043e\u0431\u0435\u0440\u0435\u0447\u044c [v.]"
+        ]
+    },
+    {
+        "word": "keep an eye",
+        "type": [],
+        "definition": [
+            "\u0443\u0441\u043b\u0435\u0434\u0438\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "keep away",
+        "type": [],
+        "definition": [
+            "\u043e\u0442\u0434\u0430\u043b\u044f\u0442\u044c\u0441\u044f [v.]"
+        ]
+    },
+    {
+        "word": "keep going",
+        "type": [],
+        "definition": [
+            "\u043f\u0435\u0440\u0435\u0431\u0438\u0432\u0430\u0442\u044c\u0441\u044f [v.]"
+        ]
+    },
+    {
+        "word": "keep house",
+        "type": [],
+        "definition": [
+            "\u0445\u043e\u0437\u044f\u0439\u043d\u0438\u0447\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "keep pace",
+        "type": [],
+        "definition": [
+            "\u0443\u0433\u043d\u0430\u0442\u044c\u0441\u044f [v.]"
+        ]
+    },
+    {
+        "word": "keep pace with",
+        "type": [],
+        "definition": [
+            "\u043f\u043e\u0441\u043f\u0435\u0432\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "keep quiet",
+        "type": [],
+        "definition": [
+            "\u043f\u043e\u043c\u0430\u043b\u043a\u0438\u0432\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "keep ringing",
+        "type": [],
+        "definition": [
+            "\u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0432\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "keep silence",
+        "type": [],
+        "definition": [
+            "\u0431\u0435\u0437\u043c\u043e\u043b\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "keep silent",
+        "type": [],
+        "definition": [
+            "\u043e\u0442\u043c\u0430\u043b\u0447\u0438\u0432\u0430\u0442\u044c\u0441\u044f [v.]"
+        ]
+    },
+    {
+        "word": "keeper",
+        "type": [],
+        "definition": [
+            "\u0445\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u044c [n.]",
+            "\u0431\u043b\u044e\u0441\u0442\u0438\u0442\u0435\u043b\u044c [n.]"
+        ]
+    },
+    {
+        "word": "keeping",
+        "type": [],
+        "definition": [
+            "\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 [n.]"
+        ]
+    },
+    {
+        "word": "kefir",
+        "type": [],
+        "definition": [
+            "\u043a\u0435\u0444\u0438\u0440 [n.]"
+        ]
+    },
+    {
+        "word": "keg",
+        "type": [],
+        "definition": [
+            "\u0431\u043e\u0447\u043e\u043d\u043e\u043a [n.]"
+        ]
+    },
+    {
+        "word": "kennel",
+        "type": [],
+        "definition": [
+            "\u0431\u0443\u0434\u043a\u0430 [n.]",
+            "\u043a\u043e\u043d\u0443\u0440\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "kept in a wineskin",
+        "type": [],
+        "definition": [
+            "\u0431\u0443\u0440\u0434\u044e\u0447\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kerosene",
+        "type": [],
+        "definition": [
+            "\u043a\u0435\u0440\u043e\u0441\u0438\u043d\u043e\u0432\u044b\u0439 [adj.]",
+            "\u043a\u0435\u0440\u043e\u0441\u0438\u043d [n.]"
+        ]
+    },
+    {
+        "word": "key",
+        "type": [],
+        "definition": [
+            "\u043a\u043b\u044e\u0447 [n.]",
+            "\u043a\u043b\u044e\u0447\u0438\u043a [n.]"
+        ]
+    },
+    {
+        "word": "keyboard",
+        "type": [],
+        "definition": [
+            "\u043a\u043b\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "khan",
+        "type": [],
+        "definition": [
+            "\u0445\u0430\u043d [n.]"
+        ]
+    },
+    {
+        "word": "khutor",
+        "type": [],
+        "definition": [
+            "\u0445\u0443\u0442\u043e\u0440 [n.]"
+        ]
+    },
+    {
+        "word": "kick",
+        "type": [],
+        "definition": [
+            "\u043f\u0438\u043d\u043e\u043a [n.]",
+            "\u043f\u043d\u0443\u0442\u044c [v.]",
+            "\u043f\u0438\u043d\u0430\u0442\u044c [v.]",
+            "\u0431\u0440\u044b\u043a\u0430\u0442\u044c\u0441\u044f [v.]"
+        ]
+    },
+    {
+        "word": "kick out",
+        "type": [],
+        "definition": [
+            "\u0432\u044b\u0433\u043d\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "kid",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0437\u043b\u0451\u043d\u043e\u043a [n.]"
+        ]
+    },
+    {
+        "word": "kiddies",
+        "type": [],
+        "definition": [
+            "\u0434\u0435\u0442\u0438\u0448\u043a\u0438 [n.]",
+            "\u0434\u0435\u0442\u0432\u043e\u0440\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "kidneyshaped",
+        "type": [],
+        "definition": [
+            "\u043f\u043e\u0447\u043a\u043e\u0432\u0438\u0434\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kill",
+        "type": [],
+        "definition": [
+            "\u0443\u0431\u0438\u0442\u044c [v.]",
+            "\u0443\u0431\u0438\u0432\u0430\u0442\u044c [v.]",
+            "\u043f\u0435\u0440\u0435\u0431\u0438\u0442\u044c [v.]",
+            "\u0437\u0430\u0434\u0440\u0430\u0442\u044c [v.]",
+            "\u0443\u0433\u0440\u043e\u0431\u0438\u0442\u044c [v.]",
+            "\u0443\u043c\u043e\u0440\u0438\u0442\u044c [v.]",
+            "\u0443\u0445\u043b\u043e\u043f\u0430\u0442\u044c [v.]",
+            "\u043f\u0440\u0438\u0440\u0435\u0437\u0430\u0442\u044c [v.]",
+            "\u0443\u043c\u0435\u0440\u0442\u0432\u0438\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "kill with a blow",
+        "type": [],
+        "definition": [
+            "\u043f\u0440\u0438\u0441\u0442\u0443\u043a\u043d\u0443\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "killer",
+        "type": [],
+        "definition": [
+            "\u0443\u0431\u0438\u0439\u0446\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "killing",
+        "type": [],
+        "definition": [
+            "\u0443\u0431\u0438\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kilogramme",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043b\u043e\u0433\u0440\u0430\u043c\u043c [n.]"
+        ]
+    },
+    {
+        "word": "kilometre",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043b\u043e\u043c\u0435\u0442\u0440 [n.]"
+        ]
+    },
+    {
+        "word": "kind welldisposed",
+        "type": [],
+        "definition": [
+            "\u0431\u043b\u0430\u0433\u043e\u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kindergarten",
+        "type": [],
+        "definition": [
+            "\u0434\u0435\u0442\u0441\u0430\u0434\u043e\u0432\u0441\u043a\u0438\u0439 [adj.]",
+            "\u0434\u0435\u0442\u0441\u0430\u0434 [n.]"
+        ]
+    },
+    {
+        "word": "kindergarten teacher",
+        "type": [],
+        "definition": [
+            "\u0432\u043e\u0441\u043f\u0438\u0442\u0430\u0442\u0435\u043b\u044c [n.]"
+        ]
+    },
+    {
+        "word": "kindhearted",
+        "type": [],
+        "definition": [
+            "\u0434\u043e\u0431\u0440\u043e\u0441\u0435\u0440\u0434\u0435\u0447\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kindle",
+        "type": [],
+        "definition": [
+            "\u0440\u0430\u0437\u0436\u0435\u0447\u044c [v.]",
+            "\u0440\u0430\u0437\u0436\u0438\u0433\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "kindliness",
+        "type": [],
+        "definition": [
+            "\u0431\u043b\u0430\u0433\u043e\u0434\u0443\u0448\u0438\u0435 [n.]"
+        ]
+    },
+    {
+        "word": "kindly",
+        "type": [],
+        "definition": [
+            "\u0431\u0435\u0437\u0437\u043b\u043e\u0431\u043d\u044b\u0439 [adj.]",
+            "\u043b\u044e\u0431\u0435\u0437\u043d\u043e"
+        ]
+    },
+    {
+        "word": "kindness",
+        "type": [],
+        "definition": [
+            "\u0434\u043e\u0431\u0440\u043e\u0442\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "kindred",
+        "type": [],
+        "definition": [
+            "\u0440\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kinetic",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "king",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0440\u043e\u043b\u044c [n.]",
+            "\u0434\u0430\u043c\u043a\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "kingdom",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e [n.]"
+        ]
+    },
+    {
+        "word": "kingly",
+        "type": [],
+        "definition": [
+            "\u0446\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "kinsman",
+        "type": [],
+        "definition": [
+            "\u0441\u043e\u0440\u043e\u0434\u0438\u0447 [n.]"
+        ]
+    },
+    {
+        "word": "kiosk",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u043e\u0441\u043a [n.]"
+        ]
+    },
+    {
+        "word": "kiss",
+        "type": [],
+        "definition": [
+            "\u043f\u043e\u0446\u0435\u043b\u0443\u0439 [n.]",
+            "\u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c [v.]",
+            "\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c [v.]",
+            "\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c\u0441\u044f [v.]",
+            "\u0440\u0430\u0441\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "kissel",
+        "type": [],
+        "definition": [
+            "\u043a\u0438\u0441\u0435\u043b\u044c [n.]"
+        ]
+    },
+    {
+        "word": "kit",
+        "type": [],
+        "definition": [
+            "\u043d\u0430\u0431\u043e\u0440 [n.]"
+        ]
+    },
+    {
+        "word": "kitchen",
+        "type": [],
+        "definition": [
+            "\u043a\u0443\u0445\u043d\u044f [n.]"
+        ]
+    },
+    {
+        "word": "kite",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0440\u0448\u0443\u043d [n.]"
+        ]
+    },
+    {
+        "word": "kitten",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u0442\u0451\u043d\u043e\u043a [n.]"
+        ]
+    },
+    {
+        "word": "kitty",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043d [n.]"
+        ]
+    },
+    {
+        "word": "knavish",
+        "type": [],
+        "definition": [
+            "\u043c\u043e\u0448\u0435\u043d\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 [adj.]",
+            "\u043f\u043b\u0443\u0442\u043e\u0432\u0441\u043a\u043e\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "knead",
+        "type": [],
+        "definition": [
+            "\u0440\u0430\u0437\u043c\u0438\u043d\u0430\u0442\u044c [v.]",
+            "\u043c\u0435\u0441\u0438\u0442\u044c [v.]",
+            "\u0440\u0430\u0437\u043c\u044f\u0442\u044c [v.]",
+            "\u0440\u0430\u0437\u043c\u0435\u0448\u0438\u0432\u0430\u0442\u044c [v.]",
+            "\u0440\u0430\u0437\u043c\u0435\u0448\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "kneading trough",
+        "type": [],
+        "definition": [
+            "\u043a\u0432\u0430\u0448\u043d\u044f [n.]"
+        ]
+    },
+    {
+        "word": "knee",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043b\u0435\u043d\u043e [n.]",
+            "\u043a\u043e\u043b\u0435\u043d\u043a\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "knife",
+        "type": [],
+        "definition": [
+            "\u043d\u043e\u0436 [n.]",
+            "\u043d\u043e\u0436\u0438\u043a [n.]"
+        ]
+    },
+    {
+        "word": "knight",
+        "type": [],
+        "definition": [
+            "\u0440\u044b\u0446\u0430\u0440\u044c [n.]",
+            "\u0432\u0438\u0442\u044f\u0437\u044c [n.]"
+        ]
+    },
+    {
+        "word": "knight commander",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0440 [n.]"
+        ]
+    },
+    {
+        "word": "knightly",
+        "type": [],
+        "definition": [
+            "\u0440\u044b\u0446\u0430\u0440\u0441\u043a\u0438\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "knit",
+        "type": [],
+        "definition": [
+            "\u043f\u043e\u0432\u044f\u0437\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "knitted",
+        "type": [],
+        "definition": [
+            "\u0432\u044f\u0437\u0430\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "knitted garment",
+        "type": [],
+        "definition": [
+            "\u0432\u044f\u0437\u0430\u043d\u043a\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "knitting",
+        "type": [],
+        "definition": [
+            "\u0432\u044f\u0437\u0430\u043b\u044c\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "knitting needle",
+        "type": [],
+        "definition": [
+            "\u0441\u043f\u0438\u0446\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "knob",
+        "type": [],
+        "definition": [
+            "\u0431\u0443\u0433\u043e\u0440\u043e\u043a [n.]"
+        ]
+    },
+    {
+        "word": "knobbly",
+        "type": [],
+        "definition": [
+            "\u0431\u0443\u0433\u043e\u0440\u0447\u0430\u0442\u044b\u0439 [adj.]",
+            "\u0448\u0438\u0448\u043a\u043e\u0432\u0430\u0442\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "knock",
+        "type": [],
+        "definition": [
+            "\u0441\u0442\u0443\u043a [n.]",
+            "\u0441\u0442\u0443\u0447\u0430\u0442\u044c [v.]",
+            "\u043f\u043e\u0441\u0442\u0443\u0447\u0430\u0442\u044c [v.]",
+            "\u0442\u043a\u043d\u0443\u0442\u044c\u0441\u044f [v.]",
+            "\u043f\u043e\u0441\u0442\u0443\u0447\u0430\u0442\u044c\u0441\u044f [v.]",
+            "\u0441\u0442\u0443\u043a\u043d\u0443\u0442\u044c\u0441\u044f [v.]",
+            "\u0442\u044b\u043a\u0430\u0442\u044c\u0441\u044f [v.]",
+            "\u0441\u0442\u0443\u0447\u0430\u0442\u044c\u0441\u044f [v.]",
+            "\u0441\u0442\u0443\u043a\u0430\u0442\u044c [v.]",
+            "\u0441\u0442\u0443\u043a\u0430\u0442\u044c\u0441\u044f [v.]"
+        ]
+    },
+    {
+        "word": "knock down",
+        "type": [],
+        "definition": [
+            "\u0441\u0448\u0438\u0431\u0438\u0442\u044c [v.]",
+            "\u0441\u0448\u0438\u0431\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "knock off",
+        "type": [],
+        "definition": [
+            "\u043e\u0442\u0448\u0438\u0431\u0438\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "knock out",
+        "type": [],
+        "definition": [
+            "\u0432\u044b\u0431\u0438\u0442\u044c [v.]",
+            "\u0432\u044b\u0431\u0438\u0432\u0430\u0442\u044c [v.]",
+            "\u0432\u044b\u0448\u0438\u0431\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "knock together",
+        "type": [],
+        "definition": [
+            "\u0441\u043a\u043e\u043b\u043e\u0442\u0438\u0442\u044c [v.]",
+            "\u0441\u0442\u043e\u043b\u043a\u043d\u0443\u0442\u044c [v.]",
+            "\u0441\u0442\u0430\u043b\u043a\u0438\u0432\u0430\u0442\u044c [v.]",
+            "\u0441\u043a\u043e\u043b\u0430\u0447\u0438\u0432\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "knoll",
+        "type": [],
+        "definition": [
+            "\u0441\u043e\u043f\u043a\u0430 [n.]"
+        ]
+    },
+    {
+        "word": "knot",
+        "type": [],
+        "definition": [
+            "\u0443\u0437\u0435\u043b [n.]"
+        ]
+    },
+    {
+        "word": "knotshaped biscuit",
+        "type": [],
+        "definition": [
+            "\u043a\u0440\u0435\u043d\u0434\u0435\u043b\u044c [n.]"
+        ]
+    },
+    {
+        "word": "knotty",
+        "type": [],
+        "definition": [
+            "\u0443\u0437\u043b\u043e\u0432\u0430\u0442\u044b\u0439 [adj.]",
+            "\u0441\u0432\u0438\u043b\u0435\u0432\u0430\u0442\u044b\u0439 [adj.]",
+            "\u0441\u0443\u0447\u043a\u043e\u0432\u0430\u0442\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "know",
+        "type": [],
+        "definition": [
+            "\u0437\u043d\u0430\u0442\u044c [v.]",
+            "\u0443\u0437\u043d\u0430\u0442\u044c [v.]",
+            "\u0432\u0435\u0434\u0430\u0442\u044c [v.]"
+        ]
+    },
+    {
+        "word": "knowing the smell of powder",
+        "type": [],
+        "definition": [
+            "\u043e\u0431\u0441\u0442\u0440\u0435\u043b\u044f\u043d\u043d\u044b\u0439 [adj.]"
+        ]
+    },
+    {
+        "word": "knowledge",
+        "type": [],
+        "definition": [
+            "\u0437\u043d\u0430\u043d\u0438\u0435 [n.]",
+            "\u043e\u0441\u0432\u0435\u0434\u043e\u043c\u043b\u0451\u043d\u043d\u043e\u0441\u0442\u044c [n.]"
+        ]
+    },
+    {
+        "word": "knuckleduster",
+        "type": [],
+        "definition": [
+            "\u043a\u0430\u0441\u0442\u0435\u0442 [n.]"
+        ]
+    },
+    {
+        "word": "kolkhoz",
+        "type": [],
+        "definition": [
+            "\u043a\u043e\u043b\u0445\u043e\u0437 [n.]"
+        ]
+    },
+    {
+        "word": "kriechen",
+        "type": [],
+        "definition": [
+            "\u0434\u043e\u043f\u043e\u043b\u0437\u0442\u0438 [v.]"
+        ]
+    },
+    {
+        "word": "kvass",
+        "type": [],
+        "definition": [
+            "\u043a\u0432\u0430\u0441 [n.]"
+        ]
+    }
+]

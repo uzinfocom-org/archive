@@ -1,0 +1,1262 @@
+[
+    {
+        "word": "Da\u02bcvo",
+        "type": [],
+        "definition": [
+            "da\u2019vo qo'zgatuvchining talabi. Korxonalar ularga qarzdorlarga (debitorlarga) o'z vaqtida to'lanmagan qarzlik summalar uchun da\u2019vo qo'zg'atishlari lozim. Da\u2019vo moddiy zarar keltirganlarga nisbatan asosli ravishda qo'zg'atilishi zarur (debetorlik qarzlari, a\u2019volar yuzasidai hisob-kitoblarga qarang)."
+        ]
+    },
+    {
+        "word": "Dalolatnoma",
+        "type": [],
+        "definition": [
+            "yuridik kuchga ega bo'lgan rasmiy hujjat."
+        ]
+    },
+    {
+        "word": "Darbin-Uotson Mezoni",
+        "type": [],
+        "definition": [
+            "vaqtli qatorlarda avtokorrelyatsiyani aniqlash uchun qo'llaniladigan shartli ko'rsatkich"
+        ]
+    },
+    {
+        "word": "Daromad",
+        "type": [],
+        "definition": [
+            "insonning mehnati evaziga yoki mulki hisobiga oladigan pul mablag'i summasi. Daromadlar ikkita, ya\u2019ni: a) mehnat evaziga olinadigan daromad (ish haqi, foyda); b) mulkdan olinadigan daromad (foiz, renta, dividend) turlariga bo'linadi."
+        ]
+    },
+    {
+        "word": "Daromad (Boylik) Va Boshqalar Uchun Joriy Soliqlar",
+        "type": [],
+        "definition": [
+            "asosan, uy xo'jaligi va korporatsiyalarning daromadlari, boyliklari singari boshqa turdagi kirimlariga solinadigan soliqlar."
+        ]
+    },
+    {
+        "word": "Daromad Brutto",
+        "type": [],
+        "definition": [
+            "biror faoliyatdan kelgan yalpi daromad. Masalan, mahsulotni sotish va xizmat ko'rsatishdan kelgan daromad."
+        ]
+    },
+    {
+        "word": "Daromad Konsepsiyasi",
+        "type": [],
+        "definition": [
+            "daromad tushunchasini ifodalovchi tartib va qoidalardan iborat."
+        ]
+    },
+    {
+        "word": "Daromad Samarasi",
+        "type": [],
+        "definition": [
+            "1. Ishchining ish haqining o'sishi natijasida ish vaqtining qisqarishi hisobidan dam olish vaqtining ortishi. 2. Mahsulot bahosi pasayishi xaridorning sotib olish qobiliyatini oshiradi, natijada u oldingiga nisbatan xarid qiladigan tovardan ko'proq miqdorda sotib oladi. Masalan, mol go'shtini xaridor 400 so'mdan ikki kg xarid qilar edi. Bahoning 50% pasayishi natijasida endi xaridor 200 so'mdan 4 kg mol go'shtini xarid qiladi. Daromadlar bo'yicha YAMM yollanma ishchilami ish haqi, renta to'lovlari, bank foizi, foyda, daromadga qo'shilmagan to'lovlar (tadbirkorlikka bilvosita soliqlar, amortizatsion ajratmalar) jamlash orqali hisoblanadi."
+        ]
+    },
+    {
+        "word": "Daromad Solig\u02bbi",
+        "type": [],
+        "definition": [
+            "yalpi daromadga solinadi, unda moddiy sarf-xarajatlar va soliq imtiyozlari chegirib qolinadi. Daromad solig'i, asosan, ish haqi berilishi va daromadning boshqa turlarida, shuningdek, maxsus moliya tashkilotlariga manbalarini ko'rsatgan holda barcha ishlab topilgan summani o'z ichiga olgan daromadlar to'g'risidagi deklaratsiyani taqdim etish chog'ida chegirib qolish yo'li bilan undiriladi."
+        ]
+    },
+    {
+        "word": "Daromad Solig\u02bb1 Bo\u02bbyicha Jarimalar",
+        "type": [],
+        "definition": [
+            "ushbu soliq to\u2018 Ianmaganda, noto'liq to'langanda yoki to\u2018lash tartibi buzilganda (rioya qilinmaganda), pulni undirish, moddiy ta\u2019sir ko'rsatishdan iborat. O'z vaqtida ushlab qolinmagan, noto'liq ushlangan yoki tegishli budjetga o'tkazilmagan soliq summalari jismoniy shaxslarga daromad to'laydigan korxona, tashkilot va muassasalardan undirishga mo'ljallangan summaning 10% hajmidagi jarimani birgalikda qo'shib, soliq organlari tomonidan so'zsiz undirib olinadi. Korxona, tashkilot, muassasalar va tadbirkor sifatida qayddan o'tgan jismoniy shaxslardan soliq o'z vaqtida tegishli budjetga o'tkazilmasa, har bir kechiktirilgan kun uchun to'lov muddatidan keyingi kundan boshlab to' langan kungacha ( bu kun ham qo'shiladi) 0,5% miqdorida penya undiriladi. Penyaning undirilishi ularni javobgarlikning boshqa turlaridan ozod etmaydi."
+        ]
+    },
+    {
+        "word": "Daromad Solig\u02bb1 Stavkalari",
+        "type": [],
+        "definition": [
+            "aholi daromadlaridan tabaqalashtirilgan olda olinadigan soliqlarning foizlardagi darajalari"
+        ]
+    },
+    {
+        "word": "Daromad Solig Ining Shedulyar Shakli",
+        "type": [],
+        "definition": [
+            "Buyuk Britaniya soliq tizimida qabul qilingan. Daromadning manbayini inobatga olgan holda uning qismlarga (shedulyarga) bo'linishini taqozo etadi. Har bir shedul o'ziga manbayi oldida \u201ctutish\u201dni maqsad qilib qo'yadi. Mamlakatda bu sohada olti shedul amal qilib, ularning ayrimlari yana ichki taqsimlanishga ham egadir. Masalan, \u201cA\u201d shedul o'z tarkibiga mulkdan olinadigan daromadlar (yerga mulkchilikdan, bino va inshootlarga egalikdan, uy yoki xonani ijaraga berishdan olinadigan daromadlar) ni, \u201cV \u201d shedul tijoriymaqsadlar uchun foydalaniladigan o'rmon massivlaridan olinadigan daromadlarni, \u201cS\u201d shedul davlat qimmatbaho qog'ozlaridan olinadigan daromadlarni, \u201cD\u201d shedul tijoriy ishlab chiqarish faoliyatidan olinadigan daromadlarni (bu shedulning tarkibiga daromadlarning juda ko'p turlari kirganligi uchun uning o'zi yana olti qismga bo'lingan), \u201cE\u201d shedul ish haqi, pensiya, nafaqa va boshqa mehnat daromadlari va nihoyat, \u201cF\u201dshedul Buyuk Britaniya kompaniyalari tomonidan to'lanadigan dividendlar va boshqa to'lovlarni o'z ichiga oladi."
+        ]
+    },
+    {
+        "word": "Daromaddan Olinadigan Soliq,",
+        "type": [],
+        "definition": [
+            "foyda solig'idan tashqari aksiyalar, obligatsiyalar va boshqa qimmatbaho qog'ozlari bo'yicha (davlat obligatsiyalari va davlatning boshqa qimmatbaho qog'ozlari bo'yicha olingan daromadlardan tashqari) olingan dividendlar va foizlardan, kazinolar, videosalonlar daromadlaridan, o'yin avtomatlarining daromadlari dan, ommaviy kontsert-tomosha tadbirlarini o'tkazishdan olingan daromadlardan korxona va tashkilotlar tomonidan to'lanadi."
+        ]
+    },
+    {
+        "word": "Daromadiy (Daromadll) Soliqqa Tortish",
+        "type": [],
+        "definition": [
+            "daromadlarning olinish vaqtida undiriladigan daromad soliqlari tizimi."
+        ]
+    },
+    {
+        "word": "Daromadlar",
+        "type": [],
+        "definition": [
+            "bu subyektning xo'jalik faoliyati natijasida, odatda, ijara haqi, foizlar, litsenziya to'lovlari va dividendlar shaklida daromad keltiradigan faoliyat, ya\u2019ni tovarlarning sotilishi, xizmatlarning ko'rsatilishi yoki boshqa shaxslarning xo'jalik subyekti resurslaridan foydalanishi natijasida aktivlarning kelib tushishi yoki majburiyatlarning kamayishi orqali ro'y beradigan iqtisodiy resurslarning ko'payishidir. Daromadlar natural va pul ko'rinishida bo'ladi. Daromadlar soliqli va soliqsiz guruhlarga bo'linadi. Daromad tushunchasi haqida gap ketganda, milliy daromad, korxona darajasida (yalpi daromad, sof daromad) va alohida shaxslar ko'rilganda aholining pul daromadlari, fuqarolarning real daromadlari va shaxsiy daromad shaklida bo'lishi mumkin."
+        ]
+    },
+    {
+        "word": "Daromadlar Bo\u02bbyicha Yalpi Milliy Mahsulotni Hisoblash",
+        "type": [],
+        "definition": [
+            "jamiyatda bir yilda olingan daromadlami jamlash. Daromadlar bo'yicha YAMM yollanma ishchilarning ish haqi, renta to'lovlari, bank foizi, foyda, daromadga qo'shilmagan to'lovlar (tadbirkorlikka bilvosita soliqlar, amortizatsion ajratmalar) jamlash orqali hisoblanadi."
+        ]
+    },
+    {
+        "word": "Daromadlar Siyosati",
+        "type": [],
+        "definition": [
+            "maqsadi individual pul daromadlari dinamikasiga, tovar va xizmatlar narxiga tasir etish huquqi bo'Igan hukumat siyosati."
+        ]
+    },
+    {
+        "word": "Daromadlar To\u02bbg\u02bbrisida Deklaratsiya",
+        "type": [],
+        "definition": [
+            "o'tgan davr mobaynida olingan daromadlar; mulklar va ularga tegishli bo'Igan soliq chegirmalari hamda imtiyozlari to\u2018g\u2018risida soliq to' lovchining rasmiy arizasi.Jismoniy shaxslarni soliqqa tortishda asosiy moliyaviy hujjat bo'lib, ulardan olinadigan daromad solig\u2018ining hajmini aniqlash uchun fiuqarolar daromadlari unda qayd etiladi."
+        ]
+    },
+    {
+        "word": "Daromadlar Va Sarf Xarajatlar Balansi",
+        "type": [],
+        "definition": [
+            "birlashmalar, korxonalar, vazirlik va idoralarning moliyaviy ishlab chiqarish hamda mehnat jamoalarini moddiy rag'batlantirish maqsadidagi moliyaviy munosabatlarining, pul daromadlarining shakllanishi va ulardan foydalanish hamda pul mablag'lari fondini tashkil qilish manbayi. Daromadlar va sarf-xarajatlar balansi turli xil budjetlarning (davlat, korxona, oila) asosi hisoblanadi."
+        ]
+    },
+    {
+        "word": "Daromadlardan Foydalanish Hisobi",
+        "type": [],
+        "definition": [
+            "mavjud yalpi milliy daromad pirovard milliy iste\u2019mol va yalpi milliy jamg'arish uchun qay tarzda ishlatilishini ko'rsatadi."
+        ]
+    },
+    {
+        "word": "Daromadlarni Indeksatsiyalash",
+        "type": [],
+        "definition": [
+            "baholarning oshishi bilan bog'liq aholining qo'shimcha xarajatlarini vaqti-vaqti bilan ish haqi, pensiya, stipendiya va hokazolarni oshirish orqali qoplash."
+        ]
+    },
+    {
+        "word": "Daromadlar Ishlatilishideganda",
+        "type": [],
+        "definition": [
+            "iqtisodiy birliklar tomonidan tovar va xizmatlarni tasarruf etish tushuniladi."
+        ]
+    },
+    {
+        "word": "Daromadlarni Taqsimlash Hisobi",
+        "type": [],
+        "definition": [
+            "daromadlarni taqsimlash va qayta taqsimlash bilan bog'liq barcha operatsiyalarni o'z ichiga oladi (foizlar, taqsimlanadigan foydalar, joriy transfertlar). Bu hisob iqtisodiyotning turli sektorlari o'rtasida ro\u2018y beradigan operatsiyalarni qamrab oladi."
+        ]
+    },
+    {
+        "word": "Daromadlarning Mam L Akatda Ishlab Chiqarilgan Tengsizligi",
+        "type": [],
+        "definition": [
+            "jami daromadlarning alohida shaxslar va oilalar o'rtasida notekis taqsimlanishi. Ushbu hoi deyarli hamma mamlakatlarga xos. Masalan, AQSHda boy (20%) aholiga jami daromadlarning 43,7%, kambag'al (20%) larga esa atigi 4,6% to'g'ri keladi. Ya\u2019ni aholining boy 5\/1 qismi aholining kambag'al 5\/1 qismiga nisbatan 9 baravar ko'p daromad oladi."
+        ]
+    },
+    {
+        "word": "Daromadlarning Shakllanishi Hisobi",
+        "type": [],
+        "definition": [
+            "ishlab chiqarish bilan bevosita bog'liq hamda tarmoqlar va sektorlar doirasida guruhlash imkoniyati bo'lgan operatsiyalarni ifodalaydi."
+        ]
+    },
+    {
+        "word": "Daromadlarning Shakllanishi Hisobi",
+        "type": [],
+        "definition": [
+            "ishlab chiqarish bilan bevosita bog'liq hamda tarmoqlar va sektorlar doirasida guruhlash imkoniyati bo'lgan operatsiyalarni ifodalaydi."
+        ]
+    },
+    {
+        "word": "Dastlabki (Birlamchi) Axborotlar",
+        "type": [],
+        "definition": [
+            "muayyan marketing tadqiqoti o'tkazilishi uchun mo'ljallangan yangitdan yig'ib olingan malumotlar."
+        ]
+    },
+    {
+        "word": "Dastlabki Audit",
+        "type": [],
+        "definition": [
+            "ilk bor audit o'tkazilayotgan iqtisodiy subyekt yoki oldingi auditorga nazorat boshqa auditorlik tashkiloti tomonidan o\u2018tkazilgan iqtisodiy subyektning buxgalteriya hisob-kitob auditi."
+        ]
+    },
+    {
+        "word": "Dastlabki Hujjatlar",
+        "type": [],
+        "definition": [
+            "xo'jalik muomalalari sodir bo'lgan paytda tuziladigan va ular amalga oshganligining birinchi guvohi bo'lgan buxgalteriya hujjatlari. Dastlabki hujjatlar tuzilishi xo'jalik muomalalari hisob registratsiyasining boshlanishi hisoblanadi. Dastlabki hujjatlarga g'azna kirim va chiqim orderlari, yukxatlar, kvitansiyalar va h.k. kiradi. Hisobni soddalashtirish va hisob registratsiyasini tezlashtirish uchun ko'pincha dastlabki hujjatlarga asosan yig'ma hujjatlar tuziladi. Buxgalteriya hujjatlari tuzish tartibi bo'yicha tasniflanganda, hujjatlar dastlabki va yig'ma hujjatlarga bo'linadi."
+        ]
+    },
+    {
+        "word": "Dastlabkiimkoniyatlar (Kompetensiya)",
+        "type": [],
+        "definition": [
+            "ishlab chiqarish yoki xizmat ko'rsatish firmasini uning raqiblaridan ajratib turadigan bilim va uslublaridir"
+        ]
+    },
+    {
+        "word": "Dastlabki Nazorat",
+        "type": [],
+        "definition": [
+            "taxminlash, rejalashtirish va loyihalashtirish bosqichida, xo'jalik yoki moliyaviy operatsiyalar amalga oshirilishidan awal o'tkazilib, oqilona boshqaruv yechimlari qabul qilinishiga xizmat qiladi."
+        ]
+    },
+    {
+        "word": "Davlat Banki",
+        "type": [],
+        "definition": [
+            "davlat tomonidan tasis qilingan, odatda, davlat budjeti va davlat organlariga xizmat qiladigan, davlat dasturlarini moliyalashtiradigan va mos davlat tashkilotlarining topshirig'i bilan har xil bank operatsiyalarini boshqaradigan bank."
+        ]
+    },
+    {
+        "word": "Davlat Boji",
+        "type": [],
+        "definition": [
+            "yuridik ahamiyatga ega bo'Igan harakatlar sodir etganligi yoki vakolatli organlarvamansabdorshaxslartomonidan tegishlihuj jatlari berilganligi uchun olinadigan majburiy to'lov. Turli instansiyalardagi sudlarga berilgan ariza va shikoyatlar, notarial harakatlarning sodir etilganligi, fuqarolik holati aktining davlat qaydidan o'tkazilganligi va tegishli organlar tomonidan hujjatlarning berilganligi uchun davlat boji olinadi. Uning miqdori yuridik harakat va beriladigan hujjatlarning xarakteriga bog'liq."
+        ]
+    },
+    {
+        "word": "Davlat Budjeti",
+        "type": [],
+        "definition": [
+            "davlat pul mablag'lari (shu jumladan, davlat maqsadli jamg'armalari mablag'lari)ning markazlashtirilgan fondi, unda daromadlar manbalari va ulardan tushumlar miqdori, shuningdek, moliya yilimobaynidaaniqmaqsadlaruchunajratiladiganmablag'lar sarfi yo'nalishlari va miqdori nazarda tutiladi. Qonun kuchiga ega bo'Igan davlatning asosiy moliyaviy rejasi. Davlat hokimiyatining qonunchilik organi tomonidan tasdiqlanadi. Davlat pul mablag'lari markazlashtirilgan fondini shakllantirish va foydalanish j arayonidagi iqtisodiy (pul) munosabatlarni ifodalaydi. Milliy daromadni qayta taqsimlashning asosiy quroli. Asosiy funksiyalari: l) mamlakatning yalpi ichki mahsuloti va milliy daromadini taqsimlash; 2) iqtisodiyotni davlat tomonidan tartibga solish va rag'batlantirish; 3) davlatning ijtimoiy siyosatini moliyaviy jihatdan ta\u2019minlash; 4) pul mablag'larining shakllantirilishi va ulardan foydalanish ustidan nazoratni amalga oshirish."
+        ]
+    },
+    {
+        "word": "Davlat Budjeti Daromadlari",
+        "type": [],
+        "definition": [
+            "davlat budjetiga jalb qilinadigan soliqli va nosoliqli mablag' lar; amaldagi qonunchilikka muvofiq ravishda davlat hokimiyati organlari va mahalliy o'z-o'zini boshqarish organlari ixtiyoriga kelib tushuvchi pul mablag'lari. O'z tarkibiga quyidagilarni oladi: l) qonun hujjatlarida belgilangan soliqlar, yig'imlar, bojlar, shuningdek, majburiy to'lovlar hamda soliq bo'lmagan boshqa tushumlar; 2) davlatning moliyaviy aktivlari va boshqa aktivlarining joylashtirilishi, foydalanishga berilishi va sotishga berilishidan olingan daromadlar; 3) qonun hujjatlariga muvofiq meros olish, hadya etish huquqi bo'yicha davlat mulkiga o\u2018tgan pul mablag'lari; 4) yuridik va jismoniy shaxslardan, shuningdek, xorijiy davlatlardan kelgan qaytarilmaydigan pul tushumlari; 5) rezident-yuridik shaxslarga va xorijiy davlatlarga berilgan budjet ssudalarini qaytarish hisobiga tushadigan to'lovlar; 6) qonun hujjatlarida taqiqlanmagan boshqa daromadlar."
+        ]
+    },
+    {
+        "word": "Davlat Budjeti Defitsitini Moliyalashtirish",
+        "type": [],
+        "definition": [
+            "davlat tomonidan xorijdan va ichki mablag\u2018ni jalb qilish, respublika budjeti mablag'larining moliya yili boshlanishidagi qoldiqlari va qonunga muvofiq boshqa manbalar hisobidan moliyalashtiriladi."
+        ]
+    },
+    {
+        "word": "Davlat Budjeti Mablag\u02bblarini Budjetlar O\u02bbrtasida Qayta Taqsimlash",
+        "type": [],
+        "definition": [
+            "l) quyi budjetlarga yuqori budjetlardan budjet subvensiyalari va dotatsiyalari berish; 2) budjet ijrosi jarayonida paydo bo'lgan o'zaro hisob-kitoblar bo'yicha mablag'larni yuqori budjetdan quyi budjetga, shuningdek, quyi budjetdan yuqori budjetga yo'naltirish; 3) budjet ssudalarini ajratish bilan qayta taqsimlanadi. Respublika budjetidan budjet subvensiyalari va dotatsiyalari Qoraqalpog'iston Respublikasi budjeti, viloyatlar va Toshkent shahri budjetlariga tasdiqlangan Davlat budjeti doirasida ajratiladi. Qoraqalpog'iston Respublikasi budjeti, viloyatlar va Toshkent shahri budjetlaridan budjet subvensiyalari va dotatsiyalari tumanlar hamda shaharlar budjetlariga tegishli tasdiqlangan budjetlar doirasida ajratilishi mumkin. Qoraqalpog'iston Respublikasi budjetida va mahalliy budjetlarda paydo bo'ladigan daromadlar va xarajatlar o'rtasidagi vaqtinchalik xazinaviy uzilish naqd pul aylanishi, yuqori budjetlarga beriladigan budjet ssudalari, foydalanilmagan budjet mablag'lari qoldiqlari hisobiga qoplanadi. O'zbekiston Respublikasi Vazirlar Mahkamasining qaroriga binoan, O'zbekiston Respublikasi Moliya vazirligi Qoraqalpog'iston Respublikasi budjetida, viloyatlar va Toshkent shahri budjetlarida nazarda tutilgan ayrim xarajatlarni maqsadli moliyalashtirish uchun quyi budjetlar hisobiga kiritiladigan daromadlarni respublika budjetiga o'tkazishi mumkin."
+        ]
+    },
+    {
+        "word": "Davlat Budjeti Mablag\u02bblarini Sarflash",
+        "type": [],
+        "definition": [
+            "tasdiqlangan budjet mablag'lari doirasida xarajatlar smetasiga muvofiq, Davlat budjeti mablag'lari budjet mablag'lari oluvchilari tomonidan moliya yili mobaynida bosqichma-bosqich, tayinlash sertifikatini muayyan davrga va tegishli summaga rasmiylashtirish yo'Ii bilan amalga oshiriladi."
+        ]
+    },
+    {
+        "word": "Davlat Budjeti Tuzilmasi",
+        "type": [],
+        "definition": [
+            "respublika budjeti, Qoraqalpog'iston Respublikasi budjeti va mahalliy budjetlarni o'z ichiga oladi. Davlat budjeti tarkibida davlat maqsadli jamg'armalari jamlanadi. Qoraqalpog'iston Respublikasi budjeti Qoraqalpog'iston Respublikasining Respublika budjeti hamda tumanlar va respublikaga (Qoraqalpog'istonga) bo'ysunuvchi shaharlar budjetlarini o'z ichiga olsa, viloyat budjeti esa viloyat budjeti, tumanlar va viloyat bo'ysunuvidagi shaharlar budjetlarini o'z ichiga oladi. O'z navbatida, tumanlarga bo'linadigan shaharning budjeti shahar budjeti va shahar tarkibiga kiruvchi tumanlar budjetlaridan iboratdir. Tumanga bo'ysunadigan shaharlari bo'lgan tumanning budjeti tuman budjeti va tuman bo'ysunuvidagi shaharlar budjetlarini o'z ichiga oladi."
+        ]
+    },
+    {
+        "word": "Davlat Budjeti Xarajatlari",
+        "type": [],
+        "definition": [
+            "davlat pul mablag'lari fondini taqsimlash bilan bog'liq bo'lgan iqtisodiy munosabatlar; davlat va mahalliy o'z-o'zini boshqarish organlari funksiyalari va vazifalarini moliyaviy jihatdan ta\u2019minlashga yo'naltiriladigan pul mablag'lari. Tarkibi quyidagilardan iborat: l) budjet mablag'lari oluvchilarning joriy xarajatlari; 2) joriy budjet transfertlari; 3) kapital xarajatlar (asosiy fondlar va vositalarni davlat ehtiyojlari uchun olish va takror ishlab chiqarish, xorijiy mamlakatlarda davlat ehtiyojlari uchun yer va boshqa mol-mulk olish, davlat ehtiyojlari uchun yerga bo'lgan huquq va boshqa nomoddiy aktivlarni olish, davlat zaxiralarini vujudga keltirish va boshqalar); 4) kapital xarajatlarni qoplash uchun yuridik shaxslarga beriladigan budjet transfertlari; 5) rezident yuridik shaxslarga va xorijiy davlatlarga beriladigan budjet ssudalari; 6) davlat maqsadli fondlariga beriladigan budjet ssudalari va dotatsiyalari; 7) davlat qarzini qaytarish va unga xizmat ko'rsatish bo'yicha to'lovlar; 8) qonun hujjatlarida taqiqlanmagan boshqa xarajatlar."
+        ]
+    },
+    {
+        "word": "Davlat Budjetining G\u02bbazna Ijrosi",
+        "type": [],
+        "definition": [
+            "Davlat budjetining barcha daromadlarini yagona g'azna hisob-raqamiga kiritishdan, shuningdek, Davlat budjetining xarajatlarini shu hisob-raqamdan to'lashdan iborat."
+        ]
+    },
+    {
+        "word": "Davlat Budjetining Kassa Ijrosi",
+        "type": [],
+        "definition": [
+            "O'zbekiston Respublikasi Moliya vazirligi va hududiy moliya organlari tomonidan O'zbekiston Respublikasi Moliya vazirligi bilan birgalikda amalga oshiriladi. Moliya vazirligibilanbirgalikda amalga oshiriladi. Davlatbudjetining kassaijrosi operatsiyalarini banklar Markaziy bankning topshirig'iga binoan bajaradi."
+        ]
+    },
+    {
+        "word": "Davlat Budjetining Mudofaa Xarajatlari",
+        "type": [],
+        "definition": [
+            "davlatning o'z mudofaa qobiliyatini mustahkamlashi kerakligi bilan bog'liqdir. Budjet mablag'lari hisobidan Qurolli Kuchlarning barcha turlari moliyalashtiriladi"
+        ]
+    },
+    {
+        "word": "Davlat Budjetining Nazorat Funksiyasi",
+        "type": [],
+        "definition": [
+            "budjetning milliy iqtisodiyot bilan uzviy bog'liqligi takror ishlab chiqarishning barcha bo'linmalarida ahvolning qandayligi to'g'risida ma\u2019lumotlar bilan doimiy ta\u2019minlab turadi."
+        ]
+    },
+    {
+        "word": "Davlat Budjetining Taqchilligi",
+        "type": [],
+        "definition": [
+            "xarajatlar summasining daromadlar summasidan ortiq bo'lishi."
+        ]
+    },
+    {
+        "word": "Davlat Budjetining Taqsimlash Funksiyasi",
+        "type": [],
+        "definition": [
+            "davlat budjeti tomonidan amalga oshirilayotgan taqsimlash munosabadari bo'lib, undan taqsimlanganyalpiichki (milliy) mahsulotni qayta taqsimlash uchun foydalaniladi."
+        ]
+    },
+    {
+        "word": "Davlat Buyurtmalari",
+        "type": [],
+        "definition": [
+            "davlat tomonidan muayyan mahsulot turi (hozirgi kunda paxta va g\u2018alla)ni yetkazib berish bo'yicha qishloq xo'jaligi korxonalari bilan tuzilgan shartnoma-topshiriq."
+        ]
+    },
+    {
+        "word": "Davlat Buyurtmasi",
+        "type": [],
+        "definition": [
+            "davlat tomonidan korxona va tashkilotlarga muayyan mahsulot turini tayyorlash va uni iste molchilarga yetkazib berish, ishlab chiqarish, noishlab chiqarish va ilmiy-tadqiqot xarakteridagi ma\u2019lum ishlarni bajarish uchun beriladigan topshiriq."
+        ]
+    },
+    {
+        "word": "Davlat Ichki Qarzlari",
+        "type": [],
+        "definition": [
+            "davlat tomonidan ichki mablag'ni jalb qilish natijasida vujudga kelgan O'zbekiston Respublikasi majburiyatlariningyig'indisi. Oldin chiqarilgan va hozirgi vaqtgacha foizlari bilan qaytarilmagan (uzilmagan) davlat qarzlari (zayomlari) ning butun summasi."
+        ]
+    },
+    {
+        "word": "Davlat Ijtimoiy Ta\u02bcminoti",
+        "type": [],
+        "definition": [
+            "O'zbekiston Respublikasi fuqarolarini keksayganda, kasallik ro'y berganda, mehnatga layoqatini qisman yoki butunlay yo'qotganda, boquvchisini yo'qotganda, shuningdek, bolali oilalarni moddiy ta\u2019minlash va ularga xizmat ko'rsatish davlat tizimidir."
+        ]
+    },
+    {
+        "word": "Davlat Korxonalari",
+        "type": [],
+        "definition": [
+            "davlat mulki bo'Igan va uning nazorati ostida faoliyat ko'rsatuvchi korxonalar hisoblanadi."
+        ]
+    },
+    {
+        "word": "Davlat Krediti",
+        "type": [],
+        "definition": [
+            "kreditning bu shaklining asosiy xususiyati kredit munosabatlarida davlatning qatnashuvidir. Davlat kreditida davlat bir tomondan qarz beruvchi va ikkinchi tomondan qarz oluvchi sifatida ishtirok etishi mumkin. Qarz beruvchi vazifasini bajara turib, davlat davlat kredit institutlari, jumladan, Markaziy bank orqali iqtisodning har xil sohalarini kreditlashni o'z zimmasiga oladi. Davlat kreditining xarakterli xususiyati, davlat tomonidan olingan qarz mablag'lari ishlab chiqarish fondlari aylanishida yoki moddiy boyliklar yaratishda ishtirok etmaydi. Bu mablag'lar davlat qarzlarini qoplash uchun ishlatiladi."
+        ]
+    },
+    {
+        "word": "Davlat Krediti Mun\u043esabatlarining Asosi",
+        "type": [],
+        "definition": [
+            "munosabatlarida bo'sh turgan pul kapitallariga nisbatan davlat ehtiyojlarining mavjudligi."
+        ]
+    },
+    {
+        "word": "Davlat Maqsadli Fondlari",
+        "type": [],
+        "definition": [
+            "Davlat budjeti tarkibida jamlantiriladigan fondlar bo' lib, ularning har biri uchun mablag' lar manbalari, har bir manbadan mablag' tushish normalari va shartlari, shuningdek, shu mablag'lardan foydalanilishi mumkin bo'lgan maqsadlar qonun hujjatlari bilan belgilanadi. Aniq maqsadlarga mo'ljallangan pul fondlari. Aholiga taqdim etiladigan ijtimoiy xizmatlarning \u043a\u043e' lamini kengaytirish, infrastrukturaning qoloq tarmoqlari rivojlanishini rag'batlantirish, iqtisodiyot ustuvor tarmoqlarini qo'shimcha resurslar bilan ta\u2019minlash bu fondlarning maqsadidir. Bu fondlar Pensiya fondi, Respublika yo'l fondi, Davlat mulkini boshqarish va tadbirkorlikni qo'llab-quwatlash davlat qo'mitasining maxsus fondi (hisob varag'i), ish bilan ta\u2019minlashga ko'maklashish davlat fondidan iboratdir. Ularning daromadlari va xarajatlari o'rtasidagi vaqtinchalik uzilish (yetishmovchilik)ni qoplash uchun davlat maqsadli fondlariga O'zbekiston Respublikasi Vazirlar Mahkamasining qaroriga binoan respublika budjetidan budjet dotatsiyalari va ssudalari ajratilishi mumkin. Davlat maqsadli fondlariga tushgan daromadlar xarajatlardan oshgan taqdirda O'zbekiston Respublikasi Moliya vazirligining taqdimnomasiga binoan, O'zbekiston Respublikasi Vazirlar Mahkamasining qarori bilan ortiqcha summa yilning har bir choragi yakunlari bo'yicha respublika budjetiga to'liqyoki qisman olib qo'yilishi mumkin"
+        ]
+    },
+    {
+        "word": "Davlat Maqsadli Jamg\u02bbarmalari",
+        "type": [],
+        "definition": [
+            "Davlat budjeti tarkibida jamlantiriladigan jamg'armalar bo'lib, ularning har biri uchun mablag'lar manbalari, har bir manbadan mablag' tushishi normalari va shartlari, shuningdek, shu mablag'lardan foydalanilishi mumkin bo'lgan maqsadlar qonun hujjatlari bilan belgilanadi"
+        ]
+    },
+    {
+        "word": "Davlat Moliyasi",
+        "type": [],
+        "definition": [
+            "yalpi ijtimoiy mahsulot (muayyan vaqt ichida jamiyat tomonidan yaratilgan ne\u2019matlar)ni taqsimlash va qayta taqsimlash jarayonida paydo bo'ladigan hamda davlat tomonidan o'z vazifalarini amalga oshirish uchun foydalaniladigan pul mablag'lari majmuyidir."
+        ]
+    },
+    {
+        "word": "Davlat Moliyaviy Nazorati",
+        "type": [],
+        "definition": [
+            "davlat budjeti va nobudjet fondlar, soliqlar, davlat korxona va tashkilotlarining moliyaviy faoliyati, pul hisob-kitoblarini tashkil etish, hisob va hisobotni yuritish sohalarida qonunchilikka rioya etilishini mamlakat hokimiyat va boshqaruv organlari, shuningdek, maxsus tuzilgan nazorat organlari (Hisob palatasi, Moliya vazirligi, Davlat soliq qo'mitasi va boshqalar) tomonidan amalga oshiriladigan nazorat."
+        ]
+    },
+    {
+        "word": "Davlat Moliyaviy Nazoratining Maqsadi",
+        "type": [],
+        "definition": [
+            "davlat xazinasiga resurslarni tushurishni maksimallashtirish va davlat boshqaruv xarajatlarini minimallashtirish"
+        ]
+    },
+    {
+        "word": "Davlat Muassasalari Sektori",
+        "type": [],
+        "definition": [
+            "Davlat muassasalari sektori quyidagi rezident institutsion birliklar guruhidan iborat bo'ladi: markaziy, regional (hududiy) va mahalliy davlat boshqaruvi birliklari, boshqaruvning barcha darajasiga mansub ijtimoiy ta\u2019minot jamg'armalari, bozor munosabatlariga aloqasi bo'lmagan barcha notijorat tashkilotlar (NTT). Bu tashkilotlar, asosan, davlat nazoratida va moliyaviy ta\u2019minotida budjetdan tarkib topadi."
+        ]
+    },
+    {
+        "word": "Davlat Mulki -",
+        "type": [],
+        "definition": [
+            "asosiy mulkchilik shakllaridan biri. Davlat mulki ikki yo'l bilan paydo bo'ladi: a) xususiy mol-mulkni milliylashtirib, davlat qo'liga olish; b) davlat mablag'lari hisobidan korxonalar qurish. Davlatning iqtisodiyotga aralashuvi kuchayishi bilan davlat mulki rivoj topadi, lekin uning monopoliyasi o'rnatilgach, raqobatga xalaqit beradi. Natijada davlat mulkini reprivatizatsiyalash yuzaga kelib, boshqa mulk shakllari kuchayadi. Bozor iqtisodiyotiga o'tish munosabati bilan davlat mulki, asosan, jamoa mulkiga, fuqarolar mulkiga va xususiy mulkka aylantiriladi."
+        ]
+    },
+    {
+        "word": "Davlat Nobudjet Fondlari Budjetlari",
+        "type": [],
+        "definition": [
+            "budjetlar, davlat nobudjet fondlari budjetlarining barcha daromad va xarajatlari hamda soliq va budjet qonunchiligi hamda davlat nobudjet fondlari to'g'risida qonunlarga muvofiq belgilangan barcha boshqa majburiy tushumlar budjetlarda, davlat nobudjet fondlarining budjetlarida majburiy tartibda va to'liq hajmda o'z aksini topish kerakligini anglatadi."
+        ]
+    },
+    {
+        "word": "Davlat Nomoliyaviy Korporatsiyalari",
+        "type": [],
+        "definition": [
+            "tegishli davlat idoralari tomonidan nazorat ostiga olinishi zarur bo'lgan rezidentlik nomoliyaviy korporatsiyalar hamda kvazikorporatsiyalar ana shunday korporatsiyalar tarkibiga kiradi. Korporatsiyalar ustidan nazorat deganda tegishli direktorlar tayinlash orqali korporatsiyalar siyosatinin belgilash imkoniyati tushuniladi"
+        ]
+    },
+    {
+        "word": "Davlat Qarzi",
+        "type": [],
+        "definition": [
+            "davlatning aholi, bank, korxona, tashkilot va chet mamlakatlardan olgan qarzi. Ma\u2019lum davrida budjet kamomadlari yig'indisi. U ikki guruhga bo'linadi: a) davlatning tashqi qarzi (xorijiy davlatlarga, tashkilot va alohida shaxslarga); b) ichki qarzi (davlatning o'z xalqidan qarzi)."
+        ]
+    },
+    {
+        "word": "Davlat Qarzini Qayta Moliyalashtirish",
+        "type": [],
+        "definition": [
+            "hukumat obligatsiyalarni sotib olish muddati kelganda, yangi obligatsiyalarni chiqarib sotadi. Undan kelgan tushumni muddati kelgan obligatsiyalarni sotib olishga sarf qiladi."
+        ]
+    },
+    {
+        "word": "Davlat Qimmatli Qog\u02bbozlari",
+        "type": [],
+        "definition": [
+            "O'zbekiston Respublikasining g'azna majburiyatlari va O'zbekiston Respublikasi Vazirlar Mahkamasi vakolat bergan organ tomonidan chiqarilgan obligatsiyalar, shuningdek; O'zbekiston Respublikasi Markaziy bankining obligatsiyalari."
+        ]
+    },
+    {
+        "word": "Davlat Sektori",
+        "type": [],
+        "definition": [
+            "mulk shakllaridan biri bo\u2018lib, uning subyekti (egasi) davlat hisoblanadi. Yer, tabiiy resurslar; asosiy ishlab chiqarish vositalari, bino va inshootlar; moddiy resurslar, moliyaviy resurslar, qimmatbaho buyumlar, axborotlar, madaniy va ma\u2019naviy boyliklar davlat mulki obyektlari hisoblanadi. Bu boyliklardan foydalanish to'liq davlat ixtiyorida bo'ladi. U davlat mulklaridan kerak bo'Igan yo nalishda foydalanishni taminlaydi."
+        ]
+    },
+    {
+        "word": "Davlat Solicl Inspeksiyalarining Vazifalari Va Funksiyalari",
+        "type": [],
+        "definition": [
+            "l) soliq to'lovchilar (xorijiy fuqarolar va fuqaroligi bo'lmagan shaxslarni ham qo'shib hisoblaganda)ning to'liq hisobga olinishini ta minlash; 2) soliq to'lovchilar tomonidan buxgalteriya hisoboti va balanslari, soliq hisob-kitoblari; hisobotlar; deklaratsiyalar va to'lovlarni hisoblash hamda to'lash bilan bog'liq bo'Igan barcha hujjatlarning o'z vaqtida taqdim etilishini nazorat qilish; shuningdek, foyda, daromad, soliqqa tortishning boshqa obyektlarining to'g'ri aniqlanganligi va hisoblanganligi bo'yicha bu huj j atlarto 'g \u2018riligini tekshirish; 3 ) budj et oldidagi o' z majburiyatlarini bajarmaganlarga nisbatan moliyaviy sanksiyalar (jazolar) qo'llanilishining to'g'riligini ta minlash; 4) korxona, tashkilot va muassasalardan foyda (daromad) yoki soliqqa tortishning boshqa obyektlari pasaytirilganligidan (kamaytirilganligi) dalolat beruvchi hujjatlarni ko'rish, ularning mazmunini qayd etish va olib qo'yishni amalga oshirish (tegishli hujjatlarni olib qo'yish uchun asos bo'lib soliq inspeksiyasi mansabdor shaxsining asoslangan qarori xizmat qiladi); 5) musodara qilingan va egasiz mulklar, shuningdek, meros qilish huquqi bo'yicha davlat ixtiyoriga o'tkazilgan mulklar hamda topilmalarni hisobga olish, baholash va realizatsiya qilish ishlarini amlga oshirish; 6) budjetga tushishi lozim bo'lgan va haqiqatda tushgan soliqlar va boshqa to'lovlarning operativ - bexgalteriya hisobi yurgiziladigan hujjatlarni banklar, moliya organlari, korxona, tashkilot va muassasalardan olish; 7) davlat soliq inspektsiyalari va ularning mansabdor shaxslariga buxgalteriya hisobotlari, balanslar, hisob-kitoblar, deklaratsiyalar va budjetga soliqlar hamda majburiy to'lovlarni hisoblash, shuningdek, to'lash bilan bog'liq bo'lgan boshqa hujjatlar taqdim etilmaganda yoki ularni taqdim etishdan bo'yin tovlangan hollarda korxona, tashkilot, muassasalar va fuqarolarning bank hamda boshqa moliya-kredit tashkilotlaridagi hisob-kitob va boshqa schyotlari bo'yicha operatsiyalarni to'xtatib qo'yish; 8) ortiqcha to'langan yoki undirilgan soliq va yig'imlarni qaytarishni amalga oshirish; 9) yuqori soliq organlariga budjetga haqiqatda kelib tushgan soliq va boshqa to'lovlarning summasi haqidagi ma\u2019lumotni tuzish, tahlil qilish va taqdim etish; 10) xo'jalik yurituvchi subyektlar tomonidan naqd pul muomalasi va nazorat-kassa mashinalarining qo'llanilishiga nisbatan qonunchilik talablarining bajarilishini nazorat qilishdan iborat."
+        ]
+    },
+    {
+        "word": "Davlat Subsidiyalari",
+        "type": [],
+        "definition": [
+            "kompaniya tomonidan o'tgan davrda yoki kelajakda uning operatsion faoliyati bilan bog'liq bo'lgan ma\u2019lum shartlarni bajargani yoki bajarishi evaziga resurslarni o'tkazib berish shaklidagi hukumat yordamidir. Asosli ravishda baholab bo'lmaydigan, shuningdek, kompaniyaning odatdagi savdo muomalalaridan ajratib bo'lmaydigan hukumat bilan olib boriladigan operatsiyalar davlat subsidiyalariga kiritilmaydi."
+        ]
+    },
+    {
+        "word": "Davlat Ta\u02bclim Standarti",
+        "type": [],
+        "definition": [
+            "uzluksiz ta\u2019limning muayyan bosqichida shaxs (mutaxassis)ning tayyorgarlik darajasi va mazmuniga qo'yiladigan minimum talablar"
+        ]
+    },
+    {
+        "word": "Davlat \u0422\u0430 Sarrufi Dan Chiqarish",
+        "type": [],
+        "definition": [
+            "davlat mulki, iqtisodiyotdagi davlat sektorini xususiylashtirishdan iborat bo'lib, u davlat mulkchiligining yakka hukmronligini tugatish, erkin tadbirkorlikka yo' 1 ochish va bozor iqtisodiyotini qaror toptirish maqsadida amalga oshiriladi. Xususiylashtirish orqali davlat mulki fuqarolarga berilib, mulk o'z egasini topadi; har bir kishi milliy boylikda o'z hissasiga ega bo'ladi."
+        ]
+    },
+    {
+        "word": "Davlat Tashqi Qarzi",
+        "type": [],
+        "definition": [
+            "davlat tomonidan xorijdan mablag' jalb qilish natijasida vujudga kelgan O'zbekiston Respublikasi majburiyatlarining yig'indisi."
+        ]
+    },
+    {
+        "word": "Davlat Tomonidan (Ichki Va Xorijdan) Mablag\u02bb Jalb Qilish",
+        "type": [],
+        "definition": [
+            "quyidagi maqsadlarda amalga oshirilishi mumkin: l) iqtisodiyotni rivojlantirishning ustuvor yo'nalishlari, shu jumladan, davlat investitsiya dasturlarini moliyalashtirish; 2) Davlat budjeti daromadlari bilan xarajatlari o'rtasida tushumlar vaqtga ko'ra muvofiq emasligi tufayli kelib chiqqan yillik ichki tafovutni to'g'rilash; 3) mavjud qarzni qayta moliyalashtirish; 4) budjet defitsitini moliyalashtirish; 5) tabiiy ofat yoki boshqa favqulodda vaziyatlar tufayli mablag'larga bo'lgan ehtiyojlarni qoplash. Davlat tomonidan ichki va xorijdan mablag' jalb qilishda qarz majburiyatlarining quyidagi turlaridan foydalanish mumkin: l) qisqa muddatli (bir yilgacha bo'lgan davrga chiqariladigan), o'rtacha muddatli (bir yildan besh yilgacha bo'lgan davrga chiqariladigan) va uzoq muddatli (besh yildan ortiq davrga chiqariladigan) davlat qimmatli qog'ozlari; 2) kreditlar (qisqa, o'rta va uzoq muddatli); 3) O'zbekiston Respublikasiningkafolatlari; 4) budjet daromadlari bilan xarajatlari o'rtasidagi vaqtinchalik tafovutni qoplash uchun qisqa muddatli ssudalar; 5) qonun hujjatlarida nazarda tutilgan boshqa turlar. Davlat tomonidan ichki va xorijdan mablag' jalb qilishga hamda davlat qarzi ko'payishiga olib keladigan boshqa harakatlar O'zbekiston Respublikasi Vazirlar Mahkamasi yoki u vakolat bergan organ tomonidan amalga oshiriladi."
+        ]
+    },
+    {
+        "word": "Davlat Tomonidan Bozorning Tartibga Solinishi",
+        "type": [],
+        "definition": [
+            "ijtimoiy ishlab chiqarish rivojiga ta\u2019sir ko'rsatish maqsadida ijtimoiyiqtisodiy, moliyaviy, tarkibiy-sarmoyaviy hamda ilmiy-texnikaviy va boshqa vositalar yordamida bozomi qaror toptirishda davlatning aralashuvidir. Davlat tomonidanboshqarish mexanizmi va usullarini qo'llash o'tish davrida boshlanadi. Bozorni boshqarishning eng muhim mexanizmlari: rejalashtirish, soliq tizimi, baho, ijtimoiy himoyalashdan iborat."
+        ]
+    },
+    {
+        "word": "Davlat Tomonidan Ichki Mablag\u02bbni Jalb Qilish",
+        "type": [],
+        "definition": [
+            "aktivlarni ichki manbalar (rezident-yuridikvajismoniy shaxslar)dan jalb etish hamdabuningnatijasida O'zbekiston Respublikasiningqarz oluvchi sifatidagi yoki qarz oluvchi rezidentlarning o'z kreditlari (qarzlari) ni to'lashiga kafil sifatidagi majburiyatlarining vujudga kelishi."
+        ]
+    },
+    {
+        "word": "Davlat Tomonidan Sotib Olish",
+        "type": [],
+        "definition": [
+            "davlat budjeti hisobidan ichki va tashqi bozorda ishlab chiqilgan tovarlar va xizmatlarning sotib olingan qismi. Davlat xaridlari, davlat ehtiyojlari (asbob-uskuna, qurol-yarog' sotib olishiga) va aholining istemolini qondirish hamda zaxiralar yaratish maqsadida amalga oshiriladi."
+        ]
+    },
+    {
+        "word": "Davlat Tomonidan Xorijdan Mablag\u02bb Jalb Qilish",
+        "type": [],
+        "definition": [
+            "aktivlarni xorij manbalari (chet el davlatlaridan, norezident yuridik shaxslardan vaxalqaro tashkilotlar)dan jalb etish hamda buningnatijasida O'zbekiston Respublikasining qarz oluvchi sifatidagi yoki qarz oluvchi rezidentlarning o\u2018z kreditlari (qarzlari)ni to'lashiga kafil sifatidagi majburiyatlari yuzaga kelishi."
+        ]
+    },
+    {
+        "word": "Davlat Transferti",
+        "type": [],
+        "definition": [
+            "qarang: transfert."
+        ]
+    },
+    {
+        "word": "Davlat Transfertlarimultiplikatori",
+        "type": [],
+        "definition": [
+            "muvozanatli sof mahsulot o'zgarishining hukumat transfert to'lovlaridagi o'zgarishlarga nisbati."
+        ]
+    },
+    {
+        "word": "Davlat Valyuta Monopoliyasi",
+        "type": [],
+        "definition": [
+            "valyuta boyliklari (valyutaviy boyliklar) bilan operatsiyalarni amalga oshirish yoki operatsiyalarni amalga oshirishni ma\u2019lum organlar, korxonalar, firmalar zimmasiga o'tkazishga ruxsat berish, valyutaviy mablag'lardan foydalanish tartibini belgilash bo'yicha davlatning tanho huquqi. Valyuta operatsiyalarini reglamentatsiya (tartibga solib turish) qilish, valyutaviy mablag'lardan foydalanish ustidan nazoratni amalga oshirish va ularning qo'llanilish samaradorligini oshirish bo'yicha choralar ko'rishni taqozo etadi."
+        ]
+    },
+    {
+        "word": "Davlat Xaridlari Multiplikatori",
+        "type": [],
+        "definition": [
+            "muvozanatli, sof milliy mahsulotni o'zgartirishning davlat xaridlari o'zgarishiga nisbati."
+        ]
+    },
+    {
+        "word": "Davlat Zayomlari",
+        "type": [],
+        "definition": [
+            "davlat iqtisodiy faoliyatni amalga oshirib, qarz beruvchi, shuningdek, qarz oluvchi ham bo' lishi mumkin. U oladigan kredit davlat zayomi deyiladi. Davlat zayomi - obligatsiyalar, ya ni uning egalariga muayyan muddat o'tgach, qarz va foizlar summasini qaytadan olish huquqini beradigan qarz majburiyatlarini chiqarish va sotish orqali amalga oshiriladi. Qarzga olingan pullarni davlat, odatda, budjet taqchilligini qoplash, davlat hamda mahalliy hokimiyat idoralarini mablag' bilan ta minlashga sarflaydi."
+        ]
+    },
+    {
+        "word": "Davlatning Soliq, Siyosati",
+        "type": [],
+        "definition": [
+            "davlat tomonidan jismoniy va yuridik shaxslardan undiriladigan soliqlarning turi, ularni yig'ib olish yo'llari hamda usullarini tashkil etish borasidagi siyosat."
+        ]
+    },
+    {
+        "word": "Davlatning Soliq, Tizimi",
+        "type": [],
+        "definition": [
+            "muayyan sharoitda davlat foydasiga undiriladigan soliq turlarining majmuyi. Unga soliqlarning turlari, miqdori, soliq imtiyozlari, undiriladigan soliqlarni aniqlash kabilar kiradi. Soliq tizimining vazifalari mavjud bo'lib, ulardan: soliq to'lovchilar bilan davlat o'rtasida daromadlarni taqsimlash va qayta taqsimlash, ijtimoiy-iqtisodiy sohalarda faoliyat yuritishni rag'batlantirish yoki cheklash, aholining ayrim tabaqalariga ijtimoiy imtiyozlarni berish kabilar eng muhimlaridan biri hisoblanadi. Soliq tizimi o'zgaruvchan bo'ladi."
+        ]
+    },
+    {
+        "word": "Davr Xarajatlari",
+        "type": [],
+        "definition": [
+            "bevosita ishlab chiqarish jarayoni bilan bog'liq bo'lmagan xarajatlar va sarflar tushuniladi: boshqaruv xarajatlari, mahsulotni sotish xarajatlari va umumxo\u2019jalik ahamiyatiga ega bo'Igan boshqa xarajatlar."
+        ]
+    },
+    {
+        "word": "Davriy (Siklik) Defitsit",
+        "type": [],
+        "definition": [
+            "iqtisodiyotning davriy rivojlanishi (tanazzuli) sababli va soliq tushumlarining qisqarishi bilan bog'liq davlat budjetining defitsiti."
+        ]
+    },
+    {
+        "word": "Davriy Ishsizlik",
+        "type": [],
+        "definition": [
+            "iqtisodiyotning krizis holatidagi ishsizlik. Mavsumiy xarakterga ega bo'lib, bozor iqtisodiyotiga o'tish davrida davriy ishsizlik kuchayib boradi. Keyinchalik ishsizlikka bar ham beriladi. ( Qarang: siklik ishsizlik)"
+        ]
+    },
+    {
+        "word": "Davriy Talab",
+        "type": [],
+        "definition": [
+            "har zamonda paydo bo'lib, qondiriladigan va takrorlanib turadigan talab."
+        ]
+    },
+    {
+        "word": "Davriy Xarajatlar",
+        "type": [],
+        "definition": [
+            "mahsulot (ish, xizmat) larni ishlab chiqarish bilan bevosita bog'liq bo'lmagan xarajatlar. Ushbu xarajatlar, asosan, tijorat (sotish) va ma'muriy boshqaruv va moliyaviy faoliyat bilan bog'liq xarajatlardan tashkil topgan. DEBET (lot. debet - u majbur) - buxgalteriya hisobining bir qismi. Aktiv schyotlarning debetiga summalarning ko'payishi yozilsa, passiv schyotlarda esa summaning kamayishi yoziladi. Hisoblashish schyotlarining debetida esa boshqa korxona va shaxslarning shu korxonaga qarzlari aks ettiriladi va debetorlik qarzlari deyiladi. Debet qoldiqlari esa aktiv va aktiv-passiv schyotlarda bo'ladi. Xo'jalik mablag'lari hamda ularning manbalarining ko'payishi va kamayishini qayd qilish uchun schyot ikki qismidan iborat bo'ladi. Uning chap qismi debet (lot. debet - qarzdor), o'ng qismi kredit (lot. credit - ishonadi) deb nomlanadi. \u201cDebet\u201d va \u201cKredit\u201d iboralarini \u201cD-t\u201d yoki \u201cD\u201d va \u201cK-t\u201d yoki \u201cK\u201d belgilari bilan ifodalasa ham bo'ladi."
+        ]
+    },
+    {
+        "word": "Debitor",
+        "type": [],
+        "definition": [
+            "biror korxonadan, firmadan, muassasadan boshqa yuridik shaxs yoki fuqaroning qarzdor bo'lib qolishi. Bu terminxo'jalikva buxgalteriya amaliyotida ham qo'llaniladi."
+        ]
+    },
+    {
+        "word": "Debitorlik Qarzi ",
+        "type": [],
+        "definition": [
+            "o'zaro xo'jalik aloqalarini olib boruvchi korxona, firma, tashkilotlarning bir-biridan qarz summasi. Uning vujudga kelish sababi xo'jalik yurituvchi subyektlarning bir-birlaridan olgan tovar va xizmatlarining haqini darhol to'lay olmasligidir. Debitorlik qarzi korxonaning zararlariga qo'shib yoziladi."
+        ]
+    },
+    {
+        "word": "D E B It O R L Ik V A Kreditorlik Q A R Z L A R In In G H A Q Iq Iy Qiymati",
+        "type": [],
+        "definition": [
+            "korxonaning jami debitorlik (kreditorlik) qarzlarining faqatgina so'ndirilishi mumkin bo'lgan qismi."
+        ]
+    },
+    {
+        "word": "Defilyatsiya",
+        "type": [],
+        "definition": [
+            "inflyatsiya davrida chiqarilgan muomaladagi qogoz pul miqdorini kamaytirish. Davlat tomonidan moliya va pul-kredit tadbirlarini qo'llash orqali amalga oshiriladi. DEFITSIT - kamyob, noyob. l) biror narsaning yetishmasligi, kamchiligi. Jumladan, tovarlar yetishmasligi, budjet mablag\u2018i yetishmasligi; 2) kamomad, zarar."
+        ]
+    },
+    {
+        "word": "Deflirlash",
+        "type": [],
+        "definition": [
+            "muayyan yildagi narxlar ba\u2019zi yildagiga nisbatan yuqori bo'lganda, real yalpi milliy mahsulot hajmini muayyan yilda ishlab chiqarilgan YaMM qiymatini kamaytirish yo'li bilan aniqlash. Bunda baza yilidagi, masalan, 1990-yil baholari 100% qilib olinadi. 1998-yilda ishlab chiqarilgan YaMM 4861,1 mln dollarga teng deb faraz qilamiz. 1998-yildagi baholar 1990-yilga solishtirilganda 21,7% yuqori bo'lgan. Agar real YaMM hisoblaydigan bo'lsak, u 3994,9 teng bo'ladi. U 1990-yilga nisbatan 21,72 kamaytirildi (Qarang: nominal va real YaMM)."
+        ]
+    },
+    {
+        "word": "Deflyatsiya",
+        "type": [],
+        "definition": [
+            "inflyatsiya davrida chiqarilgan muomaladagi qog'oz pul miqdorini kamaytirish. Davlat tomonidan moliya va pul-kredit tadbirlarini qo'llash orqali amalga oshiriladi. Odatda, hukumat tomonidan avj olayotgan inflyatsiya sur\u2019atlarini pasaytirish uchun qo'llaniladi. Deflyatsiyani amalga oshirishning quyidagi uslublari mavjud: soliqlarni oshirish, davlat tasarrufidagi mol-mulk va davlat qimmatli qog'ozlarining savdoga chiqarilishi, tashqi savdo operatsiyalari va valyuta almashinuvining tartibga solinishi, budjet hisobidan amalga oshiriladigan sarf-xarajatlarning kamaytirilishi, oylik ish haqi darajasining bir maromda saqlab turilishi. Deflyatsiyaning oqibatlari: ijtimoiy tanglikning kuchayishi, ijtimoiy ixtiloflar, iqtisodiy o'sish sur\u2019atlarining pasayishi."
+        ]
+    },
+    {
+        "word": "Deflyator",
+        "type": [],
+        "definition": [
+            "inflyatsiya sur\u2019atini ko'rsatuvchi umumiy ko'rsatkich. Baholar indeksiga asoslanadi"
+        ]
+    },
+    {
+        "word": "Degressiv Xarajatlar",
+        "type": [],
+        "definition": [
+            "o'zgaruvchan xarajatlarning bir turi, ya\u2019ni xarajatlarning o'sish darajasi subyektning ishbilarmonlik faolligi o'sishidan ortda qoladi."
+        ]
+    },
+    {
+        "word": "Dehqon Xo\u02bbjaligi",
+        "type": [],
+        "definition": [
+            "o'z qaramog'ida bo'lgan mulk, yer va boshqa tabiiy resurslardan foydalanish asosida qishloq xo'jalik mahsulotlarini ishlab chiqarish, qayta ishlash, saqlash va sotishni amalga oshiruvchi mustaqil xo'jalik yurituvchi subyekt."
+        ]
+    },
+    {
+        "word": "Dehqonchilik Tizimi",
+        "type": [],
+        "definition": [
+            "dehqonchilik mahsulotlari yetishtirish uchun yerdan to'la foydalanish, tuproq unumdorligini oshirishga qaratilgan, o'zaro bog'liq va bir-birini to'ldiradigan tashkiliyagrotexnik tadbirlar yig'indisi."
+        ]
+    },
+    {
+        "word": "Deklaratsiya",
+        "type": [],
+        "definition": [
+            "1) hukumat, tashkilot, firma nomidan rasmiy e\u2019lon qilingan bayonot; asosiy prinsiplarni tantanali e\u2019lon qilish; 2) bojxonada deklaratsiya qimmatbaho buyumlar va mahsulotlarni chegaradan olib chiqishda va qimmatbaho paketlarga, banderolga qo'shib jo'natiladigan hujjat. Ushbu hujjatda paket mazmuni, qiymati ko'rsatiladi; 3) soliq deklaratsiya daromadning miqdori, manbayi, mulk hajmi va boshqalar xususida soliq to'lash uchun yozilgan ariza. Deklaratsiya davlat ichki yoki tashqi siyosatining asosiy prinsiplari aks etgan hujjat. Xalqaro tashkilotlar, shujumladan, BMT deklaratsiya ko'rinishida xalqaro munosabatlarning aniq sohasidagi asosiy qoidalarini mustahkamlab boradi."
+        ]
+    },
+    {
+        "word": "Dekort",
+        "type": [],
+        "definition": [
+            "molning haqini muddatdan awal to'langan yoki molning miqdori, sifati kelishuv shartlariga mos kelmagani uchun molning narxidan chegirma."
+        ]
+    },
+    {
+        "word": "Demano-Polizatsiya",
+        "type": [],
+        "definition": [
+            "(lot. de - ajratish, bekor qilish - old qo'shimchasi, yunon, monotanho va poleo - sotaman) - sog'lom iqtisodiy bellashuvga yo'l berish maqsadida yakkahokim korxonalar va birlashmalar o'rniga o'zaro raqobatlashuvchi ko'plab korxonalarni tuzish. Demano-polizatsiya ikki yo'l bilan amalga oshiriladi: 1) yirik monopol mavqedagi birlashmalar, kompaniyalar tarqatilib, ulardan mustaqil korxonalar ajralib chiqadi; 2) yakkahokim korxona, birlashma yoki kompaniyalar saqlangan holda ular bilan raqobat qila oladigan korxona yoki birlashmalar tashkil etiladi."
+        ]
+    },
+    {
+        "word": "Demarketing",
+        "type": [],
+        "definition": [
+            "marketingning bir turi bo'lib, ishlab chiqarish quwati, xomashyoning yetishmasligi tufayli bozorga kam chiqariladigan molga talabni pasaytirishga qaratilgan."
+        ]
+    },
+    {
+        "word": "Demokratiya",
+        "type": [],
+        "definition": [
+            "boshqaruvning barcha bosqichlaridagi erkinlikning barqarorligidir. So'z erkinligi va iqtisodiy faoliyat bilan shug'ullanish erkinligini beradigan kuchli qonunlarga ega bo'lishdir."
+        ]
+    },
+    {
+        "word": "Demping",
+        "type": [],
+        "definition": [
+            "(ing. dumping-tashlash) -1 ) bozorniegallashvaundanraqobatchilarni siqib chiqarish maqsadida mahsulotlarni sotuv narxiga nisbatan arzonga sotish; 2) sifati past mollar eksporti; tovarlarni mamlakat ichkarisidagi yoki jahon bozoridagi narxlardan ancha past narxda bitta mamlakatdan boshqasiga olib chiqib ketish. Tariflar va savdo haqidagi bosh bitim qoidalari (GATT)ga muvofiq bir mamlakat tovarlari boshqa mamlakat bozorida \u201cnormal\u201d narxdan past narxda sotilgan, u ana shunday mahsulotni milliy ishlab chiqarishga katta zarar yetkazgan yoki ana shunday zarar yetkazishga xavf solgan hollar dempingga taalluqli bo'ladi. 1967-yildaGATT doirasida tovar demping faktini aniqlash va isbotlash tartibi, shuningdek, tovar ishlab chiqaruvchi firmalarga yetkazilgan zarami qoplash usullarini belgilovchi xalqaro dempingga qarshi kodeks qabul qilingan edi."
+        ]
+    },
+    {
+        "word": "Demping Narx",
+        "type": [],
+        "definition": [
+            "tovar tannarxidan past narx."
+        ]
+    },
+    {
+        "word": "Demping Siyosati",
+        "type": [],
+        "definition": [
+            "bozorda raqibini sindirish maqsadida tovarlarning o\u2018z tannarxidan past narxda sotilishi."
+        ]
+    },
+    {
+        "word": "Dempingga Qarshi Bojxona Bojlari",
+        "type": [],
+        "definition": [
+            "mahsulotni chiqarayotgan mamlakatdagi tovarlar qiymatidan shu tovarlar olib kirilayotgan mamlakatda shu tovarlarning bahosi past bo'lsa, bu narsa mamlakat o'z ishlab chiqaruvchilariga moddiy zarar yetkazish xavfini tug'dirsa yoki shunga o'xshash tovarlarni mamlakat doirasida ishlab chiqarishni to'xtatib qo'yishi mumkin bo'lsa joriy etiladi."
+        ]
+    },
+    {
+        "word": "Denatsionalizatsiya",
+        "type": [],
+        "definition": [
+            "1. Davlatga o'tgan mulkni yana o'z xususiy egasiga qaytarish. 2. Milliy xususiyatlarni, shu jumladan, madaniyatni, tilni va shu kabilarni yo'qotish."
+        ]
+    },
+    {
+        "word": "Denominatsiya",
+        "type": [],
+        "definition": [
+            "eski pul birligini yangisiga almashtirish bilan milliy pul birligini mustahkamlash."
+        ]
+    },
+    {
+        "word": "Denonsatsiya",
+        "type": [],
+        "definition": [
+            ". Shartnomadan voz kechish. Agar sug'urta munosabatlarida tomonlardan biri yozma ravishda shartnomadan voz kechishi to'g'risida ikkinchi tomonga ma\u2019Ium qilmasa, shartnoma unda ko'rsatilgan muddatgacha kuchda bo' ladi. 2. Biror davlat tomonidan ikkinchi davlatga ular o'rtasidagi ahdnomaning bekor qilinganligini bildirish."
+        ]
+    },
+    {
+        "word": "Departament",
+        "type": [],
+        "definition": [
+            "l.Fransiyada asosiy ma\u2019muriyhududiybirlik. 2. AQSHdaba\u2019zi vazirliklar nomi. Masai an: Davlat departamenti. 3. Ba\u2019zi davlatlarda va O'zbekistonda vazirliklarning, hukumat muassasalarining bo'limlari."
+        ]
+    },
+    {
+        "word": "Depo Hisob-Varag\u02bbi",
+        "type": [],
+        "definition": [
+            "deponentning qimmatli qog'ozlarini saqlash va qimmatli qog'ozlarga bo'Igan huquqlarni hisobga olish uchun mo'ljallangan, investitsiya vositachisi va qimmatli qog'ozlar markaziy depozitariyasining hisobga olish registrlaridagi yozuvlar yig'indisi."
+        ]
+    },
+    {
+        "word": "Depo Hisob -Varag \u02bcIdan Ko Chirma",
+        "type": [],
+        "definition": [
+            "deponentning qimmatli qog'ozlarga bo'Igan huquqlarini tasdiqlaydigan, investitsiya vositachisi va (yoki) qimmatli qog'ozlar markaziy depozitariyasi tomonidan beriladigan hujjat."
+        ]
+    },
+    {
+        "word": "Deponent",
+        "type": [],
+        "definition": [
+            "(lot. depono - yig'aman) - korxona, tashkilot, muassasa yoki jismoniy shaxsning korxona, tashkilot, muassasada vaqtincha saqlayotgan mablag'i. Deponentlangan summa shaxslarning talabi bilan beriladi yoki boshqa bir korxona va tashkilotlarga o'tkaziladi. O'z vaqtida olinmagan oylik maoshlari, sudning ijro varaqalariga ko'ra ish haqidan ushlangan, ammo olinmagan summalar ham deponent hisoblanib, maxsus schyotlarda saqlanadi. Uch yil muddatgacha talab qilib olinmagan deponentlangan ish haqi summasi budjetga o'tkaziladi."
+        ]
+    },
+    {
+        "word": "Deponentlashtirish",
+        "type": [],
+        "definition": [
+            "pul mablag'lari, qimmatli qog'ozlar va boshqa boyliklarni kredit tashkilotlariga saqlash uchun topshirish; xodimlarning o\u2018z vaqtida olinmagan ish haqlarining pul mablag'lari qoldig'ini kredit muassasalariga topshirish."
+        ]
+    },
+    {
+        "word": "Depozit",
+        "type": [],
+        "definition": [
+            "1. Banklarga saqlash uchun topshirilgan pul mablag'lari yoki qimmatli qog'ozlar. 2. Qarzdor kreditorga berib yuborish uchun sud muassasasiga ajratadigan pul summasi yoki qimmatli qog'oz."
+        ]
+    },
+    {
+        "word": "Depozit Foizi",
+        "type": [],
+        "definition": [
+            "mablag' qo'yuvchining pulidan foydalangani uchun unga bank tomonidan to'lanadigan to'lov, ya\u2019ni narx"
+        ]
+    },
+    {
+        "word": "Depozit Muassasalar",
+        "type": [],
+        "definition": [
+            "alohida shaxslar va korxonalardan omonatlar oladigan firma. Tijorat banklari, ssuda jamg'arma uyushmalari, kredit ittifoqlari va shu kabilar"
+        ]
+    },
+    {
+        "word": "Depozit Operatsiyalari",
+        "type": [],
+        "definition": [
+            "yuridik va jismoniy shaxslarning bo'sh pul mablag'larini jalb qilish bilan bog'liq operatsiyalar"
+        ]
+    },
+    {
+        "word": "Depozit Pul Korporatsiyalari",
+        "type": [],
+        "definition": [
+            "rezident depozit korporatsiyalar va kvazikorporatsiyalarni o'z ichiga oladi. Bu korporatsiyalar birinchi talabga binoan to'lanuvchi omonatlar, chek yoki boshqa to'lov vositasida o'tkaziluvchi operatsiyalar bilan shug'ullanad"
+        ]
+    },
+    {
+        "word": "Depozit Sertifikat",
+        "type": [],
+        "definition": [
+            "bankka qo'yilgan omonat summasi va omonatchi (sertifikat saqIovchi)ning omonat summasi hamda sertifikatda shartlashilgan foizlarni sertifikatni bergan bankdan yoki shu bankning istalgan filialidan belgilangan muddat tugaganidan keyin olish huquqini tasdiqlovchi noemissiyaviy qimmatli qog'oz."
+        ]
+    },
+    {
+        "word": "Depozit Sertifikatlari",
+        "type": [],
+        "definition": [
+            "jamg'armachining bankka qo'ygan pul mablag'ini ifodalovchi va muomala muddati tugaganidan keyin qo'ygan pul mablag'ini hamda foyda sifatida ustama foizini huquq va imkoniyatini beruvchi qimmatli qog'ozdir. Depozit sertifikati bank tomonidan beriladi."
+        ]
+    },
+    {
+        "word": "Depozitar Operatsiyalar",
+        "type": [],
+        "definition": [
+            "hisobga olish registrlarida depozitar operatsiyalar standartlariga muvofiq bajariladigan operatsiyalar."
+        ]
+    },
+    {
+        "word": "Depozitartilxatlar",
+        "type": [],
+        "definition": [
+            "nominal qiymatga ega bo'lmagan qimmatli qog'oz bo'lib, u taqdim etiladigan qimmatli qog'ozlarning muayyan soniga bo'Igan mulk huquqini tasdiqlaydi va egasining ushbu qimmatli qog'oz emitentidan depozitar tilxat o'rniga taqdim etiladigan qimmatli qog'ozlarning tegishli sonini olishini hamda taqdim etiladigan qimmatli qog'ozlar bilan mustahkamlangan huquqlarning depozitar tilxat egasi tomonidan amalga oshirilishi bilan bog'liq xizmatlar ko'rsatilishini talab qilish huquqini mustahkamlaydi"
+        ]
+    },
+    {
+        "word": "Depozitariy",
+        "type": [],
+        "definition": [
+            "depozitlarni saqlash uchun ishonib topshirilgan jismoniy yoki huquqiy shaxs"
+        ]
+    },
+    {
+        "word": "Depozitlarni Sug\u02bburta Qilish",
+        "type": [],
+        "definition": [
+            "banklar bankrot deb e\u2019lon qilinganda yoki to'lov qobiliyati yo'qolganda, omonatchilarning bankdagi pul mablag'larining ularga qaytarilishini sug'urtalash. Bunda banklar sug'urtalanuvchilar hisoblanadi. Sug'urtani maxsus sug'urta tashkilotlari amalga oshiradi. Depozitlarni sug'urtalash chet mamlakatlarda keng tarqalgan. Masalan, AQShda depozit sug'urtasini depozitlarni sug'urtalash federal korporatsiyasi amalga oshiradi. AQShda har bir omonatchiga to'g'ri keladigan 100 ming AQSh dollari miqdoridagi depozitni banklar majburiy sug'urtalaydi"
+        ]
+    },
+    {
+        "word": "Depressiya",
+        "type": [],
+        "definition": [
+            "iqtisodiy rivojlanishning davriy yuksalish va tushkunlik jarayoni bo' lmish iqtisodiy siklningbir bosqichidir. Iqtisodiy sikl: tushkunlik, depressiya (turg'unlik), jonlanish va yuksalish bosqichlaridan iboratdir. Turg'unlik- tanazzuldan keyingibosqichdir. Bubosqichda ishlab chiqarishning inqirozi to'xtaydi, ishlab chiqarish bilan iste\u2019molning talab bilan taklifi o'rtasida muvozanat vujudga keladi. Bu davr uchun ishlab chiqarish ko'lami va darajasining pasayishi xos. Ishlab chiqarilgan mahsulotlarning hajmi naqd pul massasidan oshib ketadi, aholining turmush darajasi pasayib, ijtimoiy tanglik kuchayadi, boshqaruv mexanizmlari izdan chiqadi."
+        ]
+    },
+    {
+        "word": "Destillion",
+        "type": [],
+        "definition": [
+            "birning yonidagi nollar soni 33 ta bo'Igan son."
+        ]
+    },
+    {
+        "word": "Determinatsiya Koeffitsiyenti",
+        "type": [],
+        "definition": [
+            "natijaviy belgi o'zgaruvchanligining qaysi qismi x-omil ta siri ostida vujudga kelishini ko'rsatadi."
+        ]
+    },
+    {
+        "word": "Devalvatsiya",
+        "type": [],
+        "definition": [
+            "(lot. de - old qo'shimcha, bu o'rinda pasaymoq ma\u2019nosida va lot. valeo - qiymat) - mamlakat savdo to'lov balansining keskin yomonlashuvi, valyuta rezervining holdan toyishi, xalqaro valyuta bozorida milliy valyuta kursining pasayishi bilan bog'liq holda milliy pul birligi qiymatining rasmiy ravishda pasaytirilishi. Valyutalarning rasmiy qiymati ularning oltin ta\u2019minotini taqqoslash bilan belgilangan davr ( 1978-yil)gacha devalvatsiya - pul birligining tarkibidagi oltin hissasini kamaytirish yo'li bilan amalga oshirilgan. Hozirgi vaqtda esa u barcha erkin almashinadigan valyutalar (odatda, AQSh dollari, Germaniya markasi, Angliya funt sterlingi va boshqalar)ga nisbatan pasaytirish yo'li bilan amalga oshiriladi."
+        ]
+    },
+    {
+        "word": "Devidend",
+        "type": [],
+        "definition": [
+            "daromad, aksionerlarga ularning qo' lidagi aksiyalar soniga muvofiq to'lanadi"
+        ]
+    },
+    {
+        "word": "Deviz Siyosati",
+        "type": [],
+        "definition": [
+            "davlat organlarining chet el valyutalarini sotish yoki sotib olish orqali milliy valyuta kursiga ta sir etish siyosatiga aytiladi."
+        ]
+    },
+    {
+        "word": "Diagnostika",
+        "type": [],
+        "definition": [
+            "konkret tashkilotning ayni paytdagi holatini uning rivojlanish istiqbollarini aniqlash va inqiroz xavfining oldini olish maqsadlarida tahlil qilish, baholash"
+        ]
+    },
+    {
+        "word": "Dialektika Usuli",
+        "type": [],
+        "definition": [
+            "voqea-hodisalarni ketma-ketlikda o'rganish"
+        ]
+    },
+    {
+        "word": "Differensial Renta",
+        "type": [],
+        "definition": [
+            "boshqa resurslarga nisbatan yuqori unumdorlikka ega bo'lgan resurs egasi tomonidan olinadigan renta"
+        ]
+    },
+    {
+        "word": "Differensial Renta-1",
+        "type": [],
+        "definition": [
+            "yerlarning tabiiy unumdorligidagi farqlar natijasida vujudga keladigan qo'shimcha sof daromad."
+        ]
+    },
+    {
+        "word": "Differensial Renta-2",
+        "type": [],
+        "definition": [
+            "yerlarning iqtisodiy unumdorligini oshirish natijasida vujudga keladigan qo'shimcha sof daromad."
+        ]
+    },
+    {
+        "word": "Diler (Dealer)",
+        "type": [],
+        "definition": [
+            "o'z hisobiga birja yoki savdo vositachiligi bilan shug'ullanuvchi ishbilarmon. Diller qimmatli qog'ozlar, tovarlar va valyuta oldi-sotdi savdo bitimlarida vositachilik qiluvchi shaxs yoki firma hisoblanadi"
+        ]
+    },
+    {
+        "word": "Diler Vazifasini Bajaruvchi Bank",
+        "type": [],
+        "definition": [
+            "1. Tijorat banki bo'lib, u bozorga davlat qimmatbaho qo'g'ozlarini chiqarishni taklif qiladi. 2. Munispial qimmatli qo'g'ozlar bo'yicha diler sifatida munisipial qimmatbaho qo'g'ozlar (AQSh) bilan bo'ladigan oldi-sotdilarni tartibga soluvchi kengash ro'yxatidan o'tgan bank bo'limi."
+        ]
+    },
+    {
+        "word": "Dilerlik Faoliyati",
+        "type": [],
+        "definition": [
+            "qimmatli qog'ozlar oldi-sotdisiga doir bitimlarni o'z nomidan va o'z hisobidan muayyan qimmatli qog'ozlarni xarid qilish va (yoki) sotish narxlarini ochiqchasiga e\u2019lon qilish yo'li bilan ushbu qimmatli qog'ozlarni e\u2019lon qilishga narxlar bo'yicha xarid qilish va (yoki) sotib olish majburiyati bilan amalga oshirishdir."
+        ]
+    },
+    {
+        "word": "Dinamik Qator",
+        "type": [],
+        "definition": [
+            "hodisaning vaqt bo'yicha o'zgarishini ko'rsatuvchi sonlar qatori."
+        ]
+    },
+    {
+        "word": "Direkt-Kosting",
+        "type": [],
+        "definition": [
+            "bevosita xarajatlarni ishlab chiqargan mahsulot yoki buyumlar bo'yicha umumlashtiradigan boshqaruvhisobining tizimi. Mahsulot-buyumning to'liq bo'lmagan tannarxini kalkulatsiya qilish usuli bo'lib, ushbu usulni qo'llaganda mahsulot tannarxiga faqat o'zgaruvchan xarajatlar qo'shiladi. Natijada bilvosita xarajatlar esahisobotdavriningmoliyaviynatijalari(xarajadarningjamlamasi) ga olib boriladi."
+        ]
+    },
+    {
+        "word": "D Ir E K T -M E Y L",
+        "type": [],
+        "definition": [
+            "iste\u2019molchilarga bosma reklama, tovar namunalari va boshqa materiallarni to\u2018g\u2018ridan-to\u2018g\u2018ri pochta orqali jo'natish; aniq adresli reklama."
+        ]
+    },
+    {
+        "word": "Direktor",
+        "type": [],
+        "definition": [
+            "u yoki bu tashkilot boshqaruvchisi yoki boshlig'i"
+        ]
+    },
+    {
+        "word": "Diskaunter",
+        "type": [],
+        "definition": [
+            "rivojlangan mamlakadardagi uzoq muddat ishlatishga mo'ljallangan tovarlarni arzon bahoda va qoshimcha xizmatsiz sotiladigan do'kon."
+        ]
+    },
+    {
+        "word": "Diskont",
+        "type": [],
+        "definition": [
+            "1. Qimmatli qog'ozning amaldagi narxi bilan qiymat qoplanishi paytidagi narxi yoki belgilangan qiymati o'rtasidagi farq; moliyaviy vositani qiymat qoplanishi paytiga qadar belgilangan qiymatidan past narxda xarid qilish. 2. Valyutaning kelgusi kursi bilan darhol yetkazib berilgan paytdagi kursi o'rtasidagi farq. 3. Turli muddatlarda yetkazib beriladigan bir turdagi tovar narxlari o'rtasidagi farq. 4. Birj a bitimlarida tovar sifati shartnomada kelishilganidan past bo'lganida narxdan chegirish. 5. Valyuta bitimlarida valyuta rasmiy kursidan pasayishga qarab chetga chiqish."
+        ]
+    },
+    {
+        "word": "Diskont Chegirish",
+        "type": [],
+        "definition": [
+            "1. Mollarni arzonroq bahoda sotish. 2. Muddatiga qadar veksellarni arzon narxda sotib olish. DISKONT SIYOSATI - Markaziy bankning uchyot stavkasini o'zgartirish yo'li bilan milliy valyuta kursiga va to'lov balansi holatiga ta\u2019sir etish siyosati."
+        ]
+    },
+    {
+        "word": "Diskont Stavkasi",
+        "type": [],
+        "definition": [
+            "uchyot stavkasi Markaziy bank tomonidan tijorat banklariga ularning ixtiyoridagi trattalarni qayta hisobga olish yo\u2018li bilan beriladigan kreditlarning foiz stavkasidir."
+        ]
+    },
+    {
+        "word": "Diskontirlash",
+        "type": [],
+        "definition": [
+            "qiymadar (daromad, xarajat, kapital)ni boshlang'ich yilga yoki oxirgi yilga keltirish."
+        ]
+    },
+    {
+        "word": "Diskontlangan Qiymat",
+        "type": [],
+        "definition": [
+            "kapital qo yilmalarni baholashning to'rt usulidan biri bo'lib, kelgusida olinadigan naqd pullarni joriy qiymat orqali foiz stavkasi yordamida ifodalash jarayoni bo\u2018 lgan diskondash jarayoni natijasida olinadigan miqdorni ifodalaydi"
+        ]
+    },
+    {
+        "word": "Diskontlangan Xarajatlar",
+        "type": [],
+        "definition": [
+            "joriy vaqtdagi diskontlash koeffitsiyenti orqali aniqlangan kapital qoyilm alar bo'yicha taxmin qilinadigan xarajatlar."
+        ]
+    },
+    {
+        "word": "Diskretsion Daromad",
+        "type": [],
+        "definition": [
+            "birinchi galdagi hayotiy ehtiyojlar (oziq-ovqat, kiyim-bosh va h.k)ni qondirish uchun qilingan sarflardan keyin qolgan pul miqdori."
+        ]
+    },
+    {
+        "word": "Diskretsion Fiskal Siyosat",
+        "type": [],
+        "definition": [
+            "milliy ishlab chiqarish hajmiga, bandlikka, inflyatsiyaga ta sir etish maqsadida, davlat tomonidan ongli ravishda soliq solish va davlat xarajatlarini tartibga solish tushuniladi, tanazzul sharoitida unga muvofiq davlat sarflari oshiriladi, soliqlaming pasayishi bilan qo'shib olib boriladi, natijada kamomadni moliyalashtirishga, ishlab chiqarishning o'sishiga olib keladi. Inflyatsiya sharoitida diskretsion siyosat davlat sarflarini kamaytirish, soliqlar miqdorini oshirish, davlat sarflarini qisqartirish bilan soliq miqdorini oshirishni qo'shib olib borishni nazarda tutadi. Bu esa davlat budjetining ijobiy saldoga ega bo'lishiga olib keldi. Real hayotda, iqtisodiyotda har xil omillar harakat qiladi. Shuning uchun muvofiq fiskal siyosatni ishlab chiqish juda qiyindir."
+        ]
+    },
+    {
+        "word": "Diskriminatsiya Baholari",
+        "type": [],
+        "definition": [
+            "ma\u2019qul kelmagan xaridorlar uchun, ayniqsa, davlatlar orasidagi munosabatlar, haqiqiy siyosiy muhit buzilgan davrda ornatiladi. Bu narxlar o\u2018ta yuqori, tovarni sotib oluvchiga bir necha marotaba qimmat qilib belgilanadi. DISPASHER - dengiz transportida umumiy avariya sodir bo'lganda ko'rilgan zararni kema, yuk va fraxt o'rtasida taqsimlash bo'yicha hisobkitoblarni tuzadigan mutaxassis. Rivojlangan mamlakatlarda dispasher vazifasini maxsus kompaniyalar bajaradi. Zararlarni taqsimlash bo'yicha hisob-kitoblar dispasha deyiladi va dispashani tuzganlik uchun haqni manfaatdor tomonlar (kema egasi, yuk egasi, yukni sotib oluvchi shaxs) to'laydi."
+        ]
+    },
+    {
+        "word": "Dispersion Tahlil",
+        "type": [],
+        "definition": [
+            "o'rganilayotgan omillar ta\u2019siri ostida yuzaga chiqqan belgi o'zgaruvchanligini noma\u2019lum sabablarga ko'ra kuzatilayotgan o'zgaruvchanlik bilan taqqoslab, omillar rolini baholash usulidir. DISPERSIYA - qator variantlari qiymatlari bilan ularning arifmetik o'rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o'rtachadir."
+        ]
+    },
+    {
+        "word": "Dispersiya",
+        "type": [],
+        "definition": [
+            "qator variantlari qiymatlari bilan ularning arifmetik o'rtachasi orasidagi tafovutlar kvadratlaridan olingan arifmetik o'rtachadir."
+        ]
+    },
+    {
+        "word": "Distributer",
+        "type": [],
+        "definition": [
+            "(ing. taqsimlash) - 1. Firma yoki ayrim olingan tadbirkorning katta ishlab chiqaruvchi firmadan ulgurji bahoda tovarlarni xarid qilishi. Distributer firma bilan iste\u2019molchi o'rtasida vositachilik vazifasini bajaradi. 2. O'z jamg'armasiga ega bo'lgan, o'zi sotib olish bilan shug'ullanuvchi mustaqil firma; yirik firmaning xorijiy davlatdagi yagona vakili."
+        ]
+    },
+    {
+        "word": "Diversifikatsiya",
+        "type": [],
+        "definition": [
+            "(lot. diversus - har xil va facere - qilmoq, bajarmoq) - ishlab chiqarishning samaradorligini oshirish, mahsulot va xizmatlarni sotish bozorlarini kengaytirish maqsadida tarmoq va korxonalar faoliyat sohalarini kengaytirish, mahsulot va xizmatlar assortimentlarini ko'paytirish."
+        ]
+    },
+    {
+        "word": "Diversifikatsiya Strategiyasi",
+        "type": [],
+        "definition": [
+            "korxona faoliyatini mavjud mahsulotlar va bozorlar turini kengaytirish orqali rivojlanish strategiyasidir. Diversifikatsiya strategiyasi korxonalarning ishlab chiqarish va tijorat faoliyatini rivojlantirishning eng yetakchi zamonaviy tendensiyalardan biri hisoblanib, u orqali korxonalarni bozor sharoitida vujudga keladigan turli qaltisliklarga bo'lgan raqobatbardoshligini oshiradi. Diversifikatsiya strategiyasi - korxonalarda yangi mahsulotlar liniyalarini ishga tushirish, qo'shma korxonalar tuzish, boshqa korxonalarni sotib olish va boshqa turli uslublarda amalga oshirishi mumkin."
+        ]
+    },
+    {
+        "word": "Dividend",
+        "type": [],
+        "definition": [
+            "aksiyalar bo'yicha to'lanishi lozim bo'lgan daromad; yuridik shaxs tomonidan uning muassislari o'rtasida (ishtirokchilari, a'zolari o'rtasida ularning ulushlari, paylari, hissalari bo'yicha) taqsimlanadigan sof foydaning va (yoki) o'tgan yillardagi taqsimlanmagan foydaningbir qismi; yuridikshaxs tugatilganda molmulkni taqsimlashdan olingan, shuningdek, muassis (ishtirokchi, a\u2019zo) tomonidan yuridik shaxsda ishtirok etish ulushini (payini, hissasini) olgandagi daromadlar, bundan muassis (ishtirokchi, a'zo) ustav fondiga (ustav kapitaliga) hissa sifatida kiritgan molmulkning qiymati chegiriladi, taqsimlanmagan foyda ustav fondini (ustav kapitalini) ko'paytirish uchun yo'naltirilgan taqdirda, yuridik shaxs aksiyadorining, muassisining (ishtirokchisining, a'zosining) qo'shimcha aksiyalar qiymati, aksiyalar nominal qiymatining oshishi, ulush (pay, hissa) qiymatining oshishi tarzida olingan daromadlari."
+        ]
+    },
+    {
+        "word": "Doimiy (Standart) Narx",
+        "type": [],
+        "definition": [
+            "aniq tovarlarga belgilangan va nisbatan uzoq vaqt amal qiladigan barqaror narx."
+        ]
+    },
+    {
+        "word": "Doimiy Baholar",
+        "type": [],
+        "definition": [
+            "ba\u2019zi baho sifatida olingan qandaydir joriy davr bahosi; u fizik hajm indikatorini aniqlash uchun ishlatiladi. Ular, odatda, 5 yilda bir o'zgartiriladi."
+        ]
+    },
+    {
+        "word": "Doimiy Muassasa Tushunchasi",
+        "type": [],
+        "definition": [
+            "soliqqa tortish maqsadida O'zbekiston hududida daromad olish uchun faoliyat ko'rsatayotgan har qanday joy hamda har qanday tashkilot yoki vakolatli funksiyani bajarayotgan yuridik shaxsdir. Bu tushuncha o'z ichiga: boshqaruv o'rni, bo'lim, ofis, idora, fabrika, ustaxona, shaxta, neft yoki gaz quvuri, tosh qazish yoki har qanday foydali qazilmalar qazib oluvchi joylarni oladi."
+        ]
+    },
+    {
+        "word": "Doimiy Xarajatlar (Sarflar)",
+        "type": [],
+        "definition": [
+            "ishlab chiqarish hajmiga bog'liq bo'lmagan ishlab chiqarish sarflari. Xizmat ko'rsatish va boshqaruv sarflari kiradi. Masalan: binolarni tiklab turish, ma\u2019muriy apparatni saqlash, xizmat ko'rsatish uchun ketadigan xarajatlar."
+        ]
+    },
+    {
+        "word": "Dominantli Strategiya",
+        "type": [],
+        "definition": [
+            "raqiblarining harakatidan qat\u2019i nazar, eng yuqori natijaga erishish imkoniyatini beruvchi, o'yinchining strategiyasi."
+        ]
+    },
+    {
+        "word": "Domitsilyatsiya",
+        "type": [],
+        "definition": [
+            "bironta uchinchi shaxsni veksel bo'yicha to'lovchi etib tayinlashdir."
+        ]
+    },
+    {
+        "word": "Dotatsiya",
+        "type": [],
+        "definition": [
+            "davlat budjetidan qaytarilmaydigan tartibda beriladigan pul mablag'lari, zarar (ziyon)larni qoplash uchun korxona va tashkilotlarga beriladigan davlat nafaqalari. Zarar (ziyon)lar korxonaga bog'liq bo'lmagan sabablarga ko'ra vujudga kelgan paytda istisno tariqasida dotatsiya berilishi mumkin."
+        ]
+    },
+    {
+        "word": "Dou Nazariyasi",
+        "type": [],
+        "definition": [
+            "fundamental va texnik tahlilga asos solgan zaminli nazariyadir."
+        ]
+    },
+    {
+        "word": "Duopoliya",
+        "type": [],
+        "definition": [
+            "bozor strukturasining modeli, bozorda bir turdagi tovarni faqat tanho ikkita raqobatchi sotuvchi taklif etadi."
+        ]
+    },
+    {
+        "word": "Davlat Budjeti",
+        "type": [],
+        "definition": [
+            "davlat pul (davlat maqsadlijamg'armalari) mablag'larining markazlashtirilgan jamg'armasi bo'lib, unda daromadlar manbalari va ulardan tushumlar miqdori, shuningdek, moliya yili mobaynida aniq maqsadlar uchun ajratiladigan mablag'lar sarfi yo'nalishlari va miqdori nazarda tutiladi."
+        ]
+    },
+    {
+        "word": "Davlat Buyurtmasi",
+        "type": [],
+        "definition": [
+            "davlat tomonidan korxona va tashkilotlarga muayyan mahsulot turini tayyorlash va uni iste\u2019molchilarga yetkazib berish, ishlab chiqarish, noishlab chiqarish va ilmiy-tadqiqot xarakteridagi ma\u2019lum ishlarni bajarish uchun beriladigan topshiriq."
+        ]
+    },
+    {
+        "word": "Davlat Ichki Qarzlari",
+        "type": [],
+        "definition": [
+            "davlat tomonidan ichki mablag'ni jalb qilish natijasida vujudga kelgan O'zbekiston Respublikasi majburiyatlarining yig'indisi."
+        ]
+    },
+    {
+        "word": "Davlat Mulki",
+        "type": [],
+        "definition": [
+            "jamiyatdagi mulkchilik shakllaridan biri. Davlat mulki ikki yo'l bilan paydo bo'ladi: l) xususiy mol-mulkni milliylashtirib davlat qo'liga olish; 2) davlat mablag'lari hisobidan korxonalar qurish."
+        ]
+    },
+    {
+        "word": "Davlat Maqsadli Jamg Armalari",
+        "type": [],
+        "definition": [
+            "Davlat budjeti tarkibida jamlantiriladigan jamg'armalar bo'lib, ularning har biri uchun mablag'lar manbalari, har bir manbadan mablag' tushishi normalari va shartlari, shuningdek, shu mablag'lardan foydalanilishi mumkin bo'lgan maqsadlar qonun hujjatlari bilan belgilanadi."
+        ]
+    },
+    {
+        "word": "Davlat Tashqi Qarzi",
+        "type": [],
+        "definition": [
+            "davlat tomonidan xorijdan mablag' jalb qilish natijasida vujudga kelgan O'zbekiston Respublikasi majburiyatlarining yig'indisi."
+        ]
+    },
+    {
+        "word": "Davlat Tasarrufidan Chiqarish",
+        "type": [],
+        "definition": [
+            "davlat mulkini mulkchilikning har xil mulk shakllariga aylantirish demakdir"
+        ]
+    },
+    {
+        "word": "Davlat Tomonidan Ichki Mablag\u02bbni Jalb Qilish",
+        "type": [],
+        "definition": [
+            "aktivlarni ichki manbalardan (rezident-yuridik va jismoniy shaxslardan) jalb etish hamda buning natijasida O'zbekiston Respublikasining qarz oluvchi sifatidagi yoki qarz oluvchi rezidentlarning o'z kreditlari (qarzlari)ni to'lashiga kafil sifatidagi majburiyatlari vujudga kelishi."
+        ]
+    },
+    {
+        "word": "Davlat Tomonidan Xorijdan Mablag\u02bb Jalb Qilish",
+        "type": [],
+        "definition": [
+            "aktivlarni xorij manbalari (chet el davlatlari, norezident yuridik shaxslar va xalqaro tashkilotlar)dan jalb etish hamda buning natijasida O'zbekiston Respublikasining qarz oluvchi sifatidagi yoki qarz oluvchi rezidentlarning o'z kreditlari (qarzlari)ni to'lashiga kafil sifatidagi majburiyatlari yuzaga kelishi."
+        ]
+    },
+    {
+        "word": "Debet",
+        "type": [],
+        "definition": [
+            "buxgalteriya hisobi schyotining bir qismi. Aktiv schyotlarning debeti bo'yicha hisob obyektining ko'payishi aks ettiriladi, passiv schyotlarning debeti bo'yicha esa kamayishi yoziladi. Hisoblashish schyotlarida debet mazkur korxonaning boshqa korxona va shaxslardan oladigan summasini aks ettiradi (debitorlik qarzlari). Debet qoldiq (saldo) faqat aktiv schyotlarda bo'lishi mumkin."
+        ]
+    },
+    {
+        "word": "Deflyatsiya",
+        "type": [],
+        "definition": [
+            "inflyatsiya davrida muomaladagi qog'oz pulni kamaytirish. Davlat tomonidan muomaladagi pul miqdorini kamaytirishga qaratilgan moliya va pul-kredit tadbirlarini qo'llash orqali amalga oshiriladi."
+        ]
+    }
+]

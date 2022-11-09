@@ -1,0 +1,443 @@
+[
+    {
+        "word": "Abak",
+        "type": [],
+        "definition": [
+            "Qadimgi greklar va rimliklarning, tasmalarga ajratilgan taxtacha ko\u2018rinishidagi sanoq vositasi. Sanashda toshchalar yoki tayoqchalar tasmalar bo\u2018ylab siljitilib, sonlarning razryadlari aniqlanardi. Cho\u2018tlar kashf qilinishi bilan ahamiyatini yo\u2018qotdi."
+        ]
+    },
+    {
+        "word": "Abonent",
+        "type": [],
+        "definition": [
+            "Kompyuter tarmog\u2018i xizmatlaridan foydalanish huquqi va imkoniyati bo\u2018lgan odam yoki tashkilot."
+        ]
+    },
+    {
+        "word": "Absolyut kattalik (modul)",
+        "type": [],
+        "definition": [
+            "Quyidagicha tarzda a haqiqiy son uchun aniqlanadigan funksiya (|a| qilib belgilanadi): |a|=a, agar a > 0 bo\u2018lsa; |a|=-a, agar a < 0 bo\u2018lsa. Ko\u2018plab dasturlash tillarida arifmetik ifodaning absolyut kattaligini hisoblash uchun standart funksiyalar mavjud: jumladan, Paskal va BASIK tillarida \u2212 abs(), Si tilida \u2212 abs() butun sonli argument uchun va fabs() \u2212 suriladigan nuqtali (vergulli) son ko\u2018rinishidagi argument uchun."
+        ]
+    },
+    {
+        "word": "Abstrakt hisoblash mashinasi",
+        "type": [],
+        "definition": [
+            "Algoritmning matematik tavsifi bayon qilinadigan nazariy tuzilish. Tyuring, Post mashinalari, Kolmogorov mashinasi ma\u2019lum."
+        ]
+    },
+    {
+        "word": "Avtomat",
+        "type": [],
+        "definition": [
+            "Odamning bevosita ishtirokisiz qandaydir ishlarni bajaradigan qurilma yoki qurilmalar yig\u2018indisi."
+        ]
+    },
+    {
+        "word": "Avtomatlashtirish",
+        "type": [],
+        "definition": [
+            "Odamning moddiy, energetik va axborot jarayonlarida bevosita qatnashishining ahamiyatini kamaytirishga qaratilgan tizimlar, qurilmalar, asboblar va metodlarni ishlab chiqish va qo\u2018llash. Izoh \u2013 Ishlab chiqarishni, texnologik jarayonlarni boshqaruvni, loyihalashni, o\u2018qitishni, dasturlashni avtomatlashtirish va kompleks avtomatlashtirish farqlanadi."
+        ]
+    },
+    {
+        "word": "Avtomatlashtirilgan dasturlash",
+        "type": [],
+        "definition": [
+            "Amaliy dasturlarni loyihalash va qo\u2018llash uchun mo\u2018ljallangan metodlar hamda instrumental vositalar jami. Izoh \u2013 Avtomatlashtirilgan dasturlashda amalda dasturiy ta\u2019minotning barcha turlarini ishlab chiqishda ko\u2018maklashadigan CASE texnologiyasi (CASE \u2013 Computer Aided Software Engineering \u2013 dasturiy vositalarning avtomatlashtirilgan injiniringi) keng ma\u2019lum."
+        ]
+    },
+    {
+        "word": "Avtomatlashtirilgan ish joyi",
+        "type": [],
+        "definition": [
+            "Mutaxassis ish joyiga xizmat ko\u2018rsatadigan texnik, dasturiy va metodik vositalar kompleksi. Mustaqil, alohida avtomatlashtirilgan ish joylari unchali samarador emas, ularning keyingi rivojlanishi kompyuter tarmoqlari tarkibida ishlab chiqish bilan bog\u2018liq."
+        ]
+    },
+    {
+        "word": "Avtomatika",
+        "type": [],
+        "definition": [
+            "Odamning bevosita ishtirokisiz ishlaydigan tizimlar va qurilmalar yaratish masalalarini qamrab oladigan ilmiy va texnik fan."
+        ]
+    },
+    {
+        "word": "Avtonom rejim",
+        "type": [],
+        "definition": [
+            "Jismonan o\u2018zaro bog\u2018langan bo\u2018lsa ham, bir-biridan mustaqil hisoblanadigan bir nechta tizimning ishlash rejimi. Ko\u2018pincha, \u00aboff-line\u00bb (tizimdan tashqari) rejim deb ataladi."
+        ]
+    },
+    {
+        "word": "Agent",
+        "type": [],
+        "definition": [
+            "Foydalanuvchiga ko\u2018rinmaydigan (odatda fon reji-mida ishlaydigan), hodisalar bilan boshqariladigan dastur (ya\u2019ni, biror hodisa yuzaga kelganda qan-daydir harakatni amalga oshiradigan). *nix-operatsi-on tizimlarda ular demon deb ataladi."
+        ]
+    },
+    {
+        "word": "Adapter",
+        "type": [],
+        "definition": [
+            "Kompyuterning periferik qurilmalarini va markaziy protsessorni birlashtirish qurilmasi, ba\u2019zida periferik qurilmani boshqarish funksiyasini ham amalga oshiradi. Odatda, mikrosxema ko\u2018rinishida bo\u2018ladi va asosiy plataga joylashtiriladi, alohida plata ham bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Adreslash",
+        "type": [],
+        "definition": [
+            "1 Nomerlarini ko\u2018rsatish yo\u2018li bilan kompyuter port-lariga yoki xotiraning alohida yacheykalariga, tez kirishni (foydalanishni) ta\u2019minlash usuli. 2 Kompyuter tarmoqlarida abonent joylashgan yerni aniqlash usuli."
+        ]
+    },
+    {
+        "word": "Akkumulyator",
+        "type": [],
+        "definition": [
+            "Hisoblash natijalarini saqlash uchun mo\u2018ljallangan xotira yacheykasi; protsessorning arifmetik-mantiqiy qurilmasidagi registrlardan biri."
+        ]
+    },
+    {
+        "word": "Aksessuar",
+        "type": [],
+        "definition": [
+            "Kompyuter yoki dasturiy muhit elementi; faqat butun tizim bilan birgalikda ishlatilishi mumkin, lekin uni alohida sotib olish va o\u2018rnatish mumkin. Masalan, kompyuterning multimedia aksessuarlariga kompakt- disklar, tovush adapterlari, kolonkalar kiradi; Windows tizimida Soat, Kalkulyator, Yon daftarcha kabi ilovalar kiradigan Aksessuarlar guruhi bor."
+        ]
+    },
+    {
+        "word": "Aktiv qurilma",
+        "type": [],
+        "definition": [
+            "Berilgan vaqt onida tizim ishlaydigan fizik yoki mantiqiy qurilma. Ba\u2019zi dastur, yoki ma\u2019lumotlar bazasi ham aktiv bo\u2018lishi, ya\u2019ni berilgan onda ular ma\u2019lumotlarni kiritish\/chiqarish uchun tayyor bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Aktuallashtirish",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar bazasi, tizimni aktual holatda ushlab turish jarayoni, ya\u2019ni barcha o\u2018zgartirishlarni muntazam, to\u2018liq va o\u2018z vaqtida kiritish."
+        ]
+    },
+    {
+        "word": "Algoritm",
+        "type": [],
+        "definition": [
+            "Oldindan belgilangan, aniq ko\u2018rsatma. Muayyan tarzda boshlanadigan va qadamlarning qat\u2019iy soni ichida natijaga olib keladigan diskret (qadamma-qa-dam) jarayonni belgilaydi. Birmuncha sodda tushunchalar orqali aniqlab bo\u2018lmaydigan boshlang\u2018ich matematik tushunchalarga kiradi. Har bir algoritm yo\u2018l qo\u2018yiladigan boshlang\u2018ich ma\u2019lumotlarning ko\u2018pligi bilan, boshlang\u2018ich holat bilan, yo\u2018l qo\u2018yiladigan oraliq holatlarning ko\u2018pligi bilan, bir holatdan boshqa holatga o\u2018tish qoidalari bilan, oxirgi natijalarning ko\u2018pligi bilan, oxirgi holat bilan berilishi mumkin. Bu parametrlarning muayyan vazifasiga bog\u2018liq ravishda, algoritmlarning klasslari aniqlanadi, masalan, chiziqli, siklik algoritmlar, sa-ralash algoritmlari va h.k. Algoritmni ishlab chiqish-da har doim uni bajaruvchi ko\u2018zda tutilishi kerak. \u00abAlgoritm\u00bb so\u2018zi IX asrda yashagan O\u2018rta Osiyolik olim al-Xorazmiy nomidan olingan."
+        ]
+    },
+    {
+        "word": "Algoritmik til",
+        "type": [],
+        "definition": [
+            "Simvollar to\u2018plami va algoritmlarni berish uchun bu simvollardan konstruksiyalar tuzish va ularni talqin qilish qoidalari tizimi."
+        ]
+    },
+    {
+        "word": "Alfavit",
+        "type": [],
+        "definition": [
+            "Berilgan til yoki tizimda ma\u2019lum bir ma\u2019noda tartib-lashtirilgan simvollar yig\u2018indisi. Bu simvollar harflar deb ataladi. Muayyan alfavitga tegishli bo\u2018lgan simvollardangina so\u2018zlarni tuzishda foydalanish mumkin. Masalan, Paskal tilining alfaviti lotin harflaridan (aytish kerakki, katta va kichik harflar ajratilmaydi), raqamlar va maxsus simvollardan tuzilgan."
+        ]
+    },
+    {
+        "word": "Axborot almashinish uchun Amerika standart kodi",
+        "type": [],
+        "definition": [
+            "Lotin alfaviti harflarini, sonlarni, tinish belgilarini mashinada taqdim etish uchun, 128 ta koddan va har biriga 7-bitli aniq ikkilik son to\u2018g\u2018ri keladigan maxsus simvollardan iborat to\u2018plam."
+        ]
+    },
+    {
+        "word": "Analog hisoblash mashinasi",
+        "type": [],
+        "definition": [
+            "Analog ko\u2018rinishda taqdim etilgan ma\u2019lumotlar bilan ishlaydigan hisoblash mashinasi, raqamli mashina-lardan dasturlashning soddaligi va operatsiyalarni bajarish tezligi katta bo\u2018lishi bilan ajralib turadi. Analog hisoblash mashinalari amalda har doim qattiq ixtisoslashtirilgan bo\u2018ladi. Analog hisoblash mashina-larini neyrokompyuterni yaratishda yanada rivojlantirish ko\u2018zda tutiladi."
+        ]
+    },
+    {
+        "word": "Animatsiya",
+        "type": [],
+        "definition": [
+            "Displey ekranida harakatlanadigan grafik tasvirlarni yaratish jarayoni. Turli obyektlarni loyihalashtirish-da, tabiiy hodisalarni modellashtirishda, o\u2018qitish tizimlarida va o\u2018yin dasturlarida foydalaniladi. Har qanday hajmiy obyektni chizish, uni turli xil tezlik bilan turli yo\u2018nalishlarda harakatlantirish va aylantirish imkonini beradigan maxsus animatsion dasturiy komplekslar (paketlar) ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Antivirus",
+        "type": [],
+        "definition": [
+            "Operatsion tizim va uning dasturlarini ishdan chiqaruvchi (virus) dasturlarga qarshi dastur."
+        ]
+    },
+    {
+        "word": "Applet",
+        "type": [],
+        "definition": [
+            "HTML-sahifalarda joylashtirilgan Java tilidagi uncha katta bo\u2018lmagan amaliy dastur. Appletlar lokal kompyuterning ma\u2019lum resurslaridan foydalanish bo\u2018yicha cheklovlar bo\u2018lishligi va tarmoqdagi boshqa kompyuterlar bilan aloqa taqiqlanganligi bilan to\u2018liq Java-ilovalardan farqlanadi."
+        ]
+    },
+    {
+        "word": "Arifmetik amal",
+        "type": [],
+        "definition": [
+            "Sonlar ustida bajariladigan sodda hisoblash amali. Ko\u2018plab dasturlash shkalalarida ikki o\u2018rinli qo\u2018shish (+), ayirish (-), ko\u2018paytirish (*), bo\u2018lish (\/), butunga bo\u2018lish (div, \\), modul bo\u2018yicha bo\u2018lish (mod) arifmetik amallari; bir o\u2018rinli belgi (+, -) berish amallari belgilangan."
+        ]
+    },
+    {
+        "word": "Arifmetik ifoda",
+        "type": [],
+        "definition": [
+            "Ustida arifmetik amallar bajariladigan obyektlar ope-randlar bo\u2018lib hisoblanadigan ifoda."
+        ]
+    },
+    {
+        "word": "Arxivlash",
+        "type": [],
+        "definition": [
+            "Vaqtinchalik kerak bo\u2018lmaydigan ma\u2019lumotlarni saqlash va ma\u2019lumotlarning rezerv nusxalarini yara-tish jarayoni. Arxivlash paytida fayllar xotirani tejash maqsadida zich qilib yoziladi. Ko\u2018pincha, ma\u2019lumotlarni joylashtirish yoki siqish jarayonining o\u2018zi ham arxivlash deb ataladi."
+        ]
+    },
+    {
+        "word": "Arxitektura",
+        "type": [],
+        "definition": [
+            "Kompyuter, kompyuter tarmog\u2018i, ma\u2019lumotlar bazasi murakkab tizimini qurishning asosiy prinsiplari. Odatda, tizimning ishlashini ta\u2019minlaydigan protokollar va interfeyslarni ichiga oladi."
+        ]
+    },
+    {
+        "word": "Asinxron uzatish rejimi",
+        "type": [],
+        "definition": [
+            "Kompyuter tarmoqlaridagi ma\u2019lumotlar uzatish standarti, yuqori o\u2018tkazish qobiliyatini (bir necha Gbit\/s) ta\u2019minlaydi. Tarmoq bo\u2018ylab turli xil ma\u2019lumotlar, shu jumladan, nutq va tasvirlar uzatilishini ta\u2019minlash uchun mo\u2018ljallangan, kompyuter tarmoqlarining yangi avlodlari yaratilishini ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "Assembler",
+        "type": [],
+        "definition": [
+            "Mashina-yo\u2018naltirilgan dasturlash tili bo\u2018lib, quyi darajali til hisoblanadi. Protsessorlarning har bir turidagi o\u2018zining mashina komandalari to\u2018plamiga ega bo\u2018lganligi tufayli, ular asosida yagona assembler tuziladi."
+        ]
+    },
+    {
+        "word": "Assemblerlash",
+        "type": [],
+        "definition": [
+            "Dasturni assembler tilidan mashina kodiga translyatsiya qilish jarayoni."
+        ]
+    },
+    {
+        "word": "AT - komandalar",
+        "type": [],
+        "definition": [
+            "Hayes Microcomputer Product firmasi tomonidan ishlab chiqilgan Hayes tipidagi modemlarni bosh-qarish tili. De-fakto standart hisoblanadi. Tilning har bir komandasi \u00abAT\u00bb dan boshlanadi. Inglizcha \u00abat-tention\u00bb \u2212 \u00abdiqqat\u00bb so\u2018zidan olingan."
+        ]
+    },
+    {
+        "word": "Atom",
+        "type": [],
+        "definition": [
+            "LISP dasturlash tilida atomlar \u2013 bu, simvollar va sonlar to\u2018plami, ya\u2019ni birmuncha murakkab strukturalarni tashkil qiladigan eng oddiy elementlardir. Ro\u2018yxatlar atomlardan iborat bo\u2018ladi. Masalan, \u00abMen musiqa tinglayapman\u00bb ifodasi \u2013 bu, uch atomdan iborat ro\u2018yxatdir."
+        ]
+    },
+    {
+        "word": "Atribut",
+        "type": [],
+        "definition": [
+            "Obyektning zarur, ahamiyatli xossasi. Fayllarda atribut tushunchasi ularni faqat o\u2018qish uchun, yashirish, arxivlash, indekslash, siqish va shifrlashda qo\u2018llash alomatini anglatadi. Active Directory da esa obyektlar va ularning ma\u2019lumotlar turlari xususiyatlarini bildiradi. Obyektning shart bo\u2018lgan va qo\u2018shimcha atributlari ro\u2018yxati obyektlarning mos klasslari sxemasi orqali aniqlanadi."
+        ]
+    },
+    {
+        "word": "Analog kattalik",
+        "type": [],
+        "definition": [
+            "Qiymatlari to\u2018xtovsiz o\u2018zgaradigan kattalik; uning aniq qiymati o\u2018lchashni amalga oshiradigan asbobning aniqligiga bog\u2018liq."
+        ]
+    },
+    {
+        "word": "Amaliy dasturlar generatori",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar bazalarini boshqarish tizimiga kiradigan muayyan ma\u2019lumotlar bazasini boshqarish dasturlarini tuzishni avtomatlashtirish uchun mo\u2018ljallangan dasturlar. Dasturlar generatoridan foydalanish uchun yuqori malaka talab qilinmaydi. Shu sababli, ma\u2019lumotlar bazasi strukturasini yaratish, ma\u2019lumotlar kiritilishini va tuzatilishini, hisobotlar tuzishni oxirgi foydalanuvchi bajarishi mumkin."
+        ]
+    },
+    {
+        "word": "Asosiy yuklash yozuvi",
+        "type": [],
+        "definition": [
+            "Qattiq diskning birinchi sektorida (maxsus qismida) bo\u2018lgan axborot. Asosiy yuklash yozuvi disk bo\u2018limlari jadvalini ichiga oladi va aktiv bo\u2018limni belgilaydi (operatsion tizimni yuklash uchun foydalaniladigan bo\u2018lim), shuningdek, keyinchalik operatsion tizimni yuklash uchun, BIOS boshqarishni topshiradigan kodni ham ichiga oladi. Asosiy yuklash yozuvi diskni bo\u2018limlarga ajratish vaqtida yaratiladi."
+        ]
+    },
+    {
+        "word": "Asosiy fayl jadvali",
+        "type": [],
+        "definition": [
+            "NTFS fayl tizimi tomning tarkibi haqida ma\u2019lumotlarni saqlaydigan relyatsion ma\u2019lumotlar bazasi."
+        ]
+    },
+    {
+        "word": "Asboblar majmui",
+        "type": [],
+        "definition": [
+            "Asosiy vazifaga nisbatan yordamchi dasturiy vositalar to\u2018plami. Foydalanuvchining instrumentariysi, masalan, antivirus dasturlarni, fayllarni arxiv-lash va qurilmalar holatini tekshirish dasturlarini ichiga olishi mumkin. Dasturchi instrumentariysiga, shuningdek, standart protseduralar bibliotekasini ham kiritish mumkin. Rivojlangan operatsion tizimlarda va qobiqlarda instrumentariy katta miqdorda yetkazib beriladi."
+        ]
+    },
+    {
+        "word": "Amaliy dasturlash  interfeysi",
+        "type": [],
+        "definition": [
+            "Dasturning ichki funksionallaridan dasturiy yo\u2018l bilan foydalanish imkonini beradigan dastur ichki komponenti."
+        ]
+    },
+    {
+        "word": "Axborotlashtirish",
+        "type": [],
+        "definition": [
+            "Axborot resurslarini shakllantirish va ulardan foydalanish asosida fuqarolarning, davlat hokimiyat organlarining, mahalliy o\u2018zini-o\u2018zi boshqarish organlarining, jamoat birlashmalarining huquqlarini amalga oshirish va axborotga bo\u2018lgan ehtiyojlarini qondirish uchun optimal sharoitlarni yaratishning tashkiliy, ijtimoiy-iqtisodiy va ilmiy-texnik jarayoni. Axborot-kommunikatsiya texnologiyalaridan foydalanishga asoslangan, ishlab chiqarishni jadallashtirish va bilimlar, axborot tarqatish jarayoni."
+        ]
+    },
+    {
+        "word": "Axborot tizimi",
+        "type": [],
+        "definition": [
+            "1 Muayyan tarzda o\u2018zaro bog\u2018langan va qandaydir yaxlitlikni hosil qiladigan (moddiy yoki ideal) elementlar yig\u2018indisi. Tizim sifatida voqelikning istalgan obyekti qarab chiqilishi mumkin. Har qanday tizim o\u2018z mohiyatiga ko\u2018ra, axborot hosiladir, chunki uning elementlarining o\u2018zaro aloqasi axborotning bir joydan boshqa joyga uzatilishi vositasida amalga oshiriladi. Axborot tizimi, axborot bu tizimning kirish va chiqish mahsuloti bo\u2018lishligi bilan tavsiflanadi. Bunday tizimda texnologik jarayon axborot xarakterida bo\u2018ladi, energetik va moddiy jarayonlar ta\u2019minlovchi rolini bajaradi.\r\n 2 Tashkiliy jihatdan tartiblashtirilgan hujjatlar (huj-jatlar to\u2018plamlari), shu jumladan, axborot jarayonlarini amalga oshiradigan hisoblash texnikasi va aloqa vositalaridan foydalanilgan, axborot texnologiyalari yig\u2018indisi."
+        ]
+    },
+    {
+        "word": "Axborot sohasi",
+        "type": [],
+        "definition": [
+            "1 Subyektlar faoliyatining axborot yaratish, uni o\u2018zgartirish va iste\u2019mol qilish bilan bog\u2018liq sohasi. O\u2018z ichiga zamonaviy jamiyatda odamlarni o\u2018rab turgan barcha belgilar muhitini oladi.\r\n 2 Iqtisodiyotning axborot va bilimlar ishlab chiqarish, qayta ishlash, saqlash va tarqatish bilan band sohasi.\r\n 3 Axborot, axborot infrastrukturasi, axborot to\u2018plash, shakllantirish, tarqatish va undan foydalanishni amalga oshiradigan subyektlar, shuningdek, bunda yuzaga keladigan ijtimoiy munosabatlarni tartibga solish tizimi yig\u2018indisi."
+        ]
+    },
+    {
+        "word": "Axborot texnologiyalari",
+        "type": [],
+        "definition": [
+            "Axborot resurslaridan foydalanish jarayonlarining mehnat sig\u2018imini kamaytirish, ishonchlilik va operativlikni oshirish uchun, axborotni to\u2018plash, saqlash, qayta ishlash, chiqarish va tarqatish ta\u2019minlanadigan texnologik zanjirga birlashtirilgan ishlab chiqarish vositalari, dasturiy-texnologik vositalar, metodlar yig\u2018indisi. Axborot texnologiyalari tushuncha sifatida ikki jihatga ega: 1) amaliy jihat \u2013 real tizimlarning axborot texnologiyalari bilan bog\u2018liq; 2) nazariy jihat samaradorligi yuqori bo\u2018lgan axborot tizimlarini yaratish uchun xizmat qiladigan axborot texnologiyalarini ishlab chiqish va tavsiflash (modellash) masalalari bilan bog\u2018liq."
+        ]
+    },
+    {
+        "word": "Axborot",
+        "type": [],
+        "definition": [
+            "Qandaydir predmet sohadagi hodisalar, jarayonlar, voqealar, faktlar to\u2018g\u2018risidagi, axborotni qayta ishlash tizimiga kiritilgan yoki turli tashuvchilarda taqdim etishning turli shakllarida uning natijasi bo\u2018lgan va berilgan predmet soha obyektlarini boshqarish jarayonida qabul qilinadigan qarorlarni optimallash uchun foydalaniladigan (zarur bo\u2018lgan) ma\u2019lumotlar; turli obyektlar va ular o\u2018rtasidagi o\u2018zaro aloqalar to\u2018g\u2018risidagi bilimlar jami. Birmuncha tor ma\u2019noda elektron hisoblash mashinasining xotirasiga kiritiladigan, u yerda saqlanadigan, keyinchalik qayta ishlash va foydalanish uchun mumkin bo\u2018ladigan ma\u2019lumotlarni o\u2018zida ifodalaydi. Zamonaviy fan va amaliyotdagi eng dolzarb, fundamental va munozarali tushunchalardan biri hisoblanadi. Umumiy ta\u2019rifning yo\u2018qligi tufayli, turli predmet sohalarda turlicha talqin qilinadi."
+        ]
+    },
+    {
+        "word": "Aloqa kanali",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar uzatilishini ta\u2019minlaydigan tabiiy muhit va texnik qurilmalar. Aloqa kanallari analog va raqamli, telefon, telegraf, radiochastota, televizion, infraqizil hamda optik aloqa kanallariga bo\u2018linadi. Shuningdek, ajratilgan va kommutatsiyalanadigan aloqa kanallari ham bor. Kanalning asosiy xarakteristikasi uning o\u2018tkazish qobiliyatidir."
+        ]
+    },
+    {
+        "word": "ANSI kodi",
+        "type": [],
+        "definition": [
+            "Simvollarni sakkiz razryadli ikkilik sonlar (1 byte) bilan kodlash standarti. Windows da foydalaniladi."
+        ]
+    },
+    {
+        "word": "ASII kodi",
+        "type": [],
+        "definition": [
+            "Bir baytli (1 byte=8 bit) ikkilik kod ko\u2018rinishida lotin alifbosi simvollarini, raqamlar, yordamchi simvollar yoki amallarni kodlash standarti. Dastlab standart 7 bitdan foydalanib (0 dan 127 gacha bo\u2018lgan) 128 simvolnigina belgilagan edi. Barcha sakkiz bitdan foydalanish yana 128 simvolni kodlash imkonini beradi. Qo\u2018shimcha simvollar har qanday bo\u2018lishi mumkin. Ularga 128 dan 255 gacha bo\u2018lgan kodlar ajratiladi."
+        ]
+    },
+    {
+        "word": "Aloqa tarmog\u02bbi",
+        "type": [],
+        "definition": [
+            "Hisoblash tizimining, ma\u2019lumotlar uzatilishini ta\u2019minlaydigan, aloqa kanali va ma\u2019lumotlar uzatish apparaturasidan tuzilgan qismi."
+        ]
+    },
+    {
+        "word": "Avtomatlashtirilgan loyihalash tizimi",
+        "type": [],
+        "definition": [
+            "Ayrim buyumga, bino va inshootga tegishli barcha zarur konstruktorlik va texnologik hujjatlarni tuzish imkonini beradigan texnik va dasturiy vositalar kompleksi."
+        ]
+    },
+    {
+        "word": "ACPI spetsifikatsiyasi",
+        "type": [],
+        "definition": [
+            "Intel, Microsoft va Toshiba korporatsiyalari tomonidan 1996 yilda ishlab chiqilgan ochiq standart. Kompyuterlarning energiyaga bo\u2018lgan etiyojini BIOS tomonidan emas, balki operatsion tizim tomonidan to\u2018liq boshqarilishini (alohida qurilmalarni yoqish va o\u2018chirib qo\u2018yish) amalga oshirishga imkon beradi."
+        ]
+    },
+    {
+        "word": "Ada",
+        "type": [],
+        "definition": [
+            "Protsedura turidagi murakkab va kuchli universal dasturlash tili; turli boshqaruv tizimlarini ishlab chiqish uchun mo\u2018ljallangan. Buyuk ingliz shoiri Jon Bayronning qizi, dastlabki dasturiy boshqariladigan hisoblash mashinasi \u2013 Bebbijning analitik mashinasi uchun dasturlar ishlab chiqishda qatnashgan Ada Lavleys sharafiga nomlangan."
+        ]
+    },
+    {
+        "word": "ActiveX",
+        "type": [],
+        "definition": [
+            "COM modeli asosidagi obyekt komponent ilovalarini dasturlash uchun Microsoft tomonidan ishlab chiqilgan texnologiyalar guruhining nomi. Dasturiy ta\u2019minot komponentlarining bir-birlari bilan, ularning yaratilishi uchun bevosita ishlatiladigan dasturlash tillariga bog\u2018liq bo\u2018lmagan holda, tarmoq muhitida o\u2018zaro ishlashlariga imkon yaratuvchi texnologiyalar to\u2018plami."
+        ]
+    },
+    {
+        "word": "Algol",
+        "type": [],
+        "definition": [
+            "Ilmiy-texnik masalalarni hal qilish uchun foydalaniladigan, ma\u2019lumotlarni qayta ishlashning protsedura tili; ilmiy hisoblashlar uchun mo\u2018ljallangan yuqori darajali til."
+        ]
+    },
+    {
+        "word": "ALPHA",
+        "type": [],
+        "definition": [
+            "RISC turidagi, 64 razryadli ma\u2019lumotlar shinasi, 64 razryadli adres shinasi, operativ xotira va protsessor o\u2018rtasida ma\u2019lumotlar uzatish uchun mo\u2018ljallangan 128 razryadli shinaga ega bo\u2018lgan mikroprotsessor. DEC firmasi tomonidan 1992 yilda ishlab chiqilgan. Takt chastotasi 300 MHz ga yetadi."
+        ]
+    },
+    {
+        "word": "Amal",
+        "type": [],
+        "definition": [
+            "Dasturlash tili obyektlari, ma\u2019lumotlar, o\u2018zgaruvchilar, konstantalar, funksiyalar \u2013 ope-randlar ustida bajariladigan ish. Operandlarning turiga bog\u2018liq ravishda, arifmetik, satrli (simvolli), mantiqiy, faylli amallar farqlanadi. Operandlarning soniga bog\u2018liq ravishda, bir o\u2018rinli (unar), ikki o\u2018rinli (binar) va ko\u2018p o\u2018rinli (n-ar) amallar farqlanadi. Umuman olganda, amallar dasturlash tili bilan belgilanadi."
+        ]
+    },
+    {
+        "word": "Asosiy plata",
+        "type": [],
+        "definition": [
+            "Apparatning, masalan kompyuterning asosiy bloklari joylashtiriladigan tutib turadigan (\u00abona\u00bb) plata-shassi."
+        ]
+    },
+    {
+        "word": "Amaliy dasturiy kompleks",
+        "type": [],
+        "definition": [
+            "Yagona kompleksga birlashtirilgan ilovalar. Amaliy dasturiy kompleksga kiradigan har bir ilova mustaqil ishlashi mumkin. Ilovalarni yagona kompleksga birlashtirish, foydalanuvchi bilan ularning o\u2018rtasida bir xil interfeyslar mavjudligini bildiradi. Masalan, Microsoft Office amaliy dasturiy kompleks keng ma\u2019lum. Uning tarkibiga quyidagi ilovalar kiradi: Word \u2013 matn protsessori, Excel \u2013 elektron jadvallar, Access \u2013 ma\u2019lumotlar bazasi, PowerPoint \u2013 prezentatsiya. Integratsiyalashgan tizimlardan farqi shundaki, amaliy dasturiy kompleksning har bir elementi imkoniyatlari bo\u2018yicha integratsiyalashgan ti-\r\n zimlardagi analogiga qaraganda birmuncha kuchli, amaliy dasturiy kompleksda maxsus umumiy muhit yo\u2018q. Har bir ilova ishlaydigan muhit Windows hisoblanadi."
+        ]
+    },
+    {
+        "word": "Aylantirish",
+        "type": [],
+        "definition": [
+            "Kompyuter xotirasida bo\u2018lgan ma\u2019lumotlarni qarab chiqish usuli, agar bu ma\u2019lumotlar displey ekranida ajratilgan oynada sig\u2018masa. Usul ma\u2019lumotlarni vertikal va\/yoki gorizontal yo\u2018nalishda ketma-ket va boshqariladigan tarzda ko\u2018chirishdan iborat."
+        ]
+    },
+    {
+        "word": "Ajratkich",
+        "type": [],
+        "definition": [
+            "Dasturlash tili alfavitining elementi, uning yordamida ma\u2019lumotlar yoki dasturlarda til strukturalari ajratiladi. Masalan, Pascal tilida konstruksiya ichidagi ajratkich \u2013 bo\u2018sh joy, operatorlar o\u2018rtasida \u2013 tire; dasturning oxiri nuqta bilan belgilanadi."
+        ]
+    },
+    {
+        "word": "Apparat ta\u02bcminot kengayadigan interfeys",
+        "type": [],
+        "definition": [
+            "Operatsion tizim va uskunaning past sath funksiyalarini boshqaradigan mikrodasturlar o\u2018rtasidagi interfeys, uning asosiy vazifasi tizim ulanganda uskunani ohista initsiallash va boshqaruvni operatsion tizim yuklagichiga berish. EFI ning dastlabki spetsifikatsiyasi Intel tomonidan ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Assembler tili",
+        "type": [],
+        "definition": [
+            "Mashinaga yo\u2018naltirilgan dasturlash tili bo\u2018lib, quyi darajali til hisoblanadi. Protsessorlarning har bir turi o\u2018zining mashina komandalari to\u2018plamiga ega bo\u2018lganligi uchun, ular asosida yagona assembler tuziladi."
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "word": "ZIF",
+        "type": [],
+        "definition": [
+            "Stands for \"Zero Insertion Force.\"  ZIF is a type of CPU socket on a computer motherboard that allows for the simple replacement or upgrade of the processor.  Processors that use a ZIF socket can easily be removed by pulling a small release lever next to the processor and lifting it out.  The replacement processor is then placed in the socket and secured by pushing the lever in the opposite direction -- hence the phrase, \"zero insertion force.\"  I suppose there is some force required to push the lever, but it is significantly less than non-ZIF sockets, which require special tools to force the processor out."
+        ]
+    },
+    {
+        "word": "Zebibyte",
+        "type": [],
+        "definition": [
+            "A zebibyte is a unit of data storage that equals 2 to the 70th power, or 1,180,591,620,717,411,303,424 bytes.\nWhile a zettabyte can be estimated as 10^21 or 1,000,000,000,000,000,000,000 bytes, a zebibyte is exactly 1,180,591,620,717,411,303,424 bytes.  This is to avoid the ambiguity associated with the size of zettabytes.  A zebibyte is 1,024 exbibytes and precedes the yobibyte unit of measurement.\nFor a list of other units of measurements, view this Help Center article.\nAbbreviation: ZiB"
+        ]
+    },
+    {
+        "word": "Zero Day Exploit",
+        "type": [],
+        "definition": [
+            "A zero day exploit is a malicious computer attack that takes advantage of a security hole before the vulnerability is known.  This means the security issue is made known the same day as the computer attack is released.  In other words, the software developer has zero days to prepare for the security breach and must work as quickly as possible to develop a patch or update that fixes the problem.\nZero day exploits may involve viruses, trojan horses, worms or other malicious code that can be run within a software program.  While most programs do not allow unauthorized code to be executed, hackers can sometimes create files that will cause a program to perform functions unintended by the developer.  Programs like Web browsers and media players are often targeted by hackers because they can receive files from the Internet and have access to system functions.\nWhile most zero day exploits may not cause serious damage to your system, some may be able to corrupt or delete files.  Because the security hole is made known the same day the attack is released, zero day exploits are difficult to prevent, even if you have antivirus software installed on your computer.  Therefore, it is always good to keep a backup of your data in a safe place so that no hacker attack can cause you to lose your data."
+        ]
+    },
+    {
+        "word": "Zettabyte",
+        "type": [],
+        "definition": [
+            "A zettabyte is 1021 or 1,000,000,000,000,000,000,000 bytes.\nOne zettabyte (abbreviated \"ZB\") is equal to 1,000 exabytes and precedes the yottabyte unit of measurement.  Zettabytes are slightly smaller than zebibytes, which contain 1,180,591,620,717,411,303,424 (270) bytes.\nA single zettabyte contains one sextillion bytes, or one billion terabytes.  That means it would take one billion one terabyte hard drives to store one zettabyte of data.  Because the zettabyte unit of measurement is so large, it is only used to measure large aggregate amounts of data.  Even all the data in the world is estimated to be only a few zettabytes.\nNOTE: View a list of all the units of measurement used for measuring data storage."
+        ]
+    },
+    {
+        "word": "Zip",
+        "type": [],
+        "definition": [
+            "Zip is a common type of file compression.  \"Zipping\" one or more files creates a compressed archive that takes up less disk space than the uncompressed version.  It is useful for backing up files and reducing the size of data transferred over the Internet.\nAn archive compressed with standard Zip compression has a .ZIP file extension \u2014 for example, Archive.zip.  To open the file or files in a Zip archive, you must first \"unzip\" or decompress the archive.  Both Windows and macOS include a built-in file decompression utility that can unzip Zip files.  Alternatively, you can use a third-party file archiving application, such as WinZip or 7-Zip, to decompress a Zip file.\nZip Compression Ratio\nHow much a file can be compressed depends on the original data.  For example, a plain text file can be compressed much more than a JPEG image file, since JPEG data is already compressed.  Zipping a text file might generate an archive that is only 25% of the original file size, while a zipped JPEG file may still be 95% of its original size.\nNOTE: \"Zip\" also refers to a removable storage device made by Iomega during the 1990s and early 2000s.  The original Zip drive supported 100 megabyte removable Zip disks \u2014 significantly more than the 1.44 MB floppy disk alternative.  Later models supported 250 and 750 MB disks.  The popularity of Zip disks faded as hard drive costs declined and the storage capacity of portable flash drives increased.\nFile extensions: .ZIP, .ZIPX"
+        ]
+    },
+    {
+        "word": "Zip Bomb",
+        "type": [],
+        "definition": [
+            "A zip bomb is a compressed file that consumes a massive amount of storage space when decompressed.  When a zip bomb is opened, it can quickly take up all the free space on a storage device.\nMost Zip files have a compression ratio between 2:1 and 10:1.  For example, a 3 megabyte compressed .ZIP file might expand to 15 megabytes.  A zip bomb, on the other hand, may have a compression ratio of over 1,000,000:1.  A small 40 kilobyte zip bomb may expand to over 5 gigabytes.  A 10 megabyte zip bomb may expand to over 280 terabytes.\nZip bombs achieve astronomic compression ratios using one of two methods:\n\nRecursive compression\nOverlapping files\n\nRecursive compression, which is the most common way to create a zip bomb, stores layers of compressed files in a single archive.  When the primary archive is decompressed, it recursively expands the nested archives.  As multiple layers of compressed files are opened, the output grows exponentially.\nA zip bomb may also be created using overlapping files.  Instead of storing layers of compressed archives, the archive contains multiple directory headers that point to a single file.  By \"overlapping\" files within the archive, it can exceed the maximum compression ratio of 1,032.\nZip bombs are considered malware because they can be used for malicious purposes.  For instance, the rapid decompression may use 100% of system resources, rendering the computer unresponsive.  Fortunately, most antivirus programs can detect zip bombs and warn against opening them.  If you unknowingly open a zip bomb on your PC, most Zip utilities allow you to stop the decompression in mid-process."
+        ]
+    },
+    {
+        "word": "Zone File",
+        "type": [],
+        "definition": [
+            "A zone file is stored on a name server and provides information about one or more domain names.  Each zone file contains a list of DNS records with mappings between domain names and IP addresses.  These records define the IP address of a domain name, the reverse lookup of an IP to other domains, and contain DNS and mail server information.\nBecause zone files are plain text files, they can be edited quickly and easily.  However, this also means that if unauthorized users gain access to zone files, the files can be easily modified.  This could cause websites to not respond, or worse yet, redirect to the wrong Web server.  For this reason, it is important to keep the zone files on a highly secured server and always have a recent backup of zone files on another machine."
+        ]
+    }
+]

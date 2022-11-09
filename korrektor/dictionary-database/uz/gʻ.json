@@ -1,0 +1,5478 @@
+[
+    {
+        "word": "G\u02bbachirlatmoq",
+        "type": [
+            "fl. [g\u2018a-chir-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbachirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbachirlatuv",
+        "type": [
+            "fl. [g\u2018a-chir-la-tuv]"
+        ],
+        "definition": [
+            "G\u02bbachirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbadab",
+        "type": [
+            "ot. [g\u2018a-dab]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. Koyuvchi, tanbehli muomala."
+        ]
+    },
+    {
+        "word": "G\u02bbadablamoq",
+        "type": [
+            "fl. [g\u2018a-dab-la-moq]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. Jahl, po\u02bbpisa bilan koyimoq, tanbeh bermoq."
+        ]
+    },
+    {
+        "word": "G\u02bbadablash",
+        "type": [
+            "fl. [g\u2018a-dab-lash]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. Jahl, po\u02bbpisa bilan koyimoq, tanbeh bermoq."
+        ]
+    },
+    {
+        "word": "G\u02bbadablov",
+        "type": [
+            "fl. [g\u2018a-dab-lov]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. Jahl, po\u02bbpisa bilan koyimoq, tanbeh bermoq."
+        ]
+    },
+    {
+        "word": "G\u02bbaddor",
+        "type": [
+            "ot. [g\u2018ad-dor]"
+        ],
+        "definition": [
+            "kt. Xoin, zolim.",
+            "Mehr-shafqatsiz, berahm."
+        ]
+    },
+    {
+        "word": "G\u02bbaddorlik",
+        "type": [
+            "ot. [g\u2018ad-dor-lik]"
+        ],
+        "definition": [
+            "kt. Xoin, zolim.",
+            "Mehr-shafqatsiz, berahm."
+        ]
+    },
+    {
+        "word": "G\u02bbadir-budur",
+        "type": [
+            "sf. [g\u2018a-dir-bu-dur]"
+        ],
+        "definition": [
+            "Sirti silliq emas, notekis; g\u02bbudda yoki qavarchiqlar bilan qoplangan; g\u02bbo\u02bbdir."
+        ]
+    },
+    {
+        "word": "G\u02bbadir-budurlik",
+        "type": [
+            "ot. [g\u2018a-dir-bu-dur-lik]"
+        ],
+        "definition": [
+            "G\u02bbadir-budur bo\u02bblish holati."
+        ]
+    },
+    {
+        "word": "G\u02bbadir",
+        "type": [
+            "sf. [g\u2018a-dir]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. ayn. G\u02bbo\u02bbdir, g\u02bbadir-budur."
+        ]
+    },
+    {
+        "word": "G\u02bbaflat",
+        "type": [
+            "ot. [g\u2018af-lat]"
+        ],
+        "definition": [
+            "Hush-yorlik butunlay yo\u02bbqolgan holat, butunlay ogohsizlik; g\u02bbofillik.",
+            "ko\u02bbchma Narsalarning mohiyatiga tushunmaslik; nodonlik, jaholat."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bb-g\u02bbag\u02bb",
+        "type": [
+            "ys. [g\u2018ag\u2018-g\u2018ag\u2018]"
+        ],
+        "definition": [
+            "ayn. G\u02bbaq-g\u02bbaq."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bb",
+        "type": [
+            "ys. [g\u2018ag\u2018]"
+        ],
+        "definition": [
+            "ayn. G\u02bbaq."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bbillashmoq",
+        "type": [
+            "fl. [g\u2018a-g\u2018il-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbag\u02bbillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bbillatish",
+        "type": [
+            "fl. [g\u2018a-g\u2018il-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbag\u02bbillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bbillatmoq",
+        "type": [
+            "fl. [g\u2018a-g\u2018il-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbag\u02bbillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bbillov",
+        "type": [
+            "fl. [g\u2018a-g\u2018il-lov]"
+        ],
+        "definition": [
+            "G\u02bbaq-g\u02bbaq degan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bbillovchi",
+        "type": [
+            "fl. [g\u2018a-g\u2018il-lov-chi]"
+        ],
+        "definition": [
+            "G\u02bbaq-g\u02bbaq degan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bbulatish",
+        "type": [
+            "fl. [g\u2018a-g\u2018u-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbag\u02bbulamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbag\u02bbulatmoq",
+        "type": [
+            "fl. [g\u2018a-g\u2018u-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbag\u02bbulamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbajilanish",
+        "type": [
+            "fl. [g\u2018a-ji-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbajilamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbajilanmoq",
+        "type": [
+            "fl. [g\u2018a-ji-lan-moq]"
+        ],
+        "definition": [
+            "G\u02bbajilamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbajir-g\u02bbujur",
+        "type": [
+            "ys. [g\u2018a-jir-g\u2018u-jur]"
+        ],
+        "definition": [
+            "taql. s. G\u02bbajir va shunga yaqin tovushlarni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbajir",
+        "type": [
+            "ot. [g\u2018a-jir]"
+        ],
+        "definition": [
+            "O\u02bblimtiklar bilan ovqatlanadigan, burgut kabi katta yirtqich qush."
+        ]
+    },
+    {
+        "word": "G\u02bbajirlatish",
+        "type": [
+            "fl. [g\u2018a-jir-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbajirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbajishish",
+        "type": [
+            "fl. [g\u2018a-ji-shish]"
+        ],
+        "definition": [
+            "G\u02bbajimoq fe\u02bclining o\u02bbzlik va birgalik nisbatlari."
+        ]
+    },
+    {
+        "word": "G\u02bbajitish",
+        "type": [
+            "fl. [g\u2018a-ji-tish]"
+        ],
+        "definition": [
+            "G\u02bbajimoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbajuv",
+        "type": [
+            "fl. [g\u2018a-juv]"
+        ],
+        "definition": [
+            "Suyak, qattiq non va shu kabilarni kemirib yemoq; mujimoq (ko\u02bbpincha it, mushuk va yirtqich hayvonlar haqida; insonga nisbatan esa salbiy munosabat bilan qo\u02bbllanadi).",
+            "Tishlab, chaynab qattiq jarohat yetkazmoq.",
+            "ko\u02bbchma Tilka-pora qilib yubormoq, abjag\u02bbini chiqarmoq: abgor qilmoq.",
+            "ko\u02bbchma Qattiq zarb, siqish va shu kabilar yo\u02bbl bilan shikastlamoq, ezmoq, majaqlamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbalaba",
+        "type": [
+            "ot. [g\u2018a-la-ba]"
+        ],
+        "definition": [
+            "Jang yoki bellashuv (kurash)da qozonilgan (erishilgan) muvaffaqiyat; zafar.",
+            "Ish-faoliyat, maqsad yo\u02bblida erishilgan muvaffaqiyat, yaxshi natija; yutuq."
+        ]
+    },
+    {
+        "word": "G\u02bbalabali",
+        "type": [
+            "sf. [g\u2018a-la-ba-li]"
+        ],
+        "definition": [
+            "G\u02bbolibona, g\u02bbalabaga olib boruvchi; g\u02bbolib, muzaffar, zafarli;"
+        ]
+    },
+    {
+        "word": "G\u02bbalabasiz",
+        "type": [
+            "ot. [g\u2018a-la-ba-siz]"
+        ],
+        "definition": [
+            "Jang yoki bellashuv (kurash)da qozonilgan (erishilgan) muvaffaqiyat; zafar.",
+            "Ish-faoliyat, maqsad yo\u02bblida erishilgan muvaffaqiyat, yaxshi natija; yutuq."
+        ]
+    },
+    {
+        "word": "G\u02bbaladon",
+        "type": [
+            "ot. [g\u2018a-la-don]"
+        ],
+        "definition": [
+            "Omborda g\u02bballa (don, un) saqlash uchun atrofi o\u02bbralgan joy.",
+            "Stol, javon va shu kabilarning narsa solib qo\u02bbyiladigan tortmasi, yashigi.",
+            "Pul yoki mayda buyumlar saqlash uchun xizmat qiladigan yashik, quticha."
+        ]
+    },
+    {
+        "word": "G\u02bbaladoncha",
+        "type": [
+            "ot. [g\u2018a-la-don-cha]"
+        ],
+        "definition": [
+            "Omborda g\u02bballa (don, un) saqlash uchun atrofi o\u02bbralgan joy.",
+            "Stol, javon va shu kabilarning narsa solib qo\u02bbyiladigan tortmasi, yashigi.",
+            "Pul yoki mayda buyumlar saqlash uchun xizmat qiladigan yashik, quticha."
+        ]
+    },
+    {
+        "word": "G\u02bbaladonli",
+        "type": [
+            "sf. [g\u2018a-la-don-li]"
+        ],
+        "definition": [
+            "G\u02bbaladoni bor, g\u02bbaladonga ega."
+        ]
+    },
+    {
+        "word": "G\u02bbalamis",
+        "type": [
+            "ot. [g\u2018a-la-mis]"
+        ],
+        "definition": [
+            "Kishilar munosabatiga, uning holatiga raxna soluvchi; g\u02bbiybat, fitna yurituvchi."
+        ]
+    },
+    {
+        "word": "G\u02bbalamislarcha",
+        "type": [
+            "ot. [g\u2018a-la-mis-lar-cha]"
+        ],
+        "definition": [
+            "Kishilar munosabatiga, uning holatiga raxna soluvchi; g\u02bbiybat, fitna yurituvchi."
+        ]
+    },
+    {
+        "word": "G\u02bbalamislik",
+        "type": [
+            "ot. [g\u2018a-la-mis-lik]"
+        ],
+        "definition": [
+            "G\u02bbalamisga xos ish, xatti-harakat."
+        ]
+    },
+    {
+        "word": "G\u02bbalati",
+        "type": [
+            "sf. [g\u2018a-la-ti]"
+        ],
+        "definition": [
+            "Odatdagi, hammaga ma\u02bclum bo\u02bblganidan boshqacha; qiziq.",
+            "Nimaligi aniq bo\u02bblmagan, anglab bo\u02bblmaydigan; tayinsiz.",
+            "O\u02bbz tabiiy holatini o\u02bbzgartgan, alla-nechuk bir holatli.",
+            "Juda qoyil; ajoyib."
+        ]
+    },
+    {
+        "word": "G\u02bbalatilik",
+        "type": [
+            "ot. [g\u2018a-la-ti-lik]"
+        ],
+        "definition": [
+            "Ajablik, qiziqlik, g\u02bbalatilik; ajablanarlilik, g\u02bbayrioddiylik;"
+        ]
+    },
+    {
+        "word": "G\u02bbalayon",
+        "type": [
+            "ot. [g\u2018a-la-yon]"
+        ],
+        "definition": [
+            "Norozilik harakati; isyon, qo\u02bbzg\u02bbolon.",
+            "ko\u02bbchma Tabiat, uning hodisalari, shuningdek, kishi ichki dunyosidagi tug\u02bbyon, jo\u02bbsh urish."
+        ]
+    },
+    {
+        "word": "G\u02bbalayonchi",
+        "type": [
+            "ot. [g\u2018a-la-yon-chi]"
+        ],
+        "definition": [
+            "G\u02bbalayon qiluvchi; isyonchi, qo\u02bbzg\u02bbolonchi."
+        ]
+    },
+    {
+        "word": "G\u02bbalayonchilik",
+        "type": [
+            "ot. [g\u2018a-la-yon-chi-lik]"
+        ],
+        "definition": [
+            "G\u02bbalayon qiluvchi; isyonchi, qo\u02bbzg\u02bbolonchi."
+        ]
+    },
+    {
+        "word": "G\u02bbalayonli",
+        "type": [
+            "sf. [g\u2018a-la-yon-li]"
+        ],
+        "definition": [
+            "G\u02bbalayon holatli, g\u02bbalayon bo\u02bblib turgan, davom etayotgan yoki etgan (to\u02bbg\u02bbri va ko\u02bbchma ma\u02bcnoda)."
+        ]
+    },
+    {
+        "word": "G\u02bbalcha",
+        "type": [
+            "ot. [g\u2018al-cha]"
+        ],
+        "definition": [
+            "",
+            "s.t. O\u02bbz tilidan boshqa tilga tushunmaydigan; gap-so\u02bbzni tezda anglab, uqib ololmaydigan."
+        ]
+    },
+    {
+        "word": "G\u02bbalchalik",
+        "type": [
+            "ot. [g\u2018al-cha-lik]"
+        ],
+        "definition": [
+            "",
+            "s.t. O\u02bbz tilidan boshqa tilga tushunmaydigan; gap-so\u02bbzni tezda anglab, uqib ololmaydigan."
+        ]
+    },
+    {
+        "word": "G\u02bbaldir-g\u02bbuldurlatish",
+        "type": [
+            "fl. [g\u2018al-dir-g\u2018ul-dur-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbaldir-g\u02bbuldurlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaldirashmoq",
+        "type": [
+            "fl. [g\u2018al-di-rash-moq]"
+        ],
+        "definition": [
+            "G\u02bbaldiramoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaldiratish",
+        "type": [
+            "fl. [g\u2018al-di-ra-tish]"
+        ],
+        "definition": [
+            "G\u02bbaldiramoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaldiratmoq",
+        "type": [
+            "fl. [g\u2018al-di-rat-moq]"
+        ],
+        "definition": [
+            "G\u02bbaldiramoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaliz",
+        "type": [
+            "sf. [g\u2018a-liz]"
+        ],
+        "definition": [
+            "Uslub jihatidan to\u02bbmtoq; ravon emas, tushunilishi og\u02bbir; mujmal."
+        ]
+    },
+    {
+        "word": "G\u02bbalizlantirish",
+        "type": [
+            "fl. [g\u2018a-liz-lan-ti-rish]"
+        ],
+        "definition": [
+            "G\u02bbalizlanmoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbalizlashtirmoq",
+        "type": [
+            "fl. [g\u2018a-liz-lash-tir-moq]"
+        ],
+        "definition": [
+            "G\u02bbalizlashmoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbalizlik",
+        "type": [
+            "ot. [g\u2018a-liz-lik]"
+        ],
+        "definition": [
+            "Uslub yoki me\u02bcyoriy jihatdan nuqsonli, g\u02bbaliz holat."
+        ]
+    },
+    {
+        "word": "G\u02bballa",
+        "type": [
+            "ot. [g\u2018al-la]"
+        ],
+        "definition": [
+            "Boshoqli ekinlar hosili; don."
+        ]
+    },
+    {
+        "word": "G\u02bballachilik",
+        "type": [
+            "ot. [g\u2018al-la-chi-lik]"
+        ],
+        "definition": [
+            "ayn. G\u02bballakorlik."
+        ]
+    },
+    {
+        "word": "G\u02bballakor",
+        "type": [
+            "ot. [g\u2018al-la-kor]"
+        ],
+        "definition": [
+            "Don yetishtirish ishi bilan shug\u02bbullanuvchi dehqon.",
+            "Don, g\u02bballa yetishtiriladigan."
+        ]
+    },
+    {
+        "word": "G\u02bballakorlik",
+        "type": [
+            "ot. [g\u2018al-la-kor-lik]"
+        ],
+        "definition": [
+            "G\u02bballa ekinlar ekib, g\u02bballa yetishtirish."
+        ]
+    },
+    {
+        "word": "G\u02bballaorollik",
+        "type": [
+            "ot. [g\u2018al-la-o-rol-lik]"
+        ],
+        "definition": [
+            "G\u02bballaorol hududida yashovchi shaxs."
+        ]
+    },
+    {
+        "word": "G\u02bballasimon",
+        "type": [
+            "sf. [g\u2018al-la-si-mon]"
+        ],
+        "definition": [
+            "G\u02bballa o\u02bbsimligi kabi boshoq chiqaradigan, g\u02bballa o\u02bbsimliklariga o\u02bbxshagan."
+        ]
+    },
+    {
+        "word": "G\u02bballaxona",
+        "type": [
+            "ot. [g\u2018al-la-xo-na]"
+        ],
+        "definition": [
+            "Don ombori."
+        ]
+    },
+    {
+        "word": "G\u02bballazor",
+        "type": [
+            "ot. [g\u2018al-la-zor]"
+        ],
+        "definition": [
+            "G\u02bballa (don) ekin(lar)i ekilgan maydon, yer."
+        ]
+    },
+    {
+        "word": "G\u02bbaltak",
+        "type": [
+            "ot. [g\u2018al-tak]"
+        ],
+        "definition": [
+            "Ip, sim, lenta kabi uzun narsalarni o\u02bbrab joylash uchun moslangan buyum.",
+            "",
+            "Elektrotexnika va radiotexnikada maxsus sim o\u02bbrami.",
+            "s. t. Biror narsani tekislash, silliqlash yoki devorlarga gul solish uchun ishlatiladigan, o\u02bbqqa o\u02bbrnatilgan g\u02bbaltaksimon moslama.",
+            "Ba\u02bczi qurilma, moslamalarning aylantiriladigan qismi.",
+            "s. t. Zambilg\u02bbaltak."
+        ]
+    },
+    {
+        "word": "G\u02bbaltakarava",
+        "type": [
+            "ot. [g\u2018al-ta-ka-ra-va]"
+        ],
+        "definition": [
+            "Bir g\u02bbildirakli qo\u02bbl aravacha; zambilg\u02bbaltak.",
+            "Uch yoki to\u02bbrt g\u02bbildirakli, shifoxonalarda bemorlarni ko\u02bbchirish uchun ishlatiladigan aravacha."
+        ]
+    },
+    {
+        "word": "G\u02bbaltakmola",
+        "type": [
+            "ot. [g\u2018al-tak-mo-la]"
+        ],
+        "definition": [
+            "q. x. Sudralganda yumalab, shudgorni tekislaydigan, mola o\u02bbrnida ishlatiladigan yog\u02bboch g\u02bbo\u02bbla."
+        ]
+    },
+    {
+        "word": "G\u02bbalva",
+        "type": [
+            "ot. [g\u2018al-va]"
+        ],
+        "definition": [
+            "Shovqin-suron ko\u02bbtarib qilingan janjal, to\u02bbpolon.",
+            "Tashvish keltiruvchi narsa, holat; tashvish."
+        ]
+    },
+    {
+        "word": "G\u02bbalvachi",
+        "type": [
+            "ot. [g\u2018al-va-chi]"
+        ],
+        "definition": [
+            "Har narsaga g\u02bbalva, janjal qilaveradigan, janjalkash."
+        ]
+    },
+    {
+        "word": "G\u02bbalvachilik",
+        "type": [
+            "ot. [g\u2018al-va-chi-lik]"
+        ],
+        "definition": [
+            "Har narsaga g\u02bbalva, janjal qilaveradigan, janjalkash."
+        ]
+    },
+    {
+        "word": "G\u02bbalvali",
+        "type": [
+            "sf. [g\u2018al-va-li]"
+        ],
+        "definition": [
+            "G\u02bbalva, janjal bo\u02bbladigan, bo\u02bblib turadigan; janjalli.",
+            "Tashvish keltiradigan, ortiqcha (keraksiz) tashvishli."
+        ]
+    },
+    {
+        "word": "G\u02bbalvasiz",
+        "type": [
+            "sf. [g\u2018al-va-siz]"
+        ],
+        "definition": [
+            "G\u02bbalva, janjal bo\u02bblmaydigan; beg\u02bbalva, bejanjal.",
+            "Tashvishsiz, g\u02bbamsiz."
+        ]
+    },
+    {
+        "word": "G\u02bbalvaxona",
+        "type": [
+            "ot. [g\u2018al-va-xo-na]"
+        ],
+        "definition": [
+            "s. t. Kam qo\u02bbll.  G\u02bbalvali, g\u02bbalva bo\u02bblib turadigan joy."
+        ]
+    },
+    {
+        "word": "G\u02bbalvir",
+        "type": [
+            "ot. [g\u2018al-vir]"
+        ],
+        "definition": [
+            "Don elanadigan, siyrak to\u02bbrli katta elak."
+        ]
+    },
+    {
+        "word": "G\u02bbalvirak",
+        "type": [
+            "ot. [g\u2018al-vi-rak]"
+        ],
+        "definition": [
+            "Tajriba uchun o\u02bbzi turgan xonada tuvakda yong\u02bboq o\u02bbstirdi."
+        ]
+    },
+    {
+        "word": "G\u02bbalvircha",
+        "type": [
+            "ot. [g\u2018al-vir-cha]"
+        ],
+        "definition": [
+            "Don elanadigan, siyrak to\u02bbrli katta elak."
+        ]
+    },
+    {
+        "word": "G\u02bbalvirchi",
+        "type": [
+            "ot. [g\u2018al-vir-chi]"
+        ],
+        "definition": [
+            "G\u02bbalvir qiladigan kishi, g\u02bbalvir yasovchi usta."
+        ]
+    },
+    {
+        "word": "G\u02bbalvirchilik",
+        "type": [
+            "ot. [g\u2018al-vir-chi-lik]"
+        ],
+        "definition": [
+            "G\u02bbalvir qiladigan kishi, g\u02bbalvir yasovchi usta."
+        ]
+    },
+    {
+        "word": "G\u02bbam-azob",
+        "type": [
+            "ot. [g\u2018a-ma-zob]"
+        ],
+        "definition": [
+            ""
+        ]
+    },
+    {
+        "word": "G\u02bbam-g\u02bbussa",
+        "type": [
+            "ot. [g\u2018am-g\u2018us-sa]"
+        ],
+        "definition": [
+            ""
+        ]
+    },
+    {
+        "word": "G\u02bbam-g\u02bbussasiz",
+        "type": [
+            "ot. [g\u2018am-g\u2018us-sa-siz]"
+        ],
+        "definition": [
+            ""
+        ]
+    },
+    {
+        "word": "G\u02bbam-hasrat",
+        "type": [
+            "ot. [g\u2018am-has-rat]"
+        ],
+        "definition": [
+            "ayn. G\u02bbam-tashvish."
+        ]
+    },
+    {
+        "word": "G\u02bbam-hasratsiz",
+        "type": [
+            "ot. [g\u2018am-has-rat-siz]"
+        ],
+        "definition": [
+            "ayn. G\u02bbam-tashvish."
+        ]
+    },
+    {
+        "word": "G\u02bbam-qayg\u02bbu",
+        "type": [
+            "ot. [g\u2018am-qay-g\u2018u]"
+        ],
+        "definition": [
+            "ayn. G\u02bbam-tashvish."
+        ]
+    },
+    {
+        "word": "G\u02bbam-qayg\u02bbusiz",
+        "type": [
+            "ot. [g\u2018am-qay-g\u2018u-siz]"
+        ],
+        "definition": [
+            "ayn. G\u02bbam-tashvish."
+        ]
+    },
+    {
+        "word": "G\u02bbam-tashvish",
+        "type": [
+            "ot. [g\u2018am-tash-vish]"
+        ],
+        "definition": [
+            "Tashvishlar, muammolar, odamni kuyuntiradigan holatlar."
+        ]
+    },
+    {
+        "word": "G\u02bbam-tashvishsiz",
+        "type": [
+            "ot. [g\u2018am-tash-vish-siz]"
+        ],
+        "definition": [
+            "Tashvishlar, muammolar, odamni kuyuntiradigan holatlar."
+        ]
+    },
+    {
+        "word": "G\u02bbam",
+        "type": [
+            "ot. [g\u2018am]"
+        ],
+        "definition": [
+            "Ruhiy azob his-tuyg\u02bbusi, ruhiyatdagi shunday holat; qayg\u02bbu.",
+            "Ko\u02bbzlangan maqsad, ish va shu kabilar yo\u02bblidagi bezovtalik xatti-harakati, shu haqidagi o\u02bby-xayol; tashvish."
+        ]
+    },
+    {
+        "word": "G\u02bbamboda",
+        "type": [
+            "ot. [g\u2018am-bo-da]"
+        ],
+        "definition": [
+            "kt. G\u02bbam azobidagi; g\u02bbamli, qayg\u02bbuli."
+        ]
+    },
+    {
+        "word": "G\u02bbamdosh",
+        "type": [
+            "ot. [g\u2018am-dosh]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. ayn. Qayg\u02bbudosh."
+        ]
+    },
+    {
+        "word": "G\u02bbamdoshlik",
+        "type": [
+            "ot. [g\u2018am-dosh-lik]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. ayn. Qayg\u02bbudosh."
+        ]
+    },
+    {
+        "word": "G\u02bbamgin",
+        "type": [
+            "sf. [g\u2018am-gin]"
+        ],
+        "definition": [
+            "Ruhini g\u02bbam egallagan holatli; qayg\u02bbuli.",
+            "G\u02bbam, qayg\u02bbu ifodali."
+        ]
+    },
+    {
+        "word": "G\u02bbamginlik",
+        "type": [
+            "ot. [g\u2018am-gin-lik]"
+        ],
+        "definition": [
+            "G\u02bbamgin holat; g\u02bbam, tashvish ifodali holat."
+        ]
+    },
+    {
+        "word": "G\u02bbamguzor",
+        "type": [
+            "sf. [g\u2018am-gu-zor]"
+        ],
+        "definition": [
+            "Birovning g\u02bbam-qayg\u02bbusini yengillatuvchi kishi; g\u02bbamxo\u02bbr, mehribon."
+        ]
+    },
+    {
+        "word": "G\u02bbamguzorlik",
+        "type": [
+            "sf. [g\u2018am-gu-zor-lik]"
+        ],
+        "definition": [
+            "Birovning g\u02bbam-qayg\u02bbusini yengillatuvchi kishi; g\u02bbamxo\u02bbr, mehribon."
+        ]
+    },
+    {
+        "word": "G\u02bbamlangan",
+        "type": [
+            "fl. [g\u2018am-lan-gan]"
+        ],
+        "definition": [
+            "G\u02bbamlamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbamlatish",
+        "type": [
+            "fl. [g\u2018am-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbamlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbamlattirish",
+        "type": [
+            "fl. [g\u2018am-lat-ti-rish]"
+        ],
+        "definition": [
+            "G\u02bbamlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbamli",
+        "type": [
+            "sf. [g\u2018am-li]"
+        ],
+        "definition": [
+            "G\u02bbam egallagan ruhli; g\u02bbam ifodali; qayg\u02bbuli."
+        ]
+    },
+    {
+        "word": "G\u02bbamlilik",
+        "type": [
+            "sf. [g\u2018am-li-lik]"
+        ],
+        "definition": [
+            "G\u02bbam egallagan ruhli; g\u02bbam ifodali; qayg\u02bbuli."
+        ]
+    },
+    {
+        "word": "G\u02bbamlov",
+        "type": [
+            "fl. [g\u2018am-lov]"
+        ],
+        "definition": [
+            "Ma\u02bclum vaqt, fursat uchun yig\u02bbib tayyorlamoq, to\u02bbplamoq, tayyorlab qo\u02bbymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbamlovchi",
+        "type": [
+            "fl. [g\u2018am-lov-chi]"
+        ],
+        "definition": [
+            "Ma\u02bclum vaqt, fursat uchun yig\u02bbib tayyorlamoq, to\u02bbplamoq, tayyorlab qo\u02bbymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbamnok",
+        "type": [
+            "sf. [g\u2018am-nok]"
+        ],
+        "definition": [
+            "kt. G\u02bbamgin, xafa; g\u02bbam, qayg\u02bbu ifodali."
+        ]
+    },
+    {
+        "word": "G\u02bbamsiz",
+        "type": [
+            "sf. [g\u2018am-siz]"
+        ],
+        "definition": [
+            "G\u02bbam-tashvishdan xoli, g\u02bbami yo\u02bbq."
+        ]
+    },
+    {
+        "word": "G\u02bbamxo\u02bbr",
+        "type": [
+            "sf. [g\u2018am-xo\u2018r]"
+        ],
+        "definition": [
+            "Kimsa uchun qayg\u02bburadigan, uning g\u02bbamini yeydigan."
+        ]
+    },
+    {
+        "word": "G\u02bbamxo\u02bbrlik",
+        "type": [
+            "ot. [g\u2018am-xo\u2018r-lik]"
+        ],
+        "definition": [
+            "Kimsa haqida qayg\u02bburish, uning g\u02bbamini yeyish; g\u02bbamxo\u02bbr shaxsga xos ish, xatti-harakat."
+        ]
+    },
+    {
+        "word": "G\u02bbamxona",
+        "type": [
+            "ot. [g\u2018am-xo-na]"
+        ],
+        "definition": [
+            "Qayg\u02bbu, g\u02bbam-hasratli joy."
+        ]
+    },
+    {
+        "word": "G\u02bbamza",
+        "type": [
+            "ot. [g\u2018am-za]"
+        ],
+        "definition": [
+            "Noz va dilbarona ishva bilan kiprik qoqib, ko\u02bbz suzib qarash; noz-karashma."
+        ]
+    },
+    {
+        "word": "G\u02bbamzada",
+        "type": [
+            "sf. [g\u2018am-za-da]"
+        ],
+        "definition": [
+            "G\u02bbam-alam bilan ezilgan, ko\u02bbp azob chekkan; g\u02bbamboda."
+        ]
+    },
+    {
+        "word": "G\u02bbamzali",
+        "type": [
+            "sf. [g\u2018am-za-li]"
+        ],
+        "definition": [
+            "Noz-karashmali, ishvali."
+        ]
+    },
+    {
+        "word": "G\u02bbamzasiz",
+        "type": [
+            "ot. [g\u2018am-za-siz]"
+        ],
+        "definition": [
+            "Noz va dilbarona ishva bilan kiprik qoqib, ko\u02bbz suzib qarash; noz-karashma."
+        ]
+    },
+    {
+        "word": "G\u02bbana",
+        "type": [
+            "ot. [g\u2018a-na]"
+        ],
+        "definition": [
+            "ayn. G\u02bbon."
+        ]
+    },
+    {
+        "word": "G\u02bbanilik",
+        "type": [
+            "ot. [g\u2018a-ni-lik]"
+        ],
+        "definition": [
+            "esk. kt. Boy, badavlat, davlatmand.",
+            "G\u02bbani (erkaklar ismi)."
+        ]
+    },
+    {
+        "word": "G\u02bbanim",
+        "type": [
+            "ot. [g\u2018a-nim]"
+        ],
+        "definition": [
+            "Dushman; raqib."
+        ]
+    },
+    {
+        "word": "G\u02bbanimat",
+        "type": [
+            "ot. [g\u2018a-ni-mat]"
+        ],
+        "definition": [
+            "kt. Urushda yoki ovda qo\u02bblga kiritilgan narsa, o\u02bblja.",
+            "Umuman, qo\u02bblga kirgan, ega bo\u02bblingan narsa.",
+            "Shaxs, holat yoki narsaning mavjudligi vaqtinchalik, o\u02bbtkinchi va qaytmaydigan ekanini bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbanimlik",
+        "type": [
+            "ot. [g\u2018a-nim-lik]"
+        ],
+        "definition": [
+            "G\u02bbanimga xos munosabat."
+        ]
+    },
+    {
+        "word": "G\u02bbaq-g\u02bbaq",
+        "type": [
+            "ys. [g\u2018aq-g\u2018aq]"
+        ],
+        "definition": [
+            "Ayn. g\u02bbaq."
+        ]
+    },
+    {
+        "word": "G\u02bbaq-g\u02bbuq",
+        "type": [
+            "ys. [g\u2018aq-g\u2018uq]"
+        ],
+        "definition": [
+            "taql. s. G\u02bbaq va shunga yaqin tovushlarni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbaq",
+        "type": [
+            "ys. [g\u2018aq]"
+        ],
+        "definition": [
+            "taql. s. O\u02bbrdak yoki qarg\u02bba-quzg\u02bbunlar tovushini bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbaqillamoq",
+        "type": [
+            "fl. [g\u2018a-qil-la-moq]"
+        ],
+        "definition": [
+            "G\u02bbaq-g\u02bbaq etgan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbaqillatish",
+        "type": [
+            "fl. [g\u2018a-qil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbaqillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaqillatmoq",
+        "type": [
+            "fl. [g\u2018a-qil-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbaqillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaqillov",
+        "type": [
+            "fl. [g\u2018a-qil-lov]"
+        ],
+        "definition": [
+            "G\u02bbaq-g\u02bbaq etgan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbaram-g\u02bbaram",
+        "type": [
+            "ys. [g\u2018a-ram-g\u2018a-ram]"
+        ],
+        "definition": [
+            "To\u02bbp-to\u02bbp, bog\u02bb-bog\u02bb."
+        ]
+    },
+    {
+        "word": "G\u02bbaram",
+        "type": [
+            "ot. [g\u2018a-ram]"
+        ],
+        "definition": [
+            "Beda, pichan va shu kabilarning to\u02bbplangan uyumi."
+        ]
+    },
+    {
+        "word": "G\u02bbaramchi",
+        "type": [
+            "ot. [g\u2018a-ram-chi]"
+        ],
+        "definition": [
+            "G\u02bbaramlovchi;",
+            "Pichan g\u02bbaramlagich."
+        ]
+    },
+    {
+        "word": "G\u02bbaramlagich",
+        "type": [
+            "ot. [g\u2018a-ram-la-gich]"
+        ],
+        "definition": [
+            "q.x. Poxol, pichan, paxta va shu kabilarni g\u02bbaramlaydigan mashina, g\u02bbaramlash mashinasi."
+        ]
+    },
+    {
+        "word": "G\u02bbaramlanish",
+        "type": [
+            "fl. [g\u2018a-ram-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbaramlamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaramlanmoq",
+        "type": [
+            "fl. [g\u2018a-ram-lan-moq]"
+        ],
+        "definition": [
+            "G\u02bbaramlamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaramlashmoq",
+        "type": [
+            "fl. [g\u2018a-ram-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbaramlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbaramlov",
+        "type": [
+            "fl. [g\u2018a-ram-lov]"
+        ],
+        "definition": [
+            "G\u02bbaram holatga olmoq; g\u02bbaram qilmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbaramlovchi",
+        "type": [
+            "fl. [g\u2018a-ram-lov-chi]"
+        ],
+        "definition": [
+            "G\u02bbaram holatga olmoq; g\u02bbaram qilmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbaraz",
+        "type": [
+            "sf. [g\u2018a-raz]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. Shaxsiy manfaat; maqsad, niyat.",
+            "Yomonlik ko\u02bbzda tutilgan maqsad, ko\u02bbrolmaslik munosabati."
+        ]
+    },
+    {
+        "word": "G\u02bbarazchi",
+        "type": [
+            "ot. [g\u2018a-raz-chi]"
+        ],
+        "definition": [
+            "ayn. G\u02bbarazgo\u02bby."
+        ]
+    },
+    {
+        "word": "G\u02bbarazchilik",
+        "type": [
+            "ot. [g\u2018a-raz-chi-lik]"
+        ],
+        "definition": [
+            "ayn. G\u02bbarazgo\u02bby."
+        ]
+    },
+    {
+        "word": "G\u02bbarazgo\u02bby",
+        "type": [
+            "ot. [g\u2018a-raz-go\u2018y]"
+        ],
+        "definition": [
+            "G\u02bbaraz bilan ish tutuvchi; g\u02bbarazchi."
+        ]
+    },
+    {
+        "word": "G\u02bbarazgo\u02bbylik",
+        "type": [
+            "ot. [g\u2018a-raz-go\u2018y-lik]"
+        ],
+        "definition": [
+            "G\u02bbarazli munosabat, yomon maqsad, ko\u02bbra olmaslik tuyg\u02bbusi."
+        ]
+    },
+    {
+        "word": "G\u02bbarazli",
+        "type": [
+            "sf. [g\u2018a-raz-li]"
+        ],
+        "definition": [
+            "G\u02bbarazi bor, yomon maqsad ko\u02bbzda tutilgan."
+        ]
+    },
+    {
+        "word": "G\u02bbarazsiz",
+        "type": [
+            "sf. [g\u2018a-raz-siz]"
+        ],
+        "definition": [
+            "Biror yomon niyat yoki shaxsiy manfaat ko\u02bbzda tutilmagan; g\u02bbarazi yo\u02bbq, beg\u02bbaraz."
+        ]
+    },
+    {
+        "word": "G\u02bbarazsizlik",
+        "type": [
+            "sf. [g\u2018a-raz-siz-lik]"
+        ],
+        "definition": [
+            "kam qo\u02bbll. Shaxsiy manfaat; maqsad, niyat.",
+            "Yomonlik ko\u02bbzda tutilgan maqsad, ko\u02bbrolmaslik munosabati."
+        ]
+    },
+    {
+        "word": "G\u02bbarb",
+        "type": [
+            "rv. [g\u2018arb]"
+        ],
+        "definition": [
+            "Dunyoning to\u02bbrt tomonidan biri; sharqqa qarama-qarshi tomon, quyosh botadigan tomon; kunbotar.",
+            "Ma\u02bclum bir obyekt, hudud, maydon, bino va shu kabilarning g\u02bbarb tomoni, g\u02bbarbiy qismi.",
+            "s. t. G\u02bbarbiy. Yevropa, G\u02bbarbiy Yevropa mamlakatlari."
+        ]
+    },
+    {
+        "word": "G\u02bbarbchilik",
+        "type": [
+            "ot. [g\u2018arb-chi-lik]"
+        ],
+        "definition": [
+            "G\u02bbarbparastlik (19-asr o\u02bbrtalarida rus burjua-dvoryanlari o\u02bbrtasida yuzaga kelgan, Rossiya G\u02bbarbiy Yevropa taraqqiyoti yo\u02bblidan borishi kerak deb bilgan liberal ijtimoiy oqim)."
+        ]
+    },
+    {
+        "word": "G\u02bbarbi-janubiy",
+        "type": [
+            "sf. [g\u2018ar-bi-ja-nu-biy]"
+        ],
+        "definition": [
+            "G\u02bbarb. bilan janub tomonlar oralig\u02bbida joylashgan: g\u02bbarb bilan janub tomonlar oralig\u02bbidagi."
+        ]
+    },
+    {
+        "word": "G\u02bbarbi-shimoliy",
+        "type": [
+            "sf. [g\u2018ar-bi-shi-mo-liy]"
+        ],
+        "definition": [
+            "G\u02bbarb bilan shimol tomonlar oralig\u02bbida joylashgan; g\u02bbarb bilan shimol tomonlar oralig\u02bbidagi."
+        ]
+    },
+    {
+        "word": "G\u02bbarbiy",
+        "type": [
+            "sf. [g\u2018ar-biy]"
+        ],
+        "definition": [
+            "G\u02bbarb tomonda joylashgan, kunbotar tomondagi."
+        ]
+    },
+    {
+        "word": "G\u02bbarch-g\u02bbarch",
+        "type": [
+            "ys. [g\u2018arch-g\u2018arch]"
+        ],
+        "definition": [
+            "ayn. G\u02bbarch"
+        ]
+    },
+    {
+        "word": "G\u02bbarch-g\u02bburch",
+        "type": [
+            "ys. [g\u2018arch-g\u2018urch]"
+        ],
+        "definition": [
+            "G\u02bbarch va shunga yaqin tovushlarni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbarch",
+        "type": [
+            "ot. [g\u2018arch]"
+        ],
+        "definition": [
+            "taql. s. Mo\u02bbrt, kuvrak narsani chaynaganda, bosganda, sindirganda chiqadigan tovushni bildiradi.",
+            "maxs. Etik, kavush, tufli kabi oyoq kiyimlarining tagcharmi orasiga maxsus tarzda qo\u02bbyiladigan charm va yurganda undan chiqadigan tovush."
+        ]
+    },
+    {
+        "word": "G\u02bbarchcha",
+        "type": [
+            "ot. [g\u2018arch-cha]"
+        ],
+        "definition": [
+            "taql. s. Mo\u02bbrt, kuvrak narsani chaynaganda, bosganda, sindirganda chiqadigan tovushni bildiradi.",
+            "maxs. Etik, kavush, tufli kabi oyoq kiyimlarining tagcharmi orasiga maxsus tarzda qo\u02bbyiladigan charm va yurganda undan chiqadigan tovush."
+        ]
+    },
+    {
+        "word": "G\u02bbarchillaganlik",
+        "type": [
+            "fl. [g\u2018ar-chil-la-gan-lik]"
+        ],
+        "definition": [
+            "G\u02bbarch-g\u02bbarch tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbarchillama",
+        "type": [
+            "fl. [g\u2018ar-chil-la-ma]"
+        ],
+        "definition": [
+            "G\u02bbarch-g\u02bbarch tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbarchillash",
+        "type": [
+            "fl. [g\u2018ar-chil-lash]"
+        ],
+        "definition": [
+            "G\u02bbarch-g\u02bbarch tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbarchillatish",
+        "type": [
+            "fl. [g\u2018ar-chil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbarchillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbarchillatuv",
+        "type": [
+            "fl. [g\u2018ar-chil-la-tuv]"
+        ],
+        "definition": [
+            "G\u02bbarchillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbarchillov",
+        "type": [
+            "fl. [g\u2018ar-chil-lov]"
+        ],
+        "definition": [
+            "G\u02bbarch-g\u02bbarch tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbarchli",
+        "type": [
+            "sf. [g\u2018arch-li]"
+        ],
+        "definition": [
+            "G\u02bbarchi bor, \u201cg\u02bbarch\u201c qo\u02bbyilgan: yurganda g\u02bbarch-g\u02bburch qiladigan."
+        ]
+    },
+    {
+        "word": "G\u02bbarchsiz",
+        "type": [
+            "sf. [g\u2018arch-siz]"
+        ],
+        "definition": [
+            "G\u02bbarchi yo\u02bbq, g\u02bbarch-g\u02bburch qilmaydigan."
+        ]
+    },
+    {
+        "word": "G\u02bbarg\u02bbara",
+        "type": [
+            "ot. [g\u2018ar-g\u2018a-ra]"
+        ],
+        "definition": [
+            "taql. s. Suv yoki boshqa suyuq narsani og\u02bbizda tutib, tomoqni chayganda chiqadigan tovushni bildiradi.",
+            "O\u02bblim oldidan tomoqdan chiqadigan xirqiroq tovush."
+        ]
+    },
+    {
+        "word": "G\u02bbarib-benavo",
+        "type": [
+            "ot. [g\u2018a-rib-be-na-vo]"
+        ],
+        "definition": [
+            ""
+        ]
+    },
+    {
+        "word": "G\u02bbarib-g\u02bburabo",
+        "type": [
+            "ot. [g\u2018a-rib-g\u2018u-ra-bo]"
+        ],
+        "definition": [
+            "Faqir kishilar, g\u02bbariblar."
+        ]
+    },
+    {
+        "word": "G\u02bbarib",
+        "type": [
+            "sf. [g\u2018a-rib]"
+        ],
+        "definition": [
+            "Qarindosh-urug\u02bbi yo\u02bbq, biror homiysi, ko\u02bbmakchisi bo\u02bblmagan, kimsasiz; musofir.",
+            "Kambag\u02bbal, qashshoq; faqir, bechora.",
+            "ko\u02bbchma Nochor holatli; ko\u02bbrimsiz; ahvoli tang.",
+            "kam qo\u02bbll. Ajib, qiziq, ajoyib."
+        ]
+    },
+    {
+        "word": "G\u02bbariblik",
+        "type": [
+            "ot. [g\u2018a-rib-lik]"
+        ],
+        "definition": [
+            "G\u02bbarib holat, g\u02bbaribona sharoit."
+        ]
+    },
+    {
+        "word": "G\u02bbaribona",
+        "type": [
+            "ys. [g\u2018a-ri-bo-na]"
+        ],
+        "definition": [
+            "G\u02bbariblarga xos; faqirona, nochor."
+        ]
+    },
+    {
+        "word": "G\u02bbaribparvar",
+        "type": [
+            "sf. [g\u2018a-rib-par-var]"
+        ],
+        "definition": [
+            "G\u02bbariblarga yon bosadigan, ko\u02bbmaklashadigan; kambag\u02bbalparvar."
+        ]
+    },
+    {
+        "word": "G\u02bbaribparvarlik",
+        "type": [
+            "sf. [g\u2018a-rib-par-var-lik]"
+        ],
+        "definition": [
+            "G\u02bbariblarga yon bosadigan, ko\u02bbmaklashadigan; kambag\u02bbalparvar."
+        ]
+    },
+    {
+        "word": "G\u02bbarov",
+        "type": [
+            "ot. [g\u2018a-rov]"
+        ],
+        "definition": [
+            "Poyasi qattiq va bo\u02bbg\u02bbim-bo\u02bbg\u02bbim, ichi kovak, qamishga o\u02bbxshash tropik o\u02bbsimlik; bambuk."
+        ]
+    },
+    {
+        "word": "G\u02bbaroyib",
+        "type": [
+            "sf. [g\u2018a-ro-yib]"
+        ],
+        "definition": [
+            "Juda kam uchraydigan, juda boshqacha, g\u02bbalati.",
+            "ayn. Ajoyib 1."
+        ]
+    },
+    {
+        "word": "G\u02bbaroyibot",
+        "type": [
+            "ot. [g\u2018a-ro-yi-bot]"
+        ],
+        "definition": [
+            "Ajoyib va g\u02bbaroyib narsalar, ajoyibot."
+        ]
+    },
+    {
+        "word": "G\u02bbarq-g\u02bbarq",
+        "type": [
+            "ys. [g\u2018arq-g\u2018arq]"
+        ],
+        "definition": [
+            "Taqlid so\u02bbz."
+        ]
+    },
+    {
+        "word": "G\u02bbarq",
+        "type": [
+            "ys. [g\u2018arq]"
+        ],
+        "definition": [
+            "Suvga cho\u02bbkkan, suv qa\u02bcriga botgan.",
+            "ko\u02bbchma Biror narsaga ko\u02bbmilib ketgan; burkangan, cho\u02bbmgan holatli (holatda)."
+        ]
+    },
+    {
+        "word": "G\u02bbars-g\u02bburs",
+        "type": [
+            "ys. [g\u2018ars-g\u2018urs]"
+        ],
+        "definition": [
+            "shv. "
+        ]
+    },
+    {
+        "word": "G\u02bbars",
+        "type": [
+            "ys. [g\u2018ars]"
+        ],
+        "definition": [
+            "shv. "
+        ]
+    },
+    {
+        "word": "G\u02bbarsillatish",
+        "type": [
+            "fl. [g\u2018ar-sil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbarsillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbarsillatmoq",
+        "type": [
+            "fl. [g\u2018ar-sil-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbarsillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbart-g\u02bburt",
+        "type": [
+            "ys. [g\u2018art-g\u2018urt]"
+        ],
+        "definition": [
+            "taql. s. G\u02bbart va shunga yaqin tovushlarni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbart",
+        "type": [
+            "ys. [g\u2018art]"
+        ],
+        "definition": [
+            "taql. s. Keskin ishqalanish yoki urilishdan kelib chiqadigan yo\u02bbg\u02bbon, dag\u02bbal tovushni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbartillaganlik",
+        "type": [
+            "fl. [g\u2018ar-til-la-gan-lik]"
+        ],
+        "definition": [
+            "\u201cG\u02bbart\u201c, g\u02bbart-g\u02bbart etgan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbartillatish",
+        "type": [
+            "fl. [g\u2018ar-til-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbartillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbartillov",
+        "type": [
+            "fl. [g\u2018ar-til-lov]"
+        ],
+        "definition": [
+            "\u201cG\u02bbart\u201c, g\u02bbart-g\u02bbart etgan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbash",
+        "type": [
+            "ot. [g\u2018ash]"
+        ],
+        "definition": [
+            "sft. kam qo\u02bbll. Noxush, dilgir (kayfiyat, ruhiyatga nisbatan).",
+            "ayn . g\u02bbashlik 1.",
+            "G\u02bbishg\u02bbisha qilaveradigan; injiq (bolalar haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbashlik",
+        "type": [
+            "ot. [g\u2018ash-lik]"
+        ],
+        "definition": [
+            "Ruhiyatdagi dilgir, g\u02bbash holat; noxush, dilgir tuyg\u02bbu, ta\u02bcbi xiralik."
+        ]
+    },
+    {
+        "word": "G\u02bbassol",
+        "type": [
+            "ot. [g\u2018as-sol]"
+        ],
+        "definition": [
+            "ayn. Yuvg\u02bbuchi."
+        ]
+    },
+    {
+        "word": "G\u02bbassollik",
+        "type": [
+            "ot. [g\u2018as-sol-lik]"
+        ],
+        "definition": [
+            "ayn. Yuvg\u02bbuchilik."
+        ]
+    },
+    {
+        "word": "G\u02bbat-g\u02bbat",
+        "type": [
+            "ys. [g\u2018at-g\u2018at]"
+        ],
+        "definition": [
+            "taq.s. Karnay, mashina signali kabilarning tovushiga o\u02bbxshash tovushni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbat-g\u02bbut",
+        "type": [
+            "ys. [g\u2018at-g\u2018ut]"
+        ],
+        "definition": [
+            "ayn. G\u02bbat-g\u02bbat;"
+        ]
+    },
+    {
+        "word": "G\u02bbatillamoq",
+        "type": [
+            "fl. [g\u2018a-til-la-moq]"
+        ],
+        "definition": [
+            "G\u02bbat-g\u02bbat etgan tovush chiqarmoq, g\u02bbat-g\u02bbat qilmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbatillatmoq",
+        "type": [
+            "fl. [g\u2018a-til-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbatillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbavg\u02bbo",
+        "type": [
+            "ot. [g\u2018av-g\u2018o]"
+        ],
+        "definition": [
+            "Betartib ovozlar, qiy-chuv, shovqin.",
+            "ayn. G\u02bbalva 1.",
+            "ayn. G\u02bbalva 2."
+        ]
+    },
+    {
+        "word": "G\u02bbavg\u02bbochi",
+        "type": [
+            "ot. [g\u2018av-g\u2018o-chi]"
+        ],
+        "definition": [
+            "ayn. G\u02bbalvachi."
+        ]
+    },
+    {
+        "word": "G\u02bbavg\u02bbochilik",
+        "type": [
+            "ot. [g\u2018av-g\u2018o-chi-lik]"
+        ],
+        "definition": [
+            "ayn. G\u02bbalvachi."
+        ]
+    },
+    {
+        "word": "G\u02bbavg\u02bboli",
+        "type": [
+            "sf. [g\u2018av-g\u2018o-li]"
+        ],
+        "definition": [
+            "ayn. G\u02bbalvali 1.",
+            "ayn. G\u02bbalvali 2."
+        ]
+    },
+    {
+        "word": "G\u02bbavg\u02bbosiz",
+        "type": [
+            "sf. [g\u2018av-g\u2018o-siz]"
+        ],
+        "definition": [
+            "ayn. G\u02bbalvasiz 1, 2."
+        ]
+    },
+    {
+        "word": "G\u02bbavvos",
+        "type": [
+            "ot. [g\u2018av-vos]"
+        ],
+        "definition": [
+            "Suvga sho\u02bbng\u02bbuvchi, suv ostida dur izlovchi shaxs.",
+            "Suv o\u02bbtkazmaydigan maxsus kiyimda suv osti ishlarini bajaruvchi shaxs."
+        ]
+    },
+    {
+        "word": "G\u02bbavvoslik",
+        "type": [
+            "ot. [g\u2018av-vos-lik]"
+        ],
+        "definition": [
+            "Suvga sho\u02bbng\u02bbuvchi, suv ostida dur izlovchi shaxs.",
+            "Suv o\u02bbtkazmaydigan maxsus kiyimda suv osti ishlarini bajaruvchi shaxs."
+        ]
+    },
+    {
+        "word": "G\u02bbayir",
+        "type": [
+            "sf. [g\u2018a-yir]"
+        ],
+        "definition": [
+            "Birovni ko\u02bbrolmaydigan, rashk qiladigan, qizg\u02bbanadigan; yomonlik qilishni xohlaydigan, ichi qora.",
+            "ayn. G\u02bbayr."
+        ]
+    },
+    {
+        "word": "G\u02bbayirlik",
+        "type": [
+            "ot. [g\u2018a-yir-lik]"
+        ],
+        "definition": [
+            "G\u02bbayir shaxsga xos ish, xatti-harakat, xislat."
+        ]
+    },
+    {
+        "word": "G\u02bbaynoli",
+        "type": [
+            "sf. [g\u2018ay-no-li]"
+        ],
+        "definition": [
+            "shv. Olxo\u02bbri."
+        ]
+    },
+    {
+        "word": "G\u02bbayrat",
+        "type": [
+            "ot. [g\u2018ay-rat]"
+        ],
+        "definition": [
+            "Ish-harakatga bo\u02bblgan kuchli intilish, berilish hissi; ishtiyoq.",
+            "G\u02bbayrat (erkaklar ismi)."
+        ]
+    },
+    {
+        "word": "G\u02bbayratchan",
+        "type": [
+            "sf. [g\u2018ay-rat-chan]"
+        ],
+        "definition": [
+            "G\u02bbayratli, serg\u02bbayrat."
+        ]
+    },
+    {
+        "word": "G\u02bbayratlanganlik",
+        "type": [
+            "fl. [g\u2018ay-rat-lan-gan-lik]"
+        ],
+        "definition": [
+            "G\u02bbayratga kirmoq, g\u02bbayrati qo\u02bbzg\u02bbamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbayratlanish",
+        "type": [
+            "fl. [g\u2018ay-rat-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbayratga kirmoq, g\u02bbayrati qo\u02bbzg\u02bbamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbayratlantirish",
+        "type": [
+            "fl. [g\u2018ay-rat-lan-ti-rish]"
+        ],
+        "definition": [
+            "G\u02bbayratlanmoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbayratlanuv",
+        "type": [
+            "fl. [g\u2018ay-rat-la-nuv]"
+        ],
+        "definition": [
+            "G\u02bbayratga kirmoq, g\u02bbayrati qo\u02bbzg\u02bbamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbayratlanuvchi",
+        "type": [
+            "fl. [g\u2018ay-rat-la-nuv-chi]"
+        ],
+        "definition": [
+            "G\u02bbayratga kirmoq, g\u02bbayrati qo\u02bbzg\u02bbamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbayratli",
+        "type": [
+            "sf. [g\u2018ay-rat-li]"
+        ],
+        "definition": [
+            "Yaxshi, kuchli g\u02bbayratga ega; serg\u02bbayrat, tirishqoq."
+        ]
+    },
+    {
+        "word": "G\u02bbayratlilik",
+        "type": [
+            "sf. [g\u2018ay-rat-li-lik]"
+        ],
+        "definition": [
+            "Yaxshi, kuchli g\u02bbayratga ega; serg\u02bbayrat, tirishqoq."
+        ]
+    },
+    {
+        "word": "G\u02bbayratsiz",
+        "type": [
+            "sf. [g\u2018ay-rat-siz]"
+        ],
+        "definition": [
+            "G\u02bbayrati yo\u02bbq; sustkash."
+        ]
+    },
+    {
+        "word": "G\u02bbayratsizlik",
+        "type": [
+            "ot. [g\u2018ay-rat-siz-lik]"
+        ],
+        "definition": [
+            ""
+        ]
+    },
+    {
+        "word": "G\u02bbayri",
+        "type": [
+            "sf. [g\u2018ay-ri]"
+        ],
+        "definition": [
+            "ko\u02bbm. kt.kam qo\u02bbll. (ch.k. bilan). Boshqa, o\u02bbzga; tashqari."
+        ]
+    },
+    {
+        "word": "G\u02bbayriaxloqiy",
+        "type": [
+            "sf. [g\u2018ay-ri-ax-lo-qiy]"
+        ],
+        "definition": [
+            "kt. Axloq me\u02bcyorlariga zid, axloqiy bo\u02bblmagan."
+        ]
+    },
+    {
+        "word": "G\u02bbayridin",
+        "type": [
+            "ot. [g\u2018ay-ri-din]"
+        ],
+        "definition": [
+            "kt. Boshqa dinga e\u02bctiqod qiluvchi, boshqa dindagi (kishi)."
+        ]
+    },
+    {
+        "word": "G\u02bbayridiniy",
+        "type": [
+            "sf. [g\u2018ay-ri-di-niy]"
+        ],
+        "definition": [
+            "Biror dinga zid; dinga qarshi.",
+            "ayn. G\u02bbayridin."
+        ]
+    },
+    {
+        "word": "G\u02bbayridinlik",
+        "type": [
+            "ot. [g\u2018ay-ri-din-lik]"
+        ],
+        "definition": [
+            "kt. Boshqa dinga e\u02bctiqod qiluvchi, boshqa dindagi (kishi)."
+        ]
+    },
+    {
+        "word": "G\u02bbayriilmiy",
+        "type": [
+            "sf. [g\u2018ay-ri-il-miy]"
+        ],
+        "definition": [
+            "Ilmiy bo\u02bblmagan, ilm-fanga xilof."
+        ]
+    },
+    {
+        "word": "G\u02bbayriinsoniy",
+        "type": [
+            "sf. [g\u2018ay-ri-in-so-niy]"
+        ],
+        "definition": [
+            "kt. Insoniy xulq, fazilat, odob va shu kabilarga zid, insoniy bo\u02bblmagan."
+        ]
+    },
+    {
+        "word": "G\u02bbayriixtiyoriy",
+        "type": [
+            "sf. [g\u2018ay-ri-ix-ti-yo-riy]"
+        ],
+        "definition": [
+            "Kishi ixtiyori bilan bo\u02bblmagan, ixtiyorsizlik bilan qilingan."
+        ]
+    },
+    {
+        "word": "G\u02bbayrijins",
+        "type": [
+            "sf. [g\u2018ay-ri-jins]"
+        ],
+        "definition": [
+            "esk. kt. Jinsi boshqa, boshqa jinsdagi; urug\u02bbi boshqa, qabilasi boshqa."
+        ]
+    },
+    {
+        "word": "G\u02bbayriqonuniy",
+        "type": [
+            "sf. [g\u2018ay-ri-qo-nu-niy]"
+        ],
+        "definition": [
+            "Qonunga xilof, qonunga sig\u02bbmaydigan, qonunga zid."
+        ]
+    },
+    {
+        "word": "G\u02bbayrirasmiy",
+        "type": [
+            "sf. [g\u2018ay-ri-ras-miy]"
+        ],
+        "definition": [
+            "Rasmiy bo\u02bblmagan, qonuniy yo\u02bbl bilan qilinmagan."
+        ]
+    },
+    {
+        "word": "G\u02bbayrishar\u02bciy",
+        "type": [
+            "sf. [g\u2018ay-ri-shar\u02bc-iy]"
+        ],
+        "definition": [
+            "din. Shariatga xilof, shariat qonun-qoidalariga to\u02bbg\u02bbri kelmaydigan."
+        ]
+    },
+    {
+        "word": "G\u02bbayrishuuriy",
+        "type": [
+            "sf. [g\u2018ay-ri-shu-u-riy]"
+        ],
+        "definition": [
+            "Ongsiz tarzdagi, ixtiyordan tashqari; o\u02bbzi bilmagan holda, o\u02bbylamasdan, beixtiyor."
+        ]
+    },
+    {
+        "word": "G\u02bbayritabiiy",
+        "type": [
+            "sf. [g\u2018ay-ri-ta-bi-iy]"
+        ],
+        "definition": [
+            "Tabiat qonunlariga bo\u02bbysunmaydigan, sababini bilib bo\u02bblmaydigan, odatdan tashqari.",
+            "Sun\u02bciy, yasama; g\u02bbalati."
+        ]
+    },
+    {
+        "word": "G\u02bbazab",
+        "type": [
+            "ot. [g\u2018a-zab]"
+        ],
+        "definition": [
+            "Kuchli darajada achchiqlanish hissi; qahr, jahl."
+        ]
+    },
+    {
+        "word": "G\u02bbazabdor",
+        "type": [
+            "sf. [g\u2018a-zab-dor]"
+        ],
+        "definition": [
+            "folk. ayn. G\u02bbazabkor."
+        ]
+    },
+    {
+        "word": "G\u02bbazabkor",
+        "type": [
+            "sf. [g\u2018a-zab-kor]"
+        ],
+        "definition": [
+            "kt. Nafrati, g\u02bbazabi to\u02bblib-toshgan, g\u02bbazablangan, g\u02bbazabli."
+        ]
+    },
+    {
+        "word": "G\u02bbazabkorlik",
+        "type": [
+            "sf. [g\u2018a-zab-kor-lik]"
+        ],
+        "definition": [
+            "kt. Nafrati, g\u02bbazabi to\u02bblib-toshgan, g\u02bbazablangan, g\u02bbazabli."
+        ]
+    },
+    {
+        "word": "G\u02bbazablanish",
+        "type": [
+            "fl. [g\u2018a-zab-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbazabi kelmoq, qattiq jahli chiqmoq, g\u02bboyat achchiqlanmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbazablantirish",
+        "type": [
+            "fl. [g\u2018a-zab-lan-ti-rish]"
+        ],
+        "definition": [
+            "G\u02bbazablanmoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbazabli",
+        "type": [
+            "sf. [g\u2018a-zab-li]"
+        ],
+        "definition": [
+            "G\u02bbazabga to\u02bblgan, g\u02bbazab ifodalovchi."
+        ]
+    },
+    {
+        "word": "G\u02bbazabnok",
+        "type": [
+            "sf. [g\u2018a-zab-nok]"
+        ],
+        "definition": [
+            "kt. ayn. G\u02bbazabli.",
+            "Sirli sohil."
+        ]
+    },
+    {
+        "word": "G\u02bbazabsiz",
+        "type": [
+            "ot. [g\u2018a-zab-siz]"
+        ],
+        "definition": [
+            "Kuchli darajada achchiqlanish hissi; qahr, jahl."
+        ]
+    },
+    {
+        "word": "G\u02bbazal",
+        "type": [
+            "ot. [g\u2018a-zal]"
+        ],
+        "definition": [
+            "ad. Aruz she\u02bcriy tizimida uch baytdan o\u02bbn to\u02bbqqiz baytgacha bo\u02bblgan, Sharq xalqlari, jumladan, o\u02bbzbek adabiyotidagi lirik she\u02bcr (Birinchi baytning har ikki misrasi, qolgan baytlarning ikkinchi misralari qofiyadosh bo\u02bblib keladi)."
+        ]
+    },
+    {
+        "word": "G\u02bbazalchilik",
+        "type": [
+            "ot. [g\u2018a-zal-chi-lik]"
+        ],
+        "definition": [
+            "She\u02bcriyatning (nazmning) g\u02bbazal sohasi."
+        ]
+    },
+    {
+        "word": "G\u02bbazalkentlik",
+        "type": [
+            "ot. [g\u2018a-zal-kent-lik]"
+        ],
+        "definition": [
+            "G\u02bbazalkent hududida yashovchi shaxs."
+        ]
+    },
+    {
+        "word": "G\u02bbazalnavislik",
+        "type": [
+            "ot. [g\u2018a-zal-na-vis-lik]"
+        ],
+        "definition": [
+            "G\u02bbazal yozish ishi."
+        ]
+    },
+    {
+        "word": "G\u02bbazalxon",
+        "type": [
+            "ot. [g\u2018a-zal-xon]"
+        ],
+        "definition": [
+            "G\u02bbazal o\u02bbquvchi, g\u02bbazal aytuvchi; g\u02bbazal shinavandasi.",
+            "G\u02bbazal yozuvchi."
+        ]
+    },
+    {
+        "word": "G\u02bbazalxonlik",
+        "type": [
+            "ot. [g\u2018a-zal-xon-lik]"
+        ],
+        "definition": [
+            "G\u02bbazal o\u02bbqish, yoddan g\u02bbazallar aytish."
+        ]
+    },
+    {
+        "word": "G\u02bbazna",
+        "type": [
+            "ot. [g\u2018az-na]"
+        ],
+        "definition": [
+            "s. t. Xazina."
+        ]
+    },
+    {
+        "word": "G\u02bbaznachi",
+        "type": [
+            "ot. [g\u2018az-na-chi]"
+        ],
+        "definition": [
+            "s. t. Xazinachi."
+        ]
+    },
+    {
+        "word": "G\u02bbazol",
+        "type": [
+            "ot. [g\u2018a-zol]"
+        ],
+        "definition": [
+            "Kiyiklar oilasiga mansub chiroyli, juda chopqir hayvon; g\u02bbizol, ohu."
+        ]
+    },
+    {
+        "word": "G\u02bbazovot",
+        "type": [
+            "ot. [g\u2018a-zo-vot]"
+        ],
+        "definition": [
+            "ayn. G\u02bbazot."
+        ]
+    },
+    {
+        "word": "G\u02bbichir-g\u02bbichir",
+        "type": [
+            "ys. [g\u2018i-chir-g\u2018i-chir]"
+        ],
+        "definition": [
+            "ayn. \u00a0g\u02bbirch-g\u02bbirch."
+        ]
+    },
+    {
+        "word": "G\u02bbichir",
+        "type": [
+            "ys. [g\u2018i-chir]"
+        ],
+        "definition": [
+            "ayn. G\u02bbirch."
+        ]
+    },
+    {
+        "word": "G\u02bbichirlash",
+        "type": [
+            "fl. [g\u2018i-chir-lash]"
+        ],
+        "definition": [
+            "ayn. G\u02bbirchillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbichirlatish",
+        "type": [
+            "fl. [g\u2018i-chir-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbichirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbichirlov",
+        "type": [
+            "fl. [g\u2018i-chir-lov]"
+        ],
+        "definition": [
+            "ayn. G\u02bbirchillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbidg\u02bbidlamoq",
+        "type": [
+            "fl. [g\u2018id-g\u2018id-la-moq]"
+        ],
+        "definition": [
+            "taql. s. Bo\u02bblinib-bo\u02bblinib chiqadigan ovoz bilan sayramoq (kaklik, bedana haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbidg\u02bbidlash",
+        "type": [
+            "fl. [g\u2018id-g\u2018id-lash]"
+        ],
+        "definition": [
+            "taql. s. Bo\u02bblinib-bo\u02bblinib chiqadigan ovoz bilan sayramoq (kaklik, bedana haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbidi-bidi",
+        "type": [
+            "ot. [g\u2018i-di-bi-di]"
+        ],
+        "definition": [
+            "Norozilik, talab, shikoyat, koyish va shu kabilar tarzdagi gap-so\u02bbz, o\u02bbzaro aytishish (odatda, arzimas, mayda-chuyda narsalar haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbidi-g\u02bbidi",
+        "type": [
+            "ys. [g\u2018i-di-g\u2018i-di]"
+        ],
+        "definition": [
+            "ayn. G\u02bbidi-bidi."
+        ]
+    },
+    {
+        "word": "G\u02bbidillashish",
+        "type": [
+            "fl. [g\u2018i-dil-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbidillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbidillashmoq",
+        "type": [
+            "fl. [g\u2018i-dil-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbidillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbidinglashish",
+        "type": [
+            "fl. [g\u2018i-ding-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbidinglamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbidinglov",
+        "type": [
+            "fl. [g\u2018i-ding-lov]"
+        ],
+        "definition": [
+            "s.t. salb. Bema\u02bcni gaplarni aytmoq; po\u02bbng\u02bbillamoq, do\u02bbng\u02bbillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijbanglamoq",
+        "type": [
+            "fl. [g\u2018ij-bang-la-moq]"
+        ],
+        "definition": [
+            "Ma\u02bclum usul yoki ritmda chalinmoq, jarangdor ovoz taratmoq (childirma haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbijduvonlik",
+        "type": [
+            "ot. [g\u2018ij-du-von-lik]"
+        ],
+        "definition": [
+            "G\u02bbijduvon hududida yashovchi shaxs."
+        ]
+    },
+    {
+        "word": "G\u02bbijillamoq",
+        "type": [
+            "fl. [g\u2018i-jil-la-moq]"
+        ],
+        "definition": [
+            "s. t. G\u02bbijirlamoq.",
+            "s. t. Ko\u02bbpayib, g\u02bbij-g\u02bbij bo\u02bblib ketmoq, to\u02bblib-toshmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijillashish",
+        "type": [
+            "fl. [g\u2018i-jil-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbijillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijillashmoq",
+        "type": [
+            "fl. [g\u2018i-jil-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbijillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijillatish",
+        "type": [
+            "fl. [g\u2018i-jil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbijillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijillatmoq",
+        "type": [
+            "fl. [g\u2018i-jil-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbijillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijillatuv",
+        "type": [
+            "fl. [g\u2018i-jil-la-tuv]"
+        ],
+        "definition": [
+            "G\u02bbijillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijillov",
+        "type": [
+            "fl. [g\u2018i-jil-lov]"
+        ],
+        "definition": [
+            "s. t. G\u02bbijirlamoq.",
+            "s. t. Ko\u02bbpayib, g\u02bbij-g\u02bbij bo\u02bblib ketmoq, to\u02bblib-toshmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijim",
+        "type": [
+            "sf. [g\u2018i-jim]"
+        ],
+        "definition": [
+            "Buklanib, ezilib, taxi, tekisligi buzilgan."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlagancha",
+        "type": [
+            "fl. [g\u2018i-jim-la-gan-cha]"
+        ],
+        "definition": [
+            "Tekisligi, taxi buzilgan, ezilgan holatga olmoq; g\u02bbijim qilmoq.",
+            "Kaftlari orasida mahkam, ezgan holda tutmoq, siqib ushlamoq.",
+            "ko\u02bbchma Azoblamoq, ezmoq, qiynamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlaganlik",
+        "type": [
+            "fl. [g\u2018i-jim-la-gan-lik]"
+        ],
+        "definition": [
+            "Tekisligi, taxi buzilgan, ezilgan holatga olmoq; g\u02bbijim qilmoq.",
+            "Kaftlari orasida mahkam, ezgan holda tutmoq, siqib ushlamoq.",
+            "ko\u02bbchma Azoblamoq, ezmoq, qiynamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlanganlik",
+        "type": [
+            "fl. [g\u2018i-jim-lan-gan-lik]"
+        ],
+        "definition": [
+            "G\u02bbijimlamoq fe\u02bclining majhul va o\u02bbzlik nisbatlari."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlanish",
+        "type": [
+            "fl. [g\u2018i-jim-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbijimlamoq fe\u02bclining majhul va o\u02bbzlik nisbatlari."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlash",
+        "type": [
+            "fl. [g\u2018i-jim-lash]"
+        ],
+        "definition": [
+            "Tekisligi, taxi buzilgan, ezilgan holatga olmoq; g\u02bbijim qilmoq.",
+            "Kaftlari orasida mahkam, ezgan holda tutmoq, siqib ushlamoq.",
+            "ko\u02bbchma Azoblamoq, ezmoq, qiynamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlatish",
+        "type": [
+            "fl. [g\u2018i-jim-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbijimlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlik",
+        "type": [
+            "sf. [g\u2018i-jim-lik]"
+        ],
+        "definition": [
+            "Buklanib, ezilib, taxi, tekisligi buzilgan."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlov",
+        "type": [
+            "fl. [g\u2018i-jim-lov]"
+        ],
+        "definition": [
+            "Tekisligi, taxi buzilgan, ezilgan holatga olmoq; g\u02bbijim qilmoq.",
+            "Kaftlari orasida mahkam, ezgan holda tutmoq, siqib ushlamoq.",
+            "ko\u02bbchma Azoblamoq, ezmoq, qiynamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijimlovchi",
+        "type": [
+            "fl. [g\u2018i-jim-lov-chi]"
+        ],
+        "definition": [
+            "Tekisligi, taxi buzilgan, ezilgan holatga olmoq; g\u02bbijim qilmoq.",
+            "Kaftlari orasida mahkam, ezgan holda tutmoq, siqib ushlamoq.",
+            "ko\u02bbchma Azoblamoq, ezmoq, qiynamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijinganlik",
+        "type": [
+            "fl. [g\u2018i-jin-gan-lik]"
+        ],
+        "definition": [
+            "Achchig\u02bbi kelib, jahli chiqib, qiyofasi shunga mos holda o\u02bbzgarmoq (masalan, yuzi burushmoq)."
+        ]
+    },
+    {
+        "word": "G\u02bbijinish",
+        "type": [
+            "fl. [g\u2018i-ji-nish]"
+        ],
+        "definition": [
+            "Achchig\u02bbi kelib, jahli chiqib, qiyofasi shunga mos holda o\u02bbzgarmoq (masalan, yuzi burushmoq)."
+        ]
+    },
+    {
+        "word": "G\u02bbijintirish",
+        "type": [
+            "fl. [g\u2018i-jin-ti-rish]"
+        ],
+        "definition": [
+            "G\u02bbijinmoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijinuv",
+        "type": [
+            "fl. [g\u2018i-ji-nuv]"
+        ],
+        "definition": [
+            "Achchig\u02bbi kelib, jahli chiqib, qiyofasi shunga mos holda o\u02bbzgarmoq (masalan, yuzi burushmoq)."
+        ]
+    },
+    {
+        "word": "G\u02bbijir-g\u02bbijir",
+        "type": [
+            "ys. [g\u2018i-jir-g\u2018i-jir]"
+        ],
+        "definition": [
+            "ayn. G\u02bbichir-g\u02bbichir."
+        ]
+    },
+    {
+        "word": "G\u02bbijir",
+        "type": [
+            "ys. [g\u2018i-jir]"
+        ],
+        "definition": [
+            "taql. s. Qattiq narsalarning bir-biriga ishqalanishidan hosil bo\u02bbladigan yoqimsiz tovushni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbijirlashmoq",
+        "type": [
+            "fl. [g\u2018i-jir-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbijirlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijirlatish",
+        "type": [
+            "fl. [g\u2018i-jir-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbijirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijirlatuv",
+        "type": [
+            "fl. [g\u2018i-jir-la-tuv]"
+        ],
+        "definition": [
+            "G\u02bbijirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbijirlov",
+        "type": [
+            "fl. [g\u2018i-jir-lov]"
+        ],
+        "definition": [
+            "G\u02bbijir-g\u02bbijir tovush chiqarmoq, g\u02bbijir-g\u02bbijir qilmoq.",
+            "s. t. Shamollash yoki biror kasallik tufayli xirillashga yaqin ovoz chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbijjak",
+        "type": [
+            "ot. [g\u2018ij-jak]"
+        ],
+        "definition": [
+            "Sim torli, qorinchasiga maxsus teri qoplangan, kamoncha bilan chalinadigan musiqa asbobi."
+        ]
+    },
+    {
+        "word": "G\u02bbijjakchi",
+        "type": [
+            "ot. [g\u2018ij-jak-chi]"
+        ],
+        "definition": [
+            "G\u02bbijjak chaluvchi sozanda."
+        ]
+    },
+    {
+        "word": "G\u02bbijjakchilik",
+        "type": [
+            "ot. [g\u2018ij-jak-chi-lik]"
+        ],
+        "definition": [
+            "G\u02bbijjak chaluvchi sozanda."
+        ]
+    },
+    {
+        "word": "G\u02bbijjaksiz",
+        "type": [
+            "ot. [g\u2018ij-jak-siz]"
+        ],
+        "definition": [
+            "Sim torli, qorinchasiga maxsus teri qoplangan, kamoncha bilan chalinadigan musiqa asbobi."
+        ]
+    },
+    {
+        "word": "G\u02bbijmaloq",
+        "type": [
+            "ot. [g\u2018ij-ma-loq]"
+        ],
+        "definition": [
+            "shv. G\u02bbijimlangan, taxi buzilgan, g\u02bbijim."
+        ]
+    },
+    {
+        "word": "G\u02bbijmaloqlash",
+        "type": [
+            "fl. [g\u2018ij-ma-loq-lash]"
+        ],
+        "definition": [
+            "shv. Tekisligini yoki taxini buzmoq, g\u02bbijimlamoq, g\u02bbijmaloq qilmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbilay",
+        "type": [
+            "sf. [g\u2018i-lay]"
+        ],
+        "definition": [
+            "Qaraganda ko\u02bbz qorachiqlari bir tomonga yo\u02bbnalmaydigan, to\u02bbg\u02bbriga qaray olmaydigan, ko\u02bbz soqqasi qiyshiq o\u02bbrnashgan."
+        ]
+    },
+    {
+        "word": "G\u02bbilaylanish",
+        "type": [
+            "fl. [g\u2018i-lay-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbilay holatli bo\u02bblmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbilaylik",
+        "type": [
+            "ot. [g\u2018i-lay-lik]"
+        ],
+        "definition": [
+            "Ko\u02bbz soqqasining qiyshiq o\u02bbrnashuvi: bunda bir ko\u02bbz qorachig\u02bbi ko\u02bbrilayotgan narsaga qaragan, ikkinchisi esa o\u02bbsha narsadan chakka yoki burun tomonga og\u02bbgan bo\u02bbladi. Ba\u02bczan ikkala ko\u02bbz qorachig\u02bbi burun yoki chakka tomonga og\u02bbadi."
+        ]
+    },
+    {
+        "word": "G\u02bbildirak",
+        "type": [
+            "ot. [g\u2018il-di-rak]"
+        ],
+        "definition": [
+            "Arava, mashina yoki biror mexanizmning yurishi, harakat qilishi uchun xizmat qiladigan, o\u02bbqqa o\u02bbrnatilgan, aylanadigan, doira shaklli qismi.",
+            "G\u02bbildirakka o\u02bbxshash, aylana shaklli."
+        ]
+    },
+    {
+        "word": "G\u02bbildirakli",
+        "type": [
+            "sf. [g\u2018il-di-rak-li]"
+        ],
+        "definition": [
+            "G\u02bbildiragi bor, g\u02bbildirak o\u02bbrnatilgan."
+        ]
+    },
+    {
+        "word": "G\u02bbildiraksiz",
+        "type": [
+            "sf. [g\u2018il-di-rak-siz]"
+        ],
+        "definition": [
+            "G\u02bbildiragi yo\u02bbq."
+        ]
+    },
+    {
+        "word": "G\u02bbildiraksoz",
+        "type": [
+            "ot. [g\u2018il-di-rak-soz]"
+        ],
+        "definition": [
+            "G\u02bbildirak yasovchi usta."
+        ]
+    },
+    {
+        "word": "G\u02bbildiraksozlik",
+        "type": [
+            "ot. [g\u2018il-di-rak-soz-lik]"
+        ],
+        "definition": [
+            "G\u02bbildirak yasovchi usta."
+        ]
+    },
+    {
+        "word": "G\u02bbildirash",
+        "type": [
+            "fl. [g\u2018il-di-rash]"
+        ],
+        "definition": [
+            "Aylanma harakat qilib yurib ketmoq (g\u02bbildirak yoki doira shaklli narsalar haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbildiratish",
+        "type": [
+            "fl. [g\u2018il-di-ra-tish]"
+        ],
+        "definition": [
+            "G\u02bbildiramoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbildirov",
+        "type": [
+            "fl. [g\u2018il-di-rov]"
+        ],
+        "definition": [
+            "Aylanma harakat qilib yurib ketmoq (g\u02bbildirak yoki doira shaklli narsalar haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbilmon",
+        "type": [
+            "ot. [g\u2018il-mon]"
+        ],
+        "definition": [
+            "din. Jannatda xizmat qiladigan yosh go\u02bbzal yigit.",
+            "ko\u02bbchma s.t. Go\u02bbzal qiz, ayol; pari."
+        ]
+    },
+    {
+        "word": "G\u02bbilof",
+        "type": [
+            "ot. [g\u2018i-lof]"
+        ],
+        "definition": [
+            "Buyumni tashqi shikastdan saqlash uchun solib qo\u02bbyiladigan, shu buyum shakliga moslab tayyorlangan maxsus jild, quti, qin.",
+            "ko\u02bbchma kam qo\u02bbll. q. Maska 1."
+        ]
+    },
+    {
+        "word": "G\u02bbilofchi",
+        "type": [
+            "ot. [g\u2018i-lof-chi]"
+        ],
+        "definition": [
+            "G\u02bbilof tayyorlovchi usta."
+        ]
+    },
+    {
+        "word": "G\u02bbilofchilik",
+        "type": [
+            "ot. [g\u2018i-lof-chi-lik]"
+        ],
+        "definition": [
+            "G\u02bbilof tayyorlovchi usta."
+        ]
+    },
+    {
+        "word": "G\u02bbiloflash",
+        "type": [
+            "fl. [g\u2018i-lof-lash]"
+        ],
+        "definition": [
+            "Narsaga, buyumga g\u02bbilof qoplamoq, g\u02bbilofga solmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbiloflatish",
+        "type": [
+            "fl. [g\u2018i-lof-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbiloflamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbiloflatmoq",
+        "type": [
+            "fl. [g\u2018i-lof-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbiloflamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbilofli",
+        "type": [
+            "sf. [g\u2018i-lof-li]"
+        ],
+        "definition": [
+            "G\u02bbiloflangan, g\u02bbilofi bor."
+        ]
+    },
+    {
+        "word": "G\u02bbilofsiz",
+        "type": [
+            "ot. [g\u2018i-lof-siz]"
+        ],
+        "definition": [
+            "Buyumni tashqi shikastdan saqlash uchun solib qo\u02bbyiladigan, shu buyum shakliga moslab tayyorlangan maxsus jild, quti, qin.",
+            "ko\u02bbchma kam qo\u02bbll. q. Maska 1."
+        ]
+    },
+    {
+        "word": "G\u02bbilqillash",
+        "type": [
+            "fl. [g\u2018il-qil-lash]"
+        ],
+        "definition": [
+            "ayn. Qulqullamoq.",
+            "ayn. G\u02bbiltillamoq 2."
+        ]
+    },
+    {
+        "word": "G\u02bbilqillatish",
+        "type": [
+            "fl. [g\u2018il-qil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbilqillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbilqillov",
+        "type": [
+            "fl. [g\u2018il-qil-lov]"
+        ],
+        "definition": [
+            "ayn. Qulqullamoq.",
+            "ayn. G\u02bbiltillamoq 2."
+        ]
+    },
+    {
+        "word": "G\u02bbilt-g\u02bbilt",
+        "type": [
+            "ys. [g\u2018ilt-g\u2018ilt]"
+        ],
+        "definition": [
+            "ayn. G\u02bbilt."
+        ]
+    },
+    {
+        "word": "G\u02bbilt",
+        "type": [
+            "ys. [g\u2018ilt]"
+        ],
+        "definition": [
+            "taql. s. Suyuqlikni yutayotganda, tomoqda hosil bo\u02bbladigan tovushni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbiltillash",
+        "type": [
+            "fl. [g\u2018il-til-lash]"
+        ],
+        "definition": [
+            "Javdirab, yalingan, yalingansimon holatli bo\u02bblmoq.",
+            "Yilt-yilt, mo\u02bblt-mo\u02bblt qilmoq (ko\u02bbz yoshi haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbiltillatish",
+        "type": [
+            "fl. [g\u2018il-til-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbiltillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbiltillatmoq",
+        "type": [
+            "fl. [g\u2018il-til-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbiltillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbiltillov",
+        "type": [
+            "fl. [g\u2018il-til-lov]"
+        ],
+        "definition": [
+            "Javdirab, yalingan, yalingansimon holatli bo\u02bblmoq.",
+            "Yilt-yilt, mo\u02bblt-mo\u02bblt qilmoq (ko\u02bbz yoshi haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbimirlashish",
+        "type": [
+            "fl. [g\u2018i-mir-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbimirlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbimirlatish",
+        "type": [
+            "fl. [g\u2018i-mir-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbimirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbing\u02bbirlamoq",
+        "type": [
+            "fl. [g\u2018in-g\u2018ir-la-moq]"
+        ],
+        "definition": [
+            "ayn. G\u02bbing\u02bbillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbing\u02bbirlashmoq",
+        "type": [
+            "fl. [g\u2018in-g\u2018ir-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbing\u02bbirlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbing\u02bbirlatish",
+        "type": [
+            "fl. [g\u2018in-g\u2018ir-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbing\u02bbirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbing\u02bbirlatmoq",
+        "type": [
+            "fl. [g\u2018in-g\u2018ir-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbing\u02bbirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbing-g\u02bbing",
+        "type": [
+            "ys. [g\u2018ing-g\u2018ing]"
+        ],
+        "definition": [
+            "ayn. G\u02bbing"
+        ]
+    },
+    {
+        "word": "G\u02bbing",
+        "type": [
+            "ys. [g\u2018ing]"
+        ],
+        "definition": [
+            "taql. s. Pashsha, ari kabi qanotli hasharotlarning uchgandagi ovozini bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbingillashmoq",
+        "type": [
+            "fl. [g\u2018in-gil-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbingillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbingillov",
+        "type": [
+            "fl. [g\u2018in-gil-lov]"
+        ],
+        "definition": [
+            "ayn. G\u02bbing\u02bbillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbingshiganlik",
+        "type": [
+            "fl. [g\u2018ing-shi-gan-lik]"
+        ],
+        "definition": [
+            "Uvlash, vovullashdan ko\u02bbra ingrashga yaqinroq tovush chiqarmoq.",
+            "Ma\u02bcnosiz yoki ma\u02bcnosini ilg\u02bbab bo\u02bblmaydigan tovushlar chiqarmoq.",
+            "ko\u02bbchma salb. Zorlanuvchi, nolish bildiruvchi yoqimsiz, bo\u02bblmag\u02bbur gaplar qilmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbingshitish",
+        "type": [
+            "fl. [g\u2018ing-shi-tish]"
+        ],
+        "definition": [
+            "G\u02bbingshimoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbingshuv",
+        "type": [
+            "fl. [g\u2018ing-shuv]"
+        ],
+        "definition": [
+            "Uvlash, vovullashdan ko\u02bbra ingrashga yaqinroq tovush chiqarmoq.",
+            "Ma\u02bcnosiz yoki ma\u02bcnosini ilg\u02bbab bo\u02bblmaydigan tovushlar chiqarmoq.",
+            "ko\u02bbchma salb. Zorlanuvchi, nolish bildiruvchi yoqimsiz, bo\u02bblmag\u02bbur gaplar qilmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbipillatish",
+        "type": [
+            "fl. [g\u2018i-pil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbipillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbipillatmoq",
+        "type": [
+            "fl. [g\u2018i-pil-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbipillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbippa bo\u02bbg\u02bbmoq",
+        "type": [
+            "fl. "
+        ],
+        "definition": [
+            "Mahkam bo\u02bbg\u02bbmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbiq",
+        "type": [
+            "ys. [g\u2018iq]"
+        ],
+        "definition": [
+            "taql. s. Tomoqqa biror narsa tiqilganda, bo\u02bbg\u02bbilganda, nafas olish qiyin bo\u02bblganda hosil bo\u02bbladigan tovushni bildiradi.",
+            "ayn. G\u02bbiyt."
+        ]
+    },
+    {
+        "word": "G\u02bbiqillashmoq",
+        "type": [
+            "fl. [g\u2018i-qil-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbiqillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbiqillatish",
+        "type": [
+            "fl. [g\u2018i-qil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbiqillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbiqillov",
+        "type": [
+            "fl. [g\u2018i-qil-lov]"
+        ],
+        "definition": [
+            "G\u02bbiq-g\u02bbiqetgan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbir-g\u02bbir",
+        "type": [
+            "ys. [g\u2018ir-g\u2018ir]"
+        ],
+        "definition": [
+            "s. takr. s. G\u02bbir \u00a0\u25c6",
+            "Tez-tez, g\u02bbir etib, g\u02bbizillab."
+        ]
+    },
+    {
+        "word": "G\u02bbir",
+        "type": [
+            "ys. [g\u2018ir]"
+        ],
+        "definition": [
+            "taql. s. Narsaning tez aylanishi yoki tez harakat qilishi tufayli hosil bo\u02bbladigan tovushni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbira-shira",
+        "type": [
+            "rv. [g\u2018i-ra-shi-ra]"
+        ],
+        "definition": [
+            "Erta tong yoki shomda narsalar aniq ko\u02bbrinmaydigan payt; havoning erta tongda yorishib kelayotgan, kechqurun qorong\u02bbilashayotgan holati; yorug\u02bblik yoki qorong\u02bbilikning kuchsiz holati.",
+            "Narsaning ko\u02bbrish yoki tasavvurdagi aniq-ravshan bo\u02bblmagan, xira aksini bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbirch-g\u02bbirch",
+        "type": [
+            "ys. [g\u2018irch-g\u2018irch]"
+        ],
+        "definition": [
+            "ayn. G\u02bbirch"
+        ]
+    },
+    {
+        "word": "G\u02bbirch",
+        "type": [
+            "ys. [g\u2018irch]"
+        ],
+        "definition": [
+            "ayn. G\u02bbirt II. G\u02bbirch etmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirchillama",
+        "type": [
+            "fl. [g\u2018ir-chil-la-ma]"
+        ],
+        "definition": [
+            "G\u02bbirch-g\u02bbirch etgan tovush chiqarmoq, g\u02bbichirlamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirchillash",
+        "type": [
+            "fl. [g\u2018ir-chil-lash]"
+        ],
+        "definition": [
+            "G\u02bbirch-g\u02bbirch etgan tovush chiqarmoq, g\u02bbichirlamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirchillatish",
+        "type": [
+            "fl. [g\u2018ir-chil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbirchillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbirchillov",
+        "type": [
+            "fl. [g\u2018ir-chil-lov]"
+        ],
+        "definition": [
+            "G\u02bbirch-g\u02bbirch etgan tovush chiqarmoq, g\u02bbichirlamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirg\u02bbirak",
+        "type": [
+            "ot. [g\u2018ir-g\u2018i-rak]"
+        ],
+        "definition": [
+            "shv. Bizbizak."
+        ]
+    },
+    {
+        "word": "G\u02bbirillaganlik",
+        "type": [
+            "fl. [g\u2018i-ril-la-gan-lik]"
+        ],
+        "definition": [
+            "Tez aylanish, harakat yoki boshqa sabab tufayli g\u02bbir-g\u02bbir etgan tovush chiqarmoq; pirillamoq.",
+            "G\u02bbir-g\u02bbir esmoq, tez yelmoq (shamol, izg\u02bbirin haqida).",
+            "ayn. G\u02bbizillamoq 2."
+        ]
+    },
+    {
+        "word": "G\u02bbirillatish",
+        "type": [
+            "fl. [g\u2018i-ril-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbirillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbirillov",
+        "type": [
+            "fl. [g\u2018i-ril-lov]"
+        ],
+        "definition": [
+            "Tez aylanish, harakat yoki boshqa sabab tufayli g\u02bbir-g\u02bbir etgan tovush chiqarmoq; pirillamoq.",
+            "G\u02bbir-g\u02bbir esmoq, tez yelmoq (shamol, izg\u02bbirin haqida).",
+            "ayn. G\u02bbizillamoq 2."
+        ]
+    },
+    {
+        "word": "G\u02bbiring-g\u02bbiring",
+        "type": [
+            "ys. [g\u2018i-ring-g\u2018i-ring]"
+        ],
+        "definition": [
+            "ayn. G\u02bbiring-piring."
+        ]
+    },
+    {
+        "word": "G\u02bbiring-piring",
+        "type": [
+            "ys. [g\u2018i-ring-pi-ring]"
+        ],
+        "definition": [
+            "ayn. G\u02bbiring-piring demoq  g\u02bbiring demoq.",
+            "ayn. Nolish, zorlanish bildiruvchi bo\u02bblmag\u02bbur gap-so\u02bbz; hasrat."
+        ]
+    },
+    {
+        "word": "G\u02bbirmayganlik",
+        "type": [
+            "fl. [g\u2018ir-may-gan-lik]"
+        ],
+        "definition": [
+            "Ko\u02bbzni qisib, qiyshiq qaramoq; shig\u02bbraymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirmayish",
+        "type": [
+            "fl. [g\u2018ir-ma-yish]"
+        ],
+        "definition": [
+            "Ko\u02bbzni qisib, qiyshiq qaramoq; shig\u02bbraymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirmayuv",
+        "type": [
+            "fl. [g\u2018ir-ma-yuv]"
+        ],
+        "definition": [
+            "Ko\u02bbzni qisib, qiyshiq qaramoq; shig\u02bbraymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirqillatish",
+        "type": [
+            "fl. [g\u2018ir-qil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbirqillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbirqillatmoq",
+        "type": [
+            "fl. [g\u2018ir-qil-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbirqillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbirqirashmoq",
+        "type": [
+            "fl. [g\u2018ir-qi-rash-moq]"
+        ],
+        "definition": [
+            "G\u02bbirqiramoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbirqiratish",
+        "type": [
+            "fl. [g\u2018ir-qi-ra-tish]"
+        ],
+        "definition": [
+            "G\u02bbirqiramoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbirqiratmoq",
+        "type": [
+            "fl. [g\u2018ir-qi-rat-moq]"
+        ],
+        "definition": [
+            "G\u02bbirqiramoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbirra-g\u02bbirra",
+        "type": [
+            "ys. [g\u2018ir-ra-g\u2018ir-ra]"
+        ],
+        "definition": [
+            "ayn. G\u02bbir-g\u02bbir."
+        ]
+    },
+    {
+        "word": "G\u02bbirra",
+        "type": [
+            "ys. [g\u2018ir-ra]"
+        ],
+        "definition": [
+            "G\u02bbir etib, darrov, bir onda."
+        ]
+    },
+    {
+        "word": "G\u02bbirrom",
+        "type": [
+            "sf. [g\u2018ir-rom]"
+        ],
+        "definition": [
+            "Ish, hayotda halollik, poklikka rioya qilmaydigan, unga zid ish yurituvchi; nopok, muttaham.",
+            "O\u02bbyin, musobaqa, bellashuvda tartib-qoidaga zid yo\u02bbl tutuvchi; halollikka rioya qilmaydigan, notanti.",
+            "O\u02bbzbek kurashi atamalaridan biri: bellashuv paytida katta xatoga yo\u02bbl qo\u02bbygan yoki takror qo\u02bbpollik qilgan kurashchiga oxirgi ogohlantirish sifatida qo\u02bbllanadi."
+        ]
+    },
+    {
+        "word": "G\u02bbirromchilik",
+        "type": [
+            "ot. [g\u2018ir-rom-chi-lik]"
+        ],
+        "definition": [
+            "s. t. G\u02bbirromlik."
+        ]
+    },
+    {
+        "word": "G\u02bbirromlik",
+        "type": [
+            "ot. [g\u2018ir-rom-lik]"
+        ],
+        "definition": [
+            "G\u02bbirromga xos ish tutish (g\u02bbirrom \u2014 har ikki ma\u02bcnosida)."
+        ]
+    },
+    {
+        "word": "G\u02bbirt-g\u02bbirt",
+        "type": [
+            "ys. [g\u2018irt-g\u2018irt]"
+        ],
+        "definition": [
+            ""
+        ]
+    },
+    {
+        "word": "G\u02bbirt",
+        "type": [
+            "ys. [g\u2018irt]"
+        ],
+        "definition": [
+            "Belgining kuchli darajasini qayd etadi, kuchaytiruv bildiradi (odatda salbiy belgilarga nisbatan qo\u02bbllanadi).",
+            "Otlar bilan va ayrim darajalanmaydigan so\u02bbzlar bilan qo\u02bbllanib, shu so\u02bbz anglatgan narsa, holatning shaxs yoki predmetga to\u02bblaligicha, butunlay daxldorligi, oidligi ma\u02bcnosini bildiradi; butunlay, turgan-bitgani."
+        ]
+    },
+    {
+        "word": "G\u02bbirtillash",
+        "type": [
+            "fl. [g\u2018ir-til-lash]"
+        ],
+        "definition": [
+            "G\u02bbirt etgan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirtillatish",
+        "type": [
+            "fl. [g\u2018ir-til-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbirtillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbirtillov",
+        "type": [
+            "fl. [g\u2018ir-til-lov]"
+        ],
+        "definition": [
+            "G\u02bbirt etgan tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbirvaytirmoq",
+        "type": [
+            "fl. [g\u2018ir-vay-tir-moq]"
+        ],
+        "definition": [
+            "G\u02bbirvaymoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbisha",
+        "type": [
+            "ys. [g\u2018i-sha]"
+        ],
+        "definition": [
+            "Qamishga o\u02bbxshab o\u02bbsadigan, ammo poyasining ichi g\u02bbovak bo\u02bblmaydigan o\u02bbsimlik; savag\u02bbich."
+        ]
+    },
+    {
+        "word": "G\u02bbishava",
+        "type": [
+            "ot. [g\u2018i-sha-va]"
+        ],
+        "definition": [
+            "shv. Qaysarlik yoki injiqlik bilan qilinadigan janjal, xarxasha."
+        ]
+    },
+    {
+        "word": "G\u02bbishavachi",
+        "type": [
+            "ot. [g\u2018i-sha-va-chi]"
+        ],
+        "definition": [
+            "shv. G\u02bbishava qiluvchi, qaysarlik bilan arzir-arzimas narsaga janjal qiluvchi."
+        ]
+    },
+    {
+        "word": "G\u02bbishavachilik",
+        "type": [
+            "ot. [g\u2018i-sha-va-chi-lik]"
+        ],
+        "definition": [
+            "shv. G\u02bbishava qiluvchi, qaysarlik bilan arzir-arzimas narsaga janjal qiluvchi."
+        ]
+    },
+    {
+        "word": "G\u02bbishg\u02bbisha",
+        "type": [
+            "ot. [g\u2018ish-g\u2018i-sha]"
+        ],
+        "definition": [
+            "Xarxasha."
+        ]
+    },
+    {
+        "word": "G\u02bbisht",
+        "type": [
+            "ot. [g\u2018isht]"
+        ],
+        "definition": [
+            "Qolip yordamida loydan to\u02bbrtburchak shaklida quyiladigan qurilish materiali."
+        ]
+    },
+    {
+        "word": "G\u02bbishtchi",
+        "type": [
+            "ot. [g\u2018isht-chi]"
+        ],
+        "definition": [
+            "G\u02bbisht quyuvchi.",
+            "G\u02bbisht teruvchi usta."
+        ]
+    },
+    {
+        "word": "G\u02bbishtchilik",
+        "type": [
+            "ot. [g\u2018isht-chi-lik]"
+        ],
+        "definition": [
+            "G\u02bbisht quyuvchi.",
+            "G\u02bbisht teruvchi usta."
+        ]
+    },
+    {
+        "word": "G\u02bbishtin",
+        "type": [
+            "sf. [g\u2018ish-tin]"
+        ],
+        "definition": [
+            "G\u02bbisht bilan ishlangan, qurilgan.",
+            "Qarta o\u02bbyinida: qartaning g\u02bbishtsimon qizil xollari bo\u02bblgan xili."
+        ]
+    },
+    {
+        "word": "G\u02bbishtli",
+        "type": [
+            "sf. [g\u2018isht-li]"
+        ],
+        "definition": [
+            "ayn. G\u02bbishtin."
+        ]
+    },
+    {
+        "word": "G\u02bbishtsiz",
+        "type": [
+            "ot. [g\u2018isht-siz]"
+        ],
+        "definition": [
+            "Qolip yordamida loydan to\u02bbrtburchak shaklida quyiladigan qurilish materiali."
+        ]
+    },
+    {
+        "word": "G\u02bbitillatish",
+        "type": [
+            "fl. [g\u2018i-til-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbitillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbitillov",
+        "type": [
+            "fl. [g\u2018i-til-lov]"
+        ],
+        "definition": [
+            "G\u02bbit etgan ovoz chiqarmoq, g\u02bbiytillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbitirlatish",
+        "type": [
+            "fl. [g\u2018i-tir-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbitirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbitirlatmoq",
+        "type": [
+            "fl. [g\u2018i-tir-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbitirlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbivillamoq",
+        "type": [
+            "fl. [g\u2018i-vil-la-moq]"
+        ],
+        "definition": [
+            "ayn. G\u02bbivirlamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbivir-g\u02bbivir",
+        "type": [
+            "ys. [g\u2018i-vir-g\u2018i-vir]"
+        ],
+        "definition": [
+            "taql. s. Hasharotning asta, davomli, tinimsiz harakatini, qimirlashini bildiradi.",
+            "Biror ish bilan tinimsiz shug\u02bbullanish, tinimsiz urinish holatini bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbivir-shivir",
+        "type": [
+            "ys. [g\u2018i-vir-shi-vir]"
+        ],
+        "definition": [
+            "max. s. Sekin, arang eshitiladigan, ma\u02bcnosi noaniq tovushlarni bildiradi; pichir-pichir, g\u02bbivir-g\u02bbivir."
+        ]
+    },
+    {
+        "word": "G\u02bbiybat",
+        "type": [
+            "ot. [g\u2018iy-bat]"
+        ],
+        "definition": [
+            "Birovni kamsitib, aybsitib, yomonlab gapirish, fisq-fasod."
+        ]
+    },
+    {
+        "word": "G\u02bbiybatchi",
+        "type": [
+            "ot. [g\u2018iy-bat-chi]"
+        ],
+        "definition": [
+            "G\u02bbiybat qiluvchi, g\u02bbiybatni odat qilib olgan kishi."
+        ]
+    },
+    {
+        "word": "G\u02bbiybatchilik",
+        "type": [
+            "ot. [g\u2018iy-bat-chi-lik]"
+        ],
+        "definition": [
+            "G\u02bbiybat qiluvchi, g\u02bbiybatni odat qilib olgan kishi."
+        ]
+    },
+    {
+        "word": "G\u02bbiybatsiz",
+        "type": [
+            "ot. [g\u2018iy-bat-siz]"
+        ],
+        "definition": [
+            "Birovni kamsitib, aybsitib, yomonlab gapirish, fisq-fasod."
+        ]
+    },
+    {
+        "word": "G\u02bbiybatxona",
+        "type": [
+            "ot. [g\u2018iy-bat-xo-na]"
+        ],
+        "definition": [
+            "s. t. G\u02bbiybat gaplar ko\u02bbp bo\u02bbladigan joy, fisq-fasod uyasi."
+        ]
+    },
+    {
+        "word": "G\u02bbiyq-g\u02bbiyq",
+        "type": [
+            "ys. [g\u2018iyq-g\u2018iyq]"
+        ],
+        "definition": [
+            "ayn. G\u02bbiyq."
+        ]
+    },
+    {
+        "word": "G\u02bbiyqillashmoq",
+        "type": [
+            "fl. [g\u2018iy-qil-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbiyqillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbiyqillatish",
+        "type": [
+            "fl. [g\u2018iy-qil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbiyqillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbiyqillov",
+        "type": [
+            "fl. [g\u2018iy-qil-lov]"
+        ],
+        "definition": [
+            "\u201cG\u02bbiyq\u201c etgan ovoz chiqarmoq; g\u02bbiyt etmoq, g\u02bbiytillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbiyt-g\u02bbiyt",
+        "type": [
+            "ys. [g\u2018iyt-g\u2018iyt]"
+        ],
+        "definition": [
+            "ayn. G\u02bbiyt;"
+        ]
+    },
+    {
+        "word": "G\u02bbiytillatish",
+        "type": [
+            "fl. [g\u2018iy-til-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbiytillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbiz-g\u02bbiz",
+        "type": [
+            "ys. [g\u2018iz-g\u2018iz]"
+        ],
+        "definition": [
+            "G\u02bbiz so\u02bbzidan takroriy so\u02bbz."
+        ]
+    },
+    {
+        "word": "G\u02bbiz",
+        "type": [
+            "ys. [g\u2018iz]"
+        ],
+        "definition": [
+            "taql. s. (asosan takror holda qo\u02bbllanadi) Juda tez yo\u02bbnalishdagi, uchayotgan narsaning tovushini bildiradi.",
+            "Tez, g\u02bbizillab."
+        ]
+    },
+    {
+        "word": "G\u02bbizg\u02bbizak",
+        "type": [
+            "ot. [g\u2018iz-g\u2018i-zak]"
+        ],
+        "definition": [
+            "shv. Bizbizak."
+        ]
+    },
+    {
+        "word": "G\u02bbizillagancha",
+        "type": [
+            "fl. [g\u2018i-zil-la-gan-cha]"
+        ],
+        "definition": [
+            "\u201cG\u02bbiz\u201c etgan ovoz chiqarmoq, g\u02bbiz etmoq.",
+            "Chaqqon va tez harakat bilan yurmoq, yugurmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbizillaganlik",
+        "type": [
+            "fl. [g\u2018i-zil-la-gan-lik]"
+        ],
+        "definition": [
+            "\u201cG\u02bbiz\u201c etgan ovoz chiqarmoq, g\u02bbiz etmoq.",
+            "Chaqqon va tez harakat bilan yurmoq, yugurmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbizillama",
+        "type": [
+            "fl. [g\u2018i-zil-la-ma]"
+        ],
+        "definition": [
+            "\u201cG\u02bbiz\u201c etgan ovoz chiqarmoq, g\u02bbiz etmoq.",
+            "Chaqqon va tez harakat bilan yurmoq, yugurmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbizillashmoq",
+        "type": [
+            "fl. [g\u2018i-zil-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbizillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbizillatish",
+        "type": [
+            "fl. [g\u2018i-zil-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbizillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbizillov",
+        "type": [
+            "fl. [g\u2018i-zil-lov]"
+        ],
+        "definition": [
+            "\u201cG\u02bbiz\u201c etgan ovoz chiqarmoq, g\u02bbiz etmoq.",
+            "Chaqqon va tez harakat bilan yurmoq, yugurmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbizo",
+        "type": [
+            "ot. [g\u2018i-zo]"
+        ],
+        "definition": [
+            "esk. kt. Ovqat, oziq, yemish."
+        ]
+    },
+    {
+        "word": "G\u02bbizosiz",
+        "type": [
+            "ot. [g\u2018i-zo-siz]"
+        ],
+        "definition": [
+            "esk. kt. Ovqat, oziq, yemish."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbdayganlik",
+        "type": [
+            "fl. [g\u2018o\u2018-day-gan-lik]"
+        ],
+        "definition": [
+            "s. t. Egilmay, tik bo\u02bblib turmoq, qaqqaymoq.",
+            "ko\u02bbchma Gaplashmay, ish yoki suhbatga aralashmay turmoq; serraymoq.",
+            "ko\u02bbchma O\u02bbzini kibr-havoli tutmoq; kekkaymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbdayish",
+        "type": [
+            "fl. [g\u2018o\u2018-da-yish]"
+        ],
+        "definition": [
+            "s. t. Egilmay, tik bo\u02bblib turmoq, qaqqaymoq.",
+            "ko\u02bbchma Gaplashmay, ish yoki suhbatga aralashmay turmoq; serraymoq.",
+            "ko\u02bbchma O\u02bbzini kibr-havoli tutmoq; kekkaymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbdaytirish",
+        "type": [
+            "fl. [g\u2018o\u2018-day-ti-rish]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbdaymoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbdaytirmoq",
+        "type": [
+            "fl. [g\u2018o\u2018-day-tir-moq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbdaymoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbdayuv",
+        "type": [
+            "fl. [g\u2018o\u2018-da-yuv]"
+        ],
+        "definition": [
+            "s. t. Egilmay, tik bo\u02bblib turmoq, qaqqaymoq.",
+            "ko\u02bbchma Gaplashmay, ish yoki suhbatga aralashmay turmoq; serraymoq.",
+            "ko\u02bbchma O\u02bbzini kibr-havoli tutmoq; kekkaymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbdillamoq",
+        "type": [
+            "fl. [g\u2018o\u2018-dil-la-moq]"
+        ],
+        "definition": [
+            "ayn. G\u02bbudullamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbdir",
+        "type": [
+            "sf. [g\u2018o\u2018-dir]"
+        ],
+        "definition": [
+            "ayn. G\u02bbudur."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbla",
+        "type": [
+            "ot. [g\u2018o\u2018-la]"
+        ],
+        "definition": [
+            "Daraxt tanasi yoki xodadan kesib olingan bo\u02bblak.",
+            "G\u02bbo\u02bblaga o\u02bbxshash, yo\u02bbg\u02bbon.",
+            "ko\u02bbchma Kuchli, asosli.",
+            "Kichik yumaloq shaklli, g\u02bbo\u02bblak."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bblabur",
+        "type": [
+            "ot. [g\u2018o\u2018-la-bur]"
+        ],
+        "definition": [
+            "To\u02bbladan kelgan; chorpahil, baquvvat (odam haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bblacha",
+        "type": [
+            "ot. [g\u2018o\u2018-la-cha]"
+        ],
+        "definition": [
+            "Daraxt tanasi yoki xodadan kesib olingan bo\u02bblak.",
+            "G\u02bbo\u02bblaga o\u02bbxshash, yo\u02bbg\u02bbon.",
+            "ko\u02bbchma Kuchli, asosli.",
+            "Kichik yumaloq shaklli, g\u02bbo\u02bblak."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bblak",
+        "type": [
+            "ot. [g\u2018o\u2018-lak]"
+        ],
+        "definition": [
+            "Naychadan puflab yoki palaxmondan otish uchun loydan yasalgan dumaloq narsa.",
+            "Uchiga temir soqqa boylangan tayoq, cho\u02bbqmor."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bblaytirmoq",
+        "type": [
+            "fl. [g\u2018o\u2018-lay-tir-moq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bblaymoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bblaytmoq",
+        "type": [
+            "fl. [g\u2018o\u2018-layt-moq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bblaymoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbldiraganlik",
+        "type": [
+            "fl. [g\u2018o\u2018l-di-ra-gan-lik]"
+        ],
+        "definition": [
+            "ayn. G\u02bbulduramoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbldiratish",
+        "type": [
+            "fl. [g\u2018o\u2018l-di-ra-tish]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbldiramoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbldirov",
+        "type": [
+            "fl. [g\u2018o\u2018l-di-rov]"
+        ],
+        "definition": [
+            "ayn. G\u02bbulduramoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbng\u02bbillashish",
+        "type": [
+            "fl. [g\u2018o\u2018n-g\u2018il-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbng\u02bbillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbng\u02bbir-g\u02bbo\u02bbng\u02bbir",
+        "type": [
+            "ys. [g\u2018o\u2018n-g\u2018ir-g\u2018o\u2018n-g\u2018ir]"
+        ],
+        "definition": [
+            "taql. s. Eshitilar-eshitilmas yoki birov tushunmaydigan tarzdagi ovozni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbnon",
+        "type": [
+            "ot. [g\u2018o\u2018-non]"
+        ],
+        "definition": [
+            "Ikki yashar ayg\u02bbir yoki qo\u02bbchqor."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbqillatmoq",
+        "type": [
+            "fl. [g\u2018o\u2018-qil-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbqillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbr-sho\u02bbr",
+        "type": [
+            "ot. [g\u2018o\u2018r-sho\u2018r]"
+        ],
+        "definition": [
+            "Pishmagan, xom, g\u02bbo\u02bbr mevalar."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbr",
+        "type": [
+            "sf. [g\u2018o\u2018r]"
+        ],
+        "definition": [
+            "Pishib yetilmagan, xom (ho\u02bbl meva, qovun-tarvuz va shu kabilar haqida).",
+            "ko\u02bbchma Qiyomiga yetkazilmagan, pishiq ishlanmagan, xom.",
+            "ko\u02bbchma Hayot tajribasi kam, turmush qiyinchiliklarini ko\u02bbrmagan."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbra-sho\u02bbra",
+        "type": [
+            "ot. [g\u2018o\u2018-ra-sho\u2018-ra]"
+        ],
+        "definition": [
+            "ayn. \u00a0g\u02bbo\u02bbr-sho\u02bbr."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbra",
+        "type": [
+            "ot. [g\u2018o\u2018-ra]"
+        ],
+        "definition": [
+            "O\u02bbrikning pishib yetilmagan mevasi, dovuchcha.",
+            "Umuman, pishib yetilmagan meva, g\u02bbo\u02bbr meva.",
+            "ko\u02bbchma ayn. G\u02bbo\u02bbr 3."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbralik",
+        "type": [
+            "ot. [g\u2018o\u2018-ra-lik]"
+        ],
+        "definition": [
+            "O\u02bbrikning pishib yetilmagan mevasi, dovuchcha.",
+            "Umuman, pishib yetilmagan meva, g\u02bbo\u02bbr meva.",
+            "ko\u02bbchma ayn. G\u02bbo\u02bbr 3."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrasha",
+        "type": [
+            "ot. [g\u2018o\u2018-ra-sha]"
+        ],
+        "definition": [
+            "Yaxshi ishlov berilmagan, mayin holga kelmagan, dag\u02bbal (tuproq, loy haqida)."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrillash",
+        "type": [
+            "fl. [g\u2018o\u2018-ril-lash]"
+        ],
+        "definition": [
+            "Shiddat bilan yelmoq, yelib kirmoq.",
+            "ayn. Do\u02bbrillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrillatish",
+        "type": [
+            "fl. [g\u2018o\u2018-ril-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbrillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrillatmoq",
+        "type": [
+            "fl. [g\u2018o\u2018-ril-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbrillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrillov",
+        "type": [
+            "fl. [g\u2018o\u2018-ril-lov]"
+        ],
+        "definition": [
+            "Shiddat bilan yelmoq, yelib kirmoq.",
+            "ayn. Do\u02bbrillamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrlik",
+        "type": [
+            "ot. [g\u2018o\u2018r-lik]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbr holat, g\u02bbo\u02bbr ekanlik; xomlik. Mevaning g\u02bbo\u02bbrligi."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrq-g\u02bbo\u02bbrq",
+        "type": [
+            "ys. [g\u2018o\u2018rq-g\u2018o\u2018rq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbrq-g\u02bbo\u02bbrq (lo\u02bbq-lo\u02bbq) qilmoq;"
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrqillashish",
+        "type": [
+            "fl. [g\u2018o\u2018r-qil-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbrqillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbrqillashmoq",
+        "type": [
+            "fl. [g\u2018o\u2018r-qil-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbrqillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbt-g\u02bbo\u02bbt",
+        "type": [
+            "ys. [g\u2018o\u2018t-g\u2018o\u2018t]"
+        ],
+        "definition": [
+            "ayn. G\u02bbat-g\u02bbat."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbtillamoq",
+        "type": [
+            "fl. [g\u2018o\u2018-til-la-moq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbt-g\u02bbo\u02bbt tovush chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbtillatmoq",
+        "type": [
+            "fl. [g\u2018o\u2018-til-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbo\u02bbtillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbza",
+        "type": [
+            "ot. [g\u2018o\u2018-za]"
+        ],
+        "definition": [
+            "Chigitdan unib chiqib, paxta hosili (tolasi) beradigan, gulxayridoshlar oilasiga mansub bir yillik madaniy o\u02bbsimlik, paxta o\u02bbsimligi.",
+            "esk. ayn. Ko\u02bbsak.",
+            "s. t. Shu o\u02bbsimlik hosili, paxta."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbzapo\u02bbchoq",
+        "type": [
+            "ot. [g\u2018o\u2018-za-po\u2018-choq]"
+        ],
+        "definition": [
+            "Paxtasi sug\u02bburib olingan bo\u02bbsh ko\u02bbsak; qovachoq."
+        ]
+    },
+    {
+        "word": "G\u02bbo\u02bbzapoya",
+        "type": [
+            "ot. [g\u2018o\u2018-za-po-ya]"
+        ],
+        "definition": [
+            "Hosili terib olingan g\u02bbo\u02bbza o\u02bbsimligining poyasi."
+        ]
+    },
+    {
+        "word": "G\u02bbofil",
+        "type": [
+            "sf. [g\u2018o-fil]"
+        ],
+        "definition": [
+            "G\u02bbaflatda qolgan, hech narsadan bexabar."
+        ]
+    },
+    {
+        "word": "G\u02bbofillik",
+        "type": [
+            "ot. [g\u2018o-fil-lik]"
+        ],
+        "definition": [
+            "Hech narsadan xabarsizlik."
+        ]
+    },
+    {
+        "word": "G\u02bbog\u02bbillashmoq",
+        "type": [
+            "fl. [g\u2018o-g\u2018il-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbog\u02bbillamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbog\u02bbillatish",
+        "type": [
+            "fl. [g\u2018o-g\u2018il-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbog\u02bbillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbog\u02bbillatmoq",
+        "type": [
+            "fl. [g\u2018o-g\u2018il-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbog\u02bbillamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbolib",
+        "type": [
+            "ot. [g\u2018o-lib]"
+        ],
+        "definition": [
+            "zid. Urush, jang, kurash, tortishuv, musobaqa va shu kabilarda g\u02bbalaba qozongan, ustun chiqqan; muzaffar;  mag\u02bblub."
+        ]
+    },
+    {
+        "word": "G\u02bbolibiyat",
+        "type": [
+            "ot. [g\u2018o-li-bi-yat]"
+        ],
+        "definition": [
+            "esk. G\u02bboliblik, g\u02bbalaba."
+        ]
+    },
+    {
+        "word": "G\u02bbolibkor",
+        "type": [
+            "ot. [g\u2018o-lib-kor]"
+        ],
+        "definition": [
+            "G\u02bbalabaga olib boruvchi; g\u02bbalaba egasi."
+        ]
+    },
+    {
+        "word": "G\u02bbolibkorlik",
+        "type": [
+            "ot. [g\u2018o-lib-kor-lik]"
+        ],
+        "definition": [
+            "G\u02bbalabaga olib boruvchi; g\u02bbalaba egasi."
+        ]
+    },
+    {
+        "word": "G\u02bboliblik",
+        "type": [
+            "ot. [g\u2018o-lib-lik]"
+        ],
+        "definition": [
+            "G\u02bbolib holat, g\u02bbalabaga egalik; g\u02bbalaba.",
+            "G\u02bbolib ekanlik."
+        ]
+    },
+    {
+        "word": "G\u02bbolibo",
+        "type": [
+            "ys. [g\u2018o-li-bo]"
+        ],
+        "definition": [
+            "krsh. s. esk. kt. Ko\u02bbpincha, asosan.",
+            "Aftidan, taxminan, balki."
+        ]
+    },
+    {
+        "word": "G\u02bbolibona",
+        "type": [
+            "ys. [g\u2018o-li-bo-na]"
+        ],
+        "definition": [
+            "G\u02bboliblarga xos, g\u02bboliblarcha; zafarli."
+        ]
+    },
+    {
+        "word": "G\u02bbor",
+        "type": [
+            "ot. [g\u2018or]"
+        ],
+        "definition": [
+            "Tog\u02bb, tepalik kabilar ostida, bag\u02bbrida tabiiy holda vujudga kelgan katta hajmli bo\u02bbshliq."
+        ]
+    },
+    {
+        "word": "G\u02bborat",
+        "type": [
+            "ot. [g\u2018o-rat]"
+        ],
+        "definition": [
+            "esk. kt. Talon-toroj; buzg\u02bbunlik."
+        ]
+    },
+    {
+        "word": "G\u02bborlik",
+        "type": [
+            "ot. [g\u2018or-lik]"
+        ],
+        "definition": [
+            "Tog\u02bb, tepalik kabilar ostida, bag\u02bbrida tabiiy holda vujudga kelgan katta hajmli bo\u02bbshliq."
+        ]
+    },
+    {
+        "word": "G\u02bbov",
+        "type": [
+            "ot. [g\u2018ov]"
+        ],
+        "definition": [
+            "Biror tomonga o\u02bbtish, kirish uchun imkon bermaydigan qurilma, to\u02bbsiq.",
+            "sprt. Kuch sinash mashqlari o\u02bbtkaziladigan to\u02bbsiq.",
+            "ko\u02bbchma Biror ish-faoliyat, rivojlanish, istak va shu kabilar yo\u02bblidagi to\u02bbsiq, qarshilik, to\u02bbg\u02bbonoq."
+        ]
+    },
+    {
+        "word": "G\u02bbovak",
+        "type": [
+            "ot. [g\u2018o-vak]"
+        ],
+        "definition": [
+            "Ichi bo\u02bbsh; kovak-kovak, g\u02bbalvirak.",
+            "ko\u02bbchma Ichi, zamini bo\u02bbsh."
+        ]
+    },
+    {
+        "word": "G\u02bbovaklik",
+        "type": [
+            "ot. [g\u2018o-vak-lik]"
+        ],
+        "definition": [
+            "Ichi bo\u02bbsh; kovak-kovak, g\u02bbalvirak.",
+            "ko\u02bbchma Ichi, zamini bo\u02bbsh."
+        ]
+    },
+    {
+        "word": "G\u02bbovg\u02bba",
+        "type": [
+            "ot. [g\u2018ov-g\u2018a]"
+        ],
+        "definition": [
+            "s. t. G\u02bbavg\u02bbo."
+        ]
+    },
+    {
+        "word": "G\u02bbovlaganlik",
+        "type": [
+            "fl. [g\u2018ov-la-gan-lik]"
+        ],
+        "definition": [
+            "Hosili yaxshi bo\u02bblmay, o\u02bbsishi kuchaymoq; ortiq darajada bo\u02bbyiga o\u02bbsmoq.",
+            "ko\u02bbchma Avjlanmoq, kuchaymoq, zo\u02bbraymoq (odatda, salbiy narsa-hodisalarga nisbatan qo\u02bbllanadi)."
+        ]
+    },
+    {
+        "word": "G\u02bbovlatish",
+        "type": [
+            "fl. [g\u2018ov-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbovlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbovlatuv",
+        "type": [
+            "fl. [g\u2018ov-la-tuv]"
+        ],
+        "definition": [
+            "G\u02bbovlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbovur-g\u02bbuvur",
+        "type": [
+            "ot. [g\u2018o-vur-g\u2018u-vur]"
+        ],
+        "definition": [
+            "G\u02bbovur, shovqin-suron."
+        ]
+    },
+    {
+        "word": "G\u02bbovur",
+        "type": [
+            "ot. [g\u2018o-vur]"
+        ],
+        "definition": [
+            "Turli tartibsiz ovozlar, shovqin-suron: g\u02bbovg\u02bba."
+        ]
+    },
+    {
+        "word": "G\u02bboya",
+        "type": [
+            "ot. [g\u2018o-ya]"
+        ],
+        "definition": [
+            "Obyektiv borliqni, voqelikni kishi ongida aks ettiruvchi, ayni zamonda kishining obyektiv borliqqa, voqelikka munosabatini ifodalovchi, kishilarning dunyoqarashlari asosini tashkil etuvchi, odamlarni maqsad sari yetaklovchi fikr, tushuncha, tasavvur.",
+            "Badiiy, siyosiy yoki ilmiy asarning mazmuni, tub mohiyatini belgilovchi asosiy fikr.",
+            "Biror ish-harakat qilish haqidagi fikr, o\u02bby; niyat, maqsad."
+        ]
+    },
+    {
+        "word": "G\u02bboyali",
+        "type": [
+            "sf. [g\u2018o-ya-li]"
+        ],
+        "definition": [
+            "(aniqlovchi so\u02bbz bilan) G\u02bboyaga ega."
+        ]
+    },
+    {
+        "word": "G\u02bboyasiz",
+        "type": [
+            "sf. [g\u2018o-ya-siz]"
+        ],
+        "definition": [
+            "Aniq bir siyosiy yoki ma\u02bcnaviy maqsadi bo\u02bblmagan; tuturiqsiz."
+        ]
+    },
+    {
+        "word": "G\u02bboyasizlik",
+        "type": [
+            "ot. [g\u2018o-ya-siz-lik]"
+        ],
+        "definition": [
+            "G\u02bboyaviy jihatdan bo\u02bbshlik, puchlik."
+        ]
+    },
+    {
+        "word": "G\u02bboyat",
+        "type": [
+            "ys. [g\u2018o-yat]"
+        ],
+        "definition": [
+            "Haddan tashqari, nihoyatda, juda."
+        ]
+    },
+    {
+        "word": "G\u02bboyatda",
+        "type": [
+            "ys. [g\u2018o-yat-da]"
+        ],
+        "definition": [
+            ""
+        ]
+    },
+    {
+        "word": "G\u02bboyaviy-axloqiy",
+        "type": [
+            "sf. [g\u2018o-ya-vi-yax-lo-qiy]"
+        ],
+        "definition": [
+            "G\u02bboyaviy va tarbiyaviy (tadbirlar, ishlar)."
+        ]
+    },
+    {
+        "word": "G\u02bboyaviy-siyosiy",
+        "type": [
+            "sf. [g\u2018o-ya-viy-si-yo-siy]"
+        ],
+        "definition": [
+            "Mafkura va siyosatga birdek aloqador."
+        ]
+    },
+    {
+        "word": "G\u02bboyaviy-tarbiyaviy",
+        "type": [
+            "sf. [g\u2018o-ya-viy-tar-bi-ya-viy]"
+        ],
+        "definition": [
+            "ayn. G\u02bboyaviy-axloqiy."
+        ]
+    },
+    {
+        "word": "G\u02bboyaviy",
+        "type": [
+            "sf. [g\u2018o-ya-viy]"
+        ],
+        "definition": [
+            "Muayyan bir g\u02bboyaga asoslangan.",
+            "Biror narsaning asosiy mohiyatini, g\u02bboyasini ifodalaydigan; g\u02bboya jihatidan."
+        ]
+    },
+    {
+        "word": "G\u02bboyaviylik",
+        "type": [
+            "ot. [g\u2018o-ya-viy-lik]"
+        ],
+        "definition": [
+            "Muayyan g\u02bboyaga mansublik, egalik."
+        ]
+    },
+    {
+        "word": "G\u02bboyib",
+        "type": [
+            "rv. [g\u2018o-yib]"
+        ],
+        "definition": [
+            "Shu yerda yo\u02bbq, mavjud emas; ko\u02bbrinmay ketgan, yo\u02bbq bo\u02bblib ketgan.",
+            "Tangri, iloh.",
+            "G\u02bboyib (erkaklar ismi)."
+        ]
+    },
+    {
+        "word": "G\u02bboyibdan",
+        "type": [
+            "rv. [g\u2018o-yib-dan]"
+        ],
+        "definition": [
+            "Shu yerda yo\u02bbq, mavjud emas; ko\u02bbrinmay ketgan, yo\u02bbq bo\u02bblib ketgan.",
+            "Tangri, iloh.",
+            "G\u02bboyib (erkaklar ismi)."
+        ]
+    },
+    {
+        "word": "G\u02bboyibona",
+        "type": [
+            "ys. [g\u2018o-yi-bo-na]"
+        ],
+        "definition": [
+            "O\u02bbzini ko\u02bbrmagan yoki suhbatlashmagan holda; orqavoratdan, sirtdan.",
+            "Noma\u02bclum; favqulodda."
+        ]
+    },
+    {
+        "word": "G\u02bboz",
+        "type": [
+            "ot. [g\u2018oz]"
+        ],
+        "definition": [
+            "Yovvoyi yoki xonakilashtirilgan, bo\u02bbyni uzun, suvda suzuvchi yirik qush.",
+            "ko\u02bbchma Gavdani tik ko\u02bbtargan holda: tik turib; tikka."
+        ]
+    },
+    {
+        "word": "G\u02bboziy",
+        "type": [
+            "ot. [g\u2018o-ziy]"
+        ],
+        "definition": [
+            "esk. din. G\u02bbazotda, muqaddas urushda qatnashuvchi, o\u02bbz e\u02bctiqodi yo\u02bblida jang qiluvchi."
+        ]
+    },
+    {
+        "word": "G\u02bboziylik",
+        "type": [
+            "ot. [g\u2018o-ziy-lik]"
+        ],
+        "definition": [
+            "esk. din. G\u02bbazotda, muqaddas urushda qatnashuvchi, o\u02bbz e\u02bctiqodi yo\u02bblida jang qiluvchi."
+        ]
+    },
+    {
+        "word": "G\u02bbubor",
+        "type": [
+            "ot. [g\u2018u-bor]"
+        ],
+        "definition": [
+            "Chang, to\u02bbzon kabilardan havoda saqlangan yoki narsa sathiga ingan mayda zarralar; gard.",
+            "Umuman, tiniqlik, ravshanlikni buzuvchi, xira qiluvchi (xiralashtiruvchi) zarralar.",
+            "ko\u02bbchma Umuman, ravshanlik, tozalik, poklikni buzuvchi narsa (masalan, dog\u02bb va boshqalar).",
+            "ko\u02bbchma Kishi ruhini (ruhiyatini) buzuvchi holat, dog\u02bb, xiralik.",
+            "maxs. Changsimon dog\u02bb; kul (o\u02bbsimliklar kasalligi)."
+        ]
+    },
+    {
+        "word": "G\u02bbuborli",
+        "type": [
+            "sf. [g\u2018u-bor-li]"
+        ],
+        "definition": [
+            "G\u02bbubori bor, chang bosgan, to\u02bbzonli.",
+            "ko\u02bbchma Dilgir, xafa, g\u02bbamga to\u02bblgan."
+        ]
+    },
+    {
+        "word": "G\u02bbuborsiz",
+        "type": [
+            "sf. [g\u2018u-bor-siz]"
+        ],
+        "definition": [
+            "G\u02bbubori, changi yo\u02bbq; gardsiz; toza, musaffo.",
+            "ko\u02bbchma Ko\u02bbngli, dili pok; kir, g\u02bbubordan xoli."
+        ]
+    },
+    {
+        "word": "G\u02bbuborsizlik",
+        "type": [
+            "ot. [g\u2018u-bor-siz-lik]"
+        ],
+        "definition": [
+            "Chang, to\u02bbzon kabilardan havoda saqlangan yoki narsa sathiga ingan mayda zarralar; gard.",
+            "Umuman, tiniqlik, ravshanlikni buzuvchi, xira qiluvchi (xiralashtiruvchi) zarralar.",
+            "ko\u02bbchma Umuman, ravshanlik, tozalik, poklikni buzuvchi narsa (masalan, dog\u02bb va boshqalar).",
+            "ko\u02bbchma Kishi ruhini (ruhiyatini) buzuvchi holat, dog\u02bb, xiralik.",
+            "maxs. Changsimon dog\u02bb; kul (o\u02bbsimliklar kasalligi)."
+        ]
+    },
+    {
+        "word": "G\u02bbudda-g\u02bbudda",
+        "type": [
+            "sf. [g\u2018ud-da-g\u2018ud-da]"
+        ],
+        "definition": [
+            "ayn. G\u02bbadir-budur."
+        ]
+    },
+    {
+        "word": "G\u02bbudda",
+        "type": [
+            "ot. [g\u2018ud-da]"
+        ],
+        "definition": [
+            "Odam, hayvon yoki o\u02bbsimlik a\u02bczosining, narsaning biror joyida bo\u02bbrtib chiqqan shish, bo\u02bbrtiq, qavariq."
+        ]
+    },
+    {
+        "word": "G\u02bbudullanish",
+        "type": [
+            "fl. [g\u2018u-dul-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbudullamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbudullanmoq",
+        "type": [
+            "fl. [g\u2018u-dul-lan-moq]"
+        ],
+        "definition": [
+            "G\u02bbudullamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbudullashishmoq",
+        "type": [
+            "fl. [g\u2018u-dul-la-shish-moq]"
+        ],
+        "definition": [
+            "G\u02bbudullashmoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbudullashmoq",
+        "type": [
+            "fl. [g\u2018u-dul-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbudullamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbudunglamoq",
+        "type": [
+            "fl. [g\u2018u-dung-la-moq]"
+        ],
+        "definition": [
+            "ayn. G\u02bbudranmoq, g\u02bbudullamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbudur-budur",
+        "type": [
+            "sf. [g\u2018u-dur-bu-dur]"
+        ],
+        "definition": [
+            "ayn. G\u02bbadir-budur."
+        ]
+    },
+    {
+        "word": "G\u02bbudurlashmoq",
+        "type": [
+            "fl. [g\u2018u-dur-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbudurlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbudurlatish",
+        "type": [
+            "fl. [g\u2018u-dur-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbudurlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbudurlatmoq",
+        "type": [
+            "fl. [g\u2018u-dur-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbudurlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbuj-g\u02bbuj",
+        "type": [
+            "ys. [g\u2018uj-g\u2018uj]"
+        ],
+        "definition": [
+            "Bir-biriga yaqin yoki tegib joy olgan; to\u02bbp, to\u02bbda holatli."
+        ]
+    },
+    {
+        "word": "G\u02bbujanak",
+        "type": [
+            "ot. [g\u2018u-ja-nak]"
+        ],
+        "definition": [
+            "Oyoq-qo\u02bbllari yig\u02bbilgan, tanasi egik, boshi bukik holatli.",
+            "ayn. G\u02bbuj.",
+            "Tog\u02bb etaklarida, dashtda mayda poyalari g\u02bbuj bo\u02bblib o\u02bbsadigan bir xil buta."
+        ]
+    },
+    {
+        "word": "G\u02bbujanaklanish",
+        "type": [
+            "fl. [g\u2018u-ja-nak-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbujanaklamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbujanaklik",
+        "type": [
+            "ot. [g\u2018u-ja-nak-lik]"
+        ],
+        "definition": [
+            "Oyoq-qo\u02bbllari yig\u02bbilgan, tanasi egik, boshi bukik holatli.",
+            "ayn. G\u02bbuj.",
+            "Tog\u02bb etaklarida, dashtda mayda poyalari g\u02bbuj bo\u02bblib o\u02bbsadigan bir xil buta."
+        ]
+    },
+    {
+        "word": "G\u02bbujg\u02bbon",
+        "type": [
+            "ot. [g\u2018uj-g\u2018on]"
+        ],
+        "definition": [
+            "Shaxs yoki narsaning ma\u02bclum darajadagi harakatli to\u02bbp holati; tupi, to\u02bbdasi.",
+            "ko\u02bbchma Ruhiyatdagi shunday holat, jo\u02bbsh urgan holat.",
+            "shv. G\u02bbuj."
+        ]
+    },
+    {
+        "word": "G\u02bbuji-g\u02bbuji",
+        "type": [
+            "ys. [g\u2018u-ji-g\u2018u-ji]"
+        ],
+        "definition": [
+            "G\u02bbuji-g\u02bbuji qilmoq;"
+        ]
+    },
+    {
+        "word": "G\u02bbujja",
+        "type": [
+            "ot. [g\u2018uj-ja]"
+        ],
+        "definition": [
+            "Yig\u02bbin, to\u02bbda, to\u02bbp; to\u02bbplanib qolgan odamlar yoki narsalar;"
+        ]
+    },
+    {
+        "word": "G\u02bbujjak",
+        "type": [
+            "ot. [g\u2018uj-jak]"
+        ],
+        "definition": [
+            "s.t. G\u02bbujanak."
+        ]
+    },
+    {
+        "word": "G\u02bbujmak",
+        "type": [
+            "ot. [g\u2018uj-mak]"
+        ],
+        "definition": [
+            "s. t. G\u02bbujanak."
+        ]
+    },
+    {
+        "word": "G\u02bbujmayganlik",
+        "type": [
+            "fl. [g\u2018uj-may-gan-lik]"
+        ],
+        "definition": [
+            "s. t. G\u02bbujanak bo\u02bblmoq, bujmaymoq."
+        ]
+    },
+    {
+        "word": "G\u02bbujmayishmoq",
+        "type": [
+            "fl. [g\u2018uj-ma-yish-moq]"
+        ],
+        "definition": [
+            "G\u02bbujmaymoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbujullamoq",
+        "type": [
+            "fl. [g\u2018u-jul-la-moq]"
+        ],
+        "definition": [
+            "ayn. G\u02bbujurlamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbujum",
+        "type": [
+            "ot. [g\u2018u-jum]"
+        ],
+        "definition": [
+            "Uzum donasi yoki shingili.",
+            "shv. G\u02bbuj, to\u02bbp."
+        ]
+    },
+    {
+        "word": "G\u02bbujumcha",
+        "type": [
+            "ot. [g\u2018u-jum-cha]"
+        ],
+        "definition": [
+            "Uzum donasi yoki shingili.",
+            "shv. G\u02bbuj, to\u02bbp."
+        ]
+    },
+    {
+        "word": "G\u02bbujumlanish",
+        "type": [
+            "fl. [g\u2018u-jum-la-nish]"
+        ],
+        "definition": [
+            "G\u02bbujumlamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbujumlanmoq",
+        "type": [
+            "fl. [g\u2018u-jum-lan-moq]"
+        ],
+        "definition": [
+            "G\u02bbujumlamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbujur-g\u02bbujur",
+        "type": [
+            "ys. [g\u2018u-jur-g\u2018u-jur]"
+        ],
+        "definition": [
+            "Qushlarning sayrashidan hosil bo\u02bbladigan shovqin.",
+            "Tez va g\u02bbujurlab gapirish."
+        ]
+    },
+    {
+        "word": "G\u02bbujur",
+        "type": [
+            "ys. [g\u2018u-jur]"
+        ],
+        "definition": [
+            "shv. G\u02bbayrat."
+        ]
+    },
+    {
+        "word": "G\u02bbujurg\u02bbujurlashish",
+        "type": [
+            "fl. [g\u2018u-jur-g\u2018u-jur-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbujurg\u02bbujurlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbujurlashish",
+        "type": [
+            "fl. [g\u2018u-jur-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbujurlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbujurlov",
+        "type": [
+            "fl. [g\u2018u-jur-lov]"
+        ],
+        "definition": [
+            "G\u02bbujur-g\u02bbujur qilmoq; shunday ovoz bilan sayramoq.",
+            "Boshqalar tushunmaydigan tilda gapirmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbujurlovchi",
+        "type": [
+            "fl. [g\u2018u-jur-lov-chi]"
+        ],
+        "definition": [
+            "G\u02bbujur-g\u02bbujur qilmoq; shunday ovoz bilan sayramoq.",
+            "Boshqalar tushunmaydigan tilda gapirmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbul",
+        "type": [
+            "ot. [g\u2018ul]"
+        ],
+        "definition": [
+            "tar. Aybdorning bo\u02bbyin, oyoqlariga kiygizib qo\u02bbyiladigan jazolash asbobi: kishan."
+        ]
+    },
+    {
+        "word": "G\u02bbuldurashmoq",
+        "type": [
+            "fl. [g\u2018ul-du-rash-moq]"
+        ],
+        "definition": [
+            "G\u02bbulduramoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbulduratish",
+        "type": [
+            "fl. [g\u2018ul-du-ra-tish]"
+        ],
+        "definition": [
+            "G\u02bbulduramoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbulduratmoq",
+        "type": [
+            "fl. [g\u2018ul-du-rat-moq]"
+        ],
+        "definition": [
+            "G\u02bbulduramoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbulg\u02bbula",
+        "type": [
+            "ot. [g\u2018ul-g\u2018u-la]"
+        ],
+        "definition": [
+            "ayn. G\u02bbulu."
+        ]
+    },
+    {
+        "word": "G\u02bbulg\u02bbulali",
+        "type": [
+            "sf. [g\u2018ul-g\u2018u-la-li]"
+        ],
+        "definition": [
+            "Notinch, bezovta holatli."
+        ]
+    },
+    {
+        "word": "G\u02bbulg\u02bbulasiz",
+        "type": [
+            "ot. [g\u2018ul-g\u2018u-la-siz]"
+        ],
+        "definition": [
+            "ayn. G\u02bbulu."
+        ]
+    },
+    {
+        "word": "G\u02bbulom",
+        "type": [
+            "ot. [g\u2018u-lom]"
+        ],
+        "definition": [
+            "Esk. kt.   1. Saroyda xizmat qiluvchi yigit, xizmatkor.",
+            "ayn. Qul.",
+            "G\u02bbulom (erkaklar ismi)."
+        ]
+    },
+    {
+        "word": "G\u02bbulomlar",
+        "type": [
+            "ot. [g\u2018u-lom-lar]"
+        ],
+        "definition": [
+            "Esk. kt.   1. Saroyda xizmat qiluvchi yigit, xizmatkor.",
+            "ayn. Qul.",
+            "G\u02bbulom (erkaklar ismi)."
+        ]
+    },
+    {
+        "word": "G\u02bbulomlik",
+        "type": [
+            "ot. [g\u2018u-lom-lik]"
+        ],
+        "definition": [
+            "Esk. kt.   1. Saroyda xizmat qiluvchi yigit, xizmatkor.",
+            "ayn. Qul.",
+            "G\u02bbulom (erkaklar ismi)."
+        ]
+    },
+    {
+        "word": "G\u02bbult-g\u02bbult",
+        "type": [
+            "ys. [g\u2018ult-g\u2018ult]"
+        ],
+        "definition": [
+            "ayn. Qult-qult."
+        ]
+    },
+    {
+        "word": "G\u02bbulu",
+        "type": [
+            "ot. [g\u2018u-lu]"
+        ],
+        "definition": [
+            "Shovqin, shovqin-suron, g\u02bbovur-g\u02bbuvur, shov-shuv, to\u02bbpolon;"
+        ]
+    },
+    {
+        "word": "G\u02bbum-g\u02bbum",
+        "type": [
+            "ys. [g\u2018um-g\u2018um]"
+        ],
+        "definition": [
+            "Bo\u02bbg\u02bbiq past shovqinga taqlid"
+        ]
+    },
+    {
+        "word": "G\u02bbumay",
+        "type": [
+            "ot. [g\u2018u-may]"
+        ],
+        "definition": [
+            "bot. Boshoqdoshlarga mansub, qiyoq bargli, ildizidan tez ko\u02bbpayadigan ko\u02bbp yillik begona o\u02bbt."
+        ]
+    },
+    {
+        "word": "G\u02bbumbak",
+        "type": [
+            "ot. [g\u2018um-bak]"
+        ],
+        "definition": [
+            "Ba\u02bczi hasharotlar rivojlanishida qurtdan to\u02bbliq shakllanish, ya\u02bcni kapalakka yoki pashshaga aylanish bosqichi va hasharotning shu bosqichdagi holati."
+        ]
+    },
+    {
+        "word": "G\u02bbunajin",
+        "type": [
+            "ot. [g\u2018u-na-jin]"
+        ],
+        "definition": [
+            "Ikki yoshdan oshgan urg\u02bbochi qoramol."
+        ]
+    },
+    {
+        "word": "G\u02bbuncha",
+        "type": [
+            "ot. [g\u2018un-cha]"
+        ],
+        "definition": [
+            "Hali ochilmagan, gulbarglari hali yozilmagan gul; o\u02bbsimlikning gul kurtagi.",
+            "ko\u02bbchma Biror hodisaning endigina boshlanayotgan payti, boshlanishi."
+        ]
+    },
+    {
+        "word": "G\u02bbunchachi",
+        "type": [
+            "ot. [g\u2018un-cha-chi]"
+        ],
+        "definition": [
+            "Podsho yoki xonga go\u02bbzal qizlarni tanlab, haramga keltirib beruvchi ayol.",
+            "Vaqtinchalik xotin."
+        ]
+    },
+    {
+        "word": "G\u02bbunchaday",
+        "type": [
+            "ot. [g\u2018un-cha-day]"
+        ],
+        "definition": [
+            "Hali ochilmagan, gulbarglari hali yozilmagan gul; o\u02bbsimlikning gul kurtagi.",
+            "ko\u02bbchma Biror hodisaning endigina boshlanayotgan payti, boshlanishi."
+        ]
+    },
+    {
+        "word": "G\u02bbunchadek",
+        "type": [
+            "ot. [g\u2018un-cha-dek]"
+        ],
+        "definition": [
+            "Hali ochilmagan, gulbarglari hali yozilmagan gul; o\u02bbsimlikning gul kurtagi.",
+            "ko\u02bbchma Biror hodisaning endigina boshlanayotgan payti, boshlanishi."
+        ]
+    },
+    {
+        "word": "G\u02bbunchalab",
+        "type": [
+            "fl. [g\u2018un-cha-lab]"
+        ],
+        "definition": [
+            "G\u02bbuncha paydo qilmoq, g\u02bbuncha chiqarmoq (to\u02bbg\u02bbri va ko\u02bbchma ma\u02bcnoda)."
+        ]
+    },
+    {
+        "word": "G\u02bbunchalik",
+        "type": [
+            "ot. [g\u2018un-cha-lik]"
+        ],
+        "definition": [
+            "Hali ochilmagan, gulbarglari hali yozilmagan gul; o\u02bbsimlikning gul kurtagi.",
+            "ko\u02bbchma Biror hodisaning endigina boshlanayotgan payti, boshlanishi."
+        ]
+    },
+    {
+        "word": "G\u02bbuppak",
+        "type": [
+            "ot. [g\u2018up-pak]"
+        ],
+        "definition": [
+            "Shox-shabbasi zich, g\u02bbuj bo\u02bblib yoki to\u02bbp bo\u02bblib o\u02bbsadigan; g\u02bbuj."
+        ]
+    },
+    {
+        "word": "G\u02bburabo",
+        "type": [
+            "ot. [g\u2018u-ra-bo]"
+        ],
+        "definition": [
+            "Delete.w"
+        ]
+    },
+    {
+        "word": "G\u02bburbat",
+        "type": [
+            "ot. [g\u2018ur-bat]"
+        ],
+        "definition": [
+            "Vatandan uzoqda yashash; musofirlik, g\u02bbariblik.",
+            "G\u02bbam-tashvish, kulfat.",
+            "s. t. Ortiqcha tashvish keltiruvchi narsa, ish."
+        ]
+    },
+    {
+        "word": "G\u02bburbatxona",
+        "type": [
+            "ot. [g\u2018ur-bat-xo-na]"
+        ],
+        "definition": [
+            "Qayg\u02bbu-alam makoni, g\u02bbam-g\u02bbussa ko\u02bbp bo\u02bbladigan joy."
+        ]
+    },
+    {
+        "word": "G\u02bburg\u02bburak",
+        "type": [
+            "ot. [g\u2018ur-g\u2018u-rak]"
+        ],
+        "definition": [
+            "shv. G\u02bburillagan shamol; yelvizak."
+        ]
+    },
+    {
+        "word": "G\u02bburmushlanmoq",
+        "type": [
+            "fl. [g\u2018ur-mush-lan-moq]"
+        ],
+        "definition": [
+            "G\u02bburmushlamoq fe\u02bclining majhul nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bburra",
+        "type": [
+            "ot. [g\u2018ur-ra]"
+        ],
+        "definition": [
+            "Peshona yoki boshda hosil bo\u02bblgan qattiq shish."
+        ]
+    },
+    {
+        "word": "G\u02bburrak",
+        "type": [
+            "ot. [g\u2018ur-rak]"
+        ],
+        "definition": [
+            "Kaptarsimonlar oilasiga mansub, musichaga o\u02bbxshash qush; oddiy g\u02bburrak yoki qumri."
+        ]
+    },
+    {
+        "word": "G\u02bburrakcha",
+        "type": [
+            "ot. [g\u2018ur-rak-cha]"
+        ],
+        "definition": [
+            "Kaptarsimonlar oilasiga mansub, musichaga o\u02bbxshash qush; oddiy g\u02bburrak yoki qumri."
+        ]
+    },
+    {
+        "word": "G\u02bburraki",
+        "type": [
+            "ot. [g\u2018ur-ra-ki]"
+        ],
+        "definition": [
+            "Peshona yoki boshda hosil bo\u02bblgan qattiq shish."
+        ]
+    },
+    {
+        "word": "G\u02bburullashmoq",
+        "type": [
+            "fl. [g\u2018u-rul-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bburullamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bburur",
+        "type": [
+            "ot. [g\u2018u-rur]"
+        ],
+        "definition": [
+            "Insonning o\u02bbz qadr-qimmatini bilish, uni hurmat qilish hissi; izzat-nafs.",
+            "Faxrlanish, mamnunlik tuyg\u02bbusi; faxr, iftixor.",
+            "Faxrlanishga asos bo\u02bbladigan narsa, kimsa va shu kabilar.",
+            "Kibrlanish tuyg\u02bbusi, mag\u02bbrurlik, kibr-havo."
+        ]
+    },
+    {
+        "word": "G\u02bbururlanishmoq",
+        "type": [
+            "fl. [g\u2018u-rur-la-nish-moq]"
+        ],
+        "definition": [
+            "G\u02bbururlanmoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbururlantirish",
+        "type": [
+            "fl. [g\u2018u-rur-lan-ti-rish]"
+        ],
+        "definition": [
+            "G\u02bbururlanmoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbururli",
+        "type": [
+            "sf. [g\u2018u-rur-li]"
+        ],
+        "definition": [
+            "G\u02bbururlanish hissi kuchli, g\u02bbururi baland.",
+            "Kibr-havoli; takabbur."
+        ]
+    },
+    {
+        "word": "G\u02bbururlik",
+        "type": [
+            "ot. [g\u2018u-rur-lik]"
+        ],
+        "definition": [
+            "Insonning o\u02bbz qadr-qimmatini bilish, uni hurmat qilish hissi; izzat-nafs.",
+            "Faxrlanish, mamnunlik tuyg\u02bbusi; faxr, iftixor.",
+            "Faxrlanishga asos bo\u02bbladigan narsa, kimsa va shu kabilar.",
+            "Kibrlanish tuyg\u02bbusi, mag\u02bbrurlik, kibr-havo."
+        ]
+    },
+    {
+        "word": "G\u02bburursiz",
+        "type": [
+            "sf. [g\u2018u-rur-siz]"
+        ],
+        "definition": [
+            "G\u02bbururi yo\u02bbq."
+        ]
+    },
+    {
+        "word": "G\u02bbus",
+        "type": [
+            "ys. [g\u2018us]"
+        ],
+        "definition": [
+            "und. s. Itni tezlash, qopish, quvishga undashni bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbusg\u02bbuslash",
+        "type": [
+            "fl. [g\u2018us-g\u2018us-lash]"
+        ],
+        "definition": [
+            "Qopishga, urishishga undamoq, olqishlamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbusl",
+        "type": [
+            "ot. [g\u2018usl]"
+        ],
+        "definition": [
+            "Pok bo\u02bblish uchun butun badanni maxsus tartibda yuvish; ustidan suv quyib yuvinish, cho\u02bbmilish."
+        ]
+    },
+    {
+        "word": "G\u02bbuslxona",
+        "type": [
+            "ot. [g\u2018usl-xo-na]"
+        ],
+        "definition": [
+            "G\u02bbusl qilinadigan joy, xona."
+        ]
+    },
+    {
+        "word": "G\u02bbussa",
+        "type": [
+            "ot. [g\u2018us-sa]"
+        ],
+        "definition": [
+            "G\u02bbam-alam, qayg\u02bbu."
+        ]
+    },
+    {
+        "word": "G\u02bbussali",
+        "type": [
+            "sf. [g\u2018us-sa-li]"
+        ],
+        "definition": [
+            "G\u02bbam-g\u02bbussaga botgan; g\u02bbam-alamli."
+        ]
+    },
+    {
+        "word": "G\u02bbussasiz",
+        "type": [
+            "sf. [g\u2018us-sa-siz]"
+        ],
+        "definition": [
+            "G\u02bbam-g\u02bbussasi yo\u02bbq, g\u02bbam-tashvishdan xoli; g\u02bbamsiz."
+        ]
+    },
+    {
+        "word": "G\u02bbuv-g\u02bbuv",
+        "type": [
+            "ys. [g\u2018uv-g\u2018uv]"
+        ],
+        "definition": [
+            "G\u02bbuv so\u02bbzining takroriy shakli."
+        ]
+    },
+    {
+        "word": "G\u02bbuv",
+        "type": [
+            "ys. [g\u2018uv]"
+        ],
+        "definition": [
+            "taql. s. Shamol yelganda va ba\u02bczi narsalar uchganda, aylanganda chiqadigan tovushni, shuningdek, ba\u02bczi qushlarning tovushini bildiradi."
+        ]
+    },
+    {
+        "word": "G\u02bbuvg\u02bbuvlashish",
+        "type": [
+            "fl. [g\u2018uv-g\u2018uv-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbuvg\u02bbuvlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbuvg\u02bbuvlov",
+        "type": [
+            "fl. [g\u2018uv-g\u2018uv-lov]"
+        ],
+        "definition": [
+            "G\u02bbuv-g\u02bbuv etgan ovoz chiqarmoq."
+        ]
+    },
+    {
+        "word": "G\u02bbuvullashish",
+        "type": [
+            "fl. [g\u2018u-vul-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbuvullamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbuvullatish",
+        "type": [
+            "fl. [g\u2018u-vul-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbuvullamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbuvur-g\u02bbuvur",
+        "type": [
+            "ys. [g\u2018u-vur-g\u2018u-vur]"
+        ],
+        "definition": [
+            "ayn. G\u02bbovur-g\u02bbuvur."
+        ]
+    },
+    {
+        "word": "G\u02bbuvur",
+        "type": [
+            "ys. [g\u2018u-vur]"
+        ],
+        "definition": [
+            "ayn. G\u02bbovur."
+        ]
+    },
+    {
+        "word": "G\u02bbuvurlashish",
+        "type": [
+            "fl. [g\u2018u-vur-la-shish]"
+        ],
+        "definition": [
+            "G\u02bbuvurlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbuvurlashmoq",
+        "type": [
+            "fl. [g\u2018u-vur-lash-moq]"
+        ],
+        "definition": [
+            "G\u02bbuvurlamoq fe\u02bclining birgalik nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbuvurlatish",
+        "type": [
+            "fl. [g\u2018u-vur-la-tish]"
+        ],
+        "definition": [
+            "G\u02bbuvurlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbuvurlatmoq",
+        "type": [
+            "fl. [g\u2018u-vur-lat-moq]"
+        ],
+        "definition": [
+            "G\u02bbuvurlamoq fe\u02bclining orttirma nisbati."
+        ]
+    },
+    {
+        "word": "G\u02bbuvurlov",
+        "type": [
+            "fl. [g\u2018u-vur-lov]"
+        ],
+        "definition": [
+            "ayn. G\u02bbuvullamoq."
+        ]
+    },
+    {
+        "word": "G\u02bbuvvos",
+        "type": [
+            "ys. [g\u2018uv-vos]"
+        ],
+        "definition": [
+            "G\u02bbala-g\u02bbovur, shovqin-suron aralash sodir bo\u02bbladigan; chuvvos."
+        ]
+    }
+]

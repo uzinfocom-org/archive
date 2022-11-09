@@ -1,0 +1,72 @@
+[
+    {
+        "word": "Neyman arxitekturasi",
+        "type": [],
+        "definition": [
+            "Kompyuter qurishning, ham ma\u2019lumotlar, ham dasturning o\u2018zi saqlanadigan operativ, ketma-ket adreslanadigan xotira ajratilgan klassik arxitekturasi. Hozirgi vaqtda ko\u2018pchilik kompyuterlar shunday ar-xitekturaga ega. Nomi bu arxitekturani ishlab chiquvchilardan biri bo\u2018lgan mashhur matematik Jon fon Neyman sharafiga berilgan."
+        ]
+    },
+    {
+        "word": "Nutqiy kiritish",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni foydalanuvchining ovozi bilan kiritish jarayoni. Nutqiy kiritishni ta\u2019minlash uchun, mikrofon bilan; tovush tebranishlarini raqamli kod-larga aylantirish uchun maxsus plata bilan; aniqlanadigan so\u2018zlar yig\u2018ilgan ma\u2019lumotlar bazalari (lug\u2018atlar) bilan va talaffuz qilingan so\u2018zni lug\u2018atdagi so\u2018zga moslaydigan dasturlar bilan jihozlangan kompyuter zarur bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "Nvidia tizim vositalari",
+        "type": [],
+        "definition": [
+            "Kompyuter tizimi komponentlarini sozlash, monitoring qilish, erkin foydalanish, jumladan, Windows dagi qulay boshqarish panellari yordamida kuchlanish va temperaturani nazorat qilish."
+        ]
+    },
+    {
+        "word": "Net news",
+        "type": [],
+        "definition": [
+            "Internet global kompyuter tarmog\u2018ining tarmoq yangiliklari xizmati. \u00abMijoz \u2012 server\u00bb arxitekturasiga ega. Foydalanuvchilarning turli mavzular bo\u2018yicha elektron konferensiyalarda ishtirok etishini ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "Net Ware",
+        "type": [],
+        "definition": [
+            "Lokal hisoblash tizimlari uchun Novell firmasi tomonidan ishlab chiqilgan tarmoq operatsion tizimi. Markazlashtirilgan, taqsimlangan va bir rangdagi tarmoqlar uchun chiqarilgan versiyalari mavjud. Eng keng tarqalgan tizimlardan biri. Net Ware 3-x va 4-x versiyalari ajratilgan serverli tarmoqlar uchun mo\u2018ljallangan. 3-x va 4-x versiyalar asosan periferik qurilmalardan birgalikda ishlash imkoniyati bo\u2018lgan, tez ishlaydigan fayl-serverli tizimlar sifatida lohilashtirildi va rivojlantirildi."
+        ]
+    },
+    {
+        "word": "NetBurst",
+        "type": [],
+        "definition": [
+            "Protsessorlarning yuqori takt chastotalariga erishish maqsadida ishlab chiqilgan arxitektura. NetBurst arxitekturasining o\u2018ziga xos xususiyatlari giperkonveyerlash va an\u2019anaviy instruksiyalar keshi o\u2018rniga mikrooperatsiyalar ketma-ketligi keshining qo\u2018llanilishi hisoblanadi. NetBurst arxitekturasining protsessorlari to\u2018rtta asosiy strukturaviy blokdan iborat: instruksiyalar bajarilishini amalga oshiradigan, bajaruvchi qurilmalar, shuningdek, bajaruvchi qurilmalarning birgalikda ishlashini ta\u2019minlaydigan qurilmalar. Ma\u2019lumotlar oldindan tanlanishi, tarmoqlanishlarni oldindan prognozlash va instruksiyalarni dekodlash (x86 murakkab instruksiyalarni ichki oddiy instruksiyalar \u2013 mikrooperatsiyalarga o\u2018zgartirish) uchun javob beradigan kirish bloki. Mikrooperatsiyalar bajarilishining optimal tartibini tashkil qilish qurilmalari. Protsessorning xotira kichik tizimi bilan birgalikda ishlashini (o\u2018zaro bog\u2018lanishini) ta\u2019minlaydigan qurilmalar guruhini o\u2018zida ifodalaydigan xotira interfeysi."
+        ]
+    },
+    {
+        "word": "NVIDIA ION",
+        "type": [],
+        "definition": [
+            "NVIDIA kompaniyasi chipsetlari oilasi, netbuklar va nettoplar uchun platforma. Intel Atom (shu jumladan, ikki yadroli) protsessorlaridan va Ge Force 9400 M tizim logikasidan iborat. Chipsetlar DirectX 10 qo\u2018llanilgan birgalikda integratsiyalangan videoyadro bilan jihozlangan. Chipsetlar bor-yo\u2018g\u2018i bitta mikrosxemani ichiga oladi, bu yechimlar sxemotexnikasini soddalashtiradi, energiya iste\u2019moli va issiqlik ajralishini kamaytiradi."
+        ]
+    },
+    {
+        "word": "Navbat",
+        "type": [],
+        "definition": [
+            "Obyektlarning kelib tushishiga qarab tashkil qilingan chiziqli ro\u2018yxat. Ro\u2018yxat yangi element kelishi va\/yoki elementning chiqarilishi bilan o\u2018zgaradi. Protsessorning vazifalarni bajarish navbati, fayllarni printerga chiqarish navbati bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "NLSP protokoli",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarning Netware muhitida uzatilishini ta\u2019minlaydigan, tarmoqda optimal marshrut tanlash imkonini beradigan protokol. Novell firmasi tomonidan Netware tarmog\u2018i uchun ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Nutqli kiritish",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni kompyuterga ovoz yordamida (klaviaturasiz) kiritish texnologiyasi. Nutqli kiritishdan foydalanish uchun, operativ xotirasi kamida 8 Mbyte bo\u2018lgan Pentium yoki i486 protsessorga ega katta quvvatli shaxsiy kompyuter va lug\u2018atli dasturiy ta\u2019minot bo\u2018lishi zarur. Dastur nutqni raqamlashtiradi, har bir so\u2018zni ajratadi va aniq ta\u2019riflash uchun uni o\u2018zining lug\u2018atidan topishni bajaradi."
+        ]
+    }
+]

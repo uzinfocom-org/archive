@@ -1,0 +1,415 @@
+[
+    {
+        "word": "Sokol tarmoq adapteri",
+        "type": [],
+        "definition": [
+            "Kompyuterni lokal kompyuterlar tarmog\u2018iga ulash uchun mo\u2018ljallangan adapter"
+        ]
+    },
+    {
+        "word": "Simsiz belgilash tili",
+        "type": [],
+        "definition": [
+            "Simsiz tizimlarni belgilash tili. XML spetsifikatsiyasiga mos keluvchi sintaksisli WWW sahifalarini yaratish tili. Soddalashtirilgan HTML ga o\u2018xshaydi."
+        ]
+    },
+    {
+        "word": "Sakkizlik sanoq tizimi",
+        "type": [],
+        "definition": [
+            "Asosi 8 bo\u2018lgan pozitsion sanoq tizimi. Sonlarni yozish uchun, 0, 1, 2, 3, 4, 5, 6, 7 raqamlaridan foydalaniladi."
+        ]
+    },
+    {
+        "word": "Sana",
+        "type": [],
+        "definition": [
+            "Kompyuterning CMOS-xotirasida saqlanadigan sana. Hujjat yaratilgan vaqtni aniqlash uchun xizmat qiladi va sinxronlashda yordam beradi"
+        ]
+    },
+    {
+        "word": "Sig\u02bbim",
+        "type": [],
+        "definition": [
+            "Kompyuter xotirasida saqlanishi mumkin bo\u2018lgan ma\u2019lumotlarning maksimal hajmi. Barcha turdagi xotira sig\u2018imi bitlarda, baytlarda va ularning hosilalarida o\u2018lchanadi."
+        ]
+    },
+    {
+        "word": "So\u02bbroq",
+        "type": [],
+        "definition": [
+            "Tizimga topshiriq, uning bajarilishi natijasida javob shakllanadi. Masalan, printer bosish uchun ma\u2019lumotlarning yangi bir ulushini so\u2018raydi; foydalanuvchi ma\u2019lumotlar bazasidan ma\u2019lumotlar oladi. Ma\u2019lumotlar bazalariga so\u2018roqlarni shakllantirish va tegishli javoblar olish uchun maxsus dasturlash tillari mavjud; ulardan eng ommaviy tarqalgani \u2013 strukturalangan so\u2018roqlar tilidir."
+        ]
+    },
+    {
+        "word": "Sun\u02bciy intellekt",
+        "type": [],
+        "definition": [
+            "1 Odamning intellektual faoliyatini ma\u2019lum darajada haqiqatga o\u2018xshash tarzda imitatsiya qilish uchun mo\u2018ljallangan vositalar hamda metodlar ishlab chiqish, eksperimentlar, ilmiy tadqiqotlar uchun umumiy nom, shuningdek, amaliy jarayonning odamning oqilona xulq-atvori bilan birlashib ketadigan xususiyatlarni aniqlay olish qobiliyati.\r\n 2 Avtomat va avtomatlashtirilgan tizimlarning odam intellektining ayrim funksiyalarini o\u2018ziga olish xususiyati, masalan, tashqi ta\u2019sirlarni oqilona tahlil qilish va oldin olingan tajriba asosida optimal qarorlar qabul qilish va tanlash."
+        ]
+    },
+    {
+        "word": "Sayt",
+        "type": [],
+        "definition": [
+            "Umumiy nom, mavzu va navigatsiya tizimi bilan bog\u2018langan Web-sahifalar to\u2018plami. Matn, grafika, animatsiya, tovush sifatida talqin qilinadigan dastur. Saytni rasmiylashtirish HTML, Java tillari yordamida amalga oshiriladi."
+        ]
+    },
+    {
+        "word": "Segment",
+        "type": [],
+        "definition": [
+            "Operativ xotiraning, dastur, ma\u2019lumotlar yoki ma\u2019lumotlar stekini saqlash uchun operatsion tizim ajratadigan sohasi."
+        ]
+    },
+    {
+        "word": "Sektor",
+        "type": [],
+        "definition": [
+            "Egiluvchan yoki magnit qattiq disk yo\u2018lkasining, ma\u2019lumotlar yozilgan qismi. Sektor \u2013 xotiraning o\u2018z adresiga ega bo\u2018lgan eng kichik birligi."
+        ]
+    },
+    {
+        "word": "Semantika",
+        "type": [],
+        "definition": [
+            "Til yoki tizimdagi har bir sintaktik konstruksiyaning ma\u2019nosi. Dasturlash tillarida translyator sintaktik tuzilishlarni operatsion tizim va protsessor tushunadigan komandalarga aylantiradi. Ma\u2019noviy xatolarni translyator aniqlamaydi, ularni qidirib topish bilan testlash, sozlash va hatto ekspluatatsiya jarayonida odam shug\u2018ullanadi."
+        ]
+    },
+    {
+        "word": "Semafor",
+        "type": [],
+        "definition": [
+            "Ba\u2019zi dasturlash tillarida ma\u2019lumotlarning maxsus turi. Kompyuterning, turli jarayonlar intiladigan ba\u2019zi resurslaridan foydalanishni boshqaradi, ya\u2019ni jarayonlar bajarilishini sinxronlashtiradi."
+        ]
+    },
+    {
+        "word": "Sensorli panel",
+        "type": [],
+        "definition": [
+            "Barmoqning harakatlanishi paytida qurilma yuzasidagi elektr maydonning o\u2018zgarishidan ishlaydigan manipulyator."
+        ]
+    },
+    {
+        "word": "Server",
+        "type": [],
+        "definition": [
+            "Mijoz dasturi yoki komyuter resurslari va ma\u2019lumotlariga xizmat ko\u2018rsatuvchi dastur yoki kompyuter. Mijoz dastur serverga so\u2018rovni OLE, DDE yoki boshqa formatlarda uzatadi."
+        ]
+    },
+    {
+        "word": "Siqish",
+        "type": [],
+        "definition": [
+            "Tarmoqda ishlash vaqtida uzatiladigan ma\u2019lumotlar hajmini kamaytirish va saqlash uchun zarur bo\u2018lgan xotira hajmini kamaytirish maqsadida ma\u2019lumotlarni o\u2018zgartirish. Ma\u2019lumotlarni siqish metodlari kodlash yo\u2018li bilan ortiqchalikni kamaytirishga asoslangan. Siqish darajasi fayl turiga bog\u2018liq, bajariladigan fayllar amalda kamaymaydi, grafik ma\u2019lumotlar bo\u2018lgan fayllar 4 marta siqiladi."
+        ]
+    },
+    {
+        "word": "Simvol",
+        "type": [],
+        "definition": [
+            "Alfavitning muayyan qiymatiga ega bo\u2018lgan elementi. Odatda, kompyuter xotirasida 8 ta bit yoki bayt bilan yoziladi."
+        ]
+    },
+    {
+        "word": "Simpleks ulanish",
+        "type": [],
+        "definition": [
+            "Orasida faqat bir yo\u2018nalishda ma\u2019lumotlarning uzatilishi amalga oshirilishi mumkin bo\u2018lgan ikki nuqtaning mantiqiy va fizik birikishi."
+        ]
+    },
+    {
+        "word": "Sinaps",
+        "type": [],
+        "definition": [
+            "Neyron tarmoqlar tushunchasi. Sinaps \u2013 neyronlar o\u2018rtasidagi bog\u2018lanishdir. Bir neyrondan chiqadigan chiqish signali, bu signalni boshqa neyronga uzatadigan sinapsga kelib tushadi. Bunda signal o\u2018zgartirilishi mumkin. Murakkab sinapslarda xotira bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Sinergetika",
+        "type": [],
+        "definition": [
+            "Fizik, ximik va biologik ochiq tizimlarda yuqori tartiblashtirilgan strukturalarning spontan (o\u2018z-o\u2018zidan) hosil bo\u2018lishini o\u2018rganadigan fan."
+        ]
+    },
+    {
+        "word": "Sintaksis",
+        "type": [],
+        "definition": [
+            "Til yoki tizimda matn so\u2018zlari, konstruksiyalari va strukturalarini qurish qoidalari to\u2018plami. Ba\u2019zi mualliflar sintaksisga alifboni ham kiritadilar. Til sintaksisini tavsiflashning ko\u2018plab usullari mavjud, ularning ichida eng ko\u2018p tarqalganlari \u2013 sintaktik diagrammalar va kengaytirilgan Bekus-Naur shakli. Dasturni yozishda paydo bo\u2018ladigan va faqat sintaksisga taalluqli xatolar, translyator amalga oshiradigan sintaktik tahlil paytida aniqlanadi."
+        ]
+    },
+    {
+        "word": "Sintaktik diagramma",
+        "type": [],
+        "definition": [
+            "Dasturlash tili sintaksisining grafik ko\u2018rsatilishi. Sintaktik diagrammalar kengaytirilgan Bekus-Naur shakliga to\u2018g\u2018ri keladi va dasturlash tilini tavsiflashda foydalaniladi."
+        ]
+    },
+    {
+        "word": "Sinxronlash",
+        "type": [],
+        "definition": [
+            "Biror - bir ish (xabar) ning vaqt, chastota yoki signal bo\u2018yicha moslashtirilishi. Kompyuter yoki boshqa qurilmaning aloqasini tasdiqlovchi signallar ketma-ketligi. Apparat sinxronlash \u2013 bu qurilmani ma\u2019lumotlarni uzatish yoki qabul qilishga tayyorligi-ni ko\u2018rsatuvchi signallarni aniq bir tarmoq (ma\u2019lumotlar tarmog\u2018idan farqli ravishda) orqali almashinuvi. Dasturiy sinxronlashda signallar xuddi modemlar orasida telefon kanali bo\u2018yicha aloqa qilish singari, ma\u2019lumotlarni uzatish uchun qo\u2018llaniladigan tarmoq orqali yuboriladi."
+        ]
+    },
+    {
+        "word": "Sanoq tizimi",
+        "type": [],
+        "definition": [
+            "Sonlarni aks ettirish usuli va ular ustida bo\u2018ladigan amallar qoidalari. Pozitsion va nopozitsion sanoq tizimlari farqlanadi. Kompyuterda hisoblashlarda pozitsion sanoq tizimlaridan foydalaniladi."
+        ]
+    },
+    {
+        "word": "Skaner",
+        "type": [],
+        "definition": [
+            "Tasvirni ikki o\u2018lchamli sirtdan kompyuterga kiritish qurilmasi.\r\n Izoh \u2012 To\u2018rt turdagi skaner farqlanadi: qo\u2018l skaneri; varaqli skaner; planshetli skaner; barabanli skaner."
+        ]
+    },
+    {
+        "word": "Skrembler",
+        "type": [],
+        "definition": [
+            "Xabarlardan ruxsat etilmagan tarzda foydalanishning oldini olish maqsadida ma\u2019lumotlarni kodlash\/dekodlash uchun mo\u2018ljallangan qurilma yoki dekoder."
+        ]
+    },
+    {
+        "word": "Skript",
+        "type": [],
+        "definition": [
+            "Operatsion tizim yoki dastur muayyan holatda ishga tushiradigan komandalar va\/yoki harakatlar ketma-ketligi, kichik dastur yoki makros. Ssenariylar ko\u2018pincha matnli fayllarda saqlanadi."
+        ]
+    },
+    {
+        "word": "So\u02bbz",
+        "type": [],
+        "definition": [
+            "1. Berilgan alifboda simvollarning muayyan ma\u2019noga ega bo\u2018lgan tartiblashtirilgan to\u2018plami.\r\n 2. Protsessorda ma\u2019lumotlarni qayta ishlash va uzatishda bir butun deb qaraladigan ma\u2019lumotlar birligi. Odatda, bitlarda yoki ikkilik razryadlarda o\u2018lchanadi. Qoidaga ko\u2018ra, mashina so\u2018zi deb ataladi."
+        ]
+    },
+    {
+        "word": "Smaylik",
+        "type": [],
+        "definition": [
+            "His-tuyg\u2018ularni ifodalaydigan, asosiy va yordamchi simvollardan tuzilgan belgi. Internet tarmog\u2018ida muloqot chog\u2018ida (elektron pochtada, chatlarda) foydalaniladi. Uchta simvol: \u00ab:\u00bb ikki nuqta, \u00ab-\u00bb defis va yopadigan qavs \u00ab)\u00bb dan iborat."
+        ]
+    },
+    {
+        "word": "Smartfon",
+        "type": [],
+        "definition": [
+            "Cho\u2018ntak shaxsiy kompyuterining funksionalligi qo\u2018shilgan mobil telefon."
+        ]
+    },
+    {
+        "word": "Soprotsessor",
+        "type": [],
+        "definition": [
+            "Asosiy protsessorning funksional imkoniyatlarini oshiradigan qo\u2018shimcha protsessor."
+        ]
+    },
+    {
+        "word": "Spam",
+        "type": [],
+        "definition": [
+            "Foydalanuvchining so\u2018rovisiz, majburiy tarzda jo\u2018natiladigan keraksiz ma\u2019lumotlar. Bunga misol tariqasida turli telekonferensiyalarda ro\u2018yxatdan o\u2018tgan ishtirokchilarga diskussiya olib borish qoidalarini ma\u2019lum qilish, yoki reklamalar va boshqalar kiradi. Yana bu turli xildagi \u00abelektron chiqindi\u00bbni atashda xam ishlatiladi. Spamni yashirish yo\u2018llari mavjud bo\u2018lib, stealth spam deb ataladi."
+        ]
+    },
+    {
+        "word": "Spetsifikatsiya",
+        "type": [],
+        "definition": [
+            "Tizimning maqsadi va funksional imkoniyatlarini belgilaydigan tavsif. Qoidaga ko\u2018ra, tizimni ishlab chiqish paytida foydalaniladi. Dastur spetsifikatsiyasi kirish va chiqish ma\u2019lumotlari tavsiflanishini ko\u2018zda tutadi."
+        ]
+    },
+    {
+        "word": "Splayn",
+        "type": [],
+        "definition": [
+            "Kompyuter grafikasida \u2013 bir nechta nuqta bo\u2018yicha tuzilgan egri chiziq. Egri chiziqning tavsifi qandaydir darajadagi polinom bilan beriladi."
+        ]
+    },
+    {
+        "word": "Spravochnik",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar elementlari va ularning kompyuter xotirasida joylashishi o\u2018rtasidagi muvofiqlikni belgilaydigan havolalar to\u2018plami."
+        ]
+    },
+    {
+        "word": "Sprayt",
+        "type": [],
+        "definition": [
+            "Foydalanuvchi tomonidan aniqlanadigan, tavsiflanadigan obyekt; ekran bo\u2018ylab dastur komandalari boshqaruvida ekran (matn, grafika) ning boshqa elementlaridan mustaqil ravishda harakatlanishi mumkin. Ba\u2019zi dasturlash tillarida, masalan, BASIC da foydalaniladi."
+        ]
+    },
+    {
+        "word": "Standart",
+        "type": [],
+        "definition": [
+            "Tizimlarning birgalikda ishlash va birikish imkoniyatini yaratish maqsadida, texnik, dasturiy, axborot ta\u2019minotiga ko\u2018rsatiladigan talablar.\r\n Izoh \u2012 Standartlar ikki turda bo\u2018ladi: de-yure, standartlar rasman e\u2019lon qilinadi va ma\u2019qullanadi; de-fakto, ko\u2018pchilik standartlardan haqiqatda foydalanadi, lekin rasmiy ravishda ular rasmiylashtirilmagan bo\u2018ladi. Ba\u2019zan, firma ichida foydalanish uchun ishlab chiqilgan standart umumqabul qilingan standart bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "Standart PCMCIA",
+        "type": [],
+        "definition": [
+            "Tashqi qurilmalar (xotira, modemlar) ni bloknotli kompyuterlarga ulash uchun kartalar interfeysi va o\u2018lchamlarini belgilaydigan standart. PCMCIA standartining yangi versiyasi. Uzatish tezligini 133 Mbyte\/s gacha ta\u2019minlay oladigan 32-razryadli shina interfeysi \u2013 CardBus qo\u2018llaniladi; energiya iste\u2019molini boshqarish vositalariga ega, xotiradan to\u2018g\u2018ridan-to\u2018g\u2018ri foydalanish mumkin, ko\u2018p funksional kartalarni qo\u2018llaydi.\r\n Izoh \u2012 O\u2018zaro yuqoridan pastga moslashtirilgan PCMCIA \u2013I,II,III kartalar (platalar) turi mavjud. I turdagi platalardan xotiraning turli xillarini ulash uchun foydalaniladi, qalinligi 3,3 mm II turdagi platalardan turli xil kiritish\/chiqarish qurilmalarini, egiluvchan magnit diskdagi to\u2018plagichlarni, modemlar, tarmoq platalarini ulash uchun foydalaniladi, qalinligi chetlarida 3,3 mm, o\u2018rtasida 5 mm III turdagi platalardan qattiq diskovodlarning turli xillarini, peyjerlarni ulash uchun foydalaniladi, qalinligi chetlarida 3,3 mm, o\u2018rtasida 10 mm."
+        ]
+    },
+    {
+        "word": "Statistik paket",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni statistik qayta ishlash uchun belgilangan dasturiy mahsulot, qabul qilinadigan qarorlar sifatini oshirishning ishonchli vositasi. Paketga amaliy grafika, dispersion tahlil, regression tahlil, vaqt qatorlari tahlili va boshqalar kiradi."
+        ]
+    },
+    {
+        "word": "Statik kompanovka",
+        "type": [],
+        "definition": [
+            "Bajariladigan dasturga bibliotekalardan olingan standart funksiyalarni, dasturning bajariladigan faylga ularni joylashtirish yordamida qo\u2018shish metodi, ya\u2019ni statik komponovkada biblioteka obyekti bevosita dasturning bir qismiga aylanib ketadi. Diskli operatsion tizim boshqaruvidagi tillarda foydalaniladi."
+        ]
+    },
+    {
+        "word": "Statik operativ xotira",
+        "type": [],
+        "definition": [
+            "Yarimo\u2018tkazgichli operativ xotiraning bir turi. Har bir ikkilik razryad (bit) to\u2018rtta tranzistor va ikkita rezistordan iborat sxemada saqlanadi. Sxemada kondensator yo\u2018q, shuning uchun zaryadlash kerak emas. Statik operativ xotira dinamik operativ xotiraga qaraganda tezroq ishlaydi. Lekin qimmat va ko\u2018p joyni egallaydi."
+        ]
+    },
+    {
+        "word": "Stek",
+        "type": [],
+        "definition": [
+            "Xotiraning, protseduralar va funksiyalardan qaytish adreslari, ularning parametrlari va chaqirilgan protsedura yoki funksiya ekzemplyariga taalluqli bo\u2018lgan boshqa ma\u2019lumotlar saqlanadigan, ya\u2019ni dasturda ma\u2019lumotlarni vaqtinchalik saqlash uchun foydalaniladigan qismi. Stekka joylashtiriladigan oxirgi element u yerdan birinchi bo\u2018lib olinadi."
+        ]
+    },
+    {
+        "word": "Strimer",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni magnit tasmada uzoq muddat saqlash uchun mo\u2018ljallangan qurilma. Ma\u2019lumotlarning rezerv nusxalarini tuzish uchun qo\u2018llaniladi. Sig\u2018imi 80 Mbyte dan boshlab (siqishsiz), saqlanishlik muddati katta, saqlash qiymati nisbatan arzon"
+        ]
+    },
+    {
+        "word": "Satr",
+        "type": [],
+        "definition": [
+            "Simvollarning tartiblashtirilgan ketma-ketligi. Dasturlash tillarida \u2013 tegishli operatsiyalar \u2013 konkatenatsiya, nisbatlar belgilangan ma\u2019lumotlar turi. Satrni simvollarning bir o\u2018lchamli massivi sifatida ham ta\u2019riflash mumkin."
+        ]
+    },
+    {
+        "word": "Struktura",
+        "type": [],
+        "definition": [
+            "Bir yoki bir nechta, balki har xil turdagi elementlardan iborat ma\u2019lumotlar elementi."
+        ]
+    },
+    {
+        "word": "Strukturaviy dasturlash",
+        "type": [],
+        "definition": [
+            "Jiddiy dasturiy komplekslarni ishlab chiqish metodologiyasi va texnologiyasi. Quyidagi prinsiplarga asoslangan: dasturlash yuqoridan pastga tomon amalga oshirilishi kerak; butun loyiha bitta kirish va bitta chiqish bo\u2018lgan modullarga bo\u2018linishi kerak (modulning optimal o\u2018lchami \u2013 displey ekranidagi satrlar soni); dastur va algoritm logikasi faqat uchta asosiy strukturaga \u2013 ketma-ket bajarish, tarmoqlanish va takrorlanishga yo\u2018l qo\u2018yishi kerak. Dasturning har qanday nuqtasiga boshqarishni topshirish operatoriga yo\u2018l qo\u2018yilmaydi, ishlab chiqish vaqtida hujjatlar dasturlash bilan bir vaqtda, dasturga sharhlar ko\u2018rinishida tuzilishi kerak, strukturaviy dasturlashning maqsadi \u2013 dasturlarning ishonchliligini oshirish, o\u2018zgartirish va qo\u2018llashni ta\u2019minlash, ishlab chiqishni osonlashtirish va tezlashtirishdir."
+        ]
+    },
+    {
+        "word": "Summator",
+        "type": [],
+        "definition": [
+            "Kompyuter protsessoridagi registr, uning yordamida sonlarni qo\u2018shish amali bajariladi. Neyron tarmoqlar tushunchasi. Summator \u2013 sinapslar orqali neyronlardan keladigan signallar jamlanadigan blok. Umumiy holda, sigallarni o\u2018zgartirishi va ularni yana sinapslar orqali summatorlarga yoki neyronlarga uzatish mumkin."
+        ]
+    },
+    {
+        "word": "Supervizor",
+        "type": [],
+        "definition": [
+            "Operatsion tizimda resurslardan foydalanishni muvofiqlashtiradigan va markaziy protsessor orqali operatsiyalarning bajarilishini ta\u2019minlaydigan dasturlar yoki dastur; operatsion tizimning, ma\u2019lumotlarni avtomatik qayta ishlash tizimida boshqa dasturlarning bajarilishini boshqarish uchun mo\u2018ljallangan qismi."
+        ]
+    },
+    {
+        "word": "Sandy Bridge",
+        "type": [],
+        "definition": [
+            "Intel firmasi tomonidan ishlab chiqilgan markaziy protsessorlar mikroarxitekturasi. 32 razryadli texnologik jarayonga asoslangan, o\u2018rnatilgan videotezlatkichni ichiga oladi."
+        ]
+    },
+    {
+        "word": "S-Bus",
+        "type": [],
+        "definition": [
+            "Yuqori tezlikli SPARC protsessorlari uchun mo\u2018ljallangan yuqori tezlikli shina. 1989 yilda Sun Microsystems tomonidan taqdim qilingan. Hozirgi kunda S-Bus dan foydalanilmaydi."
+        ]
+    },
+    {
+        "word": "Sozlovchi",
+        "type": [],
+        "definition": [
+            "Ishlab chiqiladigan dasturni sozlash jarayonini soddalashtiradigan dastur. Dasturning qadamlab bajarilish, nazorat nuqtalarini o\u2018rnatish, trassalashtirish, o\u2018zgaruvchilar qiymatlarini ko\u2018rib chiqish imkoniyatini beradi."
+        ]
+    },
+    {
+        "word": "Sikl parametri",
+        "type": [],
+        "definition": [
+            "Sikl bajarilishini boshqaradigan o\u2018zgaruvchi. Dasturning har bir siklida o\u2018z qiymatini sikl jismining har bir o\u2018tishida o\u2018zgartiradigan parametr bor. Agar bunday parametr bo\u2018lmasa, sikl noto\u2018g\u2018ri tuzilgan va sikllanish imkoniyati yuzaga keladi. Dasturlashda ba\u2019zan \u00ababadiy\u00bb sikllar quriladi, ulardan chiqib ketish maxsus komandalar orqali amalga oshiriladi. Bunday sikllarda sikl parametrlari bo\u2018lmaydi, bu esa, dasturlash uslubini buzadi."
+        ]
+    },
+    {
+        "word": "Saralash",
+        "type": [],
+        "definition": [
+            "Qandaydir ko\u2018plikdagi kerakli elementni izlab topish usuli. To\u2018la saralash metodlari real vazifalarda juda ko\u2018p mashina vaqtini talab qiladi, shuning uchun, imkoni bo\u2018lsa, yo\u2018naltirilgan izlab topish metodlaridan foydalanish maqsadga muvofiq."
+        ]
+    },
+    {
+        "word": "Simvollarni optik aniqlash dasturi",
+        "type": [],
+        "definition": [
+            "Simvolning (mashinada yoki qo\u2018lda yozilgan) grafik obrazini kompyuterdagi simvol kodi bilan muvofiqlikka keltiradigan dastur. Odatda, skanerlar bilan birga yoki pero yordamida kiritilgan matnni qayta ishlashda foydalaniladi. Hozirgi vaqtda mashinada yozilgan matnni talqin qilish aniqligi 95%dan ko\u2018proq."
+        ]
+    },
+    {
+        "word": "Simsiz erkin foydalanish protokoli",
+        "type": [],
+        "definition": [
+            "Barcha turdagi mobil radioaloqa tizimlarini, portativ kompyuterlarni Internet tarmog\u2018iga ulash uchun belgilangan spetsifikatsiyalar to\u2018plami. Mobil qurilmalarda WWW resurslarini qarab chiqish imkonini beradigan ilovalarni yaratish uchun qilinadi. Bu protokol negizida WAP tarmoqlar quriladi. WAP protokoli 1997 yilda kompaniyalar guruhi (200 dan ortiq, shu jumladan, Motorola, Nokia, Ericsson va boshq.) tomonidan ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Sikl",
+        "type": [],
+        "definition": [
+            "Algoritmning qismini bajarish sxemasi, bunda ba\u2019zi harakatlar takrorlanadi. Grafdagi, uzellarning biridan boshlanadigan va unda tugaydigan yo\u2018l. Protseduraga yo\u2018naltirilgan dasturlash tilidagi (\/) operator, dastur qismi qanchadir marta bajarilishini ta\u2019minlaydi. Deklarativ turdagi dasturlash tillarida siklik konstruksiyalar rekursiv tuzilishlar yordamida bajariladi."
+        ]
+    },
+    {
+        "word": "Sichqoncha tugmachasini bosish",
+        "type": [],
+        "definition": [
+            "Kompyuterga tegishli komandani berish uchun sichqoncha tugmachasini bosish."
+        ]
+    },
+    {
+        "word": "Si til",
+        "type": [],
+        "definition": [
+            "Umumiy maqsadlardagi dasturlash tili, o\u2018zining samaradorligi, tejamliligi va ko\u2018chirib bo\u2018lishligi bilan ma\u2019lum. Bu, dasturiy mahsulotning deyarli har qanday turini ishlab chiqishning yaxshi sifatini ta\u2019minlaydi. Si tilidan instrumental til sifatida foydalanish, tez va ixcham dasturlar olish imkonini beradi."
+        ]
+    },
+    {
+        "word": "Strukturalangan so\u02bbrovlar tili",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar bazalari bilan ishlash uchun mo\u2018ljallangan yuqori daraja tili. Ma\u2019lumotlarni o\u2018zgartirish, so\u2018rovlar tuzish va bajarish, hisobotlar ko\u2018rinishida natijalarni chiqarish imkonini beradi. IBM firmasi tomonidan XX asrning 80 - yillari boshida ishlab chiqilgan. Hozirgi vaqtda relyatsion turdagi ma\u2019lumotlar bazalarini boshqarish tizimlari uchun umumqabul qilingan standart hisoblanadi."
+        ]
+    },
+    {
+        "word": "Soddalashtirilgan modellash tili",
+        "type": [],
+        "definition": [
+            "Dasturiy ta\u2019minot ishlab chiqish sohasida, obyektlarni modellashtirish uchun grafik tasvirlash tili. UML ko\u2018p sohalarda foydalanish uchun mo\u2018ljallangan til hisoblanadi, bu UML model deb ataluvchi, tizimning abstrakt modelining grafik ko\u2018rinishini tasvirlovchi ochiq standartdir. UML dasturiy tizimda aniqlik kiritish, tasvirlash, loyihalash va hujjatlashtirish uchun yaratilgan. UML dasturiy ta\u2019minotda foydalanish bilan cheklanib qolmaydi. Uni shu kabi biznes-jarayonlarni modellashtirish, tizimli loyihalash va tashkilotlar strukturasini tasvirlashda qo\u2018llash mumkin. UML dasturiy ta\u2019minot dasturchilariga umumiy tushunchalarni (klass, komponent, umumlashtirish, birlashtirish va o\u2018zini tutish kabi) tasvirlashni grafik izohlashda kelishuvga erishish hamda loyihalash va arxitekturada ko\u2018proq e\u2019tibor qaratishga imkon beradi."
+        ]
+    }
+]

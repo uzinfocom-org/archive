@@ -1,0 +1,30 @@
+[
+    {
+        "word": "Lug\u02bbat",
+        "type": [],
+        "definition": [
+            "Har bir elementi ikki qismdan iborat, ma\u2019lumotlarning uyushtirilgan jami. Birinchi qismda ikkinchi qismda bo\u2018lganning qisqacha nomi. Birinchi qismda ko\u2018rsatilgan nom bo\u2018yicha bajariladigan ma\u2019lumotlar qayta ishlanishini tezlashtirish uchun mo\u2018ljallangan, zarur bo\u2018lganda ikkinchi qism qo\u2018shiladi.\n"
+        ]
+    },
+    {
+        "word": "Linux",
+        "type": [],
+        "definition": [
+            "Shaxsiy kompyuterlarga mos keladigan RS va ko\u2018plab boshqa platformalarda Unix operatsion tizimini erkin amalga oshirish. Nomi tizim yadrosi ustida ish olib borgan fin dasturchisi Linus Torvalds nomidan kelib chiqqan. Birinchi versiyasi 1994 yilda paydo bo\u2018lgan. Linux ning 64 razryadli versiyalari bor."
+        ]
+    },
+    {
+        "word": "LynxOS",
+        "type": [],
+        "definition": [
+            "O\u2018rnatiladigan tizimlar uchun ishlab chiqilgan, POSIX standartlari bilan, so\u2018nggi vaqtda Linux operatsion tizimi bilan moslashtirilgan, Unix ga o\u2018xshash real vaqt operatsion tizimi."
+        ]
+    },
+    {
+        "word": "LISP dasturlash tili",
+        "type": [],
+        "definition": [
+            "Yuqori darajali universal dasturlash tili. LISP tili funksional tipdagi deklarativ tillar qatoriga kiradi, ro\u2018yxatlar ko\u2018rinishida taqdim etilgan belgili ma\u2019lumotlarni qayta ishlash uchun mo\u2018ljallangan. Funksiyalar va rekursiv tuzilishlar tilning asosi hisoblanadi."
+        ]
+    }
+]

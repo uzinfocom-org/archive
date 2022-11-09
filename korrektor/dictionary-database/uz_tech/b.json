@@ -1,0 +1,219 @@
+[
+    {
+        "word": "Bilimlarni avtoformallashtirish",
+        "type": [],
+        "definition": [
+            "Mutaxassis bilimlarini kompyuter uchun dastur ko\u2018rinishida formallashtirish jarayoni. Bilimlarning avtomatlashtirilishini ta\u2019minlash uchun maxsus metodlar va vositalar (masalan, shaxsiy kompyuterlar) talab qilinadi."
+        ]
+    },
+    {
+        "word": "Bebbejning analitik mashinasi",
+        "type": [],
+        "definition": [
+            "Ch.Bebbej tomonidan ishlab chiqilgan universal mexanik hisoblash qurilmasi. Kompyuterning pro-obrazi. Amalda hozirgi kompyuterlardagi qurilmalar: xotira, arifmetik qurilma, boshqarish qurilmasi, kiritish\/chiqarish qurilmalariga ega bo\u2018lgan, mashina dastur bilan boshqarilgan. Loyiha 1834 yilda ishlab chiqilgan, lekin to\u2018la qurilmagan."
+        ]
+    },
+    {
+        "word": "Bilimlar bazasi",
+        "type": [],
+        "definition": [
+            "Muayyan predmet soha to\u2018g\u2018risida natijaga olib keladigan xulosalar tizimi, taxminlar, faktlar ko\u2018rinishidagi bilimlarni ichiga oladigan maxsus ma\u2019lumotlar bazasi. Bilimlar bazasi ekspertlarning bilimlariga asoslanadi."
+        ]
+    },
+    {
+        "word": "Bayt",
+        "type": [],
+        "definition": [
+            "Xotiraning eng kichik adreslanadigan birligi (birgalikda qayta ishlanadigan bitlar ketma-ketligi). 8 ta ikkilik razryad (bit ni) o\u2018zida saqlaydi. Xotira hajmining o\u2018lchov birligi hisoblanadi."
+        ]
+    },
+    {
+        "word": "Banner",
+        "type": [],
+        "definition": [
+            "Web-sahifada joylashtiriladigan, reklama qilinadigan saqifaga giperhavola bo\u2018lgan grafik fayl. Shuningdek, serverga murojaat qilinganda tabrik satrini ham belgilaydi."
+        ]
+    },
+    {
+        "word": "Biblioteka",
+        "type": [],
+        "definition": [
+            "Dasturlash tillarida klaviaturali, foydalanish tizimlarida cho\u2018ntak kompyuteri. Protseduralar, kichik dasturlar, funksiyalar, makrotavsiflar saqlanadigan fayllar jami.  Izoh \u2013 Tizim yoki til translyatori bilan birga yetkazib beriladigan standart bibliotekalar va foydalanuvchilarning o\u2018zlari tomonidan yaratiladigan foydalanish bibliotekalari farqlanadi. Masalan, Turbo C tilida kataloglar va fayllar bilan ishlash uchun funksiyalar taqdim etilgan \u00abdir.h\u00bb standart biblioteka bor."
+        ]
+    },
+    {
+        "word": "Bit",
+        "type": [],
+        "definition": [
+            "Ikkilik sanoq tizimidagi, 0 va 1 qiymatini olishi mumkin bo\u2018lgan eng kichik axborot birligi; karrali birliklari: kb (kbit) \u2013 kilobit (10\u00b3 bit), Mb (Mbit) megabit (10\u00b3 bit) va boshqalar."
+        ]
+    },
+    {
+        "word": "Blok",
+        "type": [],
+        "definition": [
+            "1 Funksional bog\u2018langan elementlar va qurilmalar, masalan, ta\u2019minot bloki.\r\n 2 Dasturning, ma\u2019lum bir tugallangan funksiyani belgilaydigan qismi. Masalan, Pascal tilida blok \u2013 bu dastur, protsedura, funksiyaning asosiy qismidir.\r\n 3 Kompyuter tarmog\u2018ida uzatish uchun mo\u2018ljallangan ma\u2019lumotlar to\u2018plami."
+        ]
+    },
+    {
+        "word": "Bloknotli kompyuter",
+        "type": [],
+        "definition": [
+            "Statsionar shaxsiy kompyuterning keng funksional imkoniyatlariga ega bo\u2018lgan portativ kompyuter. So\u2018nggi modellari Pentium 4 protsessoriga, 256 Mbyte gacha operativ xotiraga, 40 Hbyte gacha qattiq diskka, ichiga o\u2018rnatilgan DVD, kompakt-disk va faks-modemga ega. Kompyuterning ba\u2019zi qurilmalari statsionar qurilmalardan farq qiladi: displey odatda, suyuq kristalli, monoxrom yoki rangli (passiv yoki aktiv matritsali); protsessor unumliligi bo\u2018yicha statsionar protsessorlardan farq qilmaydi, biroq energiya iste\u2019moli kam; klaviaturada klavi-shalar soni kam. O\u2018zining ta\u2019minot manbai yordamida ishlash vaqti 2 soatdan 8 soatgacha. Bloknotli kompyuterlarda statsionar qurilmalar \u2013 display, klaviaturadan foydalanilishi mumkin. Og\u2018irligi 1,5 kg dan 3-4 kg gacha, kompyuter quvvatiga bog\u2018liq. Bunday kompyuterlardan yo\u2018lda, xizmat safarida, ilmiy, jurnalistik, pedagogik va boshqa faoliyatda foydalanish mumkin. O\u2018lchamlari yanada kichikroq, og\u2018irligi yanada kamroq bo\u2018lgan subbloknotli kompyuterlar chiqarilmoqda."
+        ]
+    },
+    {
+        "word": "Blok sxema",
+        "type": [],
+        "definition": [
+            "1 Algoritmning grafik tarzda taqdim qilinishi. Algoritm ko\u2018rgazmaliligini oshiradi. Blok-sxemalar tuzish ayniqsa, boshlovchi dasturchilar uchun foydali. 2.Tizim strukturasi yoki texnik vositalar tarkibining grafik tarzda taqdim qilinishi."
+        ]
+    },
+    {
+        "word": "Bod",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar uzatish apparaturasida signalni modu-lyatsiyalash tezligini o\u2018lchash birligi. Sekundiga bir necha bitga teng. Telegraf apparat ixtirochisi bo\u2018lgan fransuz muhandisi E.Bodo sharafiga atalgan."
+        ]
+    },
+    {
+        "word": "Brauzer",
+        "type": [],
+        "definition": [
+            "Mijozning server bilan birga ishlashini ta\u2019minlay-digan dasturiy kompleks. Internet tarmog\u2018ining WWW texnologiyasida brauzer axborot sahifalarini ko\u2018rib chiqish, ma\u2019lumotlar olish imkonini beradi. Ba\u2019zi bir brauzerlar o\u2018z ichiga Java tili vositalarini oladi."
+        ]
+    },
+    {
+        "word": "Bul algebrasi",
+        "type": [],
+        "definition": [
+            "Matematik mantiqning, mulohazalar va ular ustida bo\u2018ladigan amallarni o\u2018rganadigan bo\u2018limi. Mantiq algebrasining xususiy holi. Mulohaza \u2013 bu, har qanday tasdiq; chin yoki yolg\u2018on bo\u2018lishi mumkin. Mulohazalar ustida muayyan amallar bajariladi: \u00abva\u00bb & bilan belgilanadi, konyunksiya deb ataladi; \u00abyoki\u00bb V bilan belgilanadi, dizyunksiya deb ataladi, \u00abagar ..., u holda\u00bb > bilan belgilanadi, implikatsiya deb ataladi; \u00abekvivalentlik\u00bb \u00abyo\u2018q\u00bb bilan belgilanadi, inkor deb ataladi. Aniqlanish (tavsif) sohasi mulohaza, qiymatlar sohasi 1 deb belgilanadigan haqiqat (chin) yoki 0 deb belgilanadigan yolg\u2018on bo\u2018lgan funksiya tushunchasi kiritilgan. Funksiyalar, ko\u2018pincha, haqiqiylik jadvallari deb ataladigan jadvallar bilan berilishi mumkin."
+        ]
+    },
+    {
+        "word": "Bufer",
+        "type": [],
+        "definition": [
+            "Qurilmalar o\u2018rtasida ma\u2019lumotlar almashinishda taktlash yoki tezliklar farqini kompensatsiyalash uchun foydalaniladigan, ma\u2019lumotlar vaqtinchalik saqlanadigan soha. Buferlashdan, shuningdek, titrashlarni bostirish uchun ham foydalaniladi. Bufer sifatida ko\u2018pincha, markaziy protsessor va periferik qurilmalar o\u2018rtasida uzatiladigan ma\u2019lumotlarni vaqtinchalik saqlash uchun rezervlangan qo\u2018shimcha xotiradan foydalaniladi."
+        ]
+    },
+    {
+        "word": "Buzilishgacha ishlash vaqti",
+        "type": [],
+        "definition": [
+            "Hisoblash tizimi yoki qurilmaning ikkita texnik ketma-ket buzilishlari orasidagi o\u2018rtacha vaqt tizimning ishonchlilik ko\u2018rsatkichlaridan biri."
+        ]
+    },
+    {
+        "word": "Butunjahon \u00abo\u02bbrgimchak to\u02bbri\u00bb (WWW)",
+        "type": [],
+        "definition": [
+            "Internet tarmog\u2018i qo\u2018llab-quvvatlaydigan ko\u2018plab texnologiyalardan biri. Gipermatnli hujjatlar izlab topilishini ta\u2019minlaydi. WWW ning asosini Internet ga kiradigan, gipermatnning adreslangan sahifalari saqlanadigan kompyuter, server; HTML, VRML, Java kabi maxsus tillar yordamida tuzilgan gipermatn; brauzer, foydalanuvchi\/mijozning server va gipermatn bo\u2018lgan kompyuterlar bilan birgalikda ishlashini ta\u2019minlaydigan dastur tashkil qiladi."
+        ]
+    },
+    {
+        "word": "Butunga bo\u02bblish",
+        "type": [],
+        "definition": [
+            "Arifmetik amal. Uning natijasi \u2013 xususiyning butun qismi, kasr qismi tashlab yuboriladi. Deyarli barcha dasturlash tillarida bor. A div b yozuv bilan, ba\u2019zi tillarda a\/b qilib belgilanadi"
+        ]
+    },
+    {
+        "word": "Bo\u02bbyash",
+        "type": [],
+        "definition": [
+            "Grafik ekranning ba\u2019zi sohasini rang yoki standart ornament bilan to\u2018ldirish protsedurasi. Bo\u2018yash gra-fik redaktorlarda yoki amaliy dasturlarda dasturlash tillarining tegishli protseduralari bilan amalga oshirilishi mumkin."
+        ]
+    },
+    {
+        "word": "Belgi",
+        "type": [],
+        "definition": [
+            "Til alfavitining elementi."
+        ]
+    },
+    {
+        "word": "Bilim",
+        "type": [],
+        "definition": [
+            "Tizimlashtirilgan va predmetlar, jarayonlar, hodisalar to\u2018g\u2018risida aniq tasavvur beradigan obyektiv va aniq faktlar, metodlar, usullar hamda texnologiyalar jami. Intuitiv tushuncha."
+        ]
+    },
+    {
+        "word": "Bajaruvchi",
+        "type": [],
+        "definition": [
+            "Algoritm yozilgan tilni tushunadigan, bu algoritmni juda aniq bajara oladigan odam va\/ yoki avtomatik qurilma. Kompyuter axborot algoritmlarini universal bajaruvchidir. Bajaruvchi komandalar haqiqatda bajarilayotganda real bo\u2018lishi, komandalar modellashtirilayotganda shartli bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Boshlang\u02bbich kod",
+        "type": [],
+        "definition": [
+            "Hisoblash tizimida qabul qilingan kodda yozilgan dastur matni (odatda, fayl shaklida). Boshlang\u2018ich kod bajariladigan kodga butunlay, dastur kompilyator yordamida ishga tushirilgunga qadar translyatsiya qilinadi yoki interpretator yordamida darhol bajarilishi mumkin."
+        ]
+    },
+    {
+        "word": "Bir jinsli bo\u02bblmagan tarmoq",
+        "type": [],
+        "definition": [
+            "Turli topologiya fragmentlaridan va turli xil texnik vositalardan tuzilgan kompyuter tarmog\u2018i."
+        ]
+    },
+    {
+        "word": "Bir rangdagi tarmoq",
+        "type": [],
+        "definition": [
+            "Barcha kompyuterlar teng huquqli bo\u2018lgan, ajratilgan server talab qilinmaydigan kompyuter tarmog\u2018i."
+        ]
+    },
+    {
+        "word": "Bayroq",
+        "type": [],
+        "definition": [
+            "1 Operatsion tizimlarda, dasturlash tillarida ma\u2019lumotlarni qayta ishlash paytida foydalaniladigan, qiymatiga dasturning keyingi ishi bog\u2018liq bo\u2018lgan belgi.\r\n 2 Ma\u2019lumotlar uzatish tarmoqlarida kadrlarni ajratish uchun foydalaniladigan belgi."
+        ]
+    },
+    {
+        "word": "BASIC",
+        "type": [],
+        "definition": [
+            "Dastlabki eng oddiy dasturlash tillaridan biri. 1964 yilda ishlab chiqilgan mazkur dasturlash tili professional bo\u2018lmagan dasturchilarga mo\u2018ljallangan. BASIC tili konstruksiyasining tuzilishi oddiyligi, shuningdek, kompyuter bilan dialog rejimda ishlash imkoniyati mavjudligi bilan ajralib turadi."
+        ]
+    },
+    {
+        "word": "BeOS",
+        "type": [],
+        "definition": [
+            "Dastlab BeBox uchun bazaviy operatsion tizim sifatida ishlab chiqilgan operatsion tizim. Ko\u2018p oqimlilik, mikroyadrolik, ko\u2018p protsessorli arxitekturaning, 64 bitli jurnallashtiriladigan fayl tizimining qo\u2018llanilishi, juda qulay va oddiy foydalanuvchi interfeysi BeOS ning ajratib turadigan afzal jihatlaridir."
+        ]
+    },
+    {
+        "word": "Bosma plata",
+        "type": [],
+        "definition": [
+            "Dielektrik material (masalan, shisha tekstolit) dan qi-lingan plastina. Bu plastinada maxsus metodlar (masalan, kimyoviy usul bilan ishlov berish yoki elek-trokimyoviy cho\u2018ktirish) bilan, plastinada mah-kamlangan elektron qurilmalar (tranzistorlar, integral sxemalar) ni birlashtiradigan o\u2018tkazgichlar hosil qilinadi. Tizim platalari va kengayish platalari bosma platalar hisoblanadi."
+        ]
+    },
+    {
+        "word": "Boshlang\u02bbich shart",
+        "type": [],
+        "definition": [
+            "Haqiqatligi protsedura yoki sikl jismi bajarilishining boshlanishida tekshiriladigan shart. Bu, sikl yoki protsedura faqat shart chin bo\u2018lgan holdagina bajarilishini bildiradi."
+        ]
+    },
+    {
+        "word": "Bo\u02bblim",
+        "type": [],
+        "definition": [
+            "Dasturning maxsus ma\u2019noga ega bo\u2018lgan qismi. Masalan, Pascal tilida dasturiy blok umumiy ko\u2018rinishda belgilar, konstantalarni tavsiflash bo\u02bblimlaridan, ma\u2018lumotlar turlarini aniqlash, o\u2018zgaruvchilarni, protseduralar, funksiyalar, operatorlarni tavsiflash bo\u2018limlaridan tuzilgan."
+        ]
+    },
+    {
+        "word": "Boshqarish",
+        "type": [],
+        "definition": [
+            "Aniq bir maqsadni ta\u2019minlash uchun, obyektga ta\u2019sir ko\u2018rsatish jarayoni. Boshqarishda boshqariladigan obyekt; boshqarishni amalga oshiradigan blok; boshqarish obyektidan boshqaruvchi blokka kelib tushadigan, teskari aloqani amalga oshiradigan ma\u2019lumotlar; boshqarishning o\u2018zini ta\u2019minlaydigan signallar yoki ma\u2019lumotlar qatnashadi. Fan sifatida boshqarish bilan kibernetika shug\u2018ullanadi."
+        ]
+    }
+]

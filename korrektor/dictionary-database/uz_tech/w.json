@@ -1,0 +1,65 @@
+[
+    {
+        "word": "Web \u2012 brauzer",
+        "type": [],
+        "definition": [
+            "Web sahifalarni ko\u2018rish va tasvirlash uchun dastur. Gipermatnli hujjatlarni ko\u2018rish va Web resurslararo harakatlanish imkonini beradi. Web brauzer tarmoqdagi server yoki boshqa kompyuterlardan o\u2018zida gipermatn, audio va video fayllarni saqlovchi Web hujjatlarni so\u2018rashi va lokal kompyuterda ko\u2018rsatishi mumkin. Bugungi kunda eng ko\u2018p qo\u2018llaniladigan Web brauzerlar Microsoft Internet Explorer va Mozilla Firefox hisoblanadi."
+        ]
+    },
+    {
+        "word": "Web-server",
+        "type": [],
+        "definition": [
+            "Internet va Intranet tarmoqlaridan foydalanuvchilarga WWW sahifalaridan va xizmatlaridan foydalanish imkonini beradigan kompyuter. Kontekstga bog\u2018liq holda termin apparat qismini ham, dastur qismini ham ko\u2018zda tutishi mumkin."
+        ]
+    },
+    {
+        "word": "WHDI",
+        "type": [],
+        "definition": [
+            "Videooqimni simsiz uzatish raqamli standarti. Asosiy ishlab chiquvchi va chiplarni yetkazib beruvchi Isroilning Amimon firmasidir. Translyatsiya 5 HHz chastotada, 3 Gbyte\/s tezlikda olib boriladi. Standartning asosiy xususiyati \u2013 videoni kodlashning yagona texnologiyasi \u00abvideo-modem\u00bb dir, u tufayli yuqori darajada xalaqitdan himoyalanganlik, qabul qilish va uzatishda xatolardan xoli bo\u2018lishlik, binobarin, uzatiladigan tasvirning yuqori sifati ta\u2019minlanadi."
+        ]
+    },
+    {
+        "word": "Wi-Fi",
+        "type": [],
+        "definition": [
+            "Simsiz qurilmalar uchun IEEE 802.11b standartga mos keladigan protokol va uskunaning umumiy nomi. Wi-Fi simsiz lokal tarmoqlar yartaish va Internet ga yuqori tezlikda simsiz ulanishlarni tashkillashtirish uchun mo\u2018ljallangan."
+        ]
+    },
+    {
+        "word": "Win 32API",
+        "type": [],
+        "definition": [
+            "Windows 95\/NT operatsion tizimlarida ishlaydigan 32 razryadli ilovalarni yaratish uchun belgilangan amaliy dasturlash interfeysi. Ikki mingdan ortiq funksiya, makros, xabar, oldindan belgilangan konstantadan iborat to\u2018plamni o\u2018zida ifodalaydi. Dinamik komponovka bibliotekalari ko\u2018rinishida rasmiylashtirilgan."
+        ]
+    },
+    {
+        "word": "Windows",
+        "type": [],
+        "definition": [
+            "Microsoft korporatsiyasining ommaviy operatsion tizimlari va grafik qobiqlari turkumi. Fayllar bilan bajariladigan operatsiyalarda foydalaniladigan grafik interfeys \u2013 operatsion muhitni o\u2018zida ifodalaydi. Zamonaviy Windows tizimi belgilangan ehtiyojlarga ko\u2018ra, bir vaqtda ko\u2018rish va foydalanish mumkin bo\u2018lgan turli qog\u2018ozlar va ko\u2018plab papkalar joylashgan ish joyi ko\u2018rinishida tasavvur qilinadi. Bu tizimning birinchi versiyasi Windows 1.0 bozorga 1983 yilning noyabrida chiqarilgan."
+        ]
+    },
+    {
+        "word": "WINTEX-platforma",
+        "type": [],
+        "definition": [
+            "Intel firmasining protsessoriga va Windows operatsion tizimiga asoslangan kompyuter platformasi."
+        ]
+    },
+    {
+        "word": "Word",
+        "type": [],
+        "definition": [
+            "MS Office dasturiy mahsulotga ilova sifatida kiradigan matn redaktori. Windows operatsion tizimida ishlaydigan eng ommaviy matn protsessorlaridan biri."
+        ]
+    },
+    {
+        "word": "WYSIWYG printsipi",
+        "type": [],
+        "definition": [
+            "Displey ekranida teriladigan bilan printer bosadiganning to\u2018la mos kelish prinsipi. Noshirlik tizimlarida va matn redaktorlarida foydalaniladi. Inglizcha WYSIWYG \u2013 What You See Is What You Get \u2013 \u00abnimani ko\u2018rayotgan bo\u2018lsangiz, o\u2018sha narsani olasiz\u00bb."
+        ]
+    }
+]

@@ -1,0 +1,4529 @@
+[
+    {
+        "word": "E E",
+        "type": [
+            " [\/i:\/]"
+        ],
+        "definition": [
+            "E E"
+        ]
+    },
+    {
+        "word": "E-Mail",
+        "type": [
+            " [\/I;.me\u026al\/]"
+        ],
+        "definition": [
+            "Elektron Pochta"
+        ]
+    },
+    {
+        "word": "E.g.",
+        "type": [
+            " [\/i:d\u0292i:\/]"
+        ],
+        "definition": [
+            "Masalan"
+        ]
+    },
+    {
+        "word": "Each",
+        "type": [
+            " [\/I;t\u0283\/]"
+        ],
+        "definition": [
+            "Har Bir"
+        ]
+    },
+    {
+        "word": "Eager",
+        "type": [
+            " [\/i:.g\u0259r\/]"
+        ],
+        "definition": [
+            "Intiluvchan"
+        ]
+    },
+    {
+        "word": "Eagle",
+        "type": [
+            " [\/i:.gl\/]"
+        ],
+        "definition": [
+            "Burgut"
+        ]
+    },
+    {
+        "word": "Eagle-Eyed",
+        "type": [
+            " [\/i:.gl\u0329a\u026ad\/]"
+        ],
+        "definition": [
+            "O\u02bbtkir Ko\u02bbzli"
+        ]
+    },
+    {
+        "word": "Ear",
+        "type": [
+            " [\/\u026a\u0259r\/]"
+        ],
+        "definition": [
+            "Quloq"
+        ]
+    },
+    {
+        "word": "Ear-Drum",
+        "type": [
+            " [\/\u026a\u0259.dr\u028cm\/]"
+        ],
+        "definition": [
+            "Quloq Pardasi"
+        ]
+    },
+    {
+        "word": "Earl",
+        "type": [
+            " [\/\u025c:l\/]"
+        ],
+        "definition": [
+            "Graf"
+        ]
+    },
+    {
+        "word": "Early",
+        "type": [
+            " [\/\u025c:.li\/]"
+        ],
+        "definition": [
+            "Erta"
+        ]
+    },
+    {
+        "word": "Earn",
+        "type": [
+            " [\/\u025c:n\/]"
+        ],
+        "definition": [
+            "Ishlab Topmoq"
+        ]
+    },
+    {
+        "word": "Earnest",
+        "type": [
+            " [\/\u025c:.n\u026ast\/]"
+        ],
+        "definition": [
+            "Jiddiy"
+        ]
+    },
+    {
+        "word": "Earnings",
+        "type": [
+            " [\/\u025c:.n\u026a\u014bz\/]"
+        ],
+        "definition": [
+            "Ish Haqi"
+        ]
+    },
+    {
+        "word": "Earphones",
+        "type": [
+            " [\/i\u0259.f\u0259\u028anz\/]"
+        ],
+        "definition": [
+            "Quloqchin"
+        ]
+    },
+    {
+        "word": "Earring",
+        "type": [
+            " [\/\u026a\u0259.r\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Zirak"
+        ]
+    },
+    {
+        "word": "Earth",
+        "type": [
+            " [\/\u025c:\u03b8\/]"
+        ],
+        "definition": [
+            "Yer"
+        ]
+    },
+    {
+        "word": "Earthenware",
+        "type": [
+            " [\/\u025c:.\u03b8\u0259n.we\u0259r\/]"
+        ],
+        "definition": [
+            "Sopol Buyumlar"
+        ]
+    },
+    {
+        "word": "Earthquake",
+        "type": [
+            " [\/\u025c:\u03b8.kwe\u026ak\/]"
+        ],
+        "definition": [
+            "Zilzila"
+        ]
+    },
+    {
+        "word": "Earthworm",
+        "type": [
+            " [\/\u025c:\u03b8.w\u025c:m\/]"
+        ],
+        "definition": [
+            "Chuvalchang"
+        ]
+    },
+    {
+        "word": "Ease",
+        "type": [
+            " [\/i:z\/]"
+        ],
+        "definition": [
+            "Rohat"
+        ]
+    },
+    {
+        "word": "Easily",
+        "type": [
+            " [\/i:.z\u026a.li\/]"
+        ],
+        "definition": [
+            "Oson"
+        ]
+    },
+    {
+        "word": "East",
+        "type": [
+            " [\/i:st\/]"
+        ],
+        "definition": [
+            "Sharq"
+        ]
+    },
+    {
+        "word": "Easter",
+        "type": [
+            " [\/i:.st\u0259r\/]"
+        ],
+        "definition": [
+            "Pasxa"
+        ]
+    },
+    {
+        "word": "Eastern",
+        "type": [
+            " [\/i:.st\u0259n\/]"
+        ],
+        "definition": [
+            "Sharqiy"
+        ]
+    },
+    {
+        "word": "Easy",
+        "type": [
+            " [\/i:.zi\/]"
+        ],
+        "definition": [
+            "Oson"
+        ]
+    },
+    {
+        "word": "Eat",
+        "type": [
+            " [\/i:t\/]"
+        ],
+        "definition": [
+            "Yemoq"
+        ]
+    },
+    {
+        "word": "Eatable",
+        "type": [
+            " [\/i:.t\u0259.bl\u2006\u0329\/]"
+        ],
+        "definition": [
+            "Yesa Bo\u02bbladigan"
+        ]
+    },
+    {
+        "word": "Eaten",
+        "type": [
+            " [\/i:.t\u0259n\/]"
+        ],
+        "definition": [
+            "Yemoq"
+        ]
+    },
+    {
+        "word": "Eaves",
+        "type": [
+            " [\/i:vz\/]"
+        ],
+        "definition": [
+            "Karniz"
+        ]
+    },
+    {
+        "word": "Eavesdrop",
+        "type": [
+            " [\/i:vz.dr\u0252p\/]"
+        ],
+        "definition": [
+            "Gap Poylamoq"
+        ]
+    },
+    {
+        "word": "Ebb",
+        "type": [
+            " [\/eb\/]"
+        ],
+        "definition": [
+            "Pasaymoq"
+        ]
+    },
+    {
+        "word": "Ebony",
+        "type": [
+            " [\/eb.\u0259n.i\/]"
+        ],
+        "definition": [
+            "Obnus Daraxti"
+        ]
+    },
+    {
+        "word": "Eccentric",
+        "type": [
+            " [\/eksen.tr\u026ak\/]"
+        ],
+        "definition": [
+            "G\u02bbalati"
+        ]
+    },
+    {
+        "word": "Ecclesiastical",
+        "type": [
+            " [\/\u026akli:.zi\u00e6s.t\u026ak.\u0259l\/]"
+        ],
+        "definition": [
+            "Xristian Diniga Oid"
+        ]
+    },
+    {
+        "word": "Echo",
+        "type": [
+            " [ek.\u0259\u028a\/]"
+        ],
+        "definition": [
+            "Aks-Sado"
+        ]
+    },
+    {
+        "word": "Eclectic",
+        "type": [
+            " [\/\u026aklek.t\u026ak\/]"
+        ],
+        "definition": [
+            "Eklektik"
+        ]
+    },
+    {
+        "word": "Eclipse",
+        "type": [
+            " [\/\u026akl\u026aps\/]"
+        ],
+        "definition": [
+            "Quyosh Tutilishi"
+        ]
+    },
+    {
+        "word": "Ecology",
+        "type": [
+            " [\/\u026ak\u0252l.\u0259.d\u0292i\/]"
+        ],
+        "definition": [
+            "Ekologiya"
+        ]
+    },
+    {
+        "word": "Economic",
+        "type": [
+            " [\/i:.k\u0259n\u0252m.\u026ak\/]"
+        ],
+        "definition": [
+            "Iqtisodiy"
+        ]
+    },
+    {
+        "word": "Economical",
+        "type": [
+            " [\/i:.k\u0259n\u0252m.\u026a.kw\u0259l\/]"
+        ],
+        "definition": [
+            "Tejamkor"
+        ]
+    },
+    {
+        "word": "Economics",
+        "type": [
+            " [\/i:.k\u0259n\u0252m.\u026aks\/]"
+        ],
+        "definition": [
+            "Iqtisodiyot"
+        ]
+    },
+    {
+        "word": "Economist",
+        "type": [
+            " [\/\u026ak\u0252n.\u0259.m\u026ast\/]"
+        ],
+        "definition": [
+            "Iqtisodchi"
+        ]
+    },
+    {
+        "word": "Economize",
+        "type": [
+            " [\/\u026ak\u0252n.\u0259.ma\u026az\/]"
+        ],
+        "definition": [
+            "Tejamoq"
+        ]
+    },
+    {
+        "word": "Economy",
+        "type": [
+            " [\/\u026ak\u0252n.\u0259.mi\/]"
+        ],
+        "definition": [
+            "Iqtisod"
+        ]
+    },
+    {
+        "word": "Ecosystem",
+        "type": [
+            " [\/i:.k\u0259\u028as\u026as.t\u0259m\/]"
+        ],
+        "definition": [
+            "Ekosistema"
+        ]
+    },
+    {
+        "word": "Ecstasy",
+        "type": [
+            " [\/ek.st\u0259.si\/]"
+        ],
+        "definition": [
+            "Quvonch"
+        ]
+    },
+    {
+        "word": "Eczema",
+        "type": [
+            " [\/ek.s\u026a.m\u0259\/]"
+        ],
+        "definition": [
+            "Ekzema"
+        ]
+    },
+    {
+        "word": "Eddy",
+        "type": [
+            " [\/ed.i\/]"
+        ],
+        "definition": [
+            "Aylanma Harakat"
+        ]
+    },
+    {
+        "word": "Edge",
+        "type": [
+            " [\/ed\u0292\/]"
+        ],
+        "definition": [
+            "Chegara"
+        ]
+    },
+    {
+        "word": "Edging",
+        "type": [
+            " [\/ed\u0292.\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Hoshiya"
+        ]
+    },
+    {
+        "word": "Edible",
+        "type": [
+            " [\/ed.\u026a.bl\u2006\u0329\/]"
+        ],
+        "definition": [
+            "Yesa Bo\u02bbladigan"
+        ]
+    },
+    {
+        "word": "Edifice",
+        "type": [
+            " [\/ed.\u026a.f\u026as\/]"
+        ],
+        "definition": [
+            "Bino"
+        ]
+    },
+    {
+        "word": "Edit",
+        "type": [
+            " [\/ed.\u026at\/]"
+        ],
+        "definition": [
+            "Tahrir Qilmoq"
+        ]
+    },
+    {
+        "word": "Edition",
+        "type": [
+            " [\/\u026ad\u026a\u0283.\u0259n\/]"
+        ],
+        "definition": [
+            "Nashr"
+        ]
+    },
+    {
+        "word": "Editor",
+        "type": [
+            " [\/ed.\u026a.t\u0259r\/]"
+        ],
+        "definition": [
+            "Muharrir"
+        ]
+    },
+    {
+        "word": "Editorial",
+        "type": [
+            " [\/ed.\u026at\u0254.ri.\u0259l\/]"
+        ],
+        "definition": [
+            "Nashriyotga Oid"
+        ]
+    },
+    {
+        "word": "Educate",
+        "type": [
+            " [\/ed.j\u028a.ke\u026at\/]"
+        ],
+        "definition": [
+            "Talim Bermoq"
+        ]
+    },
+    {
+        "word": "Education",
+        "type": [
+            " [\/ed.j\u028ake\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Talim"
+        ]
+    },
+    {
+        "word": "Eel",
+        "type": [
+            " [\/i:l\/]"
+        ],
+        "definition": [
+            "Ilonbaliq"
+        ]
+    },
+    {
+        "word": "Eerie",
+        "type": [
+            " [\/\u026a\u0259.ri\/]"
+        ],
+        "definition": [
+            "Dahshatli"
+        ]
+    },
+    {
+        "word": "Effect",
+        "type": [
+            " [\/\u026afekt\/]"
+        ],
+        "definition": [
+            "Tasir"
+        ]
+    },
+    {
+        "word": "Effective",
+        "type": [
+            " [\/\u026afek.t\u026av\/]"
+        ],
+        "definition": [
+            "Tasirli"
+        ]
+    },
+    {
+        "word": "Effeminate",
+        "type": [
+            " [\/\u026afem.\u026a.n\u0259t\/]"
+        ],
+        "definition": [
+            "Xotinchalish"
+        ]
+    },
+    {
+        "word": "Effervesce",
+        "type": [
+            " [\/ef.\u0259ves\/]"
+        ],
+        "definition": [
+            "Ko\u02bbpirmoq"
+        ]
+    },
+    {
+        "word": "Efficiency",
+        "type": [
+            " [\/\u026af\u026a\u0283.\u0259nt.si\/]"
+        ],
+        "definition": [
+            "Samaradorlik"
+        ]
+    },
+    {
+        "word": "Efficient",
+        "type": [
+            " [\/\u026af\u026a\u0283.\u0259nt\/]"
+        ],
+        "definition": [
+            "Samarali"
+        ]
+    },
+    {
+        "word": "Effluent",
+        "type": [
+            " [\/ef.lu.\u0259nt\/]"
+        ],
+        "definition": [
+            "Iflos Suvlarni Oqizish"
+        ]
+    },
+    {
+        "word": "Effort",
+        "type": [
+            " [\/ef.\u0259t\/]"
+        ],
+        "definition": [
+            "Harakat Qilish"
+        ]
+    },
+    {
+        "word": "Effortless",
+        "type": [
+            " [\/ef.\u0259t.l\u0259s\/]"
+        ],
+        "definition": [
+            "Qiyinchiliksiz"
+        ]
+    },
+    {
+        "word": "Effrontery",
+        "type": [
+            " [\/\u026afr\u028cn.t\u0259r.i\/]"
+        ],
+        "definition": [
+            "Bezbetlik"
+        ]
+    },
+    {
+        "word": "Effusive",
+        "type": [
+            " [\/\u026afju:.s\u026av\/]"
+        ],
+        "definition": [
+            "O\u02bbzini Tiya Olmaydigan"
+        ]
+    },
+    {
+        "word": "Egg",
+        "type": [
+            " [\/eg\/]"
+        ],
+        "definition": [
+            "Tuxum"
+        ]
+    },
+    {
+        "word": "Egg-Plant",
+        "type": [
+            " [\/eg.pl\u0251:nt\/]"
+        ],
+        "definition": [
+            "Baqlajon"
+        ]
+    },
+    {
+        "word": "Ego",
+        "type": [
+            " [\/i:.g\u0259\u028a\/]"
+        ],
+        "definition": [
+            "O\u02bbzini Sevmoq"
+        ]
+    },
+    {
+        "word": "Egoism",
+        "type": [
+            " [\/i:.g\u0259\u028a.\u026a.z\u0259m\/]"
+        ],
+        "definition": [
+            "Xudbinlik"
+        ]
+    },
+    {
+        "word": "Egotism",
+        "type": [
+            " [\/i:.g\u0259\u028a.t\u026a.z\u0259m\/]"
+        ],
+        "definition": [
+            "Dimog\u02bbdorlik"
+        ]
+    },
+    {
+        "word": "Eight",
+        "type": [
+            " [\/e\u026at\/]"
+        ],
+        "definition": [
+            "Sakkiz"
+        ]
+    },
+    {
+        "word": "Eighteen",
+        "type": [
+            " [\/e\u026ati:n\/]"
+        ],
+        "definition": [
+            "O\u02bbn Sakkiz"
+        ]
+    },
+    {
+        "word": "Eighth",
+        "type": [
+            " [\/e\u026at\u03b8\/]"
+        ],
+        "definition": [
+            "Sakkizinchi"
+        ]
+    },
+    {
+        "word": "Eighty",
+        "type": [
+            " [\/e\u026a.ti\/]"
+        ],
+        "definition": [
+            "Sakson"
+        ]
+    },
+    {
+        "word": "Either",
+        "type": [
+            " [\/a\u026a.\u00f0\u0259r\/]"
+        ],
+        "definition": [
+            "Ham"
+        ]
+    },
+    {
+        "word": "Ejaculate",
+        "type": [
+            " [\/\u026ad\u0292\u00e6k.j\u028a.le\u026at\/]"
+        ],
+        "definition": [
+            "Baqirmoq"
+        ]
+    },
+    {
+        "word": "Eject",
+        "type": [
+            " [\/\u026ad\u0292ekt\/]"
+        ],
+        "definition": [
+            "Chiqarib Yubormoq"
+        ]
+    },
+    {
+        "word": "Elaborate",
+        "type": [
+            " [\/\u026al\u00e6b.\u0259r.\u0259t\/]"
+        ],
+        "definition": [
+            "Puxta Qilingan"
+        ]
+    },
+    {
+        "word": "Elapse",
+        "type": [
+            " [\/\u026al\u00e6ps\/]"
+        ],
+        "definition": [
+            "O\u02bbtmoq"
+        ]
+    },
+    {
+        "word": "Elastic",
+        "type": [
+            " [\/\u026al\u00e6s.t\u026ak\/]"
+        ],
+        "definition": [
+            "Elastik"
+        ]
+    },
+    {
+        "word": "Elasticity",
+        "type": [
+            " [\/\u026al.\u00e6st\u026as.\u026a.ti\/]"
+        ],
+        "definition": [
+            "Egiluvchanlik"
+        ]
+    },
+    {
+        "word": "Elated",
+        "type": [
+            " [\/\u026ale\u026a.t\u026ad\/]"
+        ],
+        "definition": [
+            "Quvnoq"
+        ]
+    },
+    {
+        "word": "Elbow",
+        "type": [
+            " [\/el.b\u0259\u028a\/]"
+        ],
+        "definition": [
+            "Tirsak"
+        ]
+    },
+    {
+        "word": "Elder",
+        "type": [
+            " [\/el.d\u0259r\/]"
+        ],
+        "definition": [
+            "Yoshi Katta"
+        ]
+    },
+    {
+        "word": "Elderly",
+        "type": [
+            " [\/el.d\u0259l.i\/]"
+        ],
+        "definition": [
+            "Keksa"
+        ]
+    },
+    {
+        "word": "Eldest",
+        "type": [
+            " [\/el.d\u026ast\/]"
+        ],
+        "definition": [
+            "To\u02bbng\u02bbich"
+        ]
+    },
+    {
+        "word": "Elect",
+        "type": [
+            " [\/\u026alekt\/]"
+        ],
+        "definition": [
+            "Saylamoq"
+        ]
+    },
+    {
+        "word": "Election",
+        "type": [
+            " [\/\u026alek.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Saylov"
+        ]
+    },
+    {
+        "word": "Electric",
+        "type": [
+            " [\/\u026alek.tr\u026ak\/]"
+        ],
+        "definition": [
+            "Elektrli"
+        ]
+    },
+    {
+        "word": "Electrical",
+        "type": [
+            " [\/\u026alek.tr\u026a.k\u0259l\/]"
+        ],
+        "definition": [
+            "Elektrga Oid"
+        ]
+    },
+    {
+        "word": "Electrician",
+        "type": [
+            " [\/\u026al.ektr\u026a\u0283.\u0259n\/]"
+        ],
+        "definition": [
+            "Elektrik"
+        ]
+    },
+    {
+        "word": "Electricity",
+        "type": [
+            " [\/\u026alektr\u026as.\u026a.ti\/]"
+        ],
+        "definition": [
+            "Elektr"
+        ]
+    },
+    {
+        "word": "Electrocute",
+        "type": [
+            " [\/\u026alek.tr\u0259.kju:t\/]"
+        ],
+        "definition": [
+            "O\u02bbldirmoq"
+        ]
+    },
+    {
+        "word": "Electrode",
+        "type": [
+            " [\/\u026alek.tr\u0259\u028ad\/]"
+        ],
+        "definition": [
+            "Elektrod"
+        ]
+    },
+    {
+        "word": "Electron",
+        "type": [
+            " [\/\u026alek.tr\u0252n\/]"
+        ],
+        "definition": [
+            "Elektron"
+        ]
+    },
+    {
+        "word": "Electronic",
+        "type": [
+            " [\/\u026alektr\u0252n.\u026ak\/]"
+        ],
+        "definition": [
+            "Elektronik"
+        ]
+    },
+    {
+        "word": "Electronics",
+        "type": [
+            " [\/\u026alektr\u0252n.\u026aks\/]"
+        ],
+        "definition": [
+            "Elektronika"
+        ]
+    },
+    {
+        "word": "Elegant",
+        "type": [
+            " [\/el.\u026a.g\u0259nt\/]"
+        ],
+        "definition": [
+            "Nafis"
+        ]
+    },
+    {
+        "word": "Element",
+        "type": [
+            " [\/el.\u026a.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Element"
+        ]
+    },
+    {
+        "word": "Elementary",
+        "type": [
+            " [\/el.\u026amen.t\u0259r.i\/]"
+        ],
+        "definition": [
+            "Elementar"
+        ]
+    },
+    {
+        "word": "Elephant",
+        "type": [
+            " [\/el.\u026a.f\u0259nt\/]"
+        ],
+        "definition": [
+            "Fil"
+        ]
+    },
+    {
+        "word": "Elevate",
+        "type": [
+            " [\/el.\u026a.ve\u026at\/]"
+        ],
+        "definition": [
+            "Ko\u02bbtarmoq"
+        ]
+    },
+    {
+        "word": "Elevation",
+        "type": [
+            " [\/el.\u026ave\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Balandlik"
+        ]
+    },
+    {
+        "word": "Elevator",
+        "type": [
+            " [\/el.\u026a.ve\u026a.t\u0259r\/]"
+        ],
+        "definition": [
+            "Lift"
+        ]
+    },
+    {
+        "word": "Eleven",
+        "type": [
+            " [\/\u026alev.\u0259n\/]"
+        ],
+        "definition": [
+            "O\u02bbn Bir"
+        ]
+    },
+    {
+        "word": "Elf",
+        "type": [
+            " [\/elf\/]"
+        ],
+        "definition": [
+            "Elf"
+        ]
+    },
+    {
+        "word": "Elicit",
+        "type": [
+            " [\/\u026al\u026as.\u026at\/]"
+        ],
+        "definition": [
+            "Oshkor Qilmoq"
+        ]
+    },
+    {
+        "word": "Eligible",
+        "type": [
+            " [\/el.\u026a.d\u0292\u0259.bl\u2006\u0329\/]"
+        ],
+        "definition": [
+            "Munosib"
+        ]
+    },
+    {
+        "word": "Eliminate",
+        "type": [
+            " [\/\u026al\u026am.\u026a.ne\u026at\/]"
+        ],
+        "definition": [
+            "Yo\u02bbqotmoq"
+        ]
+    },
+    {
+        "word": "Elimination",
+        "type": [
+            " [\/\u026al\u026am.\u026ane\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Yo\u02bbq Qilish"
+        ]
+    },
+    {
+        "word": "Elite",
+        "type": [
+            " [\/\u026ali:t\/]"
+        ],
+        "definition": [
+            "Elita"
+        ]
+    },
+    {
+        "word": "Ellipse",
+        "type": [
+            " [\/\u026al\u026aps\/]"
+        ],
+        "definition": [
+            "Ellips"
+        ]
+    },
+    {
+        "word": "Elliptical",
+        "type": [
+            " [\/\u026al\u026ap.t\u026a.k\u0259l\/]"
+        ],
+        "definition": [
+            "Oval"
+        ]
+    },
+    {
+        "word": "Elocution",
+        "type": [
+            " [\/el.\u0259kju.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Notiqlik Sanati"
+        ]
+    },
+    {
+        "word": "Elongate",
+        "type": [
+            " [\/i:.l\u0252\u014b.ge\u026at\/]"
+        ],
+        "definition": [
+            "Uzaytirmoq"
+        ]
+    },
+    {
+        "word": "Elope",
+        "type": [
+            " [\/\u026al\u0259\u028ap\/]"
+        ],
+        "definition": [
+            "Qochib Ketmoq"
+        ]
+    },
+    {
+        "word": "Eloquence",
+        "type": [
+            " [\/el.\u0259.kw\u0259nts\/]"
+        ],
+        "definition": [
+            "Notiqlik"
+        ]
+    },
+    {
+        "word": "Else",
+        "type": [
+            " [\/els\/]"
+        ],
+        "definition": [
+            "Yana"
+        ]
+    },
+    {
+        "word": "Elsewhere",
+        "type": [
+            " [\/elswe\u0259r\/]"
+        ],
+        "definition": [
+            "Biror Yerda"
+        ]
+    },
+    {
+        "word": "Elude",
+        "type": [
+            " [\/\u026alu:d\/]"
+        ],
+        "definition": [
+            "O\u02bbzini Tortmoq"
+        ]
+    },
+    {
+        "word": "Elusive",
+        "type": [
+            " [\/\u026alu:.s\u026av\/]"
+        ],
+        "definition": [
+            "Chalg\u02bbituvchi"
+        ]
+    },
+    {
+        "word": "Emaciated",
+        "type": [
+            " [\/\u026ame\u026a.si.e\u026a.t\u026ad\/]"
+        ],
+        "definition": [
+            "Oriq"
+        ]
+    },
+    {
+        "word": "Emanate",
+        "type": [
+            " [\/em.\u0259.ne\u026at\/]"
+        ],
+        "definition": [
+            "Yoyilmoq"
+        ]
+    },
+    {
+        "word": "Emancipate",
+        "type": [
+            " [\/\u026am\u00e6nt.s\u026a.pe\u026at\/]"
+        ],
+        "definition": [
+            "Ozod Etmoq"
+        ]
+    },
+    {
+        "word": "Emancipation",
+        "type": [
+            " [\/\u026am\u00e6nt.s\u026ape\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Erkinlik"
+        ]
+    },
+    {
+        "word": "Embalm",
+        "type": [
+            " [\/\u026amb\u0251:m\/]"
+        ],
+        "definition": [
+            "Mo\u02bbmiyolamoq"
+        ]
+    },
+    {
+        "word": "Embankment",
+        "type": [
+            " [\/\u026amb\u00e6\u014bk.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Damba"
+        ]
+    },
+    {
+        "word": "Embargo",
+        "type": [
+            " [\/\u026amb\u0251:.g\u0259\u028a\/]"
+        ],
+        "definition": [
+            "Embargo"
+        ]
+    },
+    {
+        "word": "Embark",
+        "type": [
+            " [\/\u026amb\u0251:k\/]"
+        ],
+        "definition": [
+            "Kemaga Yuklamoq"
+        ]
+    },
+    {
+        "word": "Embarrass",
+        "type": [
+            " [\/\u026amb\u00e6r.\u0259s\/]"
+        ],
+        "definition": [
+            "Tashvishga Solmoq"
+        ]
+    },
+    {
+        "word": "Embassy",
+        "type": [
+            " [\/em.b\u0259.si\/]"
+        ],
+        "definition": [
+            "Elchixona"
+        ]
+    },
+    {
+        "word": "Embed",
+        "type": [
+            " [\/\u026ambed\/]"
+        ],
+        "definition": [
+            "Joylashtirmoq"
+        ]
+    },
+    {
+        "word": "Embellish",
+        "type": [
+            " [\/\u026ambel.\u026a\u0283\/]"
+        ],
+        "definition": [
+            "Bezamoq"
+        ]
+    },
+    {
+        "word": "Ember",
+        "type": [
+            " [\/em.b\u0259r\/]"
+        ],
+        "definition": [
+            "Cho\u02bbg\u02bb"
+        ]
+    },
+    {
+        "word": "Embezzle",
+        "type": [
+            " [\/\u026ambez.l\/]"
+        ],
+        "definition": [
+            "O\u02bbzlashtirib Olmoq"
+        ]
+    },
+    {
+        "word": "Embitter",
+        "type": [
+            " [\/\u026amb\u026at.\u0259r\/]"
+        ],
+        "definition": [
+            "Jahlini Chiqarmoq"
+        ]
+    },
+    {
+        "word": "Emblem",
+        "type": [
+            " [\/em.bl\u0259m\/]"
+        ],
+        "definition": [
+            "Emblema"
+        ]
+    },
+    {
+        "word": "Embody",
+        "type": [
+            " [\/\u026amb\u0252d.i\/]"
+        ],
+        "definition": [
+            "Gavdalantirmoq"
+        ]
+    },
+    {
+        "word": "Embrace",
+        "type": [
+            " [\/\u026ambre\u026as\/]"
+        ],
+        "definition": [
+            "Qabul Qilmoq"
+        ]
+    },
+    {
+        "word": "Embroider",
+        "type": [
+            " [\/\u026ambr\u0254\u026a.d\u0259r\/]"
+        ],
+        "definition": [
+            "Bezamoq"
+        ]
+    },
+    {
+        "word": "Embroidery",
+        "type": [
+            " [\/\u026ambr\u0254\u026a.d\u0259r.i\/]"
+        ],
+        "definition": [
+            "Bezash"
+        ]
+    },
+    {
+        "word": "Embryo",
+        "type": [
+            " [\/em.bri.\u0259\u028a\/]"
+        ],
+        "definition": [
+            "Embrion"
+        ]
+    },
+    {
+        "word": "Emerald",
+        "type": [
+            " [\/em.\u0259.r\u0259ld\/]"
+        ],
+        "definition": [
+            "Zumrad"
+        ]
+    },
+    {
+        "word": "Emerge",
+        "type": [
+            " [\/\u026am\u025c:d\u0292\/]"
+        ],
+        "definition": [
+            "Paydo Bo\u02bblmoq"
+        ]
+    },
+    {
+        "word": "Emergence",
+        "type": [
+            " [\/\u026am\u025c:.d\u0292\u0259nts\/]"
+        ],
+        "definition": [
+            "Paydo Bo\u02bblish"
+        ]
+    },
+    {
+        "word": "Emergency",
+        "type": [
+            " [\/\u026am\u025c:.d\u0292\u0259nt.si\/]"
+        ],
+        "definition": [
+            "Kutilmagan Hodisa"
+        ]
+    },
+    {
+        "word": "Emery",
+        "type": [
+            " [\/em.\u0259r.i\/]"
+        ],
+        "definition": [
+            "Qumqog\u02bboz"
+        ]
+    },
+    {
+        "word": "Emigrant",
+        "type": [
+            " [\/em.\u026a.gr\u0259nt\/]"
+        ],
+        "definition": [
+            "Muhojir"
+        ]
+    },
+    {
+        "word": "Emigrate",
+        "type": [
+            " [\/em.\u026a.gre\u026at\/]"
+        ],
+        "definition": [
+            "Ko\u02bbchmoq"
+        ]
+    },
+    {
+        "word": "Emigration",
+        "type": [
+            " [\/em.\u026agre\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Ko\u02bbchib Ketish"
+        ]
+    },
+    {
+        "word": "Eminence",
+        "type": [
+            " [\/em.\u026a.n\u0259nts\/]"
+        ],
+        "definition": [
+            "Oily Martaba"
+        ]
+    },
+    {
+        "word": "Eminent",
+        "type": [
+            " [\/em.\u026a.n\u0259nt\/]"
+        ],
+        "definition": [
+            "Mashhur"
+        ]
+    },
+    {
+        "word": "Emission",
+        "type": [
+            " [\/\u026am\u026a\u0283.\u0259n\/]"
+        ],
+        "definition": [
+            "Energiya Jo\u02bbnatish"
+        ]
+    },
+    {
+        "word": "Emit",
+        "type": [
+            " [\/\u026am\u026at\/]"
+        ],
+        "definition": [
+            "Tarqatmoq"
+        ]
+    },
+    {
+        "word": "Emotion",
+        "type": [
+            " [\/\u026am\u0259\u028a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Tuyg\u02bbu"
+        ]
+    },
+    {
+        "word": "Emotional",
+        "type": [
+            " [\/\u026am\u0259\u028a.\u0283\u0259n.\u0259l\/]"
+        ],
+        "definition": [
+            "Hayajonli"
+        ]
+    },
+    {
+        "word": "Empathy",
+        "type": [
+            " [\/em.p\u0259.\u03b8i\/]"
+        ],
+        "definition": [
+            "Hamdardlik"
+        ]
+    },
+    {
+        "word": "Emperor",
+        "type": [
+            " [\/em.p\u0259r.\u0259r\/]"
+        ],
+        "definition": [
+            "Imperator"
+        ]
+    },
+    {
+        "word": "Emphasis",
+        "type": [
+            " [\/emp.f\u0259.s\u026as\/]"
+        ],
+        "definition": [
+            "Urg\u02bbu"
+        ]
+    },
+    {
+        "word": "Emphasize",
+        "type": [
+            " [\/emp.f\u0259.sa\u026az\/]"
+        ],
+        "definition": [
+            "Takidlamoq"
+        ]
+    },
+    {
+        "word": "Emphatic",
+        "type": [
+            " [\/empf\u00e6t.\u026ak\/]"
+        ],
+        "definition": [
+            "Hayajonli"
+        ]
+    },
+    {
+        "word": "Empire",
+        "type": [
+            " [\/em.pa\u026a\u0259r\/]"
+        ],
+        "definition": [
+            "Imperiya"
+        ]
+    },
+    {
+        "word": "Empirical",
+        "type": [
+            " [\/\u026amp\u026ar.\u026a.k\u0259l\/]"
+        ],
+        "definition": [
+            "Tajribaga Asoslangan5"
+        ]
+    },
+    {
+        "word": "Employ",
+        "type": [
+            " [\/\u026ampl\u0254\u026a\/]"
+        ],
+        "definition": [
+            "Ishga Olmoq"
+        ]
+    },
+    {
+        "word": "Employee",
+        "type": [
+            " [\/\u026ampl\u0254\u026a.i:\/]"
+        ],
+        "definition": [
+            "Ishchi"
+        ]
+    },
+    {
+        "word": "Employer",
+        "type": [
+            " [\/\u026ampl\u0254\u026a.\u0259r\/]"
+        ],
+        "definition": [
+            "Ish Beruvchi"
+        ]
+    },
+    {
+        "word": "Employment",
+        "type": [
+            " [\/\u026ampl\u0254\u026a.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Foydalanish"
+        ]
+    },
+    {
+        "word": "Empower",
+        "type": [
+            " [\/\u026ampa\u028a\u0259r\/]"
+        ],
+        "definition": [
+            "Vakolat Bermoq"
+        ]
+    },
+    {
+        "word": "Empress",
+        "type": [
+            " [\/em.pr\u0259s\/]"
+        ],
+        "definition": [
+            "Imperator Ayol"
+        ]
+    },
+    {
+        "word": "Empty",
+        "type": [
+            " [\/emp.ti\/]"
+        ],
+        "definition": [
+            "Bo\u02bbsh"
+        ]
+    },
+    {
+        "word": "Enable",
+        "type": [
+            " [\/\u026ane\u026a.bl\u2006\u0329\/]"
+        ],
+        "definition": [
+            "Imkon Bermoq"
+        ]
+    },
+    {
+        "word": "Enact",
+        "type": [
+            " [\/\u026an\u00e6kt\/]"
+        ],
+        "definition": [
+            "Ijro Etmoq"
+        ]
+    },
+    {
+        "word": "Enamel",
+        "type": [
+            " [\/\u026an\u00e6m.\u0259l\/]"
+        ],
+        "definition": [
+            "Emal"
+        ]
+    },
+    {
+        "word": "Encase",
+        "type": [
+            " [\/\u026anke\u026as\/]"
+        ],
+        "definition": [
+            "O\u02bbramoq"
+        ]
+    },
+    {
+        "word": "Enchant",
+        "type": [
+            " [\/\u026ant\u0283\u0251:nt\/]"
+        ],
+        "definition": [
+            "Jalb Etmoq"
+        ]
+    },
+    {
+        "word": "Encircle",
+        "type": [
+            " [\/\u026ans\u025c:.kl\u2006\u0329\/]"
+        ],
+        "definition": [
+            "O\u02bbramoq"
+        ]
+    },
+    {
+        "word": "Enclose",
+        "type": [
+            " [\/\u026ankl\u0259\u028az\/]"
+        ],
+        "definition": [
+            "O\u02bbramoq"
+        ]
+    },
+    {
+        "word": "Enclosure",
+        "type": [
+            " [\/\u026ankl\u0259\u028a.\u0292\u0259r\/]"
+        ],
+        "definition": [
+            "O\u02bbralgan"
+        ]
+    },
+    {
+        "word": "Encompass",
+        "type": [
+            " [\/\u026ank\u028cm.p\u0259s\/]"
+        ],
+        "definition": [
+            "O\u02bbziga Olmoq"
+        ]
+    },
+    {
+        "word": "Encounter",
+        "type": [
+            " [\/\u026anka\u028an.t\u0259r\/]"
+        ],
+        "definition": [
+            "Uchrashmoq"
+        ]
+    },
+    {
+        "word": "Encourage",
+        "type": [
+            " [\/\u026ank\u028cr.\u026ad\u0292\/]"
+        ],
+        "definition": [
+            "Ruhlantirmoq"
+        ]
+    },
+    {
+        "word": "Encouragement",
+        "type": [
+            " [\/\u026ank\u028cr.\u026ad\u0292.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Ruhlantirish"
+        ]
+    },
+    {
+        "word": "Encroach",
+        "type": [
+            " [\/\u026ankr\u0259\u028at\u0283\/]"
+        ],
+        "definition": [
+            "Bostirib Kirmoq"
+        ]
+    },
+    {
+        "word": "Encumber",
+        "type": [
+            " [\/\u026ank\u028cm.b\u0259r\/]"
+        ],
+        "definition": [
+            "Qiyinlashtirmoq"
+        ]
+    },
+    {
+        "word": "Encyclopedia",
+        "type": [
+            " [\/\u026ansa\u026a.kl\u0259pi.di.\u0259\/]"
+        ],
+        "definition": [
+            "Ensiklopediya"
+        ]
+    },
+    {
+        "word": "End",
+        "type": [
+            " [\/end\/]"
+        ],
+        "definition": [
+            "Oxir"
+        ]
+    },
+    {
+        "word": "Endanger",
+        "type": [
+            " [\/\u026ande\u026an.d\u0292\u0259r\/]"
+        ],
+        "definition": [
+            "Xavf Ostida Qoldirmoq"
+        ]
+    },
+    {
+        "word": "Endear",
+        "type": [
+            " [\/\u026and\u026a\u0259r\/]"
+        ],
+        "definition": [
+            "Sevdirmoq"
+        ]
+    },
+    {
+        "word": "Endeavour",
+        "type": [
+            " [\/endev.\u0259r\/]"
+        ],
+        "definition": [
+            "Urinmoq"
+        ]
+    },
+    {
+        "word": "Ending",
+        "type": [
+            " [\/en.d\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Nihoya"
+        ]
+    },
+    {
+        "word": "Endless",
+        "type": [
+            " [\/end.l\u0259s\/]"
+        ],
+        "definition": [
+            "Cheksiz"
+        ]
+    },
+    {
+        "word": "Endorse",
+        "type": [
+            " [\/\u026and\u0254:s\/]"
+        ],
+        "definition": [
+            "Tasdiqlamoq"
+        ]
+    },
+    {
+        "word": "Endow",
+        "type": [
+            " [\/\u026anda\u028a\/]"
+        ],
+        "definition": [
+            "Ehson Qilmoq"
+        ]
+    },
+    {
+        "word": "Endowment",
+        "type": [
+            " [\/\u026anda\u028a.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Ehson"
+        ]
+    },
+    {
+        "word": "Endurance",
+        "type": [
+            " [\/\u026andj\u028a\u0259.r\u0259nts\/]"
+        ],
+        "definition": [
+            "Chidam"
+        ]
+    },
+    {
+        "word": "Endure",
+        "type": [
+            " [\/\u026andj\u028a\u0259r\/]"
+        ],
+        "definition": [
+            "Chidamoq"
+        ]
+    },
+    {
+        "word": "Enemy",
+        "type": [
+            " [\/en.\u0259.mi\/]"
+        ],
+        "definition": [
+            "Dushman"
+        ]
+    },
+    {
+        "word": "Energetic",
+        "type": [
+            " [\/en.\u0259d\u0292et.\u026ak\/]"
+        ],
+        "definition": [
+            "G\u02bbayratli"
+        ]
+    },
+    {
+        "word": "Energy",
+        "type": [
+            " [\/en.\u0259.d\u0292i\/]"
+        ],
+        "definition": [
+            "Energiya"
+        ]
+    },
+    {
+        "word": "Enfold",
+        "type": [
+            " [\/\u026anf\u0259\u028ald\/]"
+        ],
+        "definition": [
+            "Quchoqlamoq"
+        ]
+    },
+    {
+        "word": "Enforce",
+        "type": [
+            " [\/\u026anf\u0254:s\/]"
+        ],
+        "definition": [
+            "Majbur Qilmoq"
+        ]
+    },
+    {
+        "word": "Engage",
+        "type": [
+            " [\/\u026ange\u026ad\u0292\/]"
+        ],
+        "definition": [
+            "Ish Bermoq"
+        ]
+    },
+    {
+        "word": "Engaged",
+        "type": [
+            " [\/\u026ange\u026ad\u0292d\/]"
+        ],
+        "definition": [
+            "Unashtirilgan"
+        ]
+    },
+    {
+        "word": "Engagement",
+        "type": [
+            " [\/\u026ange\u026ad\u0292.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Unashtirib Qo\u02bbyish"
+        ]
+    },
+    {
+        "word": "Engine",
+        "type": [
+            " [\/en.d\u0292\u026an\/]"
+        ],
+        "definition": [
+            "Motor"
+        ]
+    },
+    {
+        "word": "Engineer",
+        "type": [
+            " [\/en.d\u0292\u026an\u026a\u0259r\/]"
+        ],
+        "definition": [
+            "Muhandis"
+        ]
+    },
+    {
+        "word": "English",
+        "type": [
+            " [\/\u026a\u014b.gl\u026a\u0283\/]"
+        ],
+        "definition": [
+            "Ingliz Tili"
+        ]
+    },
+    {
+        "word": "Engrave",
+        "type": [
+            " [\/\u026angre\u026av\/]"
+        ],
+        "definition": [
+            "O\u02bbyib Ishlamoq"
+        ]
+    },
+    {
+        "word": "Engross",
+        "type": [
+            " [\/\u026angr\u0259\u028as\/]"
+        ],
+        "definition": [
+            "Jalb Qilmoq"
+        ]
+    },
+    {
+        "word": "Enhance",
+        "type": [
+            " [\/\u026anh\u0251nts\/]"
+        ],
+        "definition": [
+            "Yaxshilamoq"
+        ]
+    },
+    {
+        "word": "Enigma",
+        "type": [
+            " [\/\u026an\u026ag.m\u0259\/]"
+        ],
+        "definition": [
+            "Topishmoq"
+        ]
+    },
+    {
+        "word": "Enjoy",
+        "type": [
+            " [\/\u026and\u0292\u0254\u026a\/]"
+        ],
+        "definition": [
+            "Rohatlanmoq"
+        ]
+    },
+    {
+        "word": "Enjoyable",
+        "type": [
+            " [\/\u026and\u0292\u0254\u026a.\u0259.bl\u2006\u0329\/]"
+        ],
+        "definition": [
+            "Yoqimli"
+        ]
+    },
+    {
+        "word": "Enjoyment",
+        "type": [
+            " [\/\u026and\u0292\u0254\u026a.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Huzurlanish"
+        ]
+    },
+    {
+        "word": "Enlarge",
+        "type": [
+            " [\/\u026anl\u0251:d\u0292\/]"
+        ],
+        "definition": [
+            "Kengaytirmoq"
+        ]
+    },
+    {
+        "word": "Enlargement",
+        "type": [
+            " [\/\u026anl\u0251:d\u0292.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Kengayish"
+        ]
+    },
+    {
+        "word": "Enlighten",
+        "type": [
+            " [\/\u026anla\u026a.t\u0259n\/]"
+        ],
+        "definition": [
+            "Malumot Bermoq"
+        ]
+    },
+    {
+        "word": "Enlist",
+        "type": [
+            " [\/\u026anl\u026ast\/]"
+        ],
+        "definition": [
+            "Harbiy Xizmatga Yozilmoq"
+        ]
+    },
+    {
+        "word": "Enliven",
+        "type": [
+            " [\/\u026anla\u026a.v\u0259n\/]"
+        ],
+        "definition": [
+            "Qiziqarli Qilmoq"
+        ]
+    },
+    {
+        "word": "Enmity",
+        "type": [
+            " [\/en.m\u026a.ti\/]"
+        ],
+        "definition": [
+            "Adovat"
+        ]
+    },
+    {
+        "word": "Enormous",
+        "type": [
+            " [\/\u026an\u0254.m\u0259s\/]"
+        ],
+        "definition": [
+            "Juda Katta"
+        ]
+    },
+    {
+        "word": "Enough",
+        "type": [
+            " [\/\u026an\u028cf\/]"
+        ],
+        "definition": [
+            "Yetarli"
+        ]
+    },
+    {
+        "word": "Enquire",
+        "type": [
+            " [\/\u026ankwa\u026a\u0259r\/]"
+        ],
+        "definition": [
+            "Surishtirmoq"
+        ]
+    },
+    {
+        "word": "Enrage",
+        "type": [
+            " [\/\u026anre\u026ad\u0292\/]"
+        ],
+        "definition": [
+            "G\u02bbazablanmoq"
+        ]
+    },
+    {
+        "word": "Enraptured",
+        "type": [
+            " [\/\u026anr\u00e6p.t\u0283\u0259d\/]"
+        ],
+        "definition": [
+            "Quvontirmoq"
+        ]
+    },
+    {
+        "word": "Enrich",
+        "type": [
+            " [\/\u026anr\u026at\u0283\/]"
+        ],
+        "definition": [
+            "Boyitmoq"
+        ]
+    },
+    {
+        "word": "Enrol",
+        "type": [
+            " [\/\u026anr\u0259\u028al\/]"
+        ],
+        "definition": [
+            "Ro\u02bbyxatga Yozilmoq"
+        ]
+    },
+    {
+        "word": "Enrolment",
+        "type": [
+            " [\/\u026anr\u0259\u028al.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Ro\u02bbyxatga Yozilish"
+        ]
+    },
+    {
+        "word": "Enslave",
+        "type": [
+            " [\/\u026ansle\u026av\/]"
+        ],
+        "definition": [
+            "Qul Qilmoq"
+        ]
+    },
+    {
+        "word": "Ensue",
+        "type": [
+            " [\/\u026ansju:\/]"
+        ],
+        "definition": [
+            "Ergashmoq"
+        ]
+    },
+    {
+        "word": "Ensure",
+        "type": [
+            " [\/\u026an\u0283\u0254:r\/]"
+        ],
+        "definition": [
+            "Kafolat Bermoq"
+        ]
+    },
+    {
+        "word": "Entail",
+        "type": [
+            " [\/\u026ante\u026al\/]"
+        ],
+        "definition": [
+            "Zarur Bo\u02bblmoq"
+        ]
+    },
+    {
+        "word": "Entangle",
+        "type": [
+            " [\/\u026ant\u00e6\u014b.gl\/]"
+        ],
+        "definition": [
+            "Chalg\u02bbitmoq"
+        ]
+    },
+    {
+        "word": "Enter",
+        "type": [
+            " [\/en.t\u0259r\/]"
+        ],
+        "definition": [
+            "Kirmoq"
+        ]
+    },
+    {
+        "word": "Enterprise",
+        "type": [
+            " [\/en.t\u0259.pra\u026az\/]"
+        ],
+        "definition": [
+            "Korxona"
+        ]
+    },
+    {
+        "word": "Enterprising",
+        "type": [
+            " [\/en.t\u0259.pra\u026a.z\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Tashabbuskor"
+        ]
+    },
+    {
+        "word": "Entertain",
+        "type": [
+            " [\/en.t\u0259te\u026an\/]"
+        ],
+        "definition": [
+            "Ko\u02bbnglini Olmoq"
+        ]
+    },
+    {
+        "word": "Entertainment",
+        "type": [
+            " [\/en.t\u0259te\u026an.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Ko\u02bbngil Ochish"
+        ]
+    },
+    {
+        "word": "Enthral",
+        "type": [
+            " [\/\u026an.\u03b8r\u0254:l\/]"
+        ],
+        "definition": [
+            "Mahliyo Qilmoq"
+        ]
+    },
+    {
+        "word": "Enthusiasm",
+        "type": [
+            " [\/\u026an\u03b8ju:.zi.\u00e6z.\u0259m\/]"
+        ],
+        "definition": [
+            "Ishtiyoq"
+        ]
+    },
+    {
+        "word": "Enthusiastic",
+        "type": [
+            " [\/\u026an\u03b8ju.zi\u00e6s.t\u026ak\/]"
+        ],
+        "definition": [
+            "G\u02bbayratli"
+        ]
+    },
+    {
+        "word": "Entice",
+        "type": [
+            " [\/\u026anta\u026as\/]"
+        ],
+        "definition": [
+            "Ko\u02bbndirmoq"
+        ]
+    },
+    {
+        "word": "Entire",
+        "type": [
+            " [\/\u026anta\u026a\u0259r\/]"
+        ],
+        "definition": [
+            "Butun"
+        ]
+    },
+    {
+        "word": "Entirely",
+        "type": [
+            " [\/\u026anta\u026a\u0259.li\/]"
+        ],
+        "definition": [
+            "Butunlay"
+        ]
+    },
+    {
+        "word": "Entitle",
+        "type": [
+            " [\/\u026anta\u026a.tl\u2006\u0329\/]"
+        ],
+        "definition": [
+            "Sarlavha"
+        ]
+    },
+    {
+        "word": "Entity",
+        "type": [
+            " [\/en.t\u026a.ti\/]"
+        ],
+        "definition": [
+            "Borliq"
+        ]
+    },
+    {
+        "word": "Entrails",
+        "type": [
+            " [\/en.tre\u026alz\/]"
+        ],
+        "definition": [
+            "Ichak-Chavoq"
+        ]
+    },
+    {
+        "word": "Entrance",
+        "type": [
+            " [\/en.tr\u0259nts\/]"
+        ],
+        "definition": [
+            "Kirish Joyi"
+        ]
+    },
+    {
+        "word": "Entreat",
+        "type": [
+            " [\/\u026antri:t\/]"
+        ],
+        "definition": [
+            "Yalinmoq"
+        ]
+    },
+    {
+        "word": "Entrepreneur",
+        "type": [
+            " [\/\u0252n.tr\u0259.pr\u0259n\u025c:r\/]"
+        ],
+        "definition": [
+            "Tadbirkor"
+        ]
+    },
+    {
+        "word": "Entrust",
+        "type": [
+            " [\/\u026antr\u028cst\/]"
+        ],
+        "definition": [
+            "Ishonib Topshirmoq"
+        ]
+    },
+    {
+        "word": "Entry",
+        "type": [
+            " [\/en.tri\/]"
+        ],
+        "definition": [
+            "Kirish"
+        ]
+    },
+    {
+        "word": "Enumerate",
+        "type": [
+            " [\/\u026anju:.m\u0259.re\u026at\/]"
+        ],
+        "definition": [
+            "Hisoblab Chiqmoq"
+        ]
+    },
+    {
+        "word": "Envelop",
+        "type": [
+            " [\/\u026anvel.\u0259p\/]"
+        ],
+        "definition": [
+            "O\u02bbramoq"
+        ]
+    },
+    {
+        "word": "Envelope",
+        "type": [
+            " [\/en.v\u0259.l\u0259\u028ap\/]"
+        ],
+        "definition": [
+            "Konvert"
+        ]
+    },
+    {
+        "word": "Enviable",
+        "type": [
+            " [\/en.vi.\u0259.bl\/]"
+        ],
+        "definition": [
+            "Havas Qiladigan"
+        ]
+    },
+    {
+        "word": "Envious",
+        "type": [
+            " [\/en.vi.\u0259s\/]"
+        ],
+        "definition": [
+            "Hasadgo\u02bby"
+        ]
+    },
+    {
+        "word": "Environment",
+        "type": [
+            " [\/\u026anva\u026a\u0259.r\u0259n.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Tabiat"
+        ]
+    },
+    {
+        "word": "Envisage",
+        "type": [
+            " [\/\u026anv\u026az.\u026ad\u0292\/]"
+        ],
+        "definition": [
+            "Tasavvur Qilmoq"
+        ]
+    },
+    {
+        "word": "Envoy",
+        "type": [
+            " [\/en.v\u0254\u026a\/]"
+        ],
+        "definition": [
+            "Elchi"
+        ]
+    },
+    {
+        "word": "Envy",
+        "type": [
+            " [\/en.vi\/]"
+        ],
+        "definition": [
+            "Hasad"
+        ]
+    },
+    {
+        "word": "Enzyme",
+        "type": [
+            " [\/en.za\u026am\/]"
+        ],
+        "definition": [
+            "Enzim"
+        ]
+    },
+    {
+        "word": "Epic",
+        "type": [
+            " [\/ep.\u026ak\/]"
+        ],
+        "definition": [
+            "Doston"
+        ]
+    },
+    {
+        "word": "Epidemic",
+        "type": [
+            " [\/ep.\u026adem.\u026ak\/]"
+        ],
+        "definition": [
+            "Epidemiya"
+        ]
+    },
+    {
+        "word": "Epidermis",
+        "type": [
+            " [\/ep.\u026ad\u025c.m\u026as\/]"
+        ],
+        "definition": [
+            "Terining Tashqi Qavati"
+        ]
+    },
+    {
+        "word": "Epilepsy",
+        "type": [
+            " [\/ep.\u026a.lep.si\/]"
+        ],
+        "definition": [
+            "Tutqanoq"
+        ]
+    },
+    {
+        "word": "Epilogue",
+        "type": [
+            " [\/ep.\u026a.l\u0252g\/]"
+        ],
+        "definition": [
+            "Xotima"
+        ]
+    },
+    {
+        "word": "Episode",
+        "type": [
+            " [\/ep.\u026a.s\u0259\u028ad\/]"
+        ],
+        "definition": [
+            "Epizod"
+        ]
+    },
+    {
+        "word": "Epitaph",
+        "type": [
+            " [\/ep.\u026a.t\u0251:f\/]"
+        ],
+        "definition": [
+            "Qabr Yozuvi"
+        ]
+    },
+    {
+        "word": "Epoch",
+        "type": [
+            " [\/i:.p\u0252k\/]"
+        ],
+        "definition": [
+            "Zamon"
+        ]
+    },
+    {
+        "word": "Equal",
+        "type": [
+            " [\/i:.kw\u0259l\/]"
+        ],
+        "definition": [
+            "Teng"
+        ]
+    },
+    {
+        "word": "Equality",
+        "type": [
+            " [\/\u026akw\u0252l.\u026a.ti\/]"
+        ],
+        "definition": [
+            "Tenglik"
+        ]
+    },
+    {
+        "word": "Equalize",
+        "type": [
+            " [\/i.kw\u0259.la\u026az\/]"
+        ],
+        "definition": [
+            "Tenglashtirmoq"
+        ]
+    },
+    {
+        "word": "Equanimity",
+        "type": [
+            " [\/ek.w\u0259n\u026am.\u026a.ti\/]"
+        ],
+        "definition": [
+            "Vazminlik"
+        ]
+    },
+    {
+        "word": "Equation",
+        "type": [
+            " [\/\u026akwe\u026a.\u0292\u0259n\/]"
+        ],
+        "definition": [
+            "Tenglama"
+        ]
+    },
+    {
+        "word": "Equator",
+        "type": [
+            " [\/\u026akwe\u026a.t\u0259r\/]"
+        ],
+        "definition": [
+            "Ekvator"
+        ]
+    },
+    {
+        "word": "Equilibrium",
+        "type": [
+            " [\/i:.kw\u026al\u026ab.ri.\u0259m\/]"
+        ],
+        "definition": [
+            "Muvozanat"
+        ]
+    },
+    {
+        "word": "Equip",
+        "type": [
+            " [\/\u026akw\u026ap\/]"
+        ],
+        "definition": [
+            "Taminlamoq"
+        ]
+    },
+    {
+        "word": "Equipment",
+        "type": [
+            " [\/\u026akw\u026ap.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Jihoz"
+        ]
+    },
+    {
+        "word": "Equity",
+        "type": [
+            " [\/ek.w\u026a.ti\/]"
+        ],
+        "definition": [
+            "Adolat"
+        ]
+    },
+    {
+        "word": "Equivalent",
+        "type": [
+            " [\/\u026akw\u026av.\u0259l.\u0259nt\/]"
+        ],
+        "definition": [
+            "Teng"
+        ]
+    },
+    {
+        "word": "Era",
+        "type": [
+            " [\/\u026a\u0259.r\u0259\/]"
+        ],
+        "definition": [
+            "Davr"
+        ]
+    },
+    {
+        "word": "Eradicate",
+        "type": [
+            " [\/\u026ar\u00e6d.\u026a.ke\u026at\/]"
+        ],
+        "definition": [
+            "Yo\u02bbq Qilmoq"
+        ]
+    },
+    {
+        "word": "Erase",
+        "type": [
+            " [\/\u026are\u026az\/]"
+        ],
+        "definition": [
+            "O\u02bbchirmoq"
+        ]
+    },
+    {
+        "word": "Eraser",
+        "type": [
+            " [\/\u026are\u026a.z\u0259r\/]"
+        ],
+        "definition": [
+            "O\u02bbchirg\u02bbich"
+        ]
+    },
+    {
+        "word": "Erect",
+        "type": [
+            " [\/\u026arekt\/]"
+        ],
+        "definition": [
+            "Qurmoq"
+        ]
+    },
+    {
+        "word": "Erection",
+        "type": [
+            " [\/\u026arek.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Qurish"
+        ]
+    },
+    {
+        "word": "Erode",
+        "type": [
+            " [\/\u026ar\u0259\u028ad\/]"
+        ],
+        "definition": [
+            "Yemirmoq"
+        ]
+    },
+    {
+        "word": "Erosion",
+        "type": [
+            " [\/\u026ar\u0259\u028a.\u0292\u0259n\/]"
+        ],
+        "definition": [
+            "Nurash"
+        ]
+    },
+    {
+        "word": "Erotic",
+        "type": [
+            " [\/\u026ar\u0252t.\u026ak\/]"
+        ],
+        "definition": [
+            "Shahvoniy"
+        ]
+    },
+    {
+        "word": "Err",
+        "type": [
+            " [\/\u025c:r\/]"
+        ],
+        "definition": [
+            "Xato Qilmoq"
+        ]
+    },
+    {
+        "word": "Errand",
+        "type": [
+            " [\/er.\u0259nd\/]"
+        ],
+        "definition": [
+            "Topshiriq"
+        ]
+    },
+    {
+        "word": "Erratic",
+        "type": [
+            " [\/\u026ar\u00e6t.\u026ak\/]"
+        ],
+        "definition": [
+            "O\u02bbzgaruvchan"
+        ]
+    },
+    {
+        "word": "Erroneous",
+        "type": [
+            " [\/\u026ar\u0259\u028a.ni.\u0259s\/]"
+        ],
+        "definition": [
+            "Noto\u02bbg\u02bbri"
+        ]
+    },
+    {
+        "word": "Error",
+        "type": [
+            " [\/er.\u0259r\/]"
+        ],
+        "definition": [
+            "Xato"
+        ]
+    },
+    {
+        "word": "Erudite",
+        "type": [
+            " [\/er.\u028a.da\u026at\/]"
+        ],
+        "definition": [
+            "O\u02bbqimishli"
+        ]
+    },
+    {
+        "word": "Erupt",
+        "type": [
+            " [\/\u026ar\u028cpt\/]"
+        ],
+        "definition": [
+            "Vulqon Otilishi"
+        ]
+    },
+    {
+        "word": "Eruption",
+        "type": [
+            " [\/\u026ar\u028cp.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Vulqon Otilishi"
+        ]
+    },
+    {
+        "word": "Escalate",
+        "type": [
+            " [\/es.k\u0259.le\u026at\/]"
+        ],
+        "definition": [
+            "Keskinlashmoq"
+        ]
+    },
+    {
+        "word": "Escalator",
+        "type": [
+            " [\/es.k\u0259.le\u026a.t\u0259r\/]"
+        ],
+        "definition": [
+            "Eskalator"
+        ]
+    },
+    {
+        "word": "Escape",
+        "type": [
+            " [\/\u026aske\u026ap\/]"
+        ],
+        "definition": [
+            "Qochmoq"
+        ]
+    },
+    {
+        "word": "Escort",
+        "type": [
+            " [\/\u026ask\u0254:t\/]"
+        ],
+        "definition": [
+            "Soqchilar"
+        ]
+    },
+    {
+        "word": "Especially",
+        "type": [
+            " [\/\u026aspe\u0283.\u0259l.i\/]"
+        ],
+        "definition": [
+            "Ayniqsa"
+        ]
+    },
+    {
+        "word": "Espionage",
+        "type": [
+            " [\/es.pi.\u0259.n\u0251:\u0292\/]"
+        ],
+        "definition": [
+            "Josuslik"
+        ]
+    },
+    {
+        "word": "Essay",
+        "type": [
+            " [\/es.e\u026a\/]"
+        ],
+        "definition": [
+            "Insho"
+        ]
+    },
+    {
+        "word": "Essence",
+        "type": [
+            " [\/es.\u0259nts\/]"
+        ],
+        "definition": [
+            "Mohiyat"
+        ]
+    },
+    {
+        "word": "Essential",
+        "type": [
+            " [\/\u026asen.t\u0283\u0259l\/]"
+        ],
+        "definition": [
+            "Muhim"
+        ]
+    },
+    {
+        "word": "Establish",
+        "type": [
+            " [\/\u026ast\u00e6b.l\u026a\u0283\/]"
+        ],
+        "definition": [
+            "Tashkil Qilmoq"
+        ]
+    },
+    {
+        "word": "Establishment",
+        "type": [
+            " [\/\u026ast\u00e6b.l\u026a\u0283.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Tashkilot"
+        ]
+    },
+    {
+        "word": "Estate",
+        "type": [
+            " [\/\u026aste\u026at\/]"
+        ],
+        "definition": [
+            "Yermulk"
+        ]
+    },
+    {
+        "word": "Estate Agent",
+        "type": [
+            " [\/\u026aste\u026ate\u026a.d\u0292\u0259nt\/]"
+        ],
+        "definition": [
+            "Mulk Sotish Boyicha Agent"
+        ]
+    },
+    {
+        "word": "Esteem",
+        "type": [
+            " [\/\u026asti:m\/]"
+        ],
+        "definition": [
+            "Hurmat"
+        ]
+    },
+    {
+        "word": "Estimate",
+        "type": [
+            " [\/es.t\u026a.me\u026at\/]"
+        ],
+        "definition": [
+            "Baholamoq"
+        ]
+    },
+    {
+        "word": "Estimation",
+        "type": [
+            " [\/es.t\u026ame\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Fikr"
+        ]
+    },
+    {
+        "word": "Estrange",
+        "type": [
+            " [\/\u026astre\u026and\u0292\/]"
+        ],
+        "definition": [
+            "Uzoqlashtirmoq"
+        ]
+    },
+    {
+        "word": "Estuary",
+        "type": [
+            " [\/es.tj\u028a\u0259.ri\/]"
+        ],
+        "definition": [
+            "Daryoning Quyilish Joyi"
+        ]
+    },
+    {
+        "word": "Et Cetera",
+        "type": [
+            " []"
+        ],
+        "definition": [
+            "Va Boshqalar"
+        ]
+    },
+    {
+        "word": "Etc",
+        "type": [
+            " []"
+        ],
+        "definition": [
+            "Va Boshqalar"
+        ]
+    },
+    {
+        "word": "Eternal",
+        "type": [
+            " [\/\u026at\u025c:.n\u0259l\/]"
+        ],
+        "definition": [
+            "Abadiy"
+        ]
+    },
+    {
+        "word": "Eternity",
+        "type": [
+            " [\/\u026at\u025c:.n\u026a.ti\/]"
+        ],
+        "definition": [
+            "Mangulik"
+        ]
+    },
+    {
+        "word": "Ether",
+        "type": [
+            " [\/i:.\u03b8\u0259r\/]"
+        ],
+        "definition": [
+            "Efir Moyi"
+        ]
+    },
+    {
+        "word": "Ethic",
+        "type": [
+            " [\/e\u03b8.\u026ak\/]"
+        ],
+        "definition": [
+            "Axloq Tizimi"
+        ]
+    },
+    {
+        "word": "Ethical",
+        "type": [
+            " [\/e\u03b8.\u026a.k\u0259l\/]"
+        ],
+        "definition": [
+            "Axloqqa Oid"
+        ]
+    },
+    {
+        "word": "Ethics",
+        "type": [
+            " [\/e\u03b8.\u026ak\/]"
+        ],
+        "definition": [
+            "Tika"
+        ]
+    },
+    {
+        "word": "Ethnic",
+        "type": [
+            " [\/e\u03b8.n\u026ak\/]"
+        ],
+        "definition": [
+            "Etnik"
+        ]
+    },
+    {
+        "word": "Ethnography",
+        "type": [
+            " [\/e\u03b8n\u0252g.r\u0259.fi\/]"
+        ],
+        "definition": [
+            "Etnografiya"
+        ]
+    },
+    {
+        "word": "Ethnology",
+        "type": [
+            " [\/e\u03b8n\u0252l.\u0259.d\u0292i\/]"
+        ],
+        "definition": [
+            "Etnologiya"
+        ]
+    },
+    {
+        "word": "Etiquette",
+        "type": [
+            " [\/et.\u026a.ket\/]"
+        ],
+        "definition": [
+            "Odob Qoidalari"
+        ]
+    },
+    {
+        "word": "Etymology",
+        "type": [
+            " [\/et.\u026am\u0252l.\u0259.d\u0292i\/]"
+        ],
+        "definition": [
+            "Etimologiya"
+        ]
+    },
+    {
+        "word": "Eucalyptus",
+        "type": [
+            " [\/ju:.k\u0259l\u026ap.t\u0259stri:\/]"
+        ],
+        "definition": [
+            "Evkalipt Daraxti"
+        ]
+    },
+    {
+        "word": "Eulogy",
+        "type": [
+            " [\/ju:.l\u0259.d\u0292i\/]"
+        ],
+        "definition": [
+            "Marsiya"
+        ]
+    },
+    {
+        "word": "Eunuch",
+        "type": [
+            " [\/ju:.n\u0259k\/]"
+        ],
+        "definition": [
+            "Bichilgan Erkak"
+        ]
+    },
+    {
+        "word": "Euro",
+        "type": [
+            " [\/j\u028a\u0259.r\u0259\u028a-\/]"
+        ],
+        "definition": [
+            "Yevro"
+        ]
+    },
+    {
+        "word": "Euthanasia",
+        "type": [
+            " [\/ju:.\u03b8\u0259ne\u026a.\u0292\u0259\/]"
+        ],
+        "definition": [
+            "Ilojsizlikdan O\u02bbldirish"
+        ]
+    },
+    {
+        "word": "Evacuate",
+        "type": [
+            " [\/\u026av\u00e6k.ju.e\u026at\/]"
+        ],
+        "definition": [
+            "Evakuatsiya Qilmoq"
+        ]
+    },
+    {
+        "word": "Evacuation",
+        "type": [
+            " [\/\u026av\u00e6k.jue\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Evakuatsiya"
+        ]
+    },
+    {
+        "word": "Evade",
+        "type": [
+            " [\/\u026ave\u026ad\/]"
+        ],
+        "definition": [
+            "Qochmoq"
+        ]
+    },
+    {
+        "word": "Evaluate",
+        "type": [
+            " [\/\u026av\u00e6l.ju.e\u026at\/]"
+        ],
+        "definition": [
+            "Qadrlamoq"
+        ]
+    },
+    {
+        "word": "Evaporate",
+        "type": [
+            " [\/\u026av\u00e6p.\u0259r.e\u026at\/]"
+        ],
+        "definition": [
+            "Bug\u02bblanmoq"
+        ]
+    },
+    {
+        "word": "Evasion",
+        "type": [
+            " [\/\u026ave\u026a.\u0292\u0259n\/]"
+        ],
+        "definition": [
+            "Olib Qochish"
+        ]
+    },
+    {
+        "word": "Evasive",
+        "type": [
+            " [\/\u026ave\u026a.s\u026av\/]"
+        ],
+        "definition": [
+            "Gapni Chalg\u02bbituvchi"
+        ]
+    },
+    {
+        "word": "Eve",
+        "type": [
+            " [\/i:v\/]"
+        ],
+        "definition": [
+            "Arafa"
+        ]
+    },
+    {
+        "word": "Even",
+        "type": [
+            " [\/i:.v\u0259n\/]"
+        ],
+        "definition": [
+            "Hatto"
+        ]
+    },
+    {
+        "word": "Evening",
+        "type": [
+            " [\/i:v.n\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Kechqurun"
+        ]
+    },
+    {
+        "word": "Event",
+        "type": [
+            " [\/\u026avent\/]"
+        ],
+        "definition": [
+            "Hodisa"
+        ]
+    },
+    {
+        "word": "Eventually",
+        "type": [
+            " [\/\u026aven.tju.\u0259l.i\/]"
+        ],
+        "definition": [
+            "Nihoyat"
+        ]
+    },
+    {
+        "word": "Ever",
+        "type": [
+            " [\/ev.\u0259r\/]"
+        ],
+        "definition": [
+            "Har Doim"
+        ]
+    },
+    {
+        "word": "Evergreen",
+        "type": [
+            " [\/ev.\u0259.gri:n\/]"
+        ],
+        "definition": [
+            "Yashil O\u02bbsimlik"
+        ]
+    },
+    {
+        "word": "Everlasting",
+        "type": [
+            " [\/ev.\u0259l\u0251:.st\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Abadiy"
+        ]
+    },
+    {
+        "word": "Every",
+        "type": [
+            " [\/ev.ri\/]"
+        ],
+        "definition": [
+            "Har Bir"
+        ]
+    },
+    {
+        "word": "Everybody",
+        "type": [
+            " [\/ev.rib\u0252d.i\/]"
+        ],
+        "definition": [
+            "Hamma"
+        ]
+    },
+    {
+        "word": "Everyday",
+        "type": [
+            " [ev.ri.de\u026a\/]"
+        ],
+        "definition": [
+            "Har Kun"
+        ]
+    },
+    {
+        "word": "Everyone",
+        "type": [
+            " [\/ev.ri.w\u028cn\/]"
+        ],
+        "definition": [
+            "Har Bir Kishi"
+        ]
+    },
+    {
+        "word": "Everything",
+        "type": [
+            " [\/ev.ri.\u03b8\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Hamma Narsa"
+        ]
+    },
+    {
+        "word": "Everywhere",
+        "type": [
+            " [\/ev.ri.we\u0259r\/]"
+        ],
+        "definition": [
+            "Hamma Yerda"
+        ]
+    },
+    {
+        "word": "Evidence",
+        "type": [
+            " [\/ev.\u026a.d\u0259nts\/]"
+        ],
+        "definition": [
+            "Asos"
+        ]
+    },
+    {
+        "word": "Evident",
+        "type": [
+            " [\/ev.\u026a.d\u0259nt\/]"
+        ],
+        "definition": [
+            "Ravshan"
+        ]
+    },
+    {
+        "word": "Evil",
+        "type": [
+            " [\/i:.v\u0259l\/]"
+        ],
+        "definition": [
+            "Yomon"
+        ]
+    },
+    {
+        "word": "Evoke",
+        "type": [
+            " [\/\u026av\u0259\u028ak\/]"
+        ],
+        "definition": [
+            "Eslatmoq"
+        ]
+    },
+    {
+        "word": "Evolution",
+        "type": [
+            " [\/i.v\u0259lu.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Evolutsiya"
+        ]
+    },
+    {
+        "word": "Evolve",
+        "type": [
+            " [\/\u026av\u0252lv\/]"
+        ],
+        "definition": [
+            "Rivojlantirmoq"
+        ]
+    },
+    {
+        "word": "Ewe",
+        "type": [
+            " [\/ju:\/]"
+        ],
+        "definition": [
+            "Qo\u02bby"
+        ]
+    },
+    {
+        "word": "Ex",
+        "type": [
+            " [\/eks-\/]"
+        ],
+        "definition": [
+            "Sobiq"
+        ]
+    },
+    {
+        "word": "Exact",
+        "type": [
+            " [\/\u026agz\u00e6kt\/]"
+        ],
+        "definition": [
+            "Aniq"
+        ]
+    },
+    {
+        "word": "Exactly",
+        "type": [
+            " [\/\u026agz\u00e6kt.li\/]"
+        ],
+        "definition": [
+            "Aynan"
+        ]
+    },
+    {
+        "word": "Exaggerate",
+        "type": [
+            " [\/\u026agz\u00e6d\u0292.\u0259.re\u026at\/]"
+        ],
+        "definition": [
+            "Oshirib Gapirmoq"
+        ]
+    },
+    {
+        "word": "Exaggeration",
+        "type": [
+            " [\/\u026agz\u00e6d\u0292.\u0259re\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Mubolag\u02bba"
+        ]
+    },
+    {
+        "word": "Exalted",
+        "type": [
+            " [\/\u026agz\u0251l.t\u026ad\/]"
+        ],
+        "definition": [
+            "Quvonchli"
+        ]
+    },
+    {
+        "word": "Exam",
+        "type": [
+            " [\/\u026agz\u00e6m\/]"
+        ],
+        "definition": [
+            "Imtihon"
+        ]
+    },
+    {
+        "word": "Examination",
+        "type": [
+            " [\/\u026agz\u00e6m.\u026ane\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Imtihon"
+        ]
+    },
+    {
+        "word": "Examine",
+        "type": [
+            " [\/\u026agz\u00e6m.\u026an\/]"
+        ],
+        "definition": [
+            "Tekshirmoq"
+        ]
+    },
+    {
+        "word": "Example",
+        "type": [
+            " [\/\u026agz\u0251m.pl\/]"
+        ],
+        "definition": [
+            "Namuna"
+        ]
+    },
+    {
+        "word": "Exasperate",
+        "type": [
+            " [\/\u026agz\u0251:.sp\u0259.re\u026at\/]"
+        ],
+        "definition": [
+            "G\u02bbazablantirmoq"
+        ]
+    },
+    {
+        "word": "Excavate",
+        "type": [
+            " [\/ek.sk\u0259.ve\u026at\/]"
+        ],
+        "definition": [
+            "Kavlamoq"
+        ]
+    },
+    {
+        "word": "Excavation",
+        "type": [
+            " [\/eks.k\u0259ve\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Qazish"
+        ]
+    },
+    {
+        "word": "Exceed",
+        "type": [
+            " [\/\u026aksi:d\/]"
+        ],
+        "definition": [
+            "Oshib Ketmoq"
+        ]
+    },
+    {
+        "word": "Exceedingly",
+        "type": [
+            " [\/\u026aksi.d\u026a\u014b.li\/]"
+        ],
+        "definition": [
+            "Juda Ham"
+        ]
+    },
+    {
+        "word": "Excel",
+        "type": [
+            " [\/\u026aksel\/]"
+        ],
+        "definition": [
+            "Ortiq Bo\u02bblmoq"
+        ]
+    },
+    {
+        "word": "Excellency",
+        "type": [
+            " [\/ek.s\u0259l.\u0259nt.si\/]"
+        ],
+        "definition": [
+            "Janobi Oliylari"
+        ]
+    },
+    {
+        "word": "Excellent",
+        "type": [
+            " [\/ek.s\u0259l.\u0259nt\/]"
+        ],
+        "definition": [
+            "Alo"
+        ]
+    },
+    {
+        "word": "Except",
+        "type": [
+            " [\/\u026aksept\/]"
+        ],
+        "definition": [
+            "Boshqa"
+        ]
+    },
+    {
+        "word": "Exception",
+        "type": [
+            " [\/\u026aksep.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Mustasno"
+        ]
+    },
+    {
+        "word": "Exceptional",
+        "type": [
+            " [\/\u026aksep.\u0283\u0259n.\u0259l\/]"
+        ],
+        "definition": [
+            "G\u02bbayrioddiy"
+        ]
+    },
+    {
+        "word": "Excerpt",
+        "type": [
+            " [\/ek.s\u025c:pt\/]"
+        ],
+        "definition": [
+            "Parcha"
+        ]
+    },
+    {
+        "word": "Excess",
+        "type": [
+            " [\/ekses\/]"
+        ],
+        "definition": [
+            "Ortiq"
+        ]
+    },
+    {
+        "word": "Excessive",
+        "type": [
+            " [\/ekses.\u026av\/]"
+        ],
+        "definition": [
+            "Haddan Ortiq"
+        ]
+    },
+    {
+        "word": "Exchange",
+        "type": [
+            " [\/\u026akst\u0283e\u026and\u0292\/]"
+        ],
+        "definition": [
+            "Almashish"
+        ]
+    },
+    {
+        "word": "Excite",
+        "type": [
+            " [\/\u026aksa\u026at\/]"
+        ],
+        "definition": [
+            "Xursand Qilmoq"
+        ]
+    },
+    {
+        "word": "Excited",
+        "type": [
+            " [\/\u026aksa\u026a.t\u026ad\/]"
+        ],
+        "definition": [
+            "Hayajonli"
+        ]
+    },
+    {
+        "word": "Excitement",
+        "type": [
+            " [\/\u026aksa\u026at.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Hayajon"
+        ]
+    },
+    {
+        "word": "Exciting",
+        "type": [
+            " [\/\u026aksa\u026a.t\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Ajoyib"
+        ]
+    },
+    {
+        "word": "Exclaim",
+        "type": [
+            " [\/\u026akskle\u026am\/]"
+        ],
+        "definition": [
+            "Hayqirmoq"
+        ]
+    },
+    {
+        "word": "Exclamation",
+        "type": [
+            " [\/ek.skl\u0259me\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Hayqiriq"
+        ]
+    },
+    {
+        "word": "Exclude",
+        "type": [
+            " [\/\u026aksklu:d\/]"
+        ],
+        "definition": [
+            "Chiqarib Tashlamoq"
+        ]
+    },
+    {
+        "word": "Excluding",
+        "type": [
+            " [\/\u026aksklu:.d\u026a\u014b\/]"
+        ],
+        "definition": [
+            "Tashqari"
+        ]
+    },
+    {
+        "word": "Exclusion",
+        "type": [
+            " [\/\u026aksklu.\u0292\u0259n\/]"
+        ],
+        "definition": [
+            "Chiqarib Tashlash"
+        ]
+    },
+    {
+        "word": "Exclusive",
+        "type": [
+            " [\/\u026aksklu:.s\u026av\/]"
+        ],
+        "definition": [
+            "Maxsus"
+        ]
+    },
+    {
+        "word": "Excommunicate",
+        "type": [
+            " [\/ek.sk\u0259mju.n\u026a.ke\u026at\/]"
+        ],
+        "definition": [
+            "Cherkovdan Chetlatmoq"
+        ]
+    },
+    {
+        "word": "Excrement",
+        "type": [
+            " [\/ek.skr\u026a.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Najosat"
+        ]
+    },
+    {
+        "word": "Excrete",
+        "type": [
+            " [\/\u026akskri:t]"
+        ],
+        "definition": [
+            "Ajratmoq"
+        ]
+    },
+    {
+        "word": "Excursion",
+        "type": [
+            " [\/\u026aksk\u025c.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Ekskursiya"
+        ]
+    },
+    {
+        "word": "Excuse",
+        "type": [
+            " [\/\u026akskju:z\/]"
+        ],
+        "definition": [
+            "Uzr"
+        ]
+    },
+    {
+        "word": "Execute",
+        "type": [
+            " [\/ek.s\u026a.kju:t\/]"
+        ],
+        "definition": [
+            "Bajarmoq"
+        ]
+    },
+    {
+        "word": "Execution",
+        "type": [
+            " [\/ek.s\u026akju:.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Ijro"
+        ]
+    },
+    {
+        "word": "Executioner",
+        "type": [
+            " [\/ek.s\u026akju.\u0283\u0259n.\u0259r\/]"
+        ],
+        "definition": [
+            "Jallod"
+        ]
+    },
+    {
+        "word": "Executive",
+        "type": [
+            " [\/\u026agzek.j\u028a.t\u026av\/]"
+        ],
+        "definition": [
+            "Ijrochi"
+        ]
+    },
+    {
+        "word": "Exemplary",
+        "type": [
+            " [\/\u026agzem.pl\u0259.ri\/]"
+        ],
+        "definition": [
+            "Namunali"
+        ]
+    },
+    {
+        "word": "Exemplify",
+        "type": [
+            " [\/\u026agzem.pl\u026a.fa\u026a\/]"
+        ],
+        "definition": [
+            "Misol Keltirmoq"
+        ]
+    },
+    {
+        "word": "Exempt",
+        "type": [
+            " [\/\u026agzempt\/]"
+        ],
+        "definition": [
+            "Ozod Qilmoq"
+        ]
+    },
+    {
+        "word": "Exemption",
+        "type": [
+            " [\/\u026agzemp.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Ozod Etish"
+        ]
+    },
+    {
+        "word": "Exercise",
+        "type": [
+            " [\/ek.s\u0259.sa\u026az\/]"
+        ],
+        "definition": [
+            "Mashq"
+        ]
+    },
+    {
+        "word": "Exert",
+        "type": [
+            " [\/\u026agz\u025c:t\/]"
+        ],
+        "definition": [
+            "Zo\u02bbr Bermoq"
+        ]
+    },
+    {
+        "word": "Exertion",
+        "type": [
+            " [\/\u026agz\u025c:.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Zo\u02bbriqish"
+        ]
+    },
+    {
+        "word": "Exhale",
+        "type": [
+            " [\/ekshe\u026al\/]"
+        ],
+        "definition": [
+            "Nafas Chiqarmoq"
+        ]
+    },
+    {
+        "word": "Exhaust",
+        "type": [
+            " [\/\u026agz\u0254:st\/]"
+        ],
+        "definition": [
+            "Charchatmoq"
+        ]
+    },
+    {
+        "word": "Exhausted",
+        "type": [
+            " [\/\u026agz\u0254:.st\u026ad\/]"
+        ],
+        "definition": [
+            "Charchagan"
+        ]
+    },
+    {
+        "word": "Exhaustive",
+        "type": [
+            " [\/\u026agz\u0254:.st\u026av\/]"
+        ],
+        "definition": [
+            "To\u02bbliq"
+        ]
+    },
+    {
+        "word": "Exhibit",
+        "type": [
+            " [\/\u026agz\u026ab.\u026at\/]"
+        ],
+        "definition": [
+            "Ko\u02bbrgazmaga Qo\u02bbymoq"
+        ]
+    },
+    {
+        "word": "Exhibition",
+        "type": [
+            " [\/ek.s\u026ab\u026a\u0283.\u0259n\/]"
+        ],
+        "definition": [
+            "Ko\u02bbrgazma"
+        ]
+    },
+    {
+        "word": "Exhume",
+        "type": [
+            " [\/ekshju:m\/]"
+        ],
+        "definition": [
+            "Qabrdan Kavlab Olmoq"
+        ]
+    },
+    {
+        "word": "Exile",
+        "type": [
+            " [\/ek.sa\u026al\/]"
+        ],
+        "definition": [
+            "Surgun"
+        ]
+    },
+    {
+        "word": "Exist",
+        "type": [
+            " [\/\u026agz\u026ast\/]"
+        ],
+        "definition": [
+            "Mavjud Bo\u02bblmoq"
+        ]
+    },
+    {
+        "word": "Existence",
+        "type": [
+            " [\/\u026agz\u026as.t\u0259nts\/]"
+        ],
+        "definition": [
+            "Mavjudlik"
+        ]
+    },
+    {
+        "word": "Existent",
+        "type": [
+            " [\/\u026agz\u026as.t\u0259nt\/]"
+        ],
+        "definition": [
+            "Mavjud Bo\u02bblgan"
+        ]
+    },
+    {
+        "word": "Exit",
+        "type": [
+            " [\/ek.s\u026at\/]"
+        ],
+        "definition": [
+            "Chiqish"
+        ]
+    },
+    {
+        "word": "Exorbitant",
+        "type": [
+            " [\/\u026agz\u0254:.b\u026a.t\u0259nt\/]"
+        ],
+        "definition": [
+            "Haddan Tashqari"
+        ]
+    },
+    {
+        "word": "Exotic",
+        "type": [
+            " [\/\u026agz\u0252t.\u026ak\/]"
+        ],
+        "definition": [
+            "G\u02bbalati"
+        ]
+    },
+    {
+        "word": "Expand",
+        "type": [
+            " [\/\u026aksp\u00e6nd\/]"
+        ],
+        "definition": [
+            "Kengaymoq"
+        ]
+    },
+    {
+        "word": "Expansion",
+        "type": [
+            " [\/\u026aksp\u00e6n.t\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Kengayish"
+        ]
+    },
+    {
+        "word": "Expatriate",
+        "type": [
+            " [\/eksp\u00e6t.ri.\u0259t\/]"
+        ],
+        "definition": [
+            "Muhojir"
+        ]
+    },
+    {
+        "word": "Expect",
+        "type": [
+            " [\/\u026akspekt\/]"
+        ],
+        "definition": [
+            "Umid Qilmoq"
+        ]
+    },
+    {
+        "word": "Expectant",
+        "type": [
+            " [\/\u026akspek.t\u0259nt\/]"
+        ],
+        "definition": [
+            "Umidvor"
+        ]
+    },
+    {
+        "word": "Expectation",
+        "type": [
+            " [\/ek.spekte\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Umid"
+        ]
+    },
+    {
+        "word": "Expedient",
+        "type": [
+            " [\/\u026akspi:.di\u0259nt\/]"
+        ],
+        "definition": [
+            "Foydali"
+        ]
+    },
+    {
+        "word": "Expedition",
+        "type": [
+            " [\/ek.sp\u0259d\u026a\u0283.\u0259n\/]"
+        ],
+        "definition": [
+            "Ekspeditsiya"
+        ]
+    },
+    {
+        "word": "Expel",
+        "type": [
+            " [\/\u026akspel\/]"
+        ],
+        "definition": [
+            "Haydamoq"
+        ]
+    },
+    {
+        "word": "Expend",
+        "type": [
+            " [\/\u026akspend\/]"
+        ],
+        "definition": [
+            "Sarflamoq"
+        ]
+    },
+    {
+        "word": "Expenditure",
+        "type": [
+            " [\/\u026akspen.d\u026a.t\u0283\u0259r\/]"
+        ],
+        "definition": [
+            "Xarajat"
+        ]
+    },
+    {
+        "word": "Expense",
+        "type": [
+            " [\/\u026akspents\/]"
+        ],
+        "definition": [
+            "Xarajat"
+        ]
+    },
+    {
+        "word": "Expensive",
+        "type": [
+            " [\/\u026akspent.s\u026av\/]"
+        ],
+        "definition": [
+            "Qimmat"
+        ]
+    },
+    {
+        "word": "Experience",
+        "type": [
+            " [\/\u026aksp\u026a\u0259.ri.\u0259nts\/]"
+        ],
+        "definition": [
+            "Tajriba"
+        ]
+    },
+    {
+        "word": "Experienced",
+        "type": [
+            " [\/\u026aksp\u026a\u0259.ri.\u0259ntst\/]"
+        ],
+        "definition": [
+            "Tajribali"
+        ]
+    },
+    {
+        "word": "Experiment",
+        "type": [
+            " [\/\u026aksper.\u026a.m\u0259nt\/]"
+        ],
+        "definition": [
+            "Tajriba"
+        ]
+    },
+    {
+        "word": "Expert",
+        "type": [
+            " [\/ek.sp\u025c:t\/]"
+        ],
+        "definition": [
+            "Ekspert"
+        ]
+    },
+    {
+        "word": "Expertise",
+        "type": [
+            " [\/ek.sp\u025c:ti:z\/]"
+        ],
+        "definition": [
+            "Ekspertiza"
+        ]
+    },
+    {
+        "word": "Expire",
+        "type": [
+            " [\/\u026akspa\u026a\u0259r\/]"
+        ],
+        "definition": [
+            "Tugamoq"
+        ]
+    },
+    {
+        "word": "Explain",
+        "type": [
+            " [\/\u026aksple\u026an\/]"
+        ],
+        "definition": [
+            "Tushuntirmoq"
+        ]
+    },
+    {
+        "word": "Explanation",
+        "type": [
+            " [\/ek.spl\u0259ne\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Tushuntirish"
+        ]
+    },
+    {
+        "word": "Explicit",
+        "type": [
+            " [\/\u026akspl\u026as.\u026at\/]"
+        ],
+        "definition": [
+            "Aniq"
+        ]
+    },
+    {
+        "word": "Explode",
+        "type": [
+            " [\/\u026akspl\u0259\u028ad\/]"
+        ],
+        "definition": [
+            "Portlamoq"
+        ]
+    },
+    {
+        "word": "Exploit",
+        "type": [
+            " [\/\u026akspl\u0254\u026at\/]"
+        ],
+        "definition": [
+            "Ishlatmoq"
+        ]
+    },
+    {
+        "word": "Exploration",
+        "type": [
+            " [\/ek.spl\u0259re\u026a.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Tekshiruv"
+        ]
+    },
+    {
+        "word": "Explore",
+        "type": [
+            " [\/\u026akspl\u0254:r\/]"
+        ],
+        "definition": [
+            "Kashf Qilmoq"
+        ]
+    },
+    {
+        "word": "Explorer",
+        "type": [
+            " [\/\u026akspl\u0254:.r\u0259r\/]"
+        ],
+        "definition": [
+            "Tadqiqotchi"
+        ]
+    },
+    {
+        "word": "Explosion",
+        "type": [
+            " [\/\u026akspl\u0259\u028a.\u0292\u0259n\/]"
+        ],
+        "definition": [
+            "Portlash"
+        ]
+    },
+    {
+        "word": "Explosive",
+        "type": [
+            " [\/\u026akspl\u0259\u028a.s\u026av\/]"
+        ],
+        "definition": [
+            "Portlovchi"
+        ]
+    },
+    {
+        "word": "Export",
+        "type": [
+            " [\/\u026aksp\u0254:t\/]"
+        ],
+        "definition": [
+            "Eksport Qilmoq"
+        ]
+    },
+    {
+        "word": "Expose",
+        "type": [
+            " [\/eksp\u0259\u028a.ze\u026a\/]"
+        ],
+        "definition": [
+            "Fosh Etmoq"
+        ]
+    },
+    {
+        "word": "Exposition",
+        "type": [
+            " [\/ek.sp\u0259z\u026a\u0283.\u0259n\/]"
+        ],
+        "definition": [
+            "Izohlash"
+        ]
+    },
+    {
+        "word": "Exposure",
+        "type": [
+            " [\/\u026aksp\u0259\u028a.\u0292\u0259r\/]"
+        ],
+        "definition": [
+            "Fosh Qilish"
+        ]
+    },
+    {
+        "word": "Express",
+        "type": [
+            " [\/\u026akspres\/]"
+        ],
+        "definition": [
+            "Ifodalamoq"
+        ]
+    },
+    {
+        "word": "Express-Way",
+        "type": [
+            " [\/\u026akspres.we\u026a\/]"
+        ],
+        "definition": [
+            "Ko\u02bbp Qatnovli Yo\u02bbl"
+        ]
+    },
+    {
+        "word": "Expression",
+        "type": [
+            " [\/\u026akspre\u0283.\u0259n\/]"
+        ],
+        "definition": [
+            "Ifoda"
+        ]
+    },
+    {
+        "word": "Expressive",
+        "type": [
+            " [\/\u026akspres.\u026av\/]"
+        ],
+        "definition": [
+            "Tasirli"
+        ]
+    },
+    {
+        "word": "Expropriate",
+        "type": [
+            " [\/\u026akspr\u0259\u028a.pri.e\u026at\/]"
+        ],
+        "definition": [
+            "Tortib Olmoq"
+        ]
+    },
+    {
+        "word": "Expulsion",
+        "type": [
+            " [\/\u026aksp\u028cl.\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Quvish"
+        ]
+    },
+    {
+        "word": "Exquisite",
+        "type": [
+            " [\/\u026akskw\u026az.\u026at\/]"
+        ],
+        "definition": [
+            "Nafis"
+        ]
+    },
+    {
+        "word": "Extant",
+        "type": [
+            " [\/ekst\u00e6nt\/]"
+        ],
+        "definition": [
+            "Hayot Bo\u02bblgan"
+        ]
+    },
+    {
+        "word": "Extend",
+        "type": [
+            " [\/\u026akstend\/]"
+        ],
+        "definition": [
+            "Uzaymoq"
+        ]
+    },
+    {
+        "word": "Extension",
+        "type": [
+            " [\/\u026aksten.t\u0283\u0259n\/]"
+        ],
+        "definition": [
+            "Cho\u02bbzilish"
+        ]
+    },
+    {
+        "word": "Extensive",
+        "type": [
+            " [\/\u026akstent.s\u026av\/]"
+        ],
+        "definition": [
+            "Keng"
+        ]
+    },
+    {
+        "word": "Extent",
+        "type": [
+            " [\/\u026akstent\/]"
+        ],
+        "definition": [
+            "O\u02bblcham"
+        ]
+    },
+    {
+        "word": "Exterior",
+        "type": [
+            " [\/\u026akst\u026a\u0259.ri.\u0259r\/]"
+        ],
+        "definition": [
+            "Tashqi"
+        ]
+    },
+    {
+        "word": "Exterminate",
+        "type": [
+            " [\/\u026akst\u025c.m\u026a.ne\u026at\/]"
+        ],
+        "definition": [
+            "Qirib Tashlamoq"
+        ]
+    },
+    {
+        "word": "External",
+        "type": [
+            " [\/\u026akst\u025c:.n\u0259l\/]"
+        ],
+        "definition": [
+            "Tashqi"
+        ]
+    },
+    {
+        "word": "Extinct",
+        "type": [
+            " [\/\u026akst\u026a\u014bkt\/]"
+        ],
+        "definition": [
+            "So\u02bbngan"
+        ]
+    },
+    {
+        "word": "Extinguish",
+        "type": [
+            " [\/\u026akst\u026a\u014b.gw\u026a\u0283\/]"
+        ],
+        "definition": [
+            "O\u02bbt O\u02bbchirmoq"
+        ]
+    },
+    {
+        "word": "Extinguisher",
+        "type": [
+            " [\/\u026akst\u026a\u014b.gw\u026a.\u0283\u0259r\/]"
+        ],
+        "definition": [
+            "O\u02bbt O\u02bbchirgich"
+        ]
+    },
+    {
+        "word": "Extort",
+        "type": [
+            " [\/\u026akst\u0254:t\/]"
+        ],
+        "definition": [
+            "Tortib Olmoq"
+        ]
+    },
+    {
+        "word": "Extra",
+        "type": [
+            " [\/ek.str\u0259\/]"
+        ],
+        "definition": [
+            "Qo\u02bbshimcha"
+        ]
+    },
+    {
+        "word": "Extract",
+        "type": [
+            " [\/\u026akstr\u00e6kt\/]"
+        ],
+        "definition": [
+            "Olib Tashlamoq"
+        ]
+    },
+    {
+        "word": "Extracurricular",
+        "type": [
+            " [\/ek.str\u0259.k\u0259r\u026ak.j\u028a.l\u0259r\/]"
+        ],
+        "definition": [
+            "Mustaqil"
+        ]
+    },
+    {
+        "word": "Extradite",
+        "type": [
+            " [\/ek.str\u0259.da\u026at\/]"
+        ],
+        "definition": [
+            "Tutib Berish"
+        ]
+    },
+    {
+        "word": "Extraordinary",
+        "type": [
+            " [\/\u026akstr\u0254:.d\u026an.\u0259r.i\/]"
+        ],
+        "definition": [
+            "G\u02bbayrioddiy"
+        ]
+    },
+    {
+        "word": "Extravagant",
+        "type": [
+            " [\/\u026akstr\u00e6v.\u0259.g\u0259nt\/]"
+        ],
+        "definition": [
+            "Isrof Qilish"
+        ]
+    },
+    {
+        "word": "Extreme",
+        "type": [
+            " [\/\u026akstri:m\/]"
+        ],
+        "definition": [
+            "Juda Yuqori"
+        ]
+    },
+    {
+        "word": "Extremity",
+        "type": [
+            " [\/\u026akstrem.\u026a.ti\/]"
+        ],
+        "definition": [
+            "Chet"
+        ]
+    },
+    {
+        "word": "Extricate",
+        "type": [
+            " [\/ek.str\u026a.ke\u026at\/]"
+        ],
+        "definition": [
+            "Qutqarmoq"
+        ]
+    },
+    {
+        "word": "Extrovert",
+        "type": [
+            " [\/ek.str\u0259.v\u025c:t\/]"
+        ],
+        "definition": [
+            "Ishchan Kishi"
+        ]
+    },
+    {
+        "word": "Exuberant",
+        "type": [
+            " [\/\u026agzju:.b\u0259r.\u0259nt\/]"
+        ],
+        "definition": [
+            "Jo\u02bbshqin"
+        ]
+    },
+    {
+        "word": "Exult",
+        "type": [
+            " [\/\u026agz\u028clt\/]"
+        ],
+        "definition": [
+            "Quvonmoq"
+        ]
+    },
+    {
+        "word": "Eye",
+        "type": [
+            " [\/a\u026a\/]"
+        ],
+        "definition": [
+            "Ko\u02bbz"
+        ]
+    },
+    {
+        "word": "Eyebrow",
+        "type": [
+            " [\/a\u026a.bra\u028a\/]"
+        ],
+        "definition": [
+            "Qosh"
+        ]
+    },
+    {
+        "word": "Eyelash",
+        "type": [
+            " [\/a\u026a.l\u00e6\u0283\/]"
+        ],
+        "definition": [
+            "Kiprik"
+        ]
+    },
+    {
+        "word": "Eyelid",
+        "type": [
+            " [\/a\u026a.l\u026ad\/]"
+        ],
+        "definition": [
+            "Qovoq"
+        ]
+    },
+    {
+        "word": "Eyewitness",
+        "type": [
+            " [\/a\u026aw\u026at.n\u0259s\/]"
+        ],
+        "definition": [
+            "Guvoh"
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "word": "Yo\u02bblka",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarning konsentrik aylana ko\u2018rinishidagi disk xotirasida o\u2018rni va joylashishi. Magnit yozish usulida ma\u2019lumotlar bu konsentrik aylana bo\u2018ylab ketma-ket joylashadi. Kompakt - disklarda ma\u2019lumotlar bitta spiralsimon yo\u2018lka bo\u2018ylab yoziladi. Ba\u2019zan trek deb ataladi"
+        ]
+    },
+    {
+        "word": "Yuklash",
+        "type": [],
+        "definition": [
+            "Tizimni ishga tayyorlash jarayoni; dasturni tashqi xotiradan operativ xotiraga yuborishdan, qo\u2018shimcha fayllarni ulagan holda, dasturning bajarilishidan iborat. Yuklash vaqti tizimning hajmiga va kompyuterning imkoniyatlariga bog\u2018liq."
+        ]
+    },
+    {
+        "word": "Yuklash sektori",
+        "type": [],
+        "definition": [
+            "Qattiq diskdagi, disketdagi yoki axborot saqlashning boshqa diskli qurilmasidagi alohida sektor. Disketa uchun bu, birinchi fizik sektor, qattiq disk uchun \u2013 har bir bo\u2018lim uchun birinchi fizik sektor. Kompyuterni disketadan yuklash jarayonida, u xotiraga POST dasturi bilan yuklanadi, unga long jump komandasini boshqarish topshiriladi."
+        ]
+    },
+    {
+        "word": "Yulduz",
+        "type": [],
+        "definition": [
+            "Kompyuterlarni tarmoqqa birlashtirish usuli: bitta kompyuter ajratiladi va u asosiy (bosh) kompyuter ataladi, qolgan barcha kompyuterlar u bilan bevosita ulanadi. Ma\u2019lumotlar bitta periferik kompyuterdan boshqasiga faqat bosh kompyuter orqali uzatilishi mumkin. Bosh kompyuter ishlamay qolsa, butun tarmoq ishlash qobiliyatini yo\u2018qotadi."
+        ]
+    },
+    {
+        "word": "Yangi texnologiya fayl tizimi",
+        "type": [],
+        "definition": [
+            "Microsoft Windows NT operatsion tizimlar oilasi uchun belgilangan standart fayl tizimi."
+        ]
+    },
+    {
+        "word": "Yo\u02bbnaltirilgan graf",
+        "type": [],
+        "definition": [
+            "Har bir qirrasi yo\u2018nalishga ega bo\u2018lgan graf."
+        ]
+    },
+    {
+        "word": "Yo\u02bbl ko\u02bbrsatish",
+        "type": [],
+        "definition": [
+            "Kompyuter yoki tizimning, berilgan onda bajariladigan dastur foydalanuvchidan nima kutishligi to\u2018g\u2018risida foydalanuvchiga yuboradigan xabari. Xabar qisqa va tushunarli bo\u2018lishi kerak, ba\u2019zida u shartli bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Yordam",
+        "type": [],
+        "definition": [
+            "Har qanday kompyuter tizimining funksiyasi, foydalanuvchiga ma\u2019lum bir tizim to\u2018g\u2018risida zarur va qo\u2018shimcha ma\u2019lumotlar olish imkonini beradi. Ko\u2018pgina tizimlarda kontekstli yordam mavjud, bunda tizim mavjud vaziyatda yuzaga kelgan muayyan savolga javob berishga harakat qiladi. Hozirgi vaqtda dastur (tizim) bo\u2018yicha barcha zarur hujjatlarni yordam ko\u2018rinishida rasmiylashtirish tendensiyasi yuzaga keldi. Yordam, odatda asosiy dasturdan murojaat qilinadigan fayl ko\u2018rinishida taqdim qilinadi."
+        ]
+    },
+    {
+        "word": "Yo\u02bbl",
+        "type": [],
+        "definition": [
+            "Diskda fayl, katalog yoki papkaning joylashgan o\u2018rnini belgilaydigan satrli ifoda."
+        ]
+    },
+    {
+        "word": "Yunikod",
+        "type": [],
+        "definition": [
+            "Barcha milliy alifbolar simvollarining ISO 10646 kodlashtirish standarti. Bunda har bir simvol uchun 16-bitli (ikki baytli) yagona kombinatsiyadan foydalaniladi."
+        ]
+    },
+    {
+        "word": "Yadro",
+        "type": [],
+        "definition": [
+            "Operatsion tizimning, ilovalarga protsessor vaqti, xotira, tashqi apparat ta\u2019minoti, axborotni kiritish va chiqarish tashqi qurilmasi kabi kompyuter resurslaridan foydalanishni ta\u2019minlaydigan markaziy qismi. Yadro, shuningdek, fayl tizimi va tarmoq protokollari servislarini ham ifodalaydi."
+        ]
+    },
+    {
+        "word": "Yacheykasimon topologiya-",
+        "type": [],
+        "definition": [
+            "Kompyuterlarni tarmoqqa birlashtirish sxemasi, bunda fizik aloqa liniyalari yonma-yon turgan barcha kompyuterlar bilan o\u2018rnatilgan bo\u2018ladi. Bu topologiyaning afzalligi, uning o\u2018ta yuklanishlarga chidamliligida."
+        ]
+    },
+    {
+        "word": "Yashirish",
+        "type": [],
+        "definition": [
+            "Foydalanuvchi hali oshkora boshqa qiymatlarni bermagan holatda, tizim ishlaydigan alohida parametrlarning aniq qiymatlarini oldindan belgilash prinsipi. Yashirishdan tez-tez foydalaniladi, chunki standart harakatlarda ishlashni osonlashtiradi."
+        ]
+    }
+]

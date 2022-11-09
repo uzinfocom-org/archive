@@ -1,0 +1,121 @@
+[
+    {
+        "word": "Uzoq muddatli xotira",
+        "type": [],
+        "definition": [
+            "Uzoq muddat mobaynida ma\u2019lumotlarni saqlash uchun mo\u2018ljallangan kompyuter xotirlovchi qurilmasi. Saqlash vaqtida energiya ta\u2019minoti bo\u2018lishiga bog\u2018liq emas. Ma\u2019lumotlarni saqlashning turli fizik: magnit, optik, magnitooptik prinsiplariga ega"
+        ]
+    },
+    {
+        "word": "Uy kompyuteri",
+        "type": [],
+        "definition": [
+            "Uyda foydalaniladigan, universal, ko\u2018p funksiyali, muomala qilish oson bo\u2018lgan, ishonchli, yuqori unumli, arzon, zamonaviy dizaynga ega kompyuter"
+        ]
+    },
+    {
+        "word": "Uz - faks",
+        "type": [],
+        "definition": [
+            "Faksimil xabarlar, hujjatlarni kommutatsiya liniyalari (odatda, telefon liniyalari) orqali masofaga uzatish hamda masofadan qabul qilish qurilmasi."
+        ]
+    },
+    {
+        "word": "Ultra Sparc",
+        "type": [],
+        "definition": [
+            "Umumiy qo\u2018llanishdagi, 64 razryadli, qisqartirilgan komandalar to\u2018plamiga ega mikroprotsessor. 143, 167, 182, 200 MHz takt chastotasi bilan chiqariladi, 0,5 mikronli SMOS texnologiya bo\u2018yicha qilingan, 5,2 mln tranzistorni ichiga oladi. Komandalar tizimi grafik ma\u2019lumotlarni qayta ishlash uchun ko\u2018rsatmalarni ichiga oladi."
+        ]
+    },
+    {
+        "word": "USB \u2013 flesh-topla\u01f5\u0131sh",
+        "type": [],
+        "definition": [
+            "Flesh-xotira tashuvchisi sifatida foydalaniladigan va USB interfeys orqali kompyuterga yoki boshqa o\u2018qish qurilmasiga ulanadigan xotirlovchi qurilma."
+        ]
+    },
+    {
+        "word": "Umumiy shina",
+        "type": [],
+        "definition": [
+            "Periferik qurilmalar ulanadigan kompyuterda elektr signallarni uzatish uchun mo\u2018ljallangan yagona kanal. Kompyuter tarmog\u2018ining sxemasi \u2013 barcha kompyuterlar va tarmoq qurilmalari ma\u2019lumotlar uzatiladigan yagona tarmoq kanaliga ulanadi."
+        ]
+    },
+    {
+        "word": "Umumiy arxitektura standarti",
+        "type": [],
+        "definition": [
+            "Mikrosxemalar ishlab chiqaruvchilar guruhi tomonidan ishlab chiqilgan asosiy platalar arxitekturasining umumiy standarti; asosiy plataning funksional bloklarga ajratilishini tartiblashtiradi. Standartning asosini PCI shinasi tashkil qiladi."
+        ]
+    },
+    {
+        "word": "Umumiy shlyuz interfeysi",
+        "type": [],
+        "definition": [
+            "HTTP-server dasturlarini yaratish uchun mo\u2018ljallangan, NCSA tomonidan ishlab chiqilgan tarmoq standarti. Web-serverlarda ssenariylar va dasturlar orasida ma\u2019lumotlar almashinishda, keyin web-sahifa yoki brauzerga ma\u2019lumotlarni uzatishda qo\u2018llaniladi. CGI ssenariylari odatda, PERL tilida yoziladi va web-sahifaning dinamik mazmunini ishlab chiqadi (masalan, elektron tijoratda buyurtmalar savatini hosil qiladi)."
+        ]
+    },
+    {
+        "word": "UNIX operatsion tizimi",
+        "type": [],
+        "definition": [
+            "Ko\u2018p foydalanuvchili ochiq operatsion tizim. Asosiy versiyalari Amerikaning AT&T, UNIX Systems Laboratories, Sun Soft, NeXTComputer firmalari, shuningdek, Stendford va Berkli universitetlarining kompyuter tizimlarini tadqiq qilish guruhi tomonidan ishlab chiqilgan. Tizim konseptsiyasining aniqligi, uning ko\u2018chirib bo\u2018lishliligi va ko\u2018lamliligi, o\u2018rnatish va qo\u2018llashning soddaligi, tarmoq komponentlarining operativ tizimga o\u2018rnatib bo\u2018lishlik, yuqori unumdorlik (tarmoq almashinish tezligi 1 Mbyte\/s ga yetadi) tizimning afzalliklariga kiradi. Tizim to\u2018xtashlarga chidamli."
+        ]
+    },
+    {
+        "word": "Unix Ware operatsion tizimi",
+        "type": [],
+        "definition": [
+            "Grafik, 32 bitli operatsion tizim, UNIX ga asoslangan, Novell firmasi tomonidan ishlab chiqilgan. Bu tizimda UNIX, MS-DOS, Windows uchun mo\u2018ljallangan ilovalar bilan ishlash mumkin."
+        ]
+    },
+    {
+        "word": "Uzelni dinamik konfiguratsiyalash protokoli",
+        "type": [],
+        "definition": [
+            "32-razryadli IP-adreslarning yetishmaslik muammosini yengillashtirish uchun ularning Internet dagi ish vaqtida IP- adreslarni lokal tarmoqning uzellariga (ishchi stansiyalariga) dinamik tayinlash uchun uzelni dinamik kongfiguratsiyalash protokoli. Uzellarga adreslarni o\u2018zlashtirish adreslarning markazlashtirilgan pulida amalga oshirilishi sababli, ularning noyobligi va nizoli adreslarning bo\u2018lmasligi kafolatlanadi."
+        ]
+    },
+    {
+        "word": "Uzel",
+        "type": [],
+        "definition": [
+            "1 Tarmoqqa ulanish nuqtasi, tarmoqqa ulangan qurilma; kompyuter tarmog\u2018idagi yoki ma\u2019lumotlar uzatish tarmog\u2018idagi bir xil protokoldan foydalanadigan ikkita tarmoqni bog\u2018laydigan kompyuterni o\u2018zida ifodalaydigan uzel. Ikkita o\u2018xshash tarmoqdagi ikki mos dasturning bog\u2018lanishini ta\u2019minlaydi. Uzatiladigan paketlarda bo\u2018ladigan adresli axborotdan foydalanadi. Tarmoq uzellari marshrutizatorlar kabi, ko\u2018priklardan farqli ravishda, tarmoq darajasidagi qurilmalar hisoblanadi.\r\n 2 Iyerarxik strukturada: struktura elementi, masalan, \u00abgipermatn uzeli\u00bb.\r\n 3 Ikki komponent o\u2018rtasidagi bog\u2018lovchi nuqta.\r\n 4 Windows 2000\/XP operatsion tizimida: boshqarish konsoliga tatbiqan, har qanday boshqariladigan obyekt, topshiriq yoki tur: masalan, kompyuterlar, foydalanuvchilar, Web sahifalar."
+        ]
+    },
+    {
+        "word": "Universal ketma-ket shina",
+        "type": [],
+        "definition": [
+            "1995 yili yettita yetakchi kompyuter va telekommunikatsiya firmalari (Compaq, IBM, Intel, NEC, Micrisoft, Digital, Northern Telecom) konsorsiumi tomonidan taklif etilgan, shaxsiy kompyuter va o\u2018rtacha tezlikli periferik qurilmalar o\u2018rtasida uncha qimmat bo\u2018lmagan shina orqali ma\u2019lumotlar almashinish uchun belgilangan standart. Qurilmani ulash, kompyuter qayta yuklanishini, tizim qayta konfiguratsiyalanishini yoki interfeysli karta o\u2018rnatilishini talab qilmaydi. Qurilmani aniqlash va tegishli drayverni o\u2018rnatish kompyuterda avtomat ravishda odamning aralashuvisiz bajariladi."
+        ]
+    },
+    {
+        "word": "Universal resurs identifikatori",
+        "type": [],
+        "definition": [
+            "Qandaydir resurs: hujjat, tasvir, fayl, xizmat, elektron pochta qutisini identifikatsiya qilish imkonini beradigan simvolli satr."
+        ]
+    },
+    {
+        "word": "Universal resurslar joyini aniqlagich",
+        "type": [],
+        "definition": [
+            "Web brauzerning Internet tarmog\u2018idan resurs qidirishida ishlatiladigan URL-adres. Tim Berners-Li tomonidan kiritilgan. URL resurs, hujjat yoki uning qismining Internet dagi joylashgan o\u2018rnini ko\u2018rsatuvchi simvollarning standartlashtirilgan satrini ifodalaydi. U odatda protokolning tipini ko\u2018rsatish bilan boshlanadi (masalan, FTP:\/\/, agar hujjat FTP-serverda yoki http:\/\/ agar hujjat Web-uzelda bo\u2018lsa), keyin aniq axborot identifikatori keladi, masalan, server taalluqli bo\u2018lgan domen nomi, tashkilot nomi yoki shu serverdagi fayl nomining yo\u2018li. Suffiks tashkilotning turini ko\u2018rsatadi."
+        ]
+    },
+    {
+        "word": "Uzluksiz ta\u02bcminot qurilmasi",
+        "type": [],
+        "definition": [
+            "Tarkibida akkumulyatorlar bo\u2018lgan va asosiy elektr ta\u2019minot kuchlanishi tushib ketganda yoki sakrashlarida kompyuter va periferiyaning ta\u2019minoti va himoyasini ta\u2019minlaydigan, shuningdek, kuchlanish yo\u2018qolganda ma\u2019lumotlarni avtomatik ravishda saqlash imkoniyatiga ega qurilma."
+        ]
+    },
+    {
+        "word": "Utilita",
+        "type": [],
+        "definition": [
+            "Kompyuter va kompyuter dasturlariga texnik xizmat ko\u02bbrsatadigan xizmat dasturi. Utilita kompyuter tizimlarini sinovdan o\u02bbtkazish, operatsion tizim yoki uning qismlarini testlash va qayta tiklash, buzilgan yoki yo\u02bbqotilgan fayllarni qayta tiklash uchun xizmat qiladi."
+        ]
+    }
+]

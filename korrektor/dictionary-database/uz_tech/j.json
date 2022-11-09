@@ -1,0 +1,44 @@
+[
+    {
+        "word": "Joystik",
+        "type": [],
+        "definition": [
+            "Tizimga koordinatalar kiritishga mo\u2018ljallangan qurilma. Joystik plastmass g\u2018ilof shaklida yasalgan bo\u2018lib, unga tik ravishda dastak o\u2018rnatilgan. U hech bo\u2018lmaganda ikkita harakat erkinligi darajasiga ega. Boshqarish tugmachalari g\u2018ilofning ustida va qo\u2018l ushlagichning yuqori qismida joylashadi. Dastakning har tomonga harakatlanishi monitor ekranidagi kursorni boshqaradi. Joystik avtomatlashtirishning turli sohalarida va kompyuter o\u2018yinlarida ishlatiladi"
+        ]
+    },
+    {
+        "word": "JEIDA standarti",
+        "type": [],
+        "definition": [
+            "Kompyuterga \u00abkredit kartochkasi\u00bb turidagi har qanday qurilmalarni, jumladan, xotira kartalari, qattiq diskdagi to\u2018plagichlar, modemlarni ulash ta\u2019minlanadigan standart."
+        ]
+    },
+    {
+        "word": "JIT-kompilyatsiya",
+        "type": [],
+        "definition": [
+            "Bevosita dasturning ishlash vaqtida bayt-kodni mashina kodiga kompilyatsiya qilish yo\u2018li bilan, bayt-koddan foydalaniladigan dasturiy tizimlarning unumdorligini oshirish texnologiyasi."
+        ]
+    },
+    {
+        "word": "Java tili",
+        "type": [],
+        "definition": [
+            "Operatsion tizimlardan tortib tarmoq ilovalarigacha bo\u2018lgan dasturiy mahsulotlarni yaratish uchun mo\u2018ljallangan, obyektga yo\u2018naltirilgan dasturlash tili. Java tili \u2013 tarkibiga o\u2018zining komandalar tizimiga ega virtual mashina kiradigan tizimning qismlaridan biridir. Java tilidagi dastur virtual mashina tilidagi dasturga kompilyatsiya qilinadi. Binobarin, Java-ilova virtual mashina interpretatori bo\u2018lgan har qanday mashinada bajarilishi mumkin."
+        ]
+    },
+    {
+        "word": "Java Script tili",
+        "type": [],
+        "definition": [
+            "Ham server tomonda, ham mijoz tomonda bajariladigan ssenariylarni ishlab chiqish uchun mo\u2018ljallangan, obyektga yo\u2018naltirilgan til. Mijoz ilovalar HTML hujjatlarga o\u2018rnatiladi va ko\u2018rib chiqish paytida brauzer tomonidan talqin qilinadi, server ilovalar esa, bayt-kodlarga kompilyatsiya qilinadi. Java Script tili Netscape firmasi tomonidan ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Joylashtirish",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni, ularni qayta ishlash uchun mo\u2018ljallangan standart shakldan, saqlash va aloqa kanallari orqali uzatish uchun ixcham holda taqdim etiladigan shaklga o\u2018zgartirish jarayoni. Bu operatsiyani turli algoritmlar va turli siqish koeffitsiyentlari bilan amalga oshiradigan ko\u2018plab dasturlar mavjud. Joylashtirish mustaqil operatsiya, lekin arxivlashda ham foydalanilishi mumkin. Ba\u2019zan, arxivlash yoki siqish deb ataladi."
+        ]
+    }
+]

@@ -1,0 +1,247 @@
+[
+    {
+        "word": "Ilovalarni tez ishlab chiqish",
+        "type": [],
+        "definition": [
+            "Dasturiy mahsulot; vizual dasturlash va obyektga yo\u2018naltirilgan dasturlashdan foydalanish hisobiga, ilova tezda ishlab chiqilishini ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "Ikkilik sanoq tizimi",
+        "type": [],
+        "definition": [
+            "Asosi 2 bo\u2018lgan pozitsion sanoq tizimi. Sonlarni yozish uchun 0 va 1 ikkilik raqamlardan foydalaniladi. Informatikada asosiy sanoq tizimi hisoblanadi"
+        ]
+    },
+    {
+        "word": "Ikkilik izlash",
+        "type": [],
+        "definition": [
+            "Tartiblashtirilgan obyektlarning berilgan ko\u2018pligidan ma\u2019lum bir obyektni izlab topish algoritmi: ko\u2018plik ikki qismga bo\u2018linadi va izlanayotgan obyekt qaysi qismda ekanligi aniqlanadi. Obyekt bor bo\u2018lgan qism yana ikkita ko\u2018plikka bo\u2018linadi va h.k"
+        ]
+    },
+    {
+        "word": "Ikki tomonlama xotira moduli",
+        "type": [],
+        "definition": [
+            "DRAM xotira modullarining form-faktori. Modulning turli tomonlarida joylashgan kontaktlarning bog\u2018liq bo\u2018lmasligi DIMM ning asosiy farqi hisoblanadi. DIMM 64 (juftlikni nazorat qilmasdan) yoki 72 (juftlik yoki ESS kodi bo\u2018yicha nazorat qilish bilan) ma\u2019lumotlar uzatish liniyasida xatolarni aniqlash va tuzatish funksiyasini bajaradi"
+        ]
+    },
+    {
+        "word": "Identifikator",
+        "type": [],
+        "definition": [
+            "Tizimda yoki dasturlash tilida obyektga beriladigan, obyektni o\u2018ziga o\u2018xshash obyektlardan ajratib ko\u2018rsatish uchun mo\u2018ljallangan simvollar to\u2018plami. Identifikator tuziladigan alfavit va uni tuzish qoidalari tizim yoki dasturlash tili bilan belgilanadi. Identifikator ba\u2019zan nom deb ataladi."
+        ]
+    },
+    {
+        "word": "Iyerarxik ma\u02bclumotlar bazasi",
+        "type": [],
+        "definition": [
+            "Elementlari iyerarxik prinsip asosida tashkillashtirilgan ma\u2019lumotlar bazasi. Daraxtsimon graf bilan tavsiflanadi."
+        ]
+    },
+    {
+        "word": "Iyerarxiya",
+        "type": [],
+        "definition": [
+            "Darajalari qat\u2019iy ifodalangan obyektlar strukturasi. Quyi daraja obyektlari yuqori daraja obyektlariga bo\u2018ysunadi, agar ularning o\u2018rtasida bog\u2018lanish bo\u2018lsa. Iyerarxiya daraxt shaklida ko\u2018rsatilishi mumkin."
+        ]
+    },
+    {
+        "word": "Implikatsiya",
+        "type": [],
+        "definition": [
+            "Mantiqiy amal. Ikki R va Q mulohazaning implikatsiyasi \u2013 bu, R mulohaza chin, Q mulohaza yolg\u2018on bo\u2018lgandagina yolg\u2018on, qolgan barcha holat-larda chin bo\u2018ladigan yangi mulohazadir (R > Q deb belgilanadi, R dan Q kelib chiqadi deb o\u2018qiladi)."
+        ]
+    },
+    {
+        "word": "Invariant",
+        "type": [],
+        "definition": [
+            "Bajarilish jarayonida o\u2018zgarmaydigan dasturiy obyekt. Dasturlarning to\u2018g\u2018riligini isbotlashda foydalaniladi."
+        ]
+    },
+    {
+        "word": "Indeks",
+        "type": [],
+        "definition": [
+            "Berilgan har bir massivning har bir elementini identifikatsiya qilish uchun massiv nomiga qo\u2018yiladigan raqam (yoki raqamlar, agar ma\u2019lumotlar massivi ko\u2018p o\u2018lchamli bo\u2018lsa)."
+        ]
+    },
+    {
+        "word": "Indekslash",
+        "type": [],
+        "definition": [
+            "Axborot \u2013 izlash tili terminlarida hujjatlar va so\u2018roqlar mazmunini tavsiflash jarayoni; hujjatga, uning ma\u02bcnaviy mazmunini aks ettiradigan kalit so\u2018zlar to\u2018plamini belgilash."
+        ]
+    },
+    {
+        "word": "Indikator",
+        "type": [],
+        "definition": [
+            "Qurilmaning holati to\u2018g\u2018risida ko\u2018rgazmali xabar uchun yorug\u2018lik paneli bo\u2018lgan elektron sxema. Masalan, kompyuterning standart klaviaturasida katta harflar rejimi ulanganda, Caps Lock yozuvli indikator yonadi. Qurilmaning holati to\u2018g\u2018risidagi ma\u2019lumotlarni ichiga oladigan o\u2018zgaruvchi."
+        ]
+    },
+    {
+        "word": "Initsializatsiya",
+        "type": [],
+        "definition": [
+            "Dasturiy o\u2018zgaruvchilarga boshlang\u2018ich qiymatlar berish operatsiyasi."
+        ]
+    },
+    {
+        "word": "Inkapsulyatsiya",
+        "type": [],
+        "definition": [
+            "Dasturlash tilining obyekt deb nomlanadigan elementida, ma\u2019lumotlar va ular ustidagi amallarni birlashtirish. Obyektga yo\u2018naltirilgan dasturlash tushunchasi."
+        ]
+    },
+    {
+        "word": "Installyatsiya",
+        "type": [],
+        "definition": [
+            "Qandaydir tizimni (ko\u2018proq, kompyuter tizimini) ishga tushirish yoki o\u2018rnatish jarayoni."
+        ]
+    },
+    {
+        "word": "Instruksiya",
+        "type": [],
+        "definition": [
+            "Tizim, qurilma yoki alohida dastur bilan ishlash tarti-bini reglamentlaydigan hujjat. So\u2018nggi vaqtda kompyuterlar yoki dasturiy mahsulotlar uchun ins-truktsiya ko\u2018pincha, mashina tashuvchilardagi matnli fayl sifatida yetkazib berilmoqda."
+        ]
+    },
+    {
+        "word": "Integratsiyalashgan tizim",
+        "type": [],
+        "definition": [
+            "Yagona interfeysga ega bo\u2018lgan bir nechta turli xil tizimlarning ishini ta\u2019minlaydigan dasturiy mahsulot. Integratsiyalashgan tizim matn redaktoridan, amaliy grafikali elektron jadvallardan, ma\u2019lumotlar bazasini boshqarish tizimi va kommunikatsiya vositalaridan iborat."
+        ]
+    },
+    {
+        "word": "Integratsiyalashgan ishlab chiqish muhiti",
+        "type": [],
+        "definition": [
+            "Amaliy tizimlarning sifatli va samarali ishlab chiqilishini ta\u2019minlash uchun mo\u2018ljallangan dasturiy kompleks. Yagona ishchi muhitidagi zarur instrumental vositalar: boshlang\u2018ich matnlar redaktorlari va resurslardan, sozlovchidan, operativ yordam va loyihani boshqarish vositalaridan iborat. Integratsiyalashgan ishlab chiqish muhiti, shuningdek, standart vazifalarni ishlab chiqish jarayonini soddalashtiradigan Wizard turidagi standart ishlanmalarni ham ichiga oladi."
+        ]
+    },
+    {
+        "word": "Intellekt",
+        "type": [],
+        "definition": [
+            "Odamning fikrlash, o\u2018zining va boshqa bir odam faoliyatining mumkin bo\u2018ladigan oqibatlarini ko\u2018zda tutish, optimal variantlar topish, yangi bilimlar yara-tish qobiliyati.\n "
+        ]
+    },
+    {
+        "word": "Intellektual qurilma",
+        "type": [],
+        "definition": [
+            "1 Ichiga o\u2018rnatilgan protsessor yordamida tashqi muhitning holatiga bog\u2018liq ravishda o\u2018zining parametrlarini o\u2018zgartiradigan (sozlaydigan), dasturiy ta\u2019minoti bo\u2018lgan tizim yoki qurilma.\n 2 Dasturiy-texnik kompleks; sun\u2019iy ntellect metodlaridan foydalangan holda, predmet sohaning muayyan masalalarini hal qilish uchun mo\u2018ljallangan kompyuterni o\u2018z ichiga oladi. Ekspert tizimlar bunga misol.\n"
+        ]
+    },
+    {
+        "word": "Interpretator",
+        "type": [],
+        "definition": [
+            "Boshlang\u2018ich tilning har bir operatorini bajarish va ketma-ket o\u2018zgartirish uchun belgilangan dastur; dastur matnini bitta instruksiya bo\u2018yicha, uni darhol bajargan holda tarjima qiladi. BASIC com dasturi interpretatorga misol bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "Interfeys",
+        "type": [],
+        "definition": [
+            "Ikkita soha, ikkita jism yoki ikkita dasturiy tizimlar o\u2018rtasidagi bog\u2018lanish usuli; muloqot vositasi \u2013 bitta qurilma (kompyuter tizimi) ning boshqasi bilan yoki foydalanuvchining kompyuter bilan aloqasi uchun zarur bo\u2018lgan apparat yoki dasturiy ta\u2019minot, shuningdek, xisoblash tizimi dasturlari va\/yoki qurilmalarining mantiqiy yoki fizik birgalikda ishlashini ta\u2019minlaydigan vositalar hamda qoidalar yig\u2018indisi."
+        ]
+    },
+    {
+        "word": "Informatika",
+        "type": [],
+        "definition": [
+            "Ilmiy, texnik va texnologik fan; ma\u2019lumotlar to\u2018plash, saqlash, qayta ishlash va uzatish masalalari bilan shug\u2018ullanadi, shu jumladan, kompyuter texnikasi yordamida. Informatika faqat XX asr 70-yillarining oxiriga kelibgina mustaqil fan sifatida shakllandi. Shaxsiy kompyuterning yaratilishi asosiy turtki bo\u2018ldi. Informatikaning texnik asosi \u2012 mikroelektronika va yangi materiallar (yarimo\u2018tkazgichli materiallar, plastmassalar, yupqa plyonkalar). Informatikada dasturlash, axborot tizimlari boshqarish tizimlari, ma\u2019lumotlar bazalari, sun\u2019iy intellekt bo\u2018limlari ajratiladi."
+        ]
+    },
+    {
+        "word": "Istisno qiluvchi \u00abyoki\u00bb",
+        "type": [],
+        "definition": [
+            "Mantiqiy amal. Ba\u2019zi dasturlash tillarida XOR kabi belgilanadi, p XOR q deb yoziladi, bu yerda r va q mantiqiy ifodalar. Ba\u2019zida \u00ab 2 moduli bo\u2018yicha mantiqiy qo\u2018shish\u00bb deb ataladi."
+        ]
+    },
+    {
+        "word": "Iteratsiya",
+        "type": [],
+        "definition": [
+            "Oldingi qadamning natijasidan keyingi qadamning natijasini olish uchun foydalaniladigan, qadamlab yuz beradigan jarayonning takrorlanishi. Ko\u2018plab masalalarni hal qilish uchun mo\u2018ljallangan iteratsion hisoblash metodlarining asosi. Agar iteratsion jarayon to\u2018g\u2018ri kelsa, bu, jarayon natijali tugallanishini bildiradi; to\u2018g\u2018ri kelmasa, boshlang\u2018ich shartlarni o\u2018zgartirish zarur yoki masalaning yechimi yo\u2018q yoki iteratsion jarayonning asosi noto\u2018g\u2018ri qurilgan."
+        ]
+    },
+    {
+        "word": "Internet tarmog\u02bbi",
+        "type": [],
+        "definition": [
+            "Global kompyuter tarmog\u2018i yoki tarmoqlar birlashmasi. Internet timsoli Arpanet tarmog\u2018i ko\u2018rinishida 1969 yilda yaratilgan. Hozirgi ko\u2018rinishda Internet XX asrning 90-yillaridan mavjud. \u00aboff-line\u00bb va \u00abon-line\u00bb rejimlarida ishlaydi. Internet tarmog\u2018ining asosi TCP\/IP protokoli hisoblanadi. Internet taklif qiladigan tarmoq xizmatlari ichida fayllar uzatish gipermatnli hujjatlar bilan ishlash va elektron pochta keng tarqalgan."
+        ]
+    },
+    {
+        "word": "Infiniband",
+        "type": [],
+        "definition": [
+            "Ham ichki (tizim ichidagi), ham tizimlararo ulanishlar uchun qo\u2018llaniladigan, yuqori tezlikli kommutatsiyalanadigan ketma-ket shina. Ikki yo\u2018nalishdagi ketma-ket shinadan foydalaniladi. Bazaviy tezlik har bir yo\u2018nalishda 2,5 Gbyte\/s."
+        ]
+    },
+    {
+        "word": "Intel Core i5",
+        "type": [],
+        "definition": [
+            "Intel korporatsiyasining x86-64 protsessorlari oilasi. O\u2018rnatilgan xotira kontrolleriga ega, Turbo Boost texnologiyasini qo\u2018llaydi (protsessorni nagruzka ostida avtomatik tarzda tezlash). Ko\u2018pchiligida o\u2018r-natilgan grafik protsessor bor. Chipset bilan Core i5 DMI shinasi orqali ulanadi. Stol kompyuterlari uchun mo\u2018ljallangan dastlabki Core i5 2009 yilning sen-tabrida paydo bo\u2018ldi, unda Nehalem arxitekturasi-ning Lynnfield yadrosidan foydalanilgan."
+        ]
+    },
+    {
+        "word": "Internet",
+        "type": [],
+        "definition": [
+            "Tarmoq, butunjahon \u00abtarmoqlar tarmog\u2018i\u00bb, global kompyuter tarmog\u2018i, standartlashtirilgan protokollardan (TCP\/IP) foydalaniladigan va 50 mingdan ortiq tarmoqni o\u2018zida bilashtiruvchi tarmoq. Uning ajdodi ARPAnet tarmog\u2018i hisoblanadi."
+        ]
+    },
+    {
+        "word": "Intranet",
+        "type": [],
+        "definition": [
+            "Ichki korporativ tarmoq Internet texnologiyalari, standartlari va dasturlaridan foydalanadi. Intranet tarmoqlar Internet orqali qayd qilinmagan kirishlardan himoya qiladigan brandmauer yordamida tashqi foydalanuvchilardan ajratib qo\u2018yilishi yoki avtonom tarmoqlar sifatida ishlashi mumkin. Odatda kompaniyalar o\u2018z xodimlari uchun intratarmoqlar yarati-shadi, lekin bunga boshqa foydalanuvchilar guruhini ham jalb qilish mumkin. Tarmoq bu holatda Extranet deyiladi."
+        ]
+    },
+    {
+        "word": "IP - telefoniya",
+        "type": [],
+        "definition": [
+            "Internet tarmog\u2018idan telefon so\u2018zlashuvlar uchun foydalanish texnologiyasi. Kompyuter \u2012 kompyuter, kompyuter \u2012 telefon tarmoq ulanishlardan foydalanib, odamlar o\u2018rtasida telefon aloqasini o\u2018rnatish imkonini beradi."
+        ]
+    },
+    {
+        "word": "IPtables",
+        "type": [],
+        "definition": [
+            "Komanda satri utilitasi, 2.4 versiyadan boshlab Linux yadrolari uchun NET Filter tarmoqlararo ekran (brandmauer) ishini boshqarishning standart interfeysi hisoblanadi. IPTables utilitasidan foydalanish uchun, superfoydalanuvchi imtiyozlari talab qilinadi."
+        ]
+    },
+    {
+        "word": "Ilova",
+        "type": [],
+        "definition": [
+            "Tizimli proseduralarni chaqirish vositasida operatsion tizim bilan birgalikda ishlagan holda, bevosita foydalanuvchiga zarur bo\u02bblgan funksiyalarni bajaradigan amaliy dastur yoki dasturlar paketi (vazifaning to\u02bbla bajarilishini ta\u2019minlaydigan dagturlar to\u02bbplami) \u2013 masalan, hisoblash dasturi, matn redaktori yoki elektron jadval."
+        ]
+    },
+    {
+        "word": "IP protokol",
+        "type": [],
+        "definition": [
+            "1 Internet tarmog\u2018i protokoli. Internet uzellari o\u2018rtasida xabarlarning uzatilishi va marshrutlashtirilishi uchun javob beradigan va ma\u2019lumotlarni paketlarga ajratish qoidalarini belgilovchi tarmoq protokoli.\r\n 2 Tarmoqlararo protokol. IP protokoli OSI 3-modeli (ochiq tizimlarning o\u2018zaro aloqa modeli) sathida ishlaydi va internetwork tarmoqlarida IP-deytagrammalarni yuborish standarti hisoblanadi. IP-paketlar marshrutlashtirilishini tavsiflaydigan, TCP\/IP protokollari stekining bir qismidir."
+        ]
+    },
+    {
+        "word": "Ishchi stansiya",
+        "type": [],
+        "definition": [
+            "Odatda, kompyuter tarmog\u2018ida ishlaydigan kompyuter yoki terminal."
+        ]
+    }
+]

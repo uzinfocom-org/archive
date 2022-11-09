@@ -1,0 +1,156 @@
+[
+    {
+        "word": "Faylning yaratilish sanasi",
+        "type": [],
+        "definition": [
+            "Ma\u2019lum bir fayl yaratilgan kun, oy, yil. Bu sana fayl sarlavhasida saqlanadi, faylni to\u2018g\u2018rilashda joriy sanaga o\u2018zgartiriladi. Faylning yaratilish sanasini istalgan operatsion tizimda yoki qobiqda ko\u2018rish mumkin"
+        ]
+    },
+    {
+        "word": "Fayllar katalogi",
+        "type": [],
+        "definition": [
+            "Disk xotirasini fayllar va boshqa kataloglar saqlanishi mumkin bo\u2018lgan qismlarga mantiqiy bo\u2018lish. Kataloglar yig\u2018indisi o\u2018zak katalogli kataloglar daraxtini hosil qiladi. Har bir katalogda boshqa kataloglar va fayllar bo\u2018lishi mumkin. Har bir katalog foydalanuvchi tomonidan beriladigan nomga ega; o\u2018zak katalog diskli operatsion tizimda \u00ab\/\u00bb (teskari slesh) standart nomga ega. Disk egasining o\u2018zi kataloglar daraxtini tuzishi mumkin, xususan, bu faqat, barcha fayllarni ichiga oladigan o\u2018zak katalog bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Fayl",
+        "type": [],
+        "definition": [
+            "Yozuvlarning tartiblashtirilgan to\u2018plami yoki umumiy nom ostida kompyuter tizimida saqlanadigan ma\u2019lumotlarning boshqacha bir yig\u2018indisi.\r\n Izoh \u2012 Barcha fayllar ikkita katta klassga bo\u2018linadi \u2013 dastur fayllari (bajariladigan fayllar) va ma\u2019lumotlar fayllari (bajarilmaydigan fayllar). Saqlanadigan ma\u2019lumotlarning turiga ko\u2018ra, fayllar matnli, grafik, ikkilik, komanda, ma\u2019lumotlar bazasining fayllari, video va audiofayllarga bo\u2018linadi."
+        ]
+    },
+    {
+        "word": "Fayl tizimi",
+        "type": [],
+        "definition": [
+            "1 Operatsion tizimning bir qismi bo\u2018lib, diskdagi katalog va fayllar boshqarilishini ta\u2019minlaydi.\r\n 2 Operatsion tizimda fayllarni nomlash, saqlash, va joylashni belgilovchi umumiy struktura. NTFS, FAT va FAT32 tizimlari fayl tizimlarining har xil turlari bo\u2018lib hisoblanadi."
+        ]
+    },
+    {
+        "word": "Fayl serveri",
+        "type": [],
+        "definition": [
+            "Shaxsiy va ajratiladigan kataloglarda lokal tarmoq foydalanuvchilarining, ularning ishchi stansiyalaridan kira olish mumkin bo\u2018lgan fayllarini saqlaydigan server turi. Fayl-serverdan foydalanish tizimni boshqarishni yengillashtiradi va disk xotirasiga bo\u2018lgan ehtiyojni kamaytiradi. Fayl-server funksiyalari Novell NetWare va NFS operatsion ti-zimlarida mavjud."
+        ]
+    },
+    {
+        "word": "Faks-modem",
+        "type": [],
+        "definition": [
+            "Faksimil xabarlarni qabul qilish imkoniga ega bo\u2018lgan kompyuterning dial-up-modemi. Faks-dastur bilan (masalan Venta Fax and Voice) kompyuter faks funksiyalarini bajarishi mumkin bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "Filtr",
+        "type": [],
+        "definition": [
+            "Kiruvchi ma\u2019lumotlarni standart kiritishdan oladigan, ularni aniq bir tartib bo\u2018yicha qayta ishlaydigan va standart chiqarishga yo\u2018naltiradigan dastur. Indekslash xizmatida \u2013 hujjatlarni indekslash uchun ulardan mazmuni, xossalari qiymatini ajratib oladigan dasturiy vosita."
+        ]
+    },
+    {
+        "word": "Flops",
+        "type": [],
+        "definition": [
+            "Kompyuterning tez ishlashini o\u2018lchash birligi; protsessor sekundiga bajaradigan siljiydigan nuqta (vergul) li operatsiyalar sonini bildiradi."
+        ]
+    },
+    {
+        "word": "Flesh-xotira",
+        "type": [],
+        "definition": [
+            "Intel kompaniyasi tomonidan ishlab chiqilgan yarimo\u2018tkazgichli xotiraning energiyaga bog\u2018liq bo\u2018lmagan turi. Flesh-xotira elektr usul bilan o\u2018chirilishi mumkin, bu uni kompyuterdan olmay turib qayta dasturlash imkonini beradi. Xotiraning bu turi alohida baytlar bilan emas, balki faqat bloklar bilan o\u2018chirib bo\u2018lishligi sababli, operativ xotirlovchi qurilmaning asosiy komponenti sifatida yaroqsiz, biroq, flesh-xotiradan ko\u2018pincha RS-kartalarda, modemlarda va boshqa qurilmalarda, shuningdek, portativ kompyuterlarda qo\u2018shimcha xotira sifatida foydalaniladi."
+        ]
+    },
+    {
+        "word": "Fon jarayoni",
+        "type": [],
+        "definition": [
+            "Asosiy harakatlar bilan bir vaqtda bajariladigan jarayon."
+        ]
+    },
+    {
+        "word": "Formallashtirish",
+        "type": [],
+        "definition": [
+            "Tadqiqot obyektini, mumkin qadar, bu obyekt har xil ma\u2019noda talqin qilinishligi istisno qilinadigan ko\u2018rinishda ta\u2019riflash jarayoni."
+        ]
+    },
+    {
+        "word": "Formatlash",
+        "type": [],
+        "definition": [
+            "Diskni foydalanish uchun tayyorlash \u2013 axborotlarni joylashtirish va o\u2018qib olish strukturasi va usullarini o\u2018rnatish jarayoni. Xotiraning diskli fazosi \u2013 ma\u2019lumotlar kolleksiyasi \u2012 \u00abbo\u2018limlar\u00bb orqali tashkil qilinib, ularning har biri operatsion tizimga shunday joylashtiriladiki, bunda ma\u2019lumotlarni tartiblash, izlash va tiklash imkoni mavjud bo\u2018ladi. Foydalanilayotgan disk formatlansa, unda oldin mavjud bo\u2018lgan axborot o\u2018chiriladi."
+        ]
+    },
+    {
+        "word": "Funksional klavishlar",
+        "type": [],
+        "definition": [
+            "Klaviaturadagi F1 dan F10 (ba\u2019zan F12) gacha belgilangan, dasturlashtiriladigan va har bir dasturda maxsus vazifasi bo\u2018lgan klavishlar guruhi."
+        ]
+    },
+    {
+        "word": "Funksional dasturlash tili",
+        "type": [],
+        "definition": [
+            "Deklarativ turdagi dasturlash tili. Funksional tur tildagi dastur ma\u2019lum funksiyalar yig\u2018indisi ko\u2018rinishida taqdim etiladi. Amalda barcha funksiyalar rekursiv. LISP va Logo funksional tillarning o\u2018ziga xos vakillaridir."
+        ]
+    },
+    {
+        "word": "Funksiya",
+        "type": [],
+        "definition": [
+            "Dastur yoki tizim tomonidan hal qilinadigan masala yoki maqsad, shuningdek, qandaydir qurilmaning belgilangan vazifasi. Masalan, printerning funksiyasi \u2012 bosib chiqarish, o\u2018qitish kompyuterning funksiyalaridan biri, matn redaktorining funksiyasi hujjatni tayyorlash."
+        ]
+    },
+    {
+        "word": "FIDONET",
+        "type": [],
+        "definition": [
+            "Global notijorat kompyuter tarmog\u2018i. Telefon aloqa kanallari orqali ishlaydi. Tarmoqqa ulanish va unda ishlash bepul amalga oshiriladi (faqat telefon tarmog\u2018i xizmatlarining haqi to\u2018lanadi). Tarmoqdan pochta xabarlarini yuborish, telekonferensiyalar va e\u2019lonlar taxtasi uchun foydalaniladi. Yoshlar orasida mashhur."
+        ]
+    },
+    {
+        "word": "Fire Wire",
+        "type": [],
+        "definition": [
+            "Yuqori tezlikli periferik qurilmalar uchun belgilangan shina. 63 tagacha qurilma, shu jumladan, raqamli videoni ulash imkoniyatini beradi. Apple firmasi tomonidan ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Fort",
+        "type": [],
+        "definition": [
+            "Personal tizimlar bilan samarali ishlash uchun mo\u2018ljallangan dasturlash tili. Protseduraga yo\u2018naltirilgan tillarga kiradi, assembler tiliga yaqin. XX asr 70-yillarining boshida AQShda Ch.Mur tomonidan ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Fortran",
+        "type": [],
+        "definition": [
+            "1956 yilda yaratilgan dasturlash tili. Matematik, ilmiy va muhandislik masalalarini yechishga mo\u2018ljallangan. Fortran hozirga qadar ishlatilmoqda, Fortran 2003 standartning oxirgi versiyasi hisoblanadi."
+        ]
+    },
+    {
+        "word": "Free Radius",
+        "type": [],
+        "definition": [
+            "Ochiq boshlang\u2018ich kodli Radius server. Bu boshqa tijorat Radius serverlar muqobilidir, chunki u bugungi kunda modulli va funksionaldir. Bundan tashqari, yoyish va foydalanuvchilarning soni nuqtai nazaridan qaralganda, dunyo Radius serverlari beshligiga kiradi. Free Radius tez, moslashuvchan, sozlanadigan, shuningdek, ko\u2018plab tijorat serverlariga nisbatan ko\u2018proq autentifikatsiyalash protokollarini qo\u2018llaydi. Hozirgi paytda tijorat Radius serverlarini ishlab chiqish uchun asos sifatida foydalaniladi."
+        ]
+    },
+    {
+        "word": "Foydalanuvchi",
+        "type": [],
+        "definition": [
+            "O\u2018zining ishida u yoki bu darajada tarmoqdan, ma\u2019lumotlar bazasidan, hisoblash tizimidan, kompyuterdan foydalanadigan tizim, tashkilot, odam. Juda keng tushuncha; operator, dasturchi, abonent tushunchalarining o\u2018rnini bosishi mumkin. Oxirgi foydalanuvchi tushunchasini ajratish zarur. Bu, odatda, tizim bilan bevosita ishlamaydigan, lekin uning ishlash natijasidan foydalanadigan foydalanuvchidir."
+        ]
+    },
+    {
+        "word": "Fayllarni uzatish protokoli",
+        "type": [],
+        "definition": [
+            "IP protokollari to\u2018plamiga kiradigan, TCP\/IP tarmog\u2018i orqali ikkita turli xildagi mashinalar orqali fayllarni qidirish va jo\u2018natishni ta\u2019minlovchi mijoz-server protokoli. Internet da FTP-serverlar bilan ishlashda qo\u2018llaniladi."
+        ]
+    }
+]

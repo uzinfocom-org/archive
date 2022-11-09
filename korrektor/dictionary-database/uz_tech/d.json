@@ -1,0 +1,296 @@
+[
+    {
+        "word": "Diskret kattalik",
+        "type": [],
+        "definition": [
+            "Qiymatlari sakrab-sakrab o\u2018zgaradigan kattalik. Masalan, elektr zanjirda tok borligini yoki yo\u2018qligini tavsiflaydigan kattalik diskret kattalik bo\u2018lib, \u00abha\u00bb yoki \u00abyo\u2018q\u00bb (0 va 1) qiymat olishi mumkin."
+        ]
+    },
+    {
+        "word": "Damp",
+        "type": [],
+        "definition": [
+            "Xotira bo\u2018lagi yoki fayl mazmunini ekranga chiqarish, faylga olish yoki chop etish. Odatda, kompyuterning \u00abqotib qolish\u00bb sababini aniqlash maqsadida matnli xabarlarni izlashda, shuningdek, tuzilayotgan dasturni tekshirishda ham damp olinadi. Mutaxassislar uchun ma\u2019lumotlarni o\u2018z ichiga oladi."
+        ]
+    },
+    {
+        "word": "Datchik",
+        "type": [],
+        "definition": [
+            "Qandaydir fizik kattalikning qayd etilishini, uning signallarga o\u2018zgartilishini va bu signallarning, qayta ishlash uchun boshqarish tizimga uzatilishini ta\u2019minlaydigan qurilma"
+        ]
+    },
+    {
+        "word": "Deinstallyator",
+        "type": [],
+        "definition": [
+            "Qandaydir ilovani deinstallyatsiya qilish (chiqarib tashlash) uchun mo\u2018ljallangan kompleks dastur. Deinstallyatorlarni qo\u2018llash zarurati, ko\u2018plab zamonaviy ilovalar o\u2018rnatish paytida o\u2018z dastur fayllarini turli adreslar bo\u2018yicha yozishi, shuningdek, o\u2018z ma\u2019lumotlarini tez-tez tizim reestrida qayd etishi bilan izohlanadi"
+        ]
+    },
+    {
+        "word": "Deytagramma",
+        "type": [],
+        "definition": [
+            "Oldindan virtual kanal tuzilmasdan va ulanish o\u2018rnatilmasdan, protokol uzatadigan axborot bloki. Oldindan ulanish o\u2018rnatilmaydigan (shuningdek, paketlarni qabul qilish \u2013 uzatish va takrorlash tartibi nazorat qilinmaydigan) har qanday protokol deytagrammali protokol deb ataladi"
+        ]
+    },
+    {
+        "word": "Dekatenatsiya",
+        "type": [],
+        "definition": [
+            "Simvollar satrlarini alohida qismlarga ajratish ope-ratsiyasi; konkatenatsiyaga teskari bo\u2018lgan operatsiya. Dasturlash tillarida bu operatsiyani bajaradigan maxsus funksiyalar mavjud"
+        ]
+    },
+    {
+        "word": "Deklarativ dasturlash tili",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni dastlab tavsiflash asosiga qurilgan va natijani qanday olish mumkinligi ko\u2018rsatiladigan protseduraga yo\u2018naltirilgan tillardan farqli ravishda, natijada nima olinishi ko\u2018rsatiladigan dasturlash tili. Deklarativ tillarni, o\u2018z navbatida, funksional va mantiqiy tillarga bo\u2018lish mumkin"
+        ]
+    },
+    {
+        "word": "Dasturlarning ko\u02bbrsatish uchun belgilangan paketlari",
+        "type": [],
+        "definition": [
+            "Ma\u2019lum bir axborotni auditoriyaga samarali yetkazish uchun mo\u2018ljallangan aniq maqsadga yo\u2018naltirilgan dasturiy komplekslar. Asosan, prezentatsiya va reklama maqsadida qo\u2018llaniladi. O\u2018qitish-o\u2018rgatish maqsadlarida qo\u2018llanilishi foydaliroq bo\u2018ladi"
+        ]
+    },
+    {
+        "word": "Daraxt",
+        "type": [],
+        "definition": [
+            " Daraxtni eslatadigan struktura. Uning asosida bir qancha element (tana) bog\u2018langan bitta element (il-diz) bo\u2018ladi. Bu elementlar (tanalar) o\u2018z navbatida yana bir qancha (shoxlar) bilan bog\u2018langan va h.k, shu tarzda so\u2018nggi elementlargacha (yaproqlargacha). Natijada ko\u2018p pog\u2018onali daraxt hosil bo\u2018ladi. Daraxt \u2013 bu, bog\u2018langan yo\u2018naltirilmagan siklsiz grafdir"
+        ]
+    },
+    {
+        "word": "Deskriptor",
+        "type": [],
+        "definition": [
+            "Axborot tizimida saqlanadigan ma\u2019lumotlarni topish va tavsiflash imkonini beradigan so\u2018z yoki so\u2018z birik-masi (kod bo\u2018lishi mumkin). Ba\u2019zan, kalit so\u2018z deb ataladi. Tizimni ishlab chiqishda deskriptorlarni aniqlash va ularning mavjudligini hisobga olish zarur"
+        ]
+    },
+    {
+        "word": "Defragmentatsiya",
+        "type": [],
+        "definition": [
+            "Fayllarni uzluksiz ketma-ket klasterlarda saqlanishini ta\u2019minlash maqsadida disk bo\u2018limining mantiqiy strukturasini optimallash va yangilash jarayoni. Asosan FAT va NTFS fayl tizimlarida ishlatiladi. Defragmentatsiyadan so\u2018ng fayllarni o\u2018qish va yozish, shuningdek, dastur ishlari ham tezlashadi. Defragmentatsiyaning boshqa vazifasi: diskda fayllarni uzluksiz maydonda joylashadigan qilib taqsimlash"
+        ]
+    },
+    {
+        "word": "Diagramma",
+        "type": [],
+        "definition": [
+            "O\u2018lchanadigan kattaliklar va ularning nisbatlarini grafik tarzda shartli tasvirlash. Amaliy grafikaning ko\u2018pgina tizimlarida diagrammalar ikki o\u2018lchamli va uch o\u2018lchamli ko\u2018rinishda ustunlar va doiralar ko\u2018rinishida taqdim qilinadi"
+        ]
+    },
+    {
+        "word": "Dialekt",
+        "type": [],
+        "definition": [
+            "Ba\u2019zi bir dasturlash tilining xususiy versiyasi. Masalan, Apple firmasining kompyuterlarida dasturlash uchun BASIC dialektlari mavjud"
+        ]
+    },
+    {
+        "word": "Dialogli rejim",
+        "type": [],
+        "definition": [
+            "Odam va tarmoqdagi kompyuter(lar) bilan yoki kompyuter va periferik qurilma o\u2018rtasidagi bevosita birgalikda ishlash rejimi, bunda birga ishlaydigan ti-zimlar o\u2018rtasida aloqa uzilmaydi. Ko\u2018pincha, interaktiv yoki \u00abon-line\u00bb rejimi deb ataladi"
+        ]
+    },
+    {
+        "word": "Digitayzer",
+        "type": [],
+        "definition": [
+            "Turli texnik prinsiplarga asoslangan, grafik ma\u2019lumotlarni kompyuterga kiritish uchun xizmat qiladigan qurilma"
+        ]
+    },
+    {
+        "word": "Dizassemblirlash",
+        "type": [],
+        "definition": [
+            "Mashina kodlaridagi dasturdan assemblerdagi dasturning boshlang\u2018ich matnini olish jarayoni va\/yoki usuli. Dasturning o\u2018zining kodlarini gene-ratsiyalashda translyatorning optimallik darajasini belgilashda foydali. Dastlabki matnlari bo\u2018lmagan dasturlarni tuzish metodi va\/yoki algoritmini tushunish imkonini beradi. Bu jarayonni bajaradigan maxsus dasturlar \u2013 dizassemblerlar mavjud"
+        ]
+    },
+    {
+        "word": "Dizyunksiya",
+        "type": [],
+        "definition": [
+            "Mantiqiy amal. R va Q mulohazalardan juda bo\u2018lmaganda bittasi chin bo\u2018lgan holatda chin bo\u2018ladigan va har ikki mulohaza yolg\u2018on bo\u2018lganda yolg\u2018on bo\u2018ladigan yangi mulohaza, R va Q mulohazalar dizyunksiyasi deb ataladi. (P V Q kabi belgilanadi, \u00abyoki R yoki Q\u00bb deb o\u2018qiladi). Ba\u2019zida P or Q (inglizcha or \u2013 yoki) deb belgilanadi"
+        ]
+    },
+    {
+        "word": "Dinamik komponovka",
+        "type": [],
+        "definition": [
+            "Dinamik komponovka qilinadigan maxsus bibliotekadan DLL (Dynamic Link Library) chaqirib olish yordamida murojaat qilish paytida ma\u2019lumotlar va\/yoki standart funksiyalarni bajariladigan dasturga qo\u2018shish metodi. Dinamik komponovka Windows ga moslashtirilgan ilovalar bilan ishlaydi. Statik komponovkaga alternativ hisoblanadi"
+        ]
+    },
+    {
+        "word": "Dinamik operativ xotira",
+        "type": [],
+        "definition": [
+            "Yarimo\u2018tkazgichli operativ xotiraning bir turi. Xar bir ikkilik razryad (bit) tranzistor va kondensatordan iborat sxemada saqlanadi. Agar, kondensator za-ryadlangan bo\u2018lsa, 1 ga mos keladi, zaryadsizlangan kondensator 0 ga mos keladi. Tranzistor kondensatordan foydalanishni boshqaradi. Dinamik operativ xotiraning mikrosxemasi odatda, 1 048 576 bit ni ichiga oladi, ulardan operativ xotira yig\u2018iladi"
+        ]
+    },
+    {
+        "word": "Dinamik joylashtiriladigan biblioteka",
+        "type": [],
+        "definition": [
+            "Maxsus ravishda Windows ostida ishlash uchun yozilgan dasturlar-ilovalarda foydalaniladigan ma\u2019lumotlar va funksiyalarni ichiga oladigan fayllar jami. Ma\u2019lumotlar deganda, piktogrammalar, shriftlar va menyu tushuniladi. DLL bajariladigan dasturga kerak bo\u2018ladigan funksiyalar va\/yoki ma\u2019lumotlar ishga, ishlaydigan dasturga standart kirishdan farqli ravishda, ularga murojaat qilish paytida jalb qilingan paytda, Windows ostida ishlash metodini ta\u2019minlaydi"
+        ]
+    },
+    {
+        "word": "Dinamik ma\u02bclumotlar almashinishi",
+        "type": [],
+        "definition": [
+            "Windows muhitidagi dasturlararo birgalikda ishlash protokoli. OLE mexanizmi asta-sekin siqib chiqarmoqda. Uning amal qilishining mohiyati, ikki dastur o\u2018rtasida doimiy aloqa o\u2018rnatishdan iborat, natijada bir ilovadagi hujjat yangilanganda, u bilan bog\u2018liq bo\u2018lgan boshqa ilova hujjatlaridagi axborot ham yangilanadi"
+        ]
+    },
+    {
+        "word": "Disk",
+        "type": [],
+        "definition": [
+            "Dumaloq plastina ko\u2018rinishidagi ma\u2019lumotlar ombori. Ko\u2018pincha, disk deganda, paketga birlashtirilgan bir nechta disk tushuniladi. Disk \u2013 bu, ma\u2019lumotlar tashuvchidir. Ma\u2019lumotlarni diskka yozadigan (diskdan o\u2018qiydigan) qurilma ma\u2019lumotlarni to\u2018plagich deb nomlanadi. Disklar ma\u2019lumotlarni yozish\/o\u2018qish usuli bo\u2018yicha, ularni almashtirish mumkinligiga ko\u2018ra, yozuv zichligiga ko\u2018ra xotirada qoladi. O\u2018qish\/yozish usuliga ko\u2018ra, disklar magnit, lazer (optik), magnitooptik disklarga bo\u2018linadi. Magnit disklar, o\u2018z navbatida egiluvchan va qattiq magnit disklarga bo\u2018linadi. Lazer disklar asosan, faqat ma\u2019lumotlarni o\u2018qish uchun mo\u2018ljallangan. Magnitooptik disklardan ma\u2019lumotlarni yozish va o\u2018qish uchun foydalanilishi mumkin"
+        ]
+    },
+    {
+        "word": "Dispetcher",
+        "type": [],
+        "definition": [
+            "Operatsion tizimning, dasturlarning bajarilishini boshqarish ta\u2019minlanadigan moduli. Tizimda muvofiqlashtirish va boshqaruv rolini bajaradigan dastur"
+        ]
+    },
+    {
+        "word": "Dispetcher ustuvorligi",
+        "type": [],
+        "definition": [
+            "Topshiriqlarga beriladigan va multidastur rejimda, topshiriq markaziy protsessor tomonidan qayta ishlanadigan tartibni aniqlash uchun foydalaniladigan raqam"
+        ]
+    },
+    {
+        "word": "Displey",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni vizual aks ettirish qurilmasi. Displeydan ma\u2019lumotlarni kiritish va chiqarish uchun foydalaniladi. Displeyning ishlash prinsiplari turlicha. Shaxsiy kompyuterlarda elektron-nurli trubkalardan foydalanilgan displeylar juda keng tarqalgan. Shuningdek, plazma panellar, suyuq kristallar, yorug\u2018lik diodlari asosidagi displeylar ham bor. Displeyni kompyuterga ulash uchun tegishli adapter zarur. Displeydan, shuningdek, kompyuterni boshqarish uchun ham foydalaniladi, shu sababli ko\u2018pincha monitor deb ham ataladi"
+        ]
+    },
+    {
+        "word": "Displeyli panel",
+        "type": [],
+        "definition": [
+            "Plazma yoki suyuq kristall texnologiya asosida qurilgan displey. Asosida suyuq kristall bo\u2018lgan displey \u2013 bu, suyuq kristallar va mikroo\u2018tkazgichlardan iborat to\u2018r joylashgan yassi ekrandir. Mikroo\u2018tkazgichlar kristallarga elektr toki uzatadi, kristallar kuchlanish ostida tasvir hosil qilgan holda, yorisha boshlaydi. Nuqta qadami 0,26-0,3mm. Maksimal ajrata olish: 1280x1024, 75 Hz"
+        ]
+    },
+    {
+        "word": "Domen nomi",
+        "type": [],
+        "definition": [
+            "Internet ga ulangan har bir kompyuterning ramziy nomi. Nomlar iyerarxiyasi quriladi. Bu iyerarxiyaning har bir darajasi domen deb ataladi va qo\u2018shni darajadan nuqta bilan ajratiladi. Nom o\u2018ngdan chapga qarab belgilanadi"
+        ]
+    },
+    {
+        "word": "Drayver",
+        "type": [],
+        "definition": [
+            "Operatsion tizim va periferik qurilma o\u2018rtasida aloqani ta\u2019minlaydigan, qurilmani boshqaradigan va qurilma orqali o\u2018tadigan ma\u2019lumotlar oqimini tar-tibga soladigan dastur. Drayverni operatsion tizim-ning bir qismi deb hisoblash mumkin. Kompyuterga yangi qurilma ulanayotganda bu qurilmaning ishlashini ta\u2019minlaydigan drayver bo\u2018lishi zarur. Drayverni, agar u qurilma bilan birga yetkazib berilmasa. dasturchi ishlab chiqishi mumkin"
+        ]
+    },
+    {
+        "word": "Dasturning bajarilishi",
+        "type": [],
+        "definition": [
+            "Mashina kodlaridagi dastur boshlang\u2018ich ma\u2019lumotlarning kiritilishi va natijalar olinishi bilan bajariladigan jarayon. Sozlash rejimida dastur qadamlab bajarilishi mumkin. Agar dastur operatsion tizim boshqaruvida bajarilsa, qadamlab bajarish dasturlash muhiti boshqaruvida amalga oshiriladi."
+        ]
+    },
+    {
+        "word": "Diskni keshlash",
+        "type": [],
+        "definition": [
+            "Fayl tizimining unumdorligini oshirish uchun foydalaniladigan metod. O\u2018qish va yozish operatsiyalarini bajarish uchun diskka muntazam murojaat qilishlar o\u2018rniga, fayllar operativ xotira keshida saqlanadi. Barcha o\u2018qish\/yozish operatsiyalari xotiraga murojaat qilish tezligi bilan bajariladi, bu diskka murojaat qilishga qaraganda ancha tez."
+        ]
+    },
+    {
+        "word": "Disk sektori",
+        "type": [],
+        "definition": [
+            "Diskli xotirlovchi qurilmalarda axborot saqlashning minimal adreslanadigan birligi. Disk yo\u2018lkasining bir qismi hisoblanadi. Ko\u2018pgina qurilmalarda sektorning o\u2018lchami 512 byteni (masalan, qattiq va egiluvchan disklarda) yoki 2048 byteni (masalan, optik disklarda) tashkil qiladi. Yangi qattiq disklarda kengaytirilgan format sifatida ma\u2019lum bo\u2018lgan 4096 byte sektor o\u2018lchamidan foydalaniladi."
+        ]
+    },
+    {
+        "word": "DBASE",
+        "type": [],
+        "definition": [
+            "Relyatsion ma\u2019lumotlar bazasini boshqarish tizimi. Aihton-Tate firmasi (AQSh) tomonidan ishlab chiqilgan. Tizim muntazam ravishda takomillashtirilib boriladi, dBASE II, dBASE III, dBASE III Plus versiyalari o\u2018zini yaxshi ko\u2018rsatdi. Hozirgi vaqtda Borland firmasi tomonidan tizimni takomillashtirish davom ettirilmoqda, dBASE IV va dBASE V versiyalar chiqarildi. Foydalanuvchi bilan rivojlangan interfeysga ega, lekin Fox tizimidan ishlash tezligi bo\u2018yicha orqada."
+        ]
+    },
+    {
+        "word": "DDR2 SDRAM",
+        "type": [],
+        "definition": [
+            "Hisoblash texnikasida operativ hamda videoxotira sifatida foydalaniladigan operativ xotira turi."
+        ]
+    },
+    {
+        "word": "DELPHI",
+        "type": [],
+        "definition": [
+            "Windows boshqaruvida ishlaydigan ilovalarni tez ishlab chiqishning dasturiy vositasi. Ilovalarda Oracle, Informix vositalari bilan saqlanadigan ma\u2019lumotlardan foydalanilishi mumkin. \u00abMijoz \u2013 server\u00bb ilovalarni yaratish uchun foydalaniladi. Unumdorligi yuqori bo\u2018lgan 32 bitli kompilyatorni, ma\u2019lumotlar bazalari bilan ishlaydigan masshtablanadigan vositalar va tez ishlab chiqish vizual vositalari bibliotekasini ichiga oladi. Borland firmasining ishlanmasi."
+        ]
+    },
+    {
+        "word": "Display Port",
+        "type": [],
+        "definition": [
+            "Raqamli displeylar uchun belgilangan signal interfeys standarti. VESA (Video Electronics Standart Association) tomonidan 2006 yilning mayida qabul qilingan. Versiya 1.1 2007 yil 2 aprelda, 1.2 versiya 2010 yil 7 yanvarda qabul qilingan. Display Port dan audio-videoapparaturani, birinchi navbatda, kompyuterni displey bilan yoki kompyuter va uy kinoteatri tizimlarini ulash uchun eng zamonaviy interfeys sifatida foydalanish ko\u2018zda tutiladi."
+        ]
+    },
+    {
+        "word": "DOS Navigator",
+        "type": [],
+        "definition": [
+            "Moldovaning Ritlabs kompaniyasi tomonidan ishlab chiqilgan, OS\/2 va DOS uchun mo\u2018ljallangan kon-solli fayl menejeri."
+        ]
+    },
+    {
+        "word": "Dasturni sozlash",
+        "type": [],
+        "definition": [
+            "Dasturlarni ishlab chiqish bosqichlaridan biri; dastur yozilishining to\u2018g\u2018riligi tekshiriladi, xatolar aniqlanadi va to\u2018g\u2018rilanadi. Odatda, sozlash ma\u2019lum natijalar bo\u2018lgan real namunalarga yaqin nazorat namunalarda bajariladi. Hozirgi dasturlash tillarida soz-lash jarayonini soddalashtiradigan sozlovchi dasturlar mavjud."
+        ]
+    },
+    {
+        "word": "Doimiy xotirlovchi qurilma",
+        "type": [],
+        "definition": [
+            "Kompyuterni boshqarish uchun dasturlar doimiy saqlanadigan, bir yoki bir nechta mikrosxemadan iborat qurilma. Doimiy xotirlovchi qurilma energiyaga bog\u2018liq bo\u2018lmagan xotiradir, ya\u2019ni kompyuter o\u2018chirilganda xotira ichidagi o\u2018zgarmaydi. Doimiy xotirlovchi qurilma shaxsiy kompyuterlarning apparat xususiyatlari va operatsion tizimning tayanch kiritish\/chiqarish tizimi to\u2018g\u2018risidagi ma\u2019lumotlarni joylashtirish uchun xizmat qiladi. Ba\u2019zi mashinalarda doimiy xotirlovchi qurilmaga bundan tashqari, dasturlash tilidan translyator yoziladi. Ko\u2018pincha, doimiy xotira deb ataladi."
+        ]
+    },
+    {
+        "word": "Dastur",
+        "type": [],
+        "definition": [
+            "Muayyan vazifani bajarishga yo\u2018naltirilgan biron-bir dasturlash tilidagi komandalar ketma-ketligi yoki protsessor komandalari."
+        ]
+    },
+    {
+        "word": "Dasturlash",
+        "type": [],
+        "definition": [
+            "Dasturiy ta\u2019minot yaratish bo\u2018yicha nazariy va amaliy faoliyat. Dasturlashning nazariy masalalari yangi dasturlash tillarini ishlab chiqishga, dasturlarning to\u2018g\u2018riligini dalillash usullarini ishlab chiqishga, murakkabliklarni kamaytirishga taalluqli. Dasturlash amaliyoti translyatorlar, qulay dasturlash muhiti, aniq ma\u2019lumotlar bazalari va boshqarish tizimlarni loyihalash, o\u2018qitishni ishlab chiqish bilan shug\u2018ullanadi. Dasturlash jarayoni \u2013 bu, nafaqat qandaydir tilda dastur tuzish, balki vazifaning qo\u2018yilishida, algoritmni ishlab chiqishda, ssenariyni yaratishda ishtirok etish hamdir. Dasturlashning o\u2018zi iteratsion jarayon bo\u2018lib, vazifani tushunishdan, algoritm, modullar ishlab chiqishdan, modullarni sozlashdan, test topshiriqni yechishdan, natijalarni solishtirishdan, vazifalar qo\u2018yilishini aniqlashtirishdan va keyingi iteratsiyadan iborat. Sifatli dasturlashni ta\u2019minlash uchun, strukturaviy dasturlash texnologiyasi mavjud."
+        ]
+    },
+    {
+        "word": "Dasturiy mahsulot",
+        "type": [],
+        "definition": [
+            "Bevosita foydalanishga tayyor, ilova qilinadigan hujjatlar bilan birgalikdagi dasturiy kompleks."
+        ]
+    },
+    {
+        "word": "Dasturlash tili",
+        "type": [],
+        "definition": [
+            "Odam tomonidan ta\u2019riflanadigan va kompyuter yordamida hal qilinadigan muayyan muammolarning qulay tavsiflanishini ta\u2019minlaydigan formal til. Dasturlash tili sintaksis va semantika kabi ikkita tashkil etuvchidan iborat. Til konstruksiyalaridan mashina komandalariga o\u2018tishni til translyatori amalga oshiradi. Dasturlash tillari masalani qanday atamalarda ta\u2019riflash kerakligiga ko\u2018ra, yuqori va quyi daraja tillariga ajratiladi. Agar, til tabiiy tilga yaqin bo\u2018lsa, yuqori daraja tili deb, mashina komandalariga yaqin bo\u2018lsa, quyi daraja tili deb ataladi."
+        ]
+    }
+]

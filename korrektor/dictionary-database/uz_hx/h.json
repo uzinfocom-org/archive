@@ -1,0 +1,3264 @@
+[
+    {
+        "word": "Habash",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0431\u0430\u0448"
+        ]
+    },
+    {
+        "word": "Habib",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0431\u0438\u0431"
+        ]
+    },
+    {
+        "word": "Havas",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u0430\u0441"
+        ]
+    },
+    {
+        "word": "Havaskor",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u0430\u0441\u043a\u043e\u0440"
+        ]
+    },
+    {
+        "word": "Havasmand",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u0430\u0441\u043c\u0430\u043d\u0434"
+        ]
+    },
+    {
+        "word": "Havza",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Havo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u043e"
+        ]
+    },
+    {
+        "word": "Havoza",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u043e\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Havoyi",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u043e\u0439\u0438"
+        ]
+    },
+    {
+        "word": "Havoyilanmoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u043e\u0439\u0438\u043b\u0430\u043d\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Havola",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u043e\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Havoncha",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u043e\u043d\u0447\u0430"
+        ]
+    },
+    {
+        "word": "Havorang",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0432\u043e\u0440\u0430\u043d\u0433"
+        ]
+    },
+    {
+        "word": "Had",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434"
+        ]
+    },
+    {
+        "word": "Haddod",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434\u0434\u043e\u0434"
+        ]
+    },
+    {
+        "word": "Hadeb",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434\u0435\u0431"
+        ]
+    },
+    {
+        "word": "Hademay",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434\u0435\u043c\u0430\u0439"
+        ]
+    },
+    {
+        "word": "Hadik",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Hadis",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434\u0438\u0441"
+        ]
+    },
+    {
+        "word": "Hadsiz-Hisobsiz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434\u0441\u0438\u0437-\u04b3\u0438\u0441\u043e\u0431\u0441\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Hadya",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434\u044f"
+        ]
+    },
+    {
+        "word": "Hadya-In\u02bcom",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434\u044f-\u0438\u043d\u044a\u043e\u043c"
+        ]
+    },
+    {
+        "word": "Had-Hudud",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0434-\u04b3\u0443\u0434\u0443\u0434"
+        ]
+    },
+    {
+        "word": "Hayo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0451"
+        ]
+    },
+    {
+        "word": "Hayot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0451\u0442"
+        ]
+    },
+    {
+        "word": "Hayotbaxsh",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0451\u0442\u0431\u0430\u0445\u0448"
+        ]
+    },
+    {
+        "word": "Hayotiy",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0451\u0442\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Hayot-Mamot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0451\u0442-\u043c\u0430\u043c\u043e\u0442"
+        ]
+    },
+    {
+        "word": "Haj",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0436"
+        ]
+    },
+    {
+        "word": "Hajar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0436\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hajv",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0436\u0432"
+        ]
+    },
+    {
+        "word": "Hajviya",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0436\u0432\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Hajiqiz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0436\u0438\u049b\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Hajm",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0436\u043c"
+        ]
+    },
+    {
+        "word": "Hajr",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0436\u0440"
+        ]
+    },
+    {
+        "word": "Hazar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hazil",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0438\u043b"
+        ]
+    },
+    {
+        "word": "Hazilkash",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0438\u043b\u043a\u0430\u0448"
+        ]
+    },
+    {
+        "word": "Hazil-Mazax",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0438\u043b-\u043c\u0430\u0437\u0430\u0445"
+        ]
+    },
+    {
+        "word": "Hazil-Mutoyiba",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0438\u043b-\u043c\u0443\u0442\u043e\u0439\u0438\u0431\u0430"
+        ]
+    },
+    {
+        "word": "Hazilomuz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0438\u043b\u043e\u043c\u0443\u0437"
+        ]
+    },
+    {
+        "word": "Hazil-Huzul",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0438\u043b-\u04b3\u0443\u0437\u0443\u043b"
+        ]
+    },
+    {
+        "word": "Hazin",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Hazir",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0438\u0440"
+        ]
+    },
+    {
+        "word": "Hazm",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u043c"
+        ]
+    },
+    {
+        "word": "Hazor (Ming)",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u043e\u0440 (\u043c\u0438\u043d\u0433)"
+        ]
+    },
+    {
+        "word": "Hazora",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u043e\u0440\u0430"
+        ]
+    },
+    {
+        "word": "Hazrat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0437\u0440\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hay",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439"
+        ]
+    },
+    {
+        "word": "Haybarakalla",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0431\u0430\u0440\u0430\u043a\u0430\u043b\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Haybatli",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0431\u0430\u0442\u043b\u0438"
+        ]
+    },
+    {
+        "word": "Hayvon",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0432\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hayvonot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0432\u043e\u043d\u043e\u0442"
+        ]
+    },
+    {
+        "word": "Haydamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0434\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Haydarkokil",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0434\u0430\u0440\u043a\u043e\u043a\u0438\u043b"
+        ]
+    },
+    {
+        "word": "Haydovchi",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0434\u043e\u0432\u0447\u0438"
+        ]
+    },
+    {
+        "word": "Hayyo-Huy",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0451-\u04b3\u0443\u0439"
+        ]
+    },
+    {
+        "word": "Hayz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0437"
+        ]
+    },
+    {
+        "word": "Hayit",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0438\u0442"
+        ]
+    },
+    {
+        "word": "Haykal",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u043a\u0430\u043b"
+        ]
+    },
+    {
+        "word": "Hayrat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0440\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hayratlanmoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0440\u0430\u0442\u043b\u0430\u043d\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hayron",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0440\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hayt",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0442"
+        ]
+    },
+    {
+        "word": "Haytovur",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0442\u043e\u0432\u0443\u0440"
+        ]
+    },
+    {
+        "word": "Hayt-Huyt",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0442-\u04b3\u0443\u0439\u0442"
+        ]
+    },
+    {
+        "word": "Hayf",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0444"
+        ]
+    },
+    {
+        "word": "Hayfsan",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u0444\u0441\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Hay\u02bcat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u044a\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hayqirmoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u049b\u0438\u0440\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hayhaylamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u04b3\u0430\u0439\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hayhot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u04b3\u043e\u0442"
+        ]
+    },
+    {
+        "word": "Hayhotday",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0439\u04b3\u043e\u0442\u0434\u0430\u0439"
+        ]
+    },
+    {
+        "word": "Hakam",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043a\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Hakim",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043a\u0438\u043c"
+        ]
+    },
+    {
+        "word": "Hakka",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043a\u043a\u0430"
+        ]
+    },
+    {
+        "word": "Hakkalak",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043a\u043a\u0430\u043b\u0430\u043a"
+        ]
+    },
+    {
+        "word": "Hakkam-Dukkam",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043a\u043a\u0430\u043c-\u0434\u0443\u043a\u043a\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Haklamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043a\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hal",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b"
+        ]
+    },
+    {
+        "word": "Halak",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u0430\u043a"
+        ]
+    },
+    {
+        "word": "Hali",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u0438"
+        ]
+    },
+    {
+        "word": "Hali-Beri",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u0438-\u0431\u0435\u0440\u0438"
+        ]
+    },
+    {
+        "word": "Haligi",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u0438\u0433\u0438"
+        ]
+    },
+    {
+        "word": "Halila",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u0438\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Halim",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u0438\u043c"
+        ]
+    },
+    {
+        "word": "Hali-Hali",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u0438-\u04b3\u0430\u043b\u0438"
+        ]
+    },
+    {
+        "word": "Hallamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Halovat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043e\u0432\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Halloslamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043b\u043e\u0441\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Halovat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043e\u0432\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Halok",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043e\u043a"
+        ]
+    },
+    {
+        "word": "Halokat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043e\u043a\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Halol",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043e\u043b"
+        ]
+    },
+    {
+        "word": "Halollash",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043e\u043b\u043b\u0430\u0448"
+        ]
+    },
+    {
+        "word": "Halol-Harom",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u043e\u043b-\u04b3\u0430\u0440\u043e\u043c"
+        ]
+    },
+    {
+        "word": "Halqa",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u049b\u0430"
+        ]
+    },
+    {
+        "word": "Halqasimon",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u049b\u0430\u0441\u0438\u043c\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Halqob",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u049b\u043e\u0431"
+        ]
+    },
+    {
+        "word": "Halqum",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043b\u049b\u0443\u043c"
+        ]
+    },
+    {
+        "word": "Ham",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Hamal",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0430\u043b"
+        ]
+    },
+    {
+        "word": "Hamd",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0434"
+        ]
+    },
+    {
+        "word": "Hamda",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0434\u0430"
+        ]
+    },
+    {
+        "word": "Hamdam",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0434\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Hamdard",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0434\u0430\u0440\u0434"
+        ]
+    },
+    {
+        "word": "Hamd-U Sano",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0434\u0443 \u0441\u0430\u043d\u043e"
+        ]
+    },
+    {
+        "word": "Hamyon",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0451\u043d"
+        ]
+    },
+    {
+        "word": "Hamjihat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0436\u0438\u04b3\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hamza",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Hamisha",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0438\u0448\u0430"
+        ]
+    },
+    {
+        "word": "Hamishabahor",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0438\u0448\u0430\u0431\u0430\u04b3\u043e\u0440"
+        ]
+    },
+    {
+        "word": "Hamiyat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0438\u044f\u0442"
+        ]
+    },
+    {
+        "word": "Hamkasaba",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043a\u0430\u0441\u0430\u0431\u0430"
+        ]
+    },
+    {
+        "word": "Hamkasb",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043a\u0430\u0441\u0431"
+        ]
+    },
+    {
+        "word": "Hamkorlik",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043a\u043e\u0440\u043b\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Hamkurs",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043a\u0443\u0440\u0441"
+        ]
+    },
+    {
+        "word": "Hamla",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Hamma",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043c\u0430"
+        ]
+    },
+    {
+        "word": "Hammabop",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043c\u0430\u0431\u043e\u043f"
+        ]
+    },
+    {
+        "word": "Hammaslak",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043c\u0430\u0441\u043b\u0430\u043a"
+        ]
+    },
+    {
+        "word": "Hammahalla",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043c\u0430\u04b3\u0430\u043b\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Hammol",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043c\u043e\u043b"
+        ]
+    },
+    {
+        "word": "Hamnafas",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043d\u0430\u0444\u0430\u0441"
+        ]
+    },
+    {
+        "word": "Hamovoz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043e\u0432\u043e\u0437"
+        ]
+    },
+    {
+        "word": "Hamon",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hamonki",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043e\u043d\u043a\u0438"
+        ]
+    },
+    {
+        "word": "Hamohang",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u043e\u04b3\u0430\u043d\u0433"
+        ]
+    },
+    {
+        "word": "Hamro",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0440\u043e"
+        ]
+    },
+    {
+        "word": "Hamroz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0440\u043e\u0437"
+        ]
+    },
+    {
+        "word": "Hamroh",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0440\u043e\u04b3"
+        ]
+    },
+    {
+        "word": "Hamsoya",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0441\u043e\u044f"
+        ]
+    },
+    {
+        "word": "Hamsuhbat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0441\u0443\u04b3\u0431\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hamfikr",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0444\u0438\u043a\u0440"
+        ]
+    },
+    {
+        "word": "Hamxona",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0445\u043e\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Hamshahar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0448\u0430\u04b3\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hamshira",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u0448\u0438\u0440\u0430"
+        ]
+    },
+    {
+        "word": "Hamqishloq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043c\u049b\u0438\u0448\u043b\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hang",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043d\u0433"
+        ]
+    },
+    {
+        "word": "Hangoma",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043d\u0433\u043e\u043c\u0430"
+        ]
+    },
+    {
+        "word": "Hangramoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043d\u0433\u0440\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Handalak",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043d\u0434\u0430\u043b\u0430\u043a"
+        ]
+    },
+    {
+        "word": "Handasa",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u043d\u0434\u0430\u0441\u0430"
+        ]
+    },
+    {
+        "word": "Harakat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0430\u043a\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Haram",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Haramxona",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0430\u043c\u0445\u043e\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Harb",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0431"
+        ]
+    },
+    {
+        "word": "Harbiy",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0431\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Har Bir ",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440 \u0431\u0438\u0440"
+        ]
+    },
+    {
+        "word": "Har Vaqt",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440 \u0432\u0430\u049b\u0442"
+        ]
+    },
+    {
+        "word": "Har Gal",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440 \u0433\u0430\u043b"
+        ]
+    },
+    {
+        "word": "Hargiz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0433\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Hardamxayol",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0434\u0430\u043c\u0445\u0430\u0451\u043b"
+        ]
+    },
+    {
+        "word": "Har Doim",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440 \u0434\u043e\u0438\u043c"
+        ]
+    },
+    {
+        "word": "Harir",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0438\u0440"
+        ]
+    },
+    {
+        "word": "Haris",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0438\u0441"
+        ]
+    },
+    {
+        "word": "Harf",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0444"
+        ]
+    },
+    {
+        "word": "Harna",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Harom",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u043e\u043c"
+        ]
+    },
+    {
+        "word": "Haromi",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u043e\u043c\u0438"
+        ]
+    },
+    {
+        "word": "Harommag\u02bbiz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u043e\u043c\u043c\u0430\u0493\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Haromtovoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u043e\u043c\u0442\u043e\u0432\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Harom-Xarish",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u043e\u043c-\u0445\u0430\u0440\u0438\u0448"
+        ]
+    },
+    {
+        "word": "Harorat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u043e\u0440\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Harosat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u043e\u0441\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hartugul",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0442\u0443\u0433\u0443\u043b"
+        ]
+    },
+    {
+        "word": "Harf",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0444"
+        ]
+    },
+    {
+        "word": "Harfma-Harf",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0444\u043c\u0430-\u04b3\u0430\u0440\u0444"
+        ]
+    },
+    {
+        "word": "Harchand",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u0447\u0430\u043d\u0434"
+        ]
+    },
+    {
+        "word": "Harqalay",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440\u049b\u0430\u043b\u0430\u0439"
+        ]
+    },
+    {
+        "word": "Har Holda",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0440 \u04b3\u043e\u043b\u0434\u0430"
+        ]
+    },
+    {
+        "word": "Hasad",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0430\u0434"
+        ]
+    },
+    {
+        "word": "Hasayni",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0430\u0439\u043d\u0438"
+        ]
+    },
+    {
+        "word": "Hasanot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0430\u043d\u043e\u0442"
+        ]
+    },
+    {
+        "word": "Hasan-Husan",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0430\u043d-\u04b3\u0443\u0441\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Hasip",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0438\u043f"
+        ]
+    },
+    {
+        "word": "Hasrat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0440\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hasrat-Nadomat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0440\u0430\u0442-\u043d\u0430\u0434\u043e\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hassa",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0441\u0430"
+        ]
+    },
+    {
+        "word": "Hassakash",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0441\u0430\u043a\u0430\u0448"
+        ]
+    },
+    {
+        "word": "Hassos",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0441\u0441\u043e\u0441"
+        ]
+    },
+    {
+        "word": "Hatlamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0442\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hatto",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0442\u0442\u043e"
+        ]
+    },
+    {
+        "word": "Hattoki",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0442\u0442\u043e\u043a\u0438"
+        ]
+    },
+    {
+        "word": "Hafsala",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0444\u0441\u0430\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Hafta",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0444\u0442\u0430"
+        ]
+    },
+    {
+        "word": "Haftalik",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0444\u0442\u0430\u043b\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Haftafahm",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0444\u0442\u0430\u0444\u0430\u04b3\u043c"
+        ]
+    },
+    {
+        "word": "Haftiyak",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0444\u0442\u0438\u044f\u043a"
+        ]
+    },
+    {
+        "word": "Hasham",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0448\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Hashamat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0448\u0430\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hashar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0448\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hasharot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u0448\u0430\u0440\u043e\u0442"
+        ]
+    },
+    {
+        "word": "Hayajon",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u044f\u0436\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hayal",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u044f\u043b"
+        ]
+    },
+    {
+        "word": "Hayallamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u044f\u043b\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Haq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b"
+        ]
+    },
+    {
+        "word": "Haqgo\u02bby",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0433\u045e\u0439"
+        ]
+    },
+    {
+        "word": "Haqida",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0438\u0434\u0430"
+        ]
+    },
+    {
+        "word": "Haqir",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0438\u0440"
+        ]
+    },
+    {
+        "word": "Haqirona",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0438\u0440\u043e\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Haqiq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0438\u049b"
+        ]
+    },
+    {
+        "word": "Haqiqat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0438\u049b\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Haqiqatan",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0438\u049b\u0430\u0442\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Haqiqatgo\u02bby",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0438\u049b\u0430\u0442\u0433\u045e\u0439"
+        ]
+    },
+    {
+        "word": "Haqiqatsevar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u0438\u049b\u0430\u0442\u0441\u0435\u0432\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Haqli",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u043b\u0438"
+        ]
+    },
+    {
+        "word": "Haq-Nohaq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b-\u043d\u043e\u04b3\u0430\u049b"
+        ]
+    },
+    {
+        "word": "Haqorat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u043e\u0440\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Haqoratlamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u043e\u0440\u0430\u0442\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Haqoratomuz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u043e\u0440\u0430\u0442\u043e\u043c\u0443\u0437"
+        ]
+    },
+    {
+        "word": "Haqqoniy",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u049b\u043e\u043d\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Haqqush",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b\u049b\u0443\u0448"
+        ]
+    },
+    {
+        "word": "Haq-Huquq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u049b-\u04b3\u0443\u049b\u0443\u049b"
+        ]
+    },
+    {
+        "word": "Hahalamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0430\u04b3\u0430\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hez",
+        "type": [],
+        "definition": [
+            "\u04b3\u0435\u0437"
+        ]
+    },
+    {
+        "word": "Hezalak",
+        "type": [],
+        "definition": [
+            "\u04b3\u0435\u0437\u0430\u043b\u0430\u043a"
+        ]
+    },
+    {
+        "word": "Hezimkash",
+        "type": [],
+        "definition": [
+            "\u04b3\u0435\u0437\u0438\u043c\u043a\u0430\u0448"
+        ]
+    },
+    {
+        "word": "Hey",
+        "type": [],
+        "definition": [
+            "\u04b3\u0435\u0439"
+        ]
+    },
+    {
+        "word": "Hemiri",
+        "type": [],
+        "definition": [
+            "\u04b3\u0435\u043c\u0438\u0440\u0438"
+        ]
+    },
+    {
+        "word": "Hech",
+        "type": [],
+        "definition": [
+            "\u04b3\u0435\u0447"
+        ]
+    },
+    {
+        "word": "Hech Narsa",
+        "type": [],
+        "definition": [
+            "\u04b3\u0435\u0447 \u043d\u0430\u0440\u0441\u0430"
+        ]
+    },
+    {
+        "word": "Hehelamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0435\u04b3\u0435\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hi",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438"
+        ]
+    },
+    {
+        "word": "Hid",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0434"
+        ]
+    },
+    {
+        "word": "Hidlamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0434\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hidoyat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0434\u043e\u044f\u0442"
+        ]
+    },
+    {
+        "word": "Hijja",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0436\u0436\u0430"
+        ]
+    },
+    {
+        "word": "Hijo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0436\u043e"
+        ]
+    },
+    {
+        "word": "Hijob",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0436\u043e\u0431"
+        ]
+    },
+    {
+        "word": "Hijrat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0436\u0440\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hijriy",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0436\u0440\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Hijriya",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0436\u0440\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Hijron",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0436\u0440\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hiyla",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0439\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Hiylagar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0439\u043b\u0430\u0433\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hiylakor",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0439\u043b\u0430\u043a\u043e\u0440"
+        ]
+    },
+    {
+        "word": "Hiyla-Nayrang",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0439\u043b\u0430-\u043d\u0430\u0439\u0440\u0430\u043d\u0433"
+        ]
+    },
+    {
+        "word": "Hikmat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043a\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hikoya",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043a\u043e\u044f"
+        ]
+    },
+    {
+        "word": "Hikoyat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043a\u043e\u044f\u0442"
+        ]
+    },
+    {
+        "word": "Hilva",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043b\u0432\u0430"
+        ]
+    },
+    {
+        "word": "Hilviramoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043b\u0432\u0438\u0440\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hil-Hil",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043b-\u04b3\u0438\u043b"
+        ]
+    },
+    {
+        "word": "Hilol",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043b\u043e\u043b"
+        ]
+    },
+    {
+        "word": "Hilpiratmoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043b\u043f\u0438\u0440\u0430\u0442\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Himmat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043c\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Himo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043c\u043e"
+        ]
+    },
+    {
+        "word": "Himoya",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043c\u043e\u044f"
+        ]
+    },
+    {
+        "word": "Hikoya",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043a\u043e\u044f"
+        ]
+    },
+    {
+        "word": "Hingillamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043d\u0433\u0438\u043b\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hingir-Hingir",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043d\u0433\u0438\u0440-\u04b3\u0438\u043d\u0433\u0438\u0440"
+        ]
+    },
+    {
+        "word": "Hind",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043d\u0434"
+        ]
+    },
+    {
+        "word": "Hindi",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043d\u0434\u0438"
+        ]
+    },
+    {
+        "word": "Hindshunos",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043d\u0434\u0448\u0443\u043d\u043e\u0441"
+        ]
+    },
+    {
+        "word": "Hindu",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u043d\u0434\u0443"
+        ]
+    },
+    {
+        "word": "Hiringlamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0440\u0438\u043d\u0433\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hiring-Hiring",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0440\u0438\u043d\u0433-\u04b3\u0438\u0440\u0438\u043d\u0433"
+        ]
+    },
+    {
+        "word": "Hirovul",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0440\u043e\u0432\u0443\u043b"
+        ]
+    },
+    {
+        "word": "Hirot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0440\u043e\u0442"
+        ]
+    },
+    {
+        "word": "Hirs",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0440\u0441"
+        ]
+    },
+    {
+        "word": "Hirs Qo\u02bbymoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0440\u0441 \u049b\u045e\u0439\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "His",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441"
+        ]
+    },
+    {
+        "word": "Hisob",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441\u043e\u0431"
+        ]
+    },
+    {
+        "word": "Hisobot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441\u043e\u0431\u043e\u0442"
+        ]
+    },
+    {
+        "word": "Hisor",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441\u043e\u0440"
+        ]
+    },
+    {
+        "word": "Hisori",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441\u043e\u0440\u0438"
+        ]
+    },
+    {
+        "word": "Hissa",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441\u0441\u0430"
+        ]
+    },
+    {
+        "word": "Hissadorlik",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441\u0441\u0430\u0434\u043e\u0440\u043b\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Hissiyot",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441\u0441\u0438\u0451\u0442"
+        ]
+    },
+    {
+        "word": "Hissiy",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441\u0441\u0438\u0439"
+        ]
+    },
+    {
+        "word": "His-Hayajon",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0441-\u04b3\u0430\u0451\u0436\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hifz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u0444\u0437"
+        ]
+    },
+    {
+        "word": "Hiqildoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u049b\u0438\u043b\u0434\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hiqichoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0438\u049b\u0438\u0447\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Ho",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e"
+        ]
+    },
+    {
+        "word": "Hov",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432"
+        ]
+    },
+    {
+        "word": "Hovancha",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u0430\u043d\u0447\u0430"
+        ]
+    },
+    {
+        "word": "Hovva",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u0432\u0430"
+        ]
+    },
+    {
+        "word": "Hovillamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u0438\u043b\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hovli",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u043b\u0438"
+        ]
+    },
+    {
+        "word": "Hovli-Joy",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u043b\u0438-\u0436\u043e\u0439"
+        ]
+    },
+    {
+        "word": "Hovlima-Hovli",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u043b\u0438\u043c\u0430-\u04b3\u043e\u0432\u043b\u0438"
+        ]
+    },
+    {
+        "word": "Hovliqmoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u043b\u0438\u049b\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hovoza",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u043e\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Hovoncha",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u043e\u043d\u0447\u0430"
+        ]
+    },
+    {
+        "word": "Hovuz",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u0443\u0437"
+        ]
+    },
+    {
+        "word": "Hovur",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u0443\u0440"
+        ]
+    },
+    {
+        "word": "Hovuch",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u0443\u0447"
+        ]
+    },
+    {
+        "word": "Hovhovlamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0432\u04b3\u043e\u0432\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hodisa",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0434\u0438\u0441\u0430"
+        ]
+    },
+    {
+        "word": "Hojat",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0436\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hojatbarorlik",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0436\u0430\u0442\u0431\u0430\u0440\u043e\u0440\u043b\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Hojatmand",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0436\u0430\u0442\u043c\u0430\u043d\u0434"
+        ]
+    },
+    {
+        "word": "Hojatxona",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0436\u0430\u0442\u0445\u043e\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Hoji",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0436\u0438"
+        ]
+    },
+    {
+        "word": "Hojib",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0436\u0438\u0431"
+        ]
+    },
+    {
+        "word": "Hozir",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0437\u0438\u0440"
+        ]
+    },
+    {
+        "word": "Hozirgi",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0437\u0438\u0440\u0433\u0438"
+        ]
+    },
+    {
+        "word": "Hozirjavob",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0437\u0438\u0440\u0436\u0430\u0432\u043e\u0431"
+        ]
+    },
+    {
+        "word": "Hozirlamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0437\u0438\u0440\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hozircha",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0437\u0438\u0440\u0447\u0430"
+        ]
+    },
+    {
+        "word": "Hoziq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0437\u0438\u049b"
+        ]
+    },
+    {
+        "word": "Hoy",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0439"
+        ]
+    },
+    {
+        "word": "Hoynahoy",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0439\u043d\u0430\u04b3\u043e\u0439"
+        ]
+    },
+    {
+        "word": "Hokazo",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043a\u0430\u0437\u043e"
+        ]
+    },
+    {
+        "word": "Hokim",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043a\u0438\u043c"
+        ]
+    },
+    {
+        "word": "Hokimiyat",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043a\u0438\u043c\u0438\u044f\u0442"
+        ]
+    },
+    {
+        "word": "Hokimlik",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043a\u0438\u043c\u043b\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Hokimto\u02bbra",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043a\u0438\u043c\u0442\u045e\u0440\u0430"
+        ]
+    },
+    {
+        "word": "Hol",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b"
+        ]
+    },
+    {
+        "word": "Holat",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hol-Ahvol",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b-\u0430\u04b3\u0432\u043e\u043b"
+        ]
+    },
+    {
+        "word": "Holbuki",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b\u0431\u0443\u043a\u0438"
+        ]
+    },
+    {
+        "word": "Holva",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b\u0432\u0430"
+        ]
+    },
+    {
+        "word": "Holvagar",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b\u0432\u0430\u0433\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Holvaytar",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b\u0432\u0430\u0439\u0442\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hol-Jon",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b-\u0436\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Holpillamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b\u043f\u0438\u043b\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Holsizlanmoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043b\u0441\u0438\u0437\u043b\u0430\u043d\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Homiy",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043c\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Homila",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043c\u0438\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Homilador",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043c\u0438\u043b\u0430\u0434\u043e\u0440"
+        ]
+    },
+    {
+        "word": "Homuza",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u043c\u0443\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Hordiq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0440\u0434\u0438\u049b"
+        ]
+    },
+    {
+        "word": "Horimoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0440\u0438\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hormang!",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0440\u043c\u0430\u043d\u0433!"
+        ]
+    },
+    {
+        "word": "Hormay-Tolmay",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0440\u043c\u0430\u0439-\u0442\u043e\u043b\u043c\u0430\u0439"
+        ]
+    },
+    {
+        "word": "Horg\u02bbin",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0440\u0493\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Hosil",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0441\u0438\u043b"
+        ]
+    },
+    {
+        "word": "Hosildor",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0441\u0438\u043b\u0434\u043e\u0440"
+        ]
+    },
+    {
+        "word": "Hosilot",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0441\u0438\u043b\u043e\u0442"
+        ]
+    },
+    {
+        "word": "Hotam",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0442\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Hotamtoy",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0442\u0430\u043c\u0442\u043e\u0439"
+        ]
+    },
+    {
+        "word": "Hofiz",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0444\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Hoshiya",
+        "type": [],
+        "definition": [
+            "\u04b3\u043e\u0448\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Hubob",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0431\u043e\u0431"
+        ]
+    },
+    {
+        "word": "Huvaydo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0432\u0430\u0439\u0434\u043e"
+        ]
+    },
+    {
+        "word": "Huvillamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0432\u0438\u043b\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Huda-Behuda",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0434\u0430-\u0431\u0435\u04b3\u0443\u0434\u0430"
+        ]
+    },
+    {
+        "word": "Hudaychi",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0434\u0430\u0439\u0447\u0438"
+        ]
+    },
+    {
+        "word": "Hudud",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0434\u0443\u0434"
+        ]
+    },
+    {
+        "word": "Hudhud",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0434\u04b3\u0443\u0434"
+        ]
+    },
+    {
+        "word": "Hujayra",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0436\u0430\u0439\u0440\u0430"
+        ]
+    },
+    {
+        "word": "Hujjat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0436\u0436\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hujra",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0436\u0440\u0430"
+        ]
+    },
+    {
+        "word": "Hujum",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0436\u0443\u043c"
+        ]
+    },
+    {
+        "word": "Huzur",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0437\u0443\u0440"
+        ]
+    },
+    {
+        "word": "Huzurbaxsh",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0437\u0443\u0440\u0431\u0430\u0445\u0448"
+        ]
+    },
+    {
+        "word": "Huzurlanmoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0437\u0443\u0440\u043b\u0430\u043d\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Huzur-Halovat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0437\u0443\u0440-\u04b3\u0430\u043b\u043e\u0432\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hukamo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043a\u0430\u043c\u043e"
+        ]
+    },
+    {
+        "word": "Hukm",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043a\u043c"
+        ]
+    },
+    {
+        "word": "Hukman",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043a\u043c\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Hukmdor",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043a\u043c\u0434\u043e\u0440"
+        ]
+    },
+    {
+        "word": "Hukmnoma",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043a\u043c\u043d\u043e\u043c\u0430"
+        ]
+    },
+    {
+        "word": "Hukmron",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043a\u043c\u0440\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hukmfarmo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043a\u043c\u0444\u0430\u0440\u043c\u043e"
+        ]
+    },
+    {
+        "word": "Hukumat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043a\u0443\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hulkar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043b\u043a\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Humo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043c\u043e"
+        ]
+    },
+    {
+        "word": "Humoyun",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043c\u043e\u044e\u043d"
+        ]
+    },
+    {
+        "word": "Hunar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043d\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hunarmand",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u043d\u0430\u0440\u043c\u0430\u043d\u0434"
+        ]
+    },
+    {
+        "word": "Hur",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440"
+        ]
+    },
+    {
+        "word": "Hurish",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u0438\u0448"
+        ]
+    },
+    {
+        "word": "Hurkak",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u043a\u0430\u043a"
+        ]
+    },
+    {
+        "word": "Hurliqo",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u043b\u0438\u049b\u043e"
+        ]
+    },
+    {
+        "word": "Hurmat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hurmat-Ehtirom",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u043c\u0430\u0442-\u044d\u04b3\u0442\u0438\u0440\u043e\u043c"
+        ]
+    },
+    {
+        "word": "Hurmoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hurpayish",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u043f\u0430\u0439\u0438\u0448"
+        ]
+    },
+    {
+        "word": "Hurpaymoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u043f\u0430\u0439\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Hurriyat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440\u0440\u0438\u044f\u0442"
+        ]
+    },
+    {
+        "word": "Hur-G\u02bbilmon",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0440-\u0493\u0438\u043b\u043c\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Husayni",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0441\u0430\u0439\u043d\u0438"
+        ]
+    },
+    {
+        "word": "Husan",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0441\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Husn",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0441\u043d"
+        ]
+    },
+    {
+        "word": "Husnbuzar",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0441\u043d\u0431\u0443\u0437\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Husnixat",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0441\u043d\u0438\u0445\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hut",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0442"
+        ]
+    },
+    {
+        "word": "Hushyor",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0448\u0451\u0440"
+        ]
+    },
+    {
+        "word": "Hushyorxona",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0448\u0451\u0440\u0445\u043e\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Hushsiz",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0448\u0441\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Hushtak",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u0448\u0442\u0430\u043a"
+        ]
+    },
+    {
+        "word": "Huqna",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u049b\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Huqqa",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u049b\u049b\u0430"
+        ]
+    },
+    {
+        "word": "Huquq",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u049b\u0443\u049b"
+        ]
+    },
+    {
+        "word": "Huquqiy",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u049b\u0443\u049b\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Huquqshunos",
+        "type": [],
+        "definition": [
+            "\u04b3\u0443\u049b\u0443\u049b\u0448\u0443\u043d\u043e\u0441"
+        ]
+    },
+    {
+        "word": "Ho\u02bbk",
+        "type": [],
+        "definition": [
+            "\u04b3\u045e\u043a"
+        ]
+    },
+    {
+        "word": "Ho\u02bbkiz",
+        "type": [],
+        "definition": [
+            "\u04b3\u045e\u043a\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Ho\u02bbl",
+        "type": [],
+        "definition": [
+            "\u04b3\u045e\u043b"
+        ]
+    },
+    {
+        "word": "Ho\u02bbllamoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u045e\u043b\u043b\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Ho\u02bbngramoq",
+        "type": [],
+        "definition": [
+            "\u04b3\u045e\u043d\u0433\u0440\u0430\u043c\u043e\u049b"
+        ]
+    },
+    {
+        "word": "Habib",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0431\u0438\u0431"
+        ]
+    },
+    {
+        "word": "Habiba",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0431\u0438\u0431\u0430"
+        ]
+    },
+    {
+        "word": "Habibulla",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0431\u0438\u0431\u0443\u043b\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Havoxon",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0432\u043e\u0445\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hadicha",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0434\u0438\u0447\u0430"
+        ]
+    },
+    {
+        "word": "Hadya",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0434\u044f"
+        ]
+    },
+    {
+        "word": "Hayot",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0451\u0442"
+        ]
+    },
+    {
+        "word": "Hajar",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0436\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hazrat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0437\u0440\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Haybatulla",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0439\u0431\u0430\u0442\u0443\u043b\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Haydar",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0439\u0434\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hayit",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0439\u0438\u0442"
+        ]
+    },
+    {
+        "word": "Hayitali",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0439\u0438\u0442\u0430\u043b\u0438"
+        ]
+    },
+    {
+        "word": "Hayitgul",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0439\u0438\u0442\u0433\u0443\u043b"
+        ]
+    },
+    {
+        "word": "Hayrat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0439\u0440\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hakim",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043a\u0438\u043c"
+        ]
+    },
+    {
+        "word": "Hakima",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043a\u0438\u043c\u0430"
+        ]
+    },
+    {
+        "word": "Halim",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043b\u0438\u043c"
+        ]
+    },
+    {
+        "word": "Halima",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043b\u0438\u043c\u0430"
+        ]
+    },
+    {
+        "word": "Halovat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043b\u043e\u0432\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hamdam",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043c\u0434\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Hamza",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043c\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Hamid",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043c\u0438\u0434"
+        ]
+    },
+    {
+        "word": "Hamida",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043c\u0438\u0434\u0430"
+        ]
+    },
+    {
+        "word": "Hamidulla",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043c\u0438\u0434\u0443\u043b\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Hamro",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043c\u0440\u043e"
+        ]
+    },
+    {
+        "word": "Hanifa",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u043d\u0438\u0444\u0430"
+        ]
+    },
+    {
+        "word": "Hasan",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0441\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Hafiz",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0444\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Hafiza",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u0444\u0438\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Haqberdi",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u049b\u0431\u0435\u0440\u0434\u0438"
+        ]
+    },
+    {
+        "word": "Haqnazar",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u049b\u043d\u0430\u0437\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Haqqul",
+        "type": [],
+        "definition": [
+            "\u04b2\u0430\u049b\u049b\u0443\u043b"
+        ]
+    },
+    {
+        "word": "Hidoyat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0438\u0434\u043e\u044f\u0442"
+        ]
+    },
+    {
+        "word": "Hikmat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0438\u043a\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hikoyat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0438\u043a\u043e\u044f\u0442"
+        ]
+    },
+    {
+        "word": "Hilol",
+        "type": [],
+        "definition": [
+            "\u04b2\u0438\u043b\u043e\u043b"
+        ]
+    },
+    {
+        "word": "Hilola",
+        "type": [],
+        "definition": [
+            "\u04b2\u0438\u043b\u043e\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Himmat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0438\u043c\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hisomiddin",
+        "type": [],
+        "definition": [
+            "\u04b2\u0438\u0441\u043e\u043c\u0438\u0434\u0434\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Hojar",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0436\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hoji",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0436\u0438"
+        ]
+    },
+    {
+        "word": "Hojiakbar",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0436\u0438\u0430\u043a\u0431\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hojinazar",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0436\u0438\u043d\u0430\u0437\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Hojixon",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0436\u0438\u0445\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Hoziq",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0437\u0438\u049b"
+        ]
+    },
+    {
+        "word": "Hokim",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u043a\u0438\u043c"
+        ]
+    },
+    {
+        "word": "Homid",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u043c\u0438\u0434"
+        ]
+    },
+    {
+        "word": "Homil",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u043c\u0438\u043b"
+        ]
+    },
+    {
+        "word": "Hosil",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0441\u0438\u043b"
+        ]
+    },
+    {
+        "word": "Hosila",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0441\u0438\u043b\u0430"
+        ]
+    },
+    {
+        "word": "Hotam",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0442\u0430\u043c"
+        ]
+    },
+    {
+        "word": "Hofiz",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0444\u0438\u0437"
+        ]
+    },
+    {
+        "word": "Hoshim",
+        "type": [],
+        "definition": [
+            "\u04b2\u043e\u0448\u0438\u043c"
+        ]
+    },
+    {
+        "word": "Huvaydo",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0432\u0430\u0439\u0434\u043e"
+        ]
+    },
+    {
+        "word": "Hulkar",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u043b\u043a\u0430\u0440"
+        ]
+    },
+    {
+        "word": "Humogul",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u043c\u043e\u0433\u0443\u043b"
+        ]
+    },
+    {
+        "word": "Humoyiddin",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u043c\u043e\u0439\u0438\u0434\u0434\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Humoyun",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u043c\u043e\u044e\u043d"
+        ]
+    },
+    {
+        "word": "Hurbibi",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0440\u0431\u0438\u0431\u0438"
+        ]
+    },
+    {
+        "word": "Huri",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0440\u0438"
+        ]
+    },
+    {
+        "word": "Huriniso",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0440\u0438\u043d\u0438\u0441\u043e"
+        ]
+    },
+    {
+        "word": "Hurliqo",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0440\u043b\u0438\u049b\u043e"
+        ]
+    },
+    {
+        "word": "Hurmat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0440\u043c\u0430\u0442"
+        ]
+    },
+    {
+        "word": "Hurmatoy",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0440\u043c\u0430\u0442\u043e\u0439"
+        ]
+    },
+    {
+        "word": "Hurriyat",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0440\u0440\u0438\u044f\u0442"
+        ]
+    },
+    {
+        "word": "Husayn",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0441\u0430\u0439\u043d"
+        ]
+    },
+    {
+        "word": "Husan",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0441\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Husnijamol",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0441\u043d\u0438\u0436\u0430\u043c\u043e\u043b"
+        ]
+    },
+    {
+        "word": "Husniya",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0441\u043d\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Husnora",
+        "type": [],
+        "definition": [
+            "\u04b2\u0443\u0441\u043d\u043e\u0440\u0430"
+        ]
+    }
+]

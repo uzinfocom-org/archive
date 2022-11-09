@@ -1,0 +1,121 @@
+[
+    {
+        "word": "KDE",
+        "type": [],
+        "definition": [
+            "Stands for \"K Desktop Environment.\"  KDE is a contemporary desktop environment for Unix systems.  It is a Free Software project developed by hundreds of software programmers across the world.  Both the KDE source code and the software itself are made freely available to the public.\nKDE's primary benefit is the modern graphical user interface GUI it provides for Unix workstations.  While Unix systems are notoriously difficult for novice users to operate, KDE makes it possible for the average user to work on a Unix system.  In addition to the modern interface, KDE also includes several user-friendly features, such as an application help system and standardized menus and toolbars.  It also supports the ability to customize the interface with various skins or themes.\nAnother important aspect of the K Desktop Environment is its application development framework, which is what software engineers use to develop programs for KDE.  Since a desktop environment is only as useful as the applications available for it, it is important that developing software for the environment is not a tedious process. Therefore, the KDE application development framework has been designed to help programmers develop robust applications in a simple and efficient manner.  This has led to the development of KOffice and hundreds of high-quality programs for KDE."
+        ]
+    },
+    {
+        "word": "KOffice",
+        "type": [],
+        "definition": [
+            "KOffice (pronounced \"K-office\") was an integrated office suite for the K Desktop Environment (KDE), a desktop interface for Unix systems.  It was first released in 2000 and the final version was published in 2012.\nThe suite contained productivity applications, including a word processor, image editor, and project planning tool.  Like KDE, both the KOffice source code and the office suite are available as free downloads.  The appplications included with KOffice are listed below.\nProductivity\n\nKWord - a frame-based word processor\nKSpread - a spreadsheet program\nKPresenter - a presentation creation program\nKexi - a database program\n\nCreativity\n\nKrita - a raster graphic editing program that supports layers\nKarbon14 - a vector graphics drawing application\nKivio - a flowcharting program\n\nManagement\n\nKPlato - a project management and planning program\n\nSupporting Programs\n\nKFormula - a mathematical formula editor\nKChart - a graphing and charting program\nKugar - a business report generating application\n\nNOTE: KOffice was replaced by Calligra Suite, which was first released in 2012."
+        ]
+    },
+    {
+        "word": "KVM Switch",
+        "type": [],
+        "definition": [
+            "Stands for \"Keyboard, Video, and Mouse switch.\"  As the name implies, a KVM switch allows you to used multiple computers with the same keyboard, video display, and mouse.  Now, most of us don't need to use two computers at once.  In fact, using one computer at a time can sometimes be a challenge.  However, there are situations where using a single keyboard, mouse, and display with multiple machines can be very practical.\nFor example, software programmers may use a KVM switch to alternate between two or more computers with different operating systems.  This allows them to test their software on multiple platforms when developing a crossplatform application.  Network administrators often use KVM switches to monitor and control multiple servers at a time.  These KVM switches may support eight or more computers at once.  By simply pressing a button on the KVM switch, the administrator can view the display of any machine connected to the switch and control it with a single keyboard and mouse.\nOf course, KVM switches can also be used by the everyday home user.  Some people may find it useful to have two computers at their desk, such as a home and work computer, or a Mac and a PC.  In these situations, a KVM switch can accommodate both machines, allowing them to share the same monitor, keyboard, and mouse.  Because only one of each is needed, the result is far less clutter on the desk.  This leaves room for stacks of papers, mail, and other objects to clutter up the rest of the desk.\nSince most keyboards and mice use a USB connection, most KVM switches include USB ports.  Older models may include PS\/2 or serial ports.  The connection for the monitor may be a VGA or DVI port, or both.  If you plan on using a KVM switch for your computer setup, make sure the ports match the display and input devices you are going to use with it."
+        ]
+    },
+    {
+        "word": "Kbps",
+        "type": [],
+        "definition": [
+            "Stands for \"Kilobits Per Second.\"  1 Kbps is equal to 1,000 bits per second.  That means a 300 Kbps connection can transfer 300,000 bits in one second.  1,000 Kbps is equal to 1 Mbps.\nKbps is primarily used to measure data transfer rates.  For example, dial-up modems were rated by their maximum download speeds, such as 14.4, 28.8, and 56 Kbps.  Throughout the 1990s and early 2000s, Kbps remained the standard way to measure data transfer dates.  However, broadband connections such as cable and DSL now offer speeds of several megabits per second.  Therefore, Mbps is more ubiquitous than Kbps.\nNOTE: The lowercase \"b\" in Kbps is significant.  It stands for \"bits,\" not bytes (which is represented by a capital \"B\").  Since there are eight bits in one byte, 400 Kbps is equal to 400 \u00f7 8, or 50 KBps.  Because data transfer speeds have traditionally been measured in bps, Kbps is more commonly used than KBps."
+        ]
+    },
+    {
+        "word": "Keep-Alive",
+        "type": [],
+        "definition": [
+            "Keep-Alive is an HTTP header that allows a web server to use a single connection for multiple requests from a web browser.  Servers running HTTP\/1 often have keep-alive turned on to improve website performance.  The keep-alive header is not used in HTTP\/2 since it is the default behavior of the HTTP\/2 protocol.\nWhen Keep-Alive is enabled on a web server, it creates persistent connections between the server and clients (website visitors).  The TCP connection stays open until it is closed or times out.  Since each TCP connection must complete a handshake process, multiple connections increase the page load time.  Keep-Alive provides a way for browsers to download all webpage assets, such as images and CSS files, over a single connection.\nThe disadvantage of Keep-Alive is that it requires more system resources from the web server.  If websites on a server receive a lot of traffic, it may have several \u2014 possibly several thousand \u2014 persistent connections open at once.  Eventually, the server may not be able to handle new connections and become unresponsive.  Apache provides the following directives to prevent servers from reaching maximum capacity:\n\nKeepAliveTimeout - the maximum time a persistent connection can stay open while waiting for new requests\nMaxKeepAliveRequests - the maximum number of requests allowed within a single connection, before it needs to be reset\n\nTo enable keep-alive on an Apache server, add the following code to a server-wide include file or the .HTACCESS file of a specific website:\n[cb]\n\n    Header set Connection keep-alive\n\n[\/cb]"
+        ]
+    },
+    {
+        "word": "Kernel",
+        "type": [],
+        "definition": [
+            "A kernel is the foundational layer of an operating system (OS).  It functions at a basic level, communicating with hardware and managing resources, such as RAM and the CPU.\nSince a kernel handles many fundamental processes, it must be loaded at the beginning of the boot sequence when a computer starts up.  The kernel performs a system check and recognizes components, such as the processor, GPU, and memory.  It also checks for any connected peripherals.  As the OS loads and the graphical user interface appears, the kernel keeps running.  Even after the OS has fully loaded, the kernel continues to run in the background, managing system resources.\nTypes of Kernels\nSeveral types of kernels exist, but two popular ones include monolithic kernels and microkernels.  A monolithic kernel is a single codebase, or block of source code, that provides all the necessary services offered by the operating system.  It is a simplistic design and creates a well-defined communication layer between the hardware and software.\nMicrokernels have the same function as monolithic kernels, but they are designed to be as small as possible.  Instead of managing all the resources from a single codebase, the kernel handles only the most basic functions.  It uses modules or \"servers\" to manage everything else.  For example, device drivers are typically included in a monolithic kernel, but they would be split into separate modules in a microkernel.  This design is more complex, but it can provide a more efficient use of system resources and helps protect against system crashes.\nKernel Panics\nSince the kernel handles the most basic functions of a computer, if it crashes it can take down the entire computer.  This undesirable event is called a \"kernel panic\" on macOS and Unix systems.  It is similar to the blue screen of death in Windows.  The only way to recover from a kernel panic is to restart your computer.\nNOTE: Kernel panics are often caused by hardware communication issues.  Therefore, if your computer is producing repeated kernel panics, try unplugging unnecessary devices to see if that fixes the problem."
+        ]
+    },
+    {
+        "word": "Kerning",
+        "type": [],
+        "definition": [
+            "Kerning refers to the spacing between the characters of a font.  Without kerning, each character takes up a block of space and the next character is printed after it.  When kerning is applied to a font, the characters can vertically overlap.  This does not mean that the characters actually touch, but instead it allows part of two characters to take up the same vertical space.\nFor example, when the characters A and V are placed next to each other, they can take up less total space if they overlap.  This is because the right part of the A and the left part of the V fit together.  If kerning is applied to the two characters, you could draw a vertical line straight down starting from the top left part of the V and it would go through the lower right part of the A.\nKerning is useful because it allows more text to be placed within a given amount of space.  This allows longer articles to be placed in newspapers and magazines with limited space.  It also looks more natural because when writing by hand, people often make characters overlap.  Many text editing programs, as well as image editors such as Adobe Photoshop, allow the user to kern characters.  These programs often include a kerning setting that enables the user to determine how tightly the characters fit together."
+        ]
+    },
+    {
+        "word": "Keyboard",
+        "type": [],
+        "definition": [
+            "As the name implies, a keyboard is basically a board of keys.  Along with the mouse, the keyboard is one of the primary input devices used with a computer.  The keyboard's design comes from the original typewriter keyboards, which arranged letters and numbers in a way that prevented the type-bars from getting jammed when typing quickly.  This keyboard layout is known as the QWERTY design, which gets its name from the first six letters across in the upper-left-hand corner of the keyboard.\nWhile the design of computer keyboards may have come from typewriters, today's keyboards have many other keys as well.  Modifier keys, such as Control, Alt\/Option, and Command (Mac) or the Windows key (Windows) can be used in conjunction with other keys as \"shortcuts\" to perform certain operations.  For example, pressing Command-S (Mac), or Control-S (Windows) typically saves a document or project you are working on.  Most of today's computer keyboards also have a row of function keys (F1 through F16) along the top of the keyboard, arrow keys arranged in an upside-down T, and a numeric keypad on the right-hand side.  Some keyboards have even more buttons, allowing you to change the system volume, eject a CD, or open programs such as your e-mail or Web browser."
+        ]
+    },
+    {
+        "word": "Keyboard Shortcut",
+        "type": [],
+        "definition": [
+            "A keyboard shortcut is a key combination that performs a certain command, such as closing a window or saving a file.  For example, pressing \"Control-S\" in a Windows program or \"Command-S\" on the Mac is the standard shortcut for saving an open document.  You can also usually close a window on the Mac by pressing \"Command-W\" or by pressing \"Alt-F4\" in Windows.  The shortcut for copying data is usually \"Control-C\" (Windows) or \"Command-C\" (Mac) and for pasting data, it is \"Control-V\" (Windows) or \"Command-V\" (Mac).\nMost keyboard shortcuts are shortcuts for commands located in a program's menu bar.  For example, most of the commands within the File and Edit menus have standard shortcuts.  Each command that has a keyboard shortcut usually has the shortcut listed next to the command in the menu.  For example, the Save option in a Windows program will usually have the text \"Ctrl+S\" next to it, indicating that pressing Control and S together will save the document.\nWhile most keyboard shortcuts are located in a program's menu bar, there are many keyboard shortcuts that are sometimes not visible to the user.  To view a list of keyboard shortcuts available for the Macintosh and Windows operating systems, view the pages below:\nMac OS X Keyboard Shortcuts | Windows XP Keyboard Shortcuts"
+        ]
+    },
+    {
+        "word": "Keylogger",
+        "type": [],
+        "definition": [
+            "A keylogger is a program that records the keystrokes on a computer.  It does this by monitoring a user's input and keeping a log of all keys that are pressed.  The log may be saved to a file or even sent to another machine over a network or the Internet.\nKeylogger programs are often deemed spyware because they usually run without the user knowing it.  They can be maliciously installed by hackers to spy on what a user is typing.  By examining the keylog data, it may be possible to find private information such as a username and password combination.  Therefore, keyloggers can be a significant security risk if they are unknowingly installed on a computer.\nThe best way to protect yourself from keylogger programs is to install anti-virus or security software that warns you when any new programs are being installed.  You should also make sure no unauthorized people have access to your computer.  This is especially true in work environments.  You can also periodically check the current processes running on your computer to make sure no keyloggers or other malware programs are active.  While it is unlikely that you have a keylogger programs installed on your computer, it is definitely worth it to check."
+        ]
+    },
+    {
+        "word": "Keystroke",
+        "type": [],
+        "definition": [
+            "A keystroke is typing one character on a keyboard (not stroking your keyboard like a cat).  Every time you hit a key, you perform a keystroke.  Therefore, 5400 keystrokes in one hour means hitting 5400 keys in one hour, or 90 keys a minute (5400 \u00f7 60 minutes).\nSometimes keystrokes per hour (KSPH) or keystrokes per minute (KSPM) are used to measure typing speed instead of words per minute (WPM).  After all, typing the word \"hi\" 50 times doesn't take quite as long as typing \"Nebuchadnezzar\" 50 times."
+        ]
+    },
+    {
+        "word": "Keywords",
+        "type": [],
+        "definition": [
+            "Keywords are words or phrases that describe content.  They can be used as metadata to describe images, text documents, database records, and Web pages.  A user may \"tag\" pictures or text files with keywords that are relevant to their content.  Later on, these files may be searched using keywords, which can make finding files much easier.  For example, a photographer may use a program like Extensis Portfolio or Apple iPhoto to tag his nature photos with words such as \"nature,\" \"trees,\" \"flowers,\" \"landscape,\" etc.  By tagging the photos, he can later locate all the pictures of flowers by simply searching for the \"flowers\" keyword.\nKeywords are used on the Web in two different ways: 1) as search terms for search engines, and 2) words that identify the content of the website.\n1) Search Engine Search Terms\nWhenever you search for something using a search engine, you type keywords that tell the search engine what to search for.  For example, if you are searching for used cars, you may enter \"used cars\" as your keywords.  The search engine will then return Web pages with content relevant to your search terms.  The more specific keywords you use, the more specific (and useful) the results will be.  Therefore, if you are searching for a specific used car, you may enter something like \"black Honda Accord used car\" to get more accurate results.\nMany search engines also support boolean operators that can be used along with keywords to further refine the search.  For example, you may search for \"Apple AND computers NOT fruit\" if you only want results related to Apple products and not the kind of apples that grow on trees.\n2) Web Page Description Terms\nKeywords can also describe the content of a Web page using the keyword meta tag.  This tag is placed in the &lt;head&gt; section of a page's HTML and contains words that describe the content of the Web page.  The purpose of the keywords meta tag is to help search engines identify and organize Web pages, like in the photos example above.  However, because webmasters have been known to use inaccurate tags to get higher search engine ranking, many search engines now give little to no weight to the keywords meta tag when indexing pages."
+        ]
+    },
+    {
+        "word": "Kibibyte",
+        "type": [],
+        "definition": [
+            "A kibibyte is a unit of data storage that equals 2 to the 10th power, or 1,024 bytes.\nWhile a kilobyte can be estimated as 10^3 or 1,000 bytes, a kibibyte is exactly 1,024 bytes.  This is to avoid the ambiguity associated with the size of kilobytes.  A kibibyte is 1,024 bytes and precedes the mebibyte unit of measurement.\nFor a list of other units of measurements, view this Help Center article.\nAbbreviation: KiB"
+        ]
+    },
+    {
+        "word": "Kilobit",
+        "type": [],
+        "definition": [
+            "A kilobit is 103 or 1,000 bits.\nOne kilobit (abbreviated \"Kb\") contains one thousand bits and there are 1,000 kilobits in a megabit.  Kilobits (Kb) are smaller than than kilobytes (KB), since there are 8 kilobits in a single kilobyte.  Therefore, a kilobit is one-eighth the size of a kilobyte.\nBefore broadband Internet was common, Internet connection speeds were often measured in kilobits.  For example, a 28.8K modem was able to receive data up to 28.8 kilobits per second (Kbps).  A 56K modem could receive data up to 56 Kbps.  Most ISPs now offer connection speeds of 10 Mbps and higher, so kilobits are not as commonly used.  However, if you download a file from a server that does not have a lot of bandwidth, your system might receive less than 1 Mbps.  In this case, the download speed may be displayed in kilobits per second.\nNOTE: While kilobits are used to measure data transfer rates, kilobytes are used to measure file size.  Therefore, if you download an 800 KB file at 400 Kbps, it will take 16 seconds (rather than 2).  This is because 400 kilobits per second is equal to 50 kilobytes per second."
+        ]
+    },
+    {
+        "word": "Kilobyte",
+        "type": [],
+        "definition": [
+            "A kilobyte is 103 or 1,000 bytes.\nThe kilobyte (abbreviated \"K\" or \"KB\") is the smallest unit of measurement greater than a byte.  It precedes the megabyte, which contains 1,000,000 bytes.  While one kilobyte is technically 1,000 bytes, kilobytes are often used synonymously with kibibytes, which contain 1,024 bytes.\nKilobytes are most often used to measure the size of small files.  For example, a plain text document may contain 10 KB of data and therefore would have a file size of 10 kilobytes.  Small website graphics are often between 5 KB and 100 KB in size.  While some files contain less than 4 KB of data, modern file systems such as NTFS (Windows) and HFS+ (Mac) have a cluster size of 4 KB.  Therefore, individual files typically take up a minimum of four kilobytes of disk space.\nNOTE: View a list of all the units of measurement used for measuring data storage."
+        ]
+    },
+    {
+        "word": "Kilohertz",
+        "type": [],
+        "definition": [
+            "One kilohertz (abbreviated \"kHz\") is equal to 1,000 hertz.  Like hertz, kilohertz is used to measure frequency, or cycles per second.  Since one hertz is one cycle per second, one kilohertz is equal to 1,000 cycles per second.\nKilohertz is commonly used to measure the frequencies of sound waves, since the audible spectrum of sound frequencies is between 20 Hz and 20 kHz.  For example, middle C (C4) on a piano keyboard produces a frequency of  261.63 Hz.  The C key two octaves above middle C (C6) produces a frequency of just over 1 kHz (1,046.5 Hz).  Since the sound frequency doubles with each octave, the C7 key produces an audible frequency of just over 2 kHz (2,093 Hz).  As you might guess, frequencies above 2 kHz sound very high-pitched.\nSound waves and low frequency radio waves are often measured in kilohertz.  Other waves, such as high frequency radio waves, visible light waves, and ultraviolet rays, have much higher frequencies.  Therefore, most waves in the electromagnetic spectrum are measured in megahertz, gigahertz, or even greater units of measurements. \nAbbreviation: kHz"
+        ]
+    },
+    {
+        "word": "Kindle",
+        "type": [],
+        "definition": [
+            "The Kindle is a portable e-reader developed by Amazon.com.  It allows you to download and read digital books, newspapers, magazines, and other electronic publications.  The Kindle also includes a built-in speaker and headphone jack for listening to audiobooks or background music.\nThe first Kindle was released in November 2007 and several updated versions have been released since then.  Each Kindle, except for the Kindle Fire, uses special type of display called \"E Ink\" or electronic paper.  Unlike a typical laptop screen or computer monitor, the E Ink display is monochrome and has no backlight.  Instead, it has a light-colored background and text and images are displayed in grayscale.  The result is a paper-like display that can be easily viewed in bright sunlight.\nYou can download content to a Kindle using the built-in Wi-Fi connection (available in Kindles released in 2010 or later) or Amazon's proprietary 3G Whispernet network.  This Whispernet network is a free service provided by Amazon.com to Kindle users and does not require a wireless subscription.  Amazon.com also provides a \"Whispersync\" that allows users to wirelessly sync data between multiple Kindle devices.\nWhile the Kindle was originally designed as a basic e-reader, each iteration has provided more functionality.  For example, recent versions of the Kindle include a web browser, which allows you to view websites.  The Kindle Fire, which was introduced in September 2011, is as much as tablet as an e-reader, since it has a color touchscreen and runs the Android operating system.  Kindle Fire users can also download apps directly from the Amazon.com Appstore.\nNOTE: Kindle eBook files are saved with an .AZW file extension."
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "word": "X86",
+        "type": [],
+        "definition": [
+            "x86 is the generic name for Intel processors released after the original 8086 processor.  These include the 286, 386, 486, and 586 processors.  As you can see, the \"x\" in x86 stands for a range of possible numbers.  Technically, x86 is short for 80x86 since the full names of the processors are actually 80286, 80386, 80486, and 80586.  The \"80\" is typically truncated to avoid redundancy.\nIf a computer's technical specifications state that is based on the x86 architecture, that means it uses an Intel processor (not AMD or PowerPC).  Since Intel's x86 processors are backwards compatible, newer x86 processors can run all the programs that older processors could run.  However, older processors may not be able to run software that has been optimized for newer x86 processors.\nWhile numbers provide a simple way to distinguish between processor types, they cannot be trademarked.  For this reason, Intel's 586 processor is formally known as the Pentium processor.  However, software developers still often refer to processors by their number.  Of course, what else would you expect from computer nerds?"
+        ]
+    },
+    {
+        "word": "XAML",
+        "type": [],
+        "definition": [
+            "Stands for \"Extensible Application Markup Language\" and is pronounced \"zam-uhl.\"  XAML is a markup language developed by Microsoft and is used for creating application interfaces.  It is similar to HTML, which defines the content of a webpage.\nLike other markup languages, XAML uses tags to define objects.  Tags can be nested within other tags to define objects within objects.  The attributes of an object, such as the name, size, shape, and color, are defined within the tag.  Below is an example of a basic XAML tag for a button:\n&lt;Button x:name=\"button\" Content=\"TechTerms\" HorizontalAlignment=\"Left\" VerticalAlignment=\"Top\" Margin=\"150,300,0,0\"\/&gt;\nXAML was introduced in 2006 along with WPF (Windows Presentation Foundation).  WPF is an extension of the Microsoft .NET Framework that includes a display engine for rendering interface elements within a Windows application.  XAML is used to define and link these elements.\nDevelopers can create XAML code from scratch or use a program like Microsoft Expression Studio or Blend for Visual Studio to generate XAML code using a WYSIWYG editor.  XAML is supported by any Windows app that is built using WPF or the Universal Windows Platform.\nFile Extension: .XAML"
+        ]
+    },
+    {
+        "word": "XHTML",
+        "type": [],
+        "definition": [
+            "Stands for \"Extensible Hypertext Markup Language.\"  XHTML is markup language used to create webpages.  It is similar to HTML but uses a more strict XML-based syntax.  The first version of XHTML (1.0) was standardized in 2000.  For several years, XHTML was the most common language used to create websites.  It has since been superseded by HTML5.\nWhy XHTML?\nAs HTML evolved over the first few decades of the web, browsers became increasingly lenient in how they parsed webpage source code.  The result was that websites were rendered inconsistently between browsers.  One of the main goals of XHTML was to ensure webpages looked the same across multiple browsers.\nSince XHTML is based on XML rather than HTML, webpages coded in XHTML must conform to a strict XML syntax.  A webpage that uses the \"XHTML Strict\" doctype (DTD) cannot contain any errors or invalid tags, leaving no ambiguity for the web browser.  However, most XHTML sites used the \"XHTML Transitional\" doctype, which does not require perfect syntax and even allows HTML 4.01 tags.\nFrom 2001 to about 2011, XHTML was the standard markup language for web development.  Some developers used a strict XHTML DTD, though most used transitional doctype.  Since most web developers preferred a more flexible language, the web eventually transitioned back to HTML.  In 2014, HTML5 was officially recommended by the W3C.  Most modern browsers still support both HTML and XHTML."
+        ]
+    },
+    {
+        "word": "XML",
+        "type": [],
+        "definition": [
+            "Stands for \"Extensible Markup Language.\"  (Yes, technically it should be EML).  XML is used to define documents with a standard format that can be read by any XML-compatible application.  The language can be used with HTML pages, but XML itself is not a markup language.  Instead, it is a \"metalanguage\" that can be used to create markup languages for specific applications.  For example, it can describe items that may be accessed when a Web page loads.  Basically, XML allows you to create a database of information without having an actual database.  While it is commonly used in Web applications, many other programs can use XML documents as well."
+        ]
+    },
+    {
+        "word": "XMP",
+        "type": [],
+        "definition": [
+            "Stands for \"Extensible Metadata Platform.\"  XMP is a universal metadata format developed by Adobe Systems and standardized by the International Organization for Standardization (ISO).  It provides a standard format for sharing metadata between multiple applications.\nMany file formats include internal metadata, which describes the contents of the file.  For example, JPEG images created by digital cameras typically include EXIF data, which defines the shutter speed, aperture, focal length, flash setting, and other information related to the image captured by the camera.  While EXIF is a universally recognized format, other types of metadata are saved in proprietary formats that can only be read by a specific program.  This makes it difficult or impossible for other programs to process the metadata.\nAdobe's XMP specification provides a solution to this problem by outlining a standard format for storing metadata.  It uses standard XML and RDF syntax to define metadata properties and attributes.  Below is an example of XMP text:\n&lt;x:xmpmeta xmlns:x='adobe:ns:meta\/'&gt;\n&nbsp; &lt;rdf:RDF xmlns:rdf=\"http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#\"&gt;\n&nbsp; &nbsp; \u2026\n&nbsp; &lt;\/rdf:RDF&gt;\n&lt;\/x:xmpmeta&gt;\nThe \"extensible\" part of XMP means it can be used to describe any type of data.  However, several specific XMP schemas have been developed to store metadata for common file types.  Examples include PDFs, Photoshop documents, compressed images, and camera raw images.  Each schema uses a predefined namespace, which specifies property names.  For example, the Photoshop schema includes properties such as pdf:Keywords, pdf:PDFVersion, and pdf:Producer.\nXMP data is usually stored within an existing file, such as a Photoshop document.  However, it can also be saved externally as a separate .XMP file that is associated with a specific document.  Since the data is saved in a standard format, XMP files can be read by any program that supports XMP.\nFile extension: .XMP"
+        ]
+    },
+    {
+        "word": "XSLT",
+        "type": [],
+        "definition": [
+            "Stands for \"Extensible Style Sheet Language Transformation.\"  While XML is supposed to be a standardized language, not all XML documents use the same type of formatting.  Therefore, the documents sometimes need to be \"transformed,\" or modified so that another script or program will be able to read them.  XSLT make this transition possible.\nAn XSLT style sheet provides a template with rules that XML documents must conform to.  It receives an XML document as input and outputs a file that is recognizable by the intended program.  For example, an XSLT may take a XML document that contains the technical specifications of a computer and turn it into an HTML page that can be displayed in a Web browser.  Another XSLT may turn a XML document containing new stories and turn it into a printer-friendly text document.\nXSLTs can be used to transform XML documents into a modified XML file or a completely separate format, such as the HTML and text examples above.  In fact, by using XSLT style sheets, it is possible to output the same XML document on the Web, in a database program, in an e-mail message, or in a printed document.  Also, because XML uses standard formatting based on tags, a single XSLT can be effective on a large range of XML-formatted files."
+        ]
+    },
+    {
+        "word": "XaaS",
+        "type": [],
+        "definition": [
+            "Stands for \"Everything as a Service.\"  XaaS is an extension of SaaS (software as a service) with a broader scope that covers a range of IT services.  All XaaS offerings have two defining criteria:  They are cloud-based and require a monthly or annual subscription.\nExamples of XaaS services include:\n\nSoftware\nFile storage\nOnline backup\nData security\nData analytics\nCollaboration tools\nStreaming services\n\nSome XaaS tools have a web interface, some have desktop and mobile apps, and others provide both.  Apple iCloud, for example, allows access to the bundled services through the web, macOS, and iOS apps.\nXaaS offerings span consumer and enterprise markets.  Services like Netflix and Spotify are primarily geared towards consumers, while SAP and Salesforce tools are aimed at businesses.  Some services, such as Microsoft 365 and Google Docs, are available to both."
+        ]
+    },
+    {
+        "word": "x64",
+        "type": [],
+        "definition": [
+            "x64 is shorthand for 64-bit processor architecture.  It is often contrasted with x86 architecture, which refers to 32-bit Intel processors, including the 386, 486, and 586 series.  However, x64 refers to all 64-bit processors, regardless of the manufacturer.  The \"x86-64\" label specifies a 64-bit x86 processor.\nThe primary difference between a 32-bit and 64-bit processor is how the CPU addresses memory.  A 32-bit processor can reference 232 or 4,294,967,296 addressable values.  A 64-bit processor can access 264 values.   264 is not double 232, but 4,294,967,296 times more.  Therefore, a 64-bit processor can reference 18,446,744,073,709,551,616 values.\nA 32-bit processor can only access about 4 GB of RAM.  A 64-bit processor can access over 4 billion times more memory than a 32-bit processor, removing any practical memory limitations.  x64 processors can run 64-bit applications, which are built and compiled for 64-bit hardware.\nIt is important to make sure your processor meets the system requirements of a new application before installing it.  Generally, you should install the 64-bit version if given a choice.\nHistory\nThroughout the 1980s and 1990s, most PC processors were 32-bit.  In 1996, Nintendo released the Nintendo 64 gaming console, one of the first mass-market 64-bit devices.  Ironically, the console only had 4 megabytes or RAM, or 1\/1000th the 4 gigabytes limitation of a 32-bit processor.  But it paved the way for more 64-bit processors.\nBetween 2000 and 2010, x64 processors grew in popularity.  Both Microsoft and Apple released 64-bit versions of their operating systems.  Since 2010, nearly all desktop and mobile devices have been built with x64 processors.  Most applications are now 64-bit as well.\nNOTE: In 2019, Apple released macOS 10.15 Catalina, which dropped support for 32-bit applications.  As of 2020, Microsoft Windows still supports both 32-bit and 64-bit applications."
+        ]
+    },
+    {
+        "word": "x86-64",
+        "type": [],
+        "definition": [
+            "x86-64 is a 64-bit version of the x86 processor architecture, which Windows PCs have used for several decades.  It is similar to x64, but refers specifically to processors that use the x86 instruction set.\nCPUs with the x86-64 architecture run in 64-bit mode by default, but are also backward-compatible with 32-bit and 16-bit applications.  In other words, any program that runs on a 32-bit x86 CPU should run on an x86-64 CPU with no emulation required.\nThe main benefit of an x86-64 processor versus a standard 32-bit x86 CPU is significantly more addressable memory.  A 32-bit processor can only reference 232 (4,294,967,296) addressable values in memory \u2014 roughly 4 gigabytes.  A 64-bit processor supports 264 (18,446,744,073,709,551,616) addressable values.  Therefore, an x86-64 CPU does not support double the memory of an x86 CPU, but 4,294,967,296 times more.\nRead more about the difference between 32-bit and 64-bit systems in the TechTerms Help Center.\nIntel and AMD are the two primary manufacturers of X86-64 processors.  The two technologies are labeled Intel 64 and AMD64, respectively.  AMD released its first 64-bit CPU (Operteron) in 2003, followed shortly by Intel, which released its first 64-bit CPU (Nocona) in 2004.  Today, nearly all processors are 64-bit."
+        ]
+    }
+]

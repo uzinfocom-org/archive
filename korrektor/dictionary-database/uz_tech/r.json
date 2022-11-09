@@ -1,0 +1,149 @@
+[
+    {
+        "word": "Real vaqtda analitik qayta ishlash",
+        "type": [],
+        "definition": [
+            "Muhim qarorlar qabul qilinishini ta\u2019minlash uchun ma\u2019lumotlarni operativ tahlil qilish. Ma\u2019lumotlar ustidagi operatsiyalarni OLAP-mashina amalga oshiradi. Atama E.Kodd tomonidan 12 qoida bilan birga 1993 yilda taklif qilingan."
+        ]
+    },
+    {
+        "word": "Ro\u02bbyxat",
+        "type": [],
+        "definition": [
+            "1 Tartiblashtirilgan elementlar to\u2018plami.\r\n 2 Dasturlashda \u2013 faqat kompyuter xotirasi bilan chegaralangan, ixtiyoriy uzunlikdagi turli elementlarni birlashtiradigan ma\u2019lumotlar strukturasi. Uzunligi nolga teng ro\u2018yxat bo\u2018sh ro\u2018yxat deb ataladi. Ro\u2018yxatning kamchiligi, uning elementiga ro\u2018yxatdagi pozitsiyasidan kelib chiqib to\u2018g\u2018ridan-to\u2018g\u2018ri murojaat eta olmasligidadir."
+        ]
+    },
+    {
+        "word": "RADIX-50",
+        "type": [],
+        "definition": [
+            "Bitta 16 bitli so\u2018zda uchta simvolni yozish imkonini beradigan simvol kodi. Asosan, mini kompyuterlarda, RT-11 va RSX-11 operatsion tizimlarning fayl tizimlarida fayllar nomini, obyekt modullari va bibliotekalarda o\u2018zgaruvchilar modullar nomlarini saqlash uchun foydalanilgan."
+        ]
+    },
+    {
+        "word": "RAM SSD",
+        "type": [],
+        "definition": [
+            "Energiyaga bog\u2018liq xotiradan foydalanish asosiga qurilgan to\u2018plagichlar, axborotni o\u2018ta tez o\u2018qish, yozib olish va izlab topish bilan tavsiflanadi. Asosan, katta quvvatli grafik stansiyalarning va yirik ma\u2019lumotlar bazalarini boshqarish tizimlarining ishini tezlashtirish uchun foydalaniladi. Bunday to\u2018plagichlar, odatda, ta\u2019minot yo\u2018qolganda ma\u2019lumotlarni saqlash uchun akkumulyatorlar bilan, birmuncha qimmat turadigan modellar \u2013 rezerv va\/yoki operativ nusxa ko\u2018chirish tizimlari bilan ta\u2019minlangan."
+        ]
+    },
+    {
+        "word": "RDRAM",
+        "type": [],
+        "definition": [
+            "Rambus kompaniyasi tomonidan Intel bilan hamkorlikda 1996 yilda ishlab chiqilgan operativ xotira standarti. Xotiraning o\u2018tkazish qobiliyati 1 Gbite\/s, keyinchalik 4 Gbite\/s."
+        ]
+    },
+    {
+        "word": "RS - 232",
+        "type": [],
+        "definition": [
+            "Asinxron interfeys uchun fizik sath. RS - 232 kommunikatsion qurilma va terminal o\u2018rtasida 15 m gacha bo\u2018lgan masofaga ma\u2019lumotlar va ba\u2019zi bir maxsus signallar uzatilishini ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "RTLinux",
+        "type": [],
+        "definition": [
+            "Mikroyadroli qat\u2019iy real vaqt operatsion tizimi. RTLinux ustidagi ishlar 2007 yilda tugallangan."
+        ]
+    },
+    {
+        "word": "Raqamlashtirish",
+        "type": [],
+        "definition": [
+            "Analog signalni diskret, raqamli signalga aylantirish jarayoni. Kompyuter analog qurilmalardan olinadigan tovush signallari va tasvirlar bilan ishlashida foydalaniladi."
+        ]
+    },
+    {
+        "word": "Radiochastotali ma\u02bclumotlar uzatish vositalari",
+        "type": [],
+        "definition": [
+            "Fayllarni radiokanal orqali (to\u2018g\u2018ri ko\u2018rinishsiz) kompyuterdan printerga, ma\u2019lumotlar to\u2018plagichga 9-12 m ga uzatish uchun xizmat qiladigan elektron qurilmalar va dasturiy vositalar. Ishlashda qulaylik yaratadi, ulardan foydalanilganda qurilmalarni o\u2018zaro birlashtiradigan kabellar kerak bo\u2018lmaydi. Fayllard\u0131 radiokanal arqal\u0131 (tuwr\u0131 k\u00f3rinissiz) kompyuterden printerge, ma\u01f5l\u0131wmatlar topla\u01f5\u0131shqa 9-12 m ge uzat\u0131w ush\u0131n x\u0131zmet etetu\u01f5\u0131n elektron qur\u0131lmalar h\u00e1m ba\u01f5darlamal\u0131q qurallar. Islewde qolayl\u0131l\u0131q jaratad\u0131, olardan paydalan\u0131l\u01f5anda qur\u0131lmalard\u0131 \u00f3zara birlestiretu\u01f5\u0131n kabeller kerek bolmayd\u0131."
+        ]
+    },
+    {
+        "word": "Razryad",
+        "type": [],
+        "definition": [
+            "Pozitsion sanoq tizimida raqam egallaydigan, tartib raqamiga ega joy. So\u2018zda har qanday simvolning joyi. Razryad raqami birdan boshlab chapdan o\u2018ngga hisoblanadi. Razryadlarning umumiy soni so\u2018zning uzunligini belgilaydi."
+        ]
+    },
+    {
+        "word": "Ranjlash",
+        "type": [],
+        "definition": [
+            "Obyektlar yoki ma\u2019lumotlarni, tasniflash maqsadida darajalar bo\u2018yicha qandaydir belgilarga ko\u2018ra taqsimlash. Tasniflanadigan obyektlar yoki ma\u2019lumotlar taqsimlanadigan darajalar ranglar deb ataladi."
+        ]
+    },
+    {
+        "word": "Rastrli grafika",
+        "type": [],
+        "definition": [
+            "Tasvir nuqtalar to\u2018plami ko\u2018rinishida taqdim etiladigan grafika. Har bir nuqta rastr elementi deyiladi, uning tavsifi maxsus rastrli fayllarda saqlanadi. Rastrli fayllarning bir nechta formati bor, masalan, Windows da foydalaniladigan, apparat jihatdan mustaqil rastrli format DIB (Device Independent Bitmap)."
+        ]
+    },
+    {
+        "word": "Registr",
+        "type": [],
+        "definition": [
+            "Jismonan protsessorda joylashgan va katta bo\u2018lmagan ma\u2019lumotlarni vaqtincha saqlash, ulardan tez foydalanish imkonini beradigan qurilma."
+        ]
+    },
+    {
+        "word": "Real vaqt rejimi",
+        "type": [],
+        "definition": [
+            "Hisoblash tizimining ishlash rejimi, bunda tashqi muhitda yuz beradigan jarayonlar to\u2018g\u2018risidagi ma\u2019lumotlarni qayta ishlash, jarayonlar o\u2018zi kechadigan sur\u2019atda kechadi."
+        ]
+    },
+    {
+        "word": "Rezident dastur",
+        "type": [],
+        "definition": [
+            "Kompyuterning ishlash vaqtida operativ xotiraga joylashtiriladigan dastur, bajarilgandan so\u2018ng undan avtomatik ravishda olinmaydi, zaruratga qarab bajariladi va boshqa dasturlar ishiga xalaqit bermaydi."
+        ]
+    },
+    {
+        "word": "Rekursiv funksiya",
+        "type": [],
+        "definition": [
+            "O\u2018ziga-o\u2018zi murojaat qiladigan funksiya. Rekursiv funksiyalardan funksional dasturlash tillarida, xususan, LISP tilida keng foydalaniladi."
+        ]
+    },
+    {
+        "word": "Relyatsion ma\u02bclumotlar bazasi",
+        "type": [],
+        "definition": [
+            "O\u2018zaro bog\u2018langan ikki o\u2018lchamli (relyatsion) jadvallar yig\u2018indisi. Har bir jadval bitta mohiyatni aks ettiradi. Relyatsion ma\u2019lumotlar bazasida ikkita jadval orasidagi aloqalar aloqa kaliti (bosh jadval kaliti) orqali ta\u2019minlanadi. Ma\u2019lumotlar bazasi bilan ishlash uchun, jadvallardan, shakllar, so\u2018rovlar, hisobotlar, makroslar va modullardan foydalaniladi. Jadvallar ma\u2019lumotlar bazasida axborotni saqlash uchun foydalanuvchilar tomonidan tuziladi, bunda har bir mohiyatga bitta jadval mos keladi. Jadval (maydon) ustunlari rekvizitlarning qiymatlarini, jadval (yozuv) satrlari esa, mohiyat nusxalarini ichiga oladi."
+        ]
+    },
+    {
+        "word": "Relyatsion model",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar strukturasini, ma\u2019lumotlar ustidagi yo\u2018l qo\u2018yiladigan operatsiyalar, ma\u2019lumotlarning yaxlitligi ta\u2019minlanadigan maxsus qoidalar tavsiflangan ma\u2019lumotlar modeli. Edgar Kodd tomonidan IBM firmasida 1970 yilda ishlab chiqilgan. An\u2019anaviy nazariy ko\u2018plik amallar (birlashtirish, kesishish, farq va dekart ko\u2018paytmasi) va maxsus relyatsion amallar (seleksiya, proeksiya, birlashtirish va bo\u2018lish) yo\u2018l qo\u2018yiladigan ikki o\u2018lchamli jadvallar ko\u2018rinishida taqdim etiladi. Modeldan foydalanish, relyatsion ham ma\u2019lumotlar bazalarini, ham relyatsion ma\u2019lumotlar bazalarini boshqarish tizimini yaratish imkonini berdi."
+        ]
+    },
+    {
+        "word": "Relyatsion ma\u02bclumotlar bazasini boshqarish tizimi (RMBBT)",
+        "type": [],
+        "definition": [
+            "Relyatsion model asosida tuzilgan, relyatsion ma\u2019lumotlar bazasini boshqarish tizimi. Har bir relyatsion ma\u2019lumotlar bazasini boshqarish tizimi \u2013 bu, jadvallarni qayta ishlashga spetsifik yetarlicha kuchli dasturlash tilidir. Bu tizimlarning oxirgi versiyalari na faqat yaxshi tezlik sifatlariga, balki qulay foydalanuvchi interfeysiga ham ega. Bu tizim tarkibiga odatda strukturalangan so\u2018rovlar (SQL) tili kiradi. Shaxsiy kompyuterlar uchun belgilangan ko\u2018plab relyatsion ma\u2019lumotlar bazalarini boshqarish tizimi tarkibiga uchta modul: komanda tili, talqin qiladigan va\/yoki kompilyatsiyalovchi tizim va foydalanuvchi qobig\u2018i kiradi."
+        ]
+    },
+    {
+        "word": "Raqamli videointerfeys",
+        "type": [],
+        "definition": [
+            "Interfeys standarti va videotasvirlarni suyuq kristalli monitor, televizor, proyektor kabi raqamli aks ettirish qurilmalariga uzatish uchun mo\u2018ljallangan tegishli razyom. Digital Display Working Group konsorsiumi tomonidan ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Raqamli universal disk",
+        "type": [],
+        "definition": [
+            "Texnologiya va tashqi xotira qurilmasi. Lazer texnologiyalarga kiradi. CD-ROM dagiga qaraganda, to\u2018lqin uzunligi birmuncha qisqa bo\u2018lgan lazerlardan foydalaniladi, shu sababli, 5 dyuymli diskka 4,7Gbyte ma\u2019lumot yozish mumkin; disk ikki qatlamli va ikki tomonlama bo\u2018lishi mumkin, bu disk sig\u2018imini 17 Gbyte gacha yetkazish imkonini beradi. Bunday disklardan multimedia ilovalarda keng foydalaniladi."
+        ]
+    }
+]

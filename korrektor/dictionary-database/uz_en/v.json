@@ -1,0 +1,905 @@
+[
+    {
+        "word": "Va",
+        "type": [],
+        "definition": [
+            "And [\/\u00e6nd\/]"
+        ]
+    },
+    {
+        "word": "Va Boshqalar",
+        "type": [],
+        "definition": [
+            "Et Cetera []"
+        ]
+    },
+    {
+        "word": "Vabo",
+        "type": [],
+        "definition": [
+            "Cholera [\/k\u0252l.\u0259r.\u0259\/]"
+        ]
+    },
+    {
+        "word": "Vada Bermoq",
+        "type": [],
+        "definition": [
+            "Promise [\/pr\u0252m.\u026as\/]"
+        ]
+    },
+    {
+        "word": "Vafli",
+        "type": [],
+        "definition": [
+            "Wafer [\/we\u026a.f\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Vafo",
+        "type": [],
+        "definition": [
+            "Loyalty [\/l\u0254\u026a.\u0259l.ti\/]"
+        ]
+    },
+    {
+        "word": "Vafodor",
+        "type": [],
+        "definition": [
+            "Loyal [\/l\u0254\u026a.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Vafot Etmoq",
+        "type": [],
+        "definition": [
+            "Die [\/da\u026a\/]"
+        ]
+    },
+    {
+        "word": "Vafotidan Keyingi",
+        "type": [],
+        "definition": [
+            "Posthumous [\/p\u0252s.tj\u028a.m\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Vagon",
+        "type": [],
+        "definition": [
+            "Carriage [\/k\u00e6r.\u026ad\u0292\/]"
+        ]
+    },
+    {
+        "word": "Vahima",
+        "type": [],
+        "definition": [
+            "Panic [\/p\u00e6n.\u026ak\/]"
+        ]
+    },
+    {
+        "word": "Vahimali",
+        "type": [],
+        "definition": [
+            "Awful [\/\u0254:.f\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Vahshiy",
+        "type": [],
+        "definition": [
+            "Bestial [\/bes.ti.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Vakil",
+        "type": [],
+        "definition": [
+            "Delegate [del.\u026a.g\u0259t\/]"
+        ]
+    },
+    {
+        "word": "Vakil Bo\u02bblmoq",
+        "type": [],
+        "definition": [
+            "Represent [\/rep.r\u026azent\/]"
+        ]
+    },
+    {
+        "word": "Vakil Qilmoq",
+        "type": [],
+        "definition": [
+            "Accredit [\/\u0259kred.\u026at\/]"
+        ]
+    },
+    {
+        "word": "Vakolat",
+        "type": [],
+        "definition": [
+            "Proxy [\/pr\u0252k.si\/]"
+        ]
+    },
+    {
+        "word": "Vakolat Bermoq",
+        "type": [],
+        "definition": [
+            "Authorize [\/\u0254:.\u03b8\u0259r.a\u026az\/]"
+        ]
+    },
+    {
+        "word": "Vakolatga Ega",
+        "type": [],
+        "definition": [
+            "Authority [\/\u0254:\u03b8\u0252r.\u026a.ti\/]"
+        ]
+    },
+    {
+        "word": "Vakolatxona",
+        "type": [],
+        "definition": [
+            "Legation [\/l\u026age\u026a.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Vaksina",
+        "type": [],
+        "definition": [
+            "Vaccine [\/v\u00e6k.si:n\/]"
+        ]
+    },
+    {
+        "word": "Vakum",
+        "type": [],
+        "definition": [
+            "Vacuum [\/v\u00e6k.ju:m\/]"
+        ]
+    },
+    {
+        "word": "Val",
+        "type": [],
+        "definition": [
+            "Spindle [\/sp\u026an.dl\u2006\u0329\/]"
+        ]
+    },
+    {
+        "word": "Valet",
+        "type": [],
+        "definition": [
+            "Knave [\/ne\u026av\/]"
+        ]
+    },
+    {
+        "word": "Vals",
+        "type": [],
+        "definition": [
+            "Waltz [\/w\u0252lts\/]"
+        ]
+    },
+    {
+        "word": "Valyuta",
+        "type": [],
+        "definition": [
+            "Currency [\/k\u028cr.\u0259nt.si\/]"
+        ]
+    },
+    {
+        "word": "Vampir",
+        "type": [],
+        "definition": [
+            "Vampire [\/v\u00e6m.pa\u026a\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Vanilin",
+        "type": [],
+        "definition": [
+            "Vanilla [\/v\u0259n\u026al.\u0259\/]"
+        ]
+    },
+    {
+        "word": "Vaqt",
+        "type": [],
+        "definition": [
+            "Time [\/ta\u026am\/]"
+        ]
+    },
+    {
+        "word": "Vaqt Belgilash",
+        "type": [],
+        "definition": [
+            "Timing [\/ta\u026a.m\u026a\u014b\/]"
+        ]
+    },
+    {
+        "word": "Vaqt Sarflash",
+        "type": [],
+        "definition": [
+            "Ado [\/\u0259du\/]"
+        ]
+    },
+    {
+        "word": "Vaqtida",
+        "type": [],
+        "definition": [
+            "Punctual [\/p\u028c\u014bk.tju.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Vaqtida To\u02bblanmagan",
+        "type": [],
+        "definition": [
+            "Overdue [\/\u0259\u028a.v\u0259dju:\/]"
+        ]
+    },
+    {
+        "word": "Vaqtidan Oldin",
+        "type": [],
+        "definition": [
+            "Untimely [\/\u028cnta\u026am.li\/]"
+        ]
+    },
+    {
+        "word": "Vaqtincha",
+        "type": [],
+        "definition": [
+            "Irregular [\/\u026areg.j\u0259.l\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Vaqtincha Turmoq",
+        "type": [],
+        "definition": [
+            "Sojourn [\/s\u0252d\u0292.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Vaqtinchalik",
+        "type": [],
+        "definition": [
+            "Casual [\/k\u00e6\u0292.ju.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Vaqtni Bekor O\u02bbtkazmoq",
+        "type": [],
+        "definition": [
+            "Dally [\/d\u00e6l.i\/]"
+        ]
+    },
+    {
+        "word": "Vaqtni Yoqimli O\u02bbtkazish",
+        "type": [],
+        "definition": [
+            "Pastime [\/p\u0251:s.ta\u026am\/]"
+        ]
+    },
+    {
+        "word": "Variant",
+        "type": [],
+        "definition": [
+            "Variant [\/ve\u0259.ri.\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Varrak",
+        "type": [],
+        "definition": [
+            "Kite [\/ka\u026at\/]"
+        ]
+    },
+    {
+        "word": "Varrak Uchirish",
+        "type": [],
+        "definition": [
+            "Hang-Gliding [\/h\u00e6\u014bgla\u026a.d\u026a\u014b\/]"
+        ]
+    },
+    {
+        "word": "Vasiy",
+        "type": [],
+        "definition": [
+            "Custodian [\/k\u028cst\u0259\u028a.di.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Vasiyat",
+        "type": [],
+        "definition": [
+            "Testament [\/tes.t\u0259.m\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Vasiyat Qilmoq",
+        "type": [],
+        "definition": [
+            "Bequeath [\/b\u026akwi\u00f0\/]"
+        ]
+    },
+    {
+        "word": "Vatan",
+        "type": [],
+        "definition": [
+            "Home [\/h\u0259\u028am\/]"
+        ]
+    },
+    {
+        "word": "Vatan Xoini",
+        "type": [],
+        "definition": [
+            "Traitor [\/tre\u026a.t\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Vatandosh",
+        "type": [],
+        "definition": [
+            "Compatriot [\/k\u0259mp\u00e6t.ri.\u0259t\/]"
+        ]
+    },
+    {
+        "word": "Vataniga Jo\u02bbnatmoq",
+        "type": [],
+        "definition": [
+            "Repatriate [\/ri:p\u00e6t.ri.e\u026at\/]"
+        ]
+    },
+    {
+        "word": "Vatanparvar",
+        "type": [],
+        "definition": [
+            "Patriot [\/p\u00e6t.ri.\u0259t\/]"
+        ]
+    },
+    {
+        "word": "Vatanparvarlik",
+        "type": [],
+        "definition": [
+            "Patriotism [\/p\u00e6t.ri.\u0259.t\u026a.z\u0259m\/]"
+        ]
+    },
+    {
+        "word": "Vatt",
+        "type": [],
+        "definition": [
+            "Watt [\/w\u0252t\/]"
+        ]
+    },
+    {
+        "word": "Vau",
+        "type": [],
+        "definition": [
+            "Wow [\/wa\u028a\/]"
+        ]
+    },
+    {
+        "word": "Vayron Qilmoq",
+        "type": [],
+        "definition": [
+            "Demolish [\/d\u026am\u0252l.\u026a\u0283\/]"
+        ]
+    },
+    {
+        "word": "Vayrona",
+        "type": [],
+        "definition": [
+            "Debris [\/deb.ri:\/]"
+        ]
+    },
+    {
+        "word": "Vaysamoq",
+        "type": [],
+        "definition": [
+            "Babble [\/b\u00e6b.l\u2006\u0329\/]"
+        ]
+    },
+    {
+        "word": "Vaysaqi",
+        "type": [],
+        "definition": [
+            "Chatterbox [\/t\u0283\u00e6t.\u0259.b\u0252ks\/]"
+        ]
+    },
+    {
+        "word": "Vaz O\u02bbqimoq",
+        "type": [],
+        "definition": [
+            "Preach [\/pri:t\u0283\/]"
+        ]
+    },
+    {
+        "word": "Vaza",
+        "type": [],
+        "definition": [
+            "Vase [\/v\u0251:z\/]"
+        ]
+    },
+    {
+        "word": "Vazifa",
+        "type": [],
+        "definition": [
+            "Assignment [\/\u0259sa\u026an.m\u0259nt\/]"
+        ]
+    },
+    {
+        "word": "Vazir",
+        "type": [],
+        "definition": [
+            "Minister [\/m\u026an.\u026a.st\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Vazirlar Mahkamasi",
+        "type": [],
+        "definition": [
+            "Cabinet [\/k\u00e6b.\u026a.n\u0259t\/]"
+        ]
+    },
+    {
+        "word": "Vazirlik",
+        "type": [],
+        "definition": [
+            "Ministry [\/m\u026an.\u026a.stri\/]"
+        ]
+    },
+    {
+        "word": "Vaziyat",
+        "type": [],
+        "definition": [
+            "Case [\/ke\u026as\/]"
+        ]
+    },
+    {
+        "word": "Vazmin",
+        "type": [],
+        "definition": [
+            "Conservative [\/k\u0259ns\u025c:.v\u0259.t\u026av\/]"
+        ]
+    },
+    {
+        "word": "Vazminlik",
+        "type": [],
+        "definition": [
+            "Equanimity [\/ek.w\u0259n\u026am.\u026a.ti\/]"
+        ]
+    },
+    {
+        "word": "Vaznsiz",
+        "type": [],
+        "definition": [
+            "Weightless [\/we\u026at.l\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Vegetarian",
+        "type": [],
+        "definition": [
+            "Vegetarian [\/ved\u0292.\u026ate\u0259.ri.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Veksel",
+        "type": [],
+        "definition": [
+            "Bond [\/b\u0252nd\/]"
+        ]
+    },
+    {
+        "word": "Vektor",
+        "type": [],
+        "definition": [
+            "Vector [\/vek.t\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Velosiped",
+        "type": [],
+        "definition": [
+            "Bicycle [\/ba\u026a.s\u026a.kl\u0329\/]"
+        ]
+    },
+    {
+        "word": "Vena",
+        "type": [],
+        "definition": [
+            "Vein [\/ve\u026an\/]"
+        ]
+    },
+    {
+        "word": "Ventilator",
+        "type": [],
+        "definition": [
+            "Fan [\/f\u00e6n\/]"
+        ]
+    },
+    {
+        "word": "Ventilyator",
+        "type": [],
+        "definition": [
+            "Ventilator [\/ven.t\u026a.le\u026a.t\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Vergul",
+        "type": [],
+        "definition": [
+            "Comma [\/k\u0252m.\u0259\/]"
+        ]
+    },
+    {
+        "word": "Vermishel",
+        "type": [],
+        "definition": [
+            "Vermicelli [\/v\u025c:.m\u026at\u0283el.i\/]"
+        ]
+    },
+    {
+        "word": "Vertikal",
+        "type": [],
+        "definition": [
+            "Vertical [\/v\u025c:.t\u026a.k\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Vertolyot",
+        "type": [],
+        "definition": [
+            "Helicopter [\/hel.\u026ak\u0252p.t\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Veteran",
+        "type": [],
+        "definition": [
+            "Veteran [\/vet.\u0259r.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Veterinar",
+        "type": [],
+        "definition": [
+            "Vet [\/vet\/]"
+        ]
+    },
+    {
+        "word": "Veterinariya",
+        "type": [],
+        "definition": [
+            "Veterinary [\/vet.\u0259r.\u026a.n\u0259r.i\/]"
+        ]
+    },
+    {
+        "word": "Video",
+        "type": [],
+        "definition": [
+            "Video [\/v\u026ad.i.\u0259\u028a\/]"
+        ]
+    },
+    {
+        "word": "Vijdon",
+        "type": [],
+        "definition": [
+            "Conscience [\/k\u0252n.t\u0283\u0259nts\/]"
+        ]
+    },
+    {
+        "word": "Vijdon Azobi",
+        "type": [],
+        "definition": [
+            "Compunction [\/k\u0259mp\u028c\u014bk.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Vijdonsiz",
+        "type": [],
+        "definition": [
+            "Dishonest [\/d\u026as\u0252n.\u026ast\/]"
+        ]
+    },
+    {
+        "word": "Vikont",
+        "type": [],
+        "definition": [
+            "Viscount [\/va\u026a.ka\u028ant\/]"
+        ]
+    },
+    {
+        "word": "Viktorina",
+        "type": [],
+        "definition": [
+            "Quiz [\/kw\u026az\/]"
+        ]
+    },
+    {
+        "word": "Vilka",
+        "type": [],
+        "definition": [
+            "Fork [\/f\u0254:k\/]"
+        ]
+    },
+    {
+        "word": "Viloyat",
+        "type": [],
+        "definition": [
+            "County [\/ka\u028an.ti\/]"
+        ]
+    },
+    {
+        "word": "Viola",
+        "type": [],
+        "definition": [
+            "Viola [\/va\u026a\u0259\u028a.l\u0259\/]"
+        ]
+    },
+    {
+        "word": "Violonchel",
+        "type": [],
+        "definition": [
+            "Cello [\/t\u0283el.\u0259\u028a\/]"
+        ]
+    },
+    {
+        "word": "Virus",
+        "type": [],
+        "definition": [
+            "Virus [\/va\u026a\u0259.r\u0259s\/]"
+        ]
+    },
+    {
+        "word": "Vishillamoq",
+        "type": [],
+        "definition": [
+            "Fizz [\/f\u026az\/]"
+        ]
+    },
+    {
+        "word": "Vishshillamoq",
+        "type": [],
+        "definition": [
+            "Hiss [\/h\u026as\/]"
+        ]
+    },
+    {
+        "word": "Viski",
+        "type": [],
+        "definition": [
+            "Whisky [\/w\u026as.ki\/]"
+        ]
+    },
+    {
+        "word": "Vitamin",
+        "type": [],
+        "definition": [
+            "Vitamin [\/v\u026at.\u0259.m\u026an\/]"
+        ]
+    },
+    {
+        "word": "Viza",
+        "type": [],
+        "definition": [
+            "Visa [\/vi:.z\u0259\/]"
+        ]
+    },
+    {
+        "word": "Vizillamoq",
+        "type": [],
+        "definition": [
+            "Hum [\/h\u028cm\/]"
+        ]
+    },
+    {
+        "word": "Vodiy",
+        "type": [],
+        "definition": [
+            "Dale [\/de\u026al\/]"
+        ]
+    },
+    {
+        "word": "Vodorod",
+        "type": [],
+        "definition": [
+            "Hydrogen [\/ha\u026a.dr\u026a.d\u0292\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Vodorod Bomba",
+        "type": [],
+        "definition": [
+            "H-Bomb [\/e\u026at\u0283.b\u0252m\/]"
+        ]
+    },
+    {
+        "word": "Voha",
+        "type": [],
+        "definition": [
+            "Oasis [\/\u0259\u028ae\u026a.s\u026as\/]"
+        ]
+    },
+    {
+        "word": "Voleybol",
+        "type": [],
+        "definition": [
+            "Volleyball [\/v\u0252l.i.b\u0254:l\/]"
+        ]
+    },
+    {
+        "word": "Volinka",
+        "type": [],
+        "definition": [
+            "Bagpipes [\/b\u00e6g.pa\u026aps\/]"
+        ]
+    },
+    {
+        "word": "Volt",
+        "type": [],
+        "definition": [
+            "Volt [\/v\u0252lt\/]"
+        ]
+    },
+    {
+        "word": "Voltaj",
+        "type": [],
+        "definition": [
+            "Voltage [\/v\u0252l.t\u026ad\u0292\/]"
+        ]
+    },
+    {
+        "word": "Voqea",
+        "type": [],
+        "definition": [
+            "Event [\/\u026avent\/]"
+        ]
+    },
+    {
+        "word": "Voqelik",
+        "type": [],
+        "definition": [
+            "Reality [\/ri\u00e6l.\u026a.ti\/]"
+        ]
+    },
+    {
+        "word": "Voris",
+        "type": [],
+        "definition": [
+            "Heir [\/e\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Vorislik",
+        "type": [],
+        "definition": [
+            "Inheritance [\/\u026anher.t\u0259nts\/]"
+        ]
+    },
+    {
+        "word": "Voronka",
+        "type": [],
+        "definition": [
+            "Funnel [\/f\u028cn.\u0259l\/]"
+        ]
+    },
+    {
+        "word": "Vositachi",
+        "type": [],
+        "definition": [
+            "Go-Between [\/g\u0259\u028a.b\u026atwi:n\/]"
+        ]
+    },
+    {
+        "word": "Vositachilik",
+        "type": [],
+        "definition": [
+            "Mediation [\/mi:.die\u026a.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Vositachilik Qilish",
+        "type": [],
+        "definition": [
+            "Intercession [\/\u026an.t\u0259se\u0283.\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Vositachilik Qilmoq",
+        "type": [],
+        "definition": [
+            "Intercede [\/\u026an.t\u0259si:d\/]"
+        ]
+    },
+    {
+        "word": "Vovullamoq",
+        "type": [],
+        "definition": [
+            "Bark [\/b\u0251:k\/]"
+        ]
+    },
+    {
+        "word": "Voy",
+        "type": [],
+        "definition": [
+            "Oh [\/\u0259\u028a\/]"
+        ]
+    },
+    {
+        "word": "Voyaga Yetgan",
+        "type": [],
+        "definition": [
+            "Mature [\/m\u0259tj\u028a\u0259r\/]"
+        ]
+    },
+    {
+        "word": "Voyaga Yetgan O\u02bbsmir",
+        "type": [],
+        "definition": [
+            "Adult [\/\u00e6d.\u028clt]"
+        ]
+    },
+    {
+        "word": "Voyaga Yetgan Qiz",
+        "type": [],
+        "definition": [
+            "Adult [\/\u00e6d.\u028clt]"
+        ]
+    },
+    {
+        "word": "Voyaga Yetgan Yigit",
+        "type": [],
+        "definition": [
+            "Adult [\/\u00e6d.\u028clt]"
+        ]
+    },
+    {
+        "word": "Voz Kechib Bo\u02bblmaydigan",
+        "type": [],
+        "definition": [
+            "Undeniable [\/\u028cn.d\u026ana\u026a.\u0259.bl\u2006\u0329\/]"
+        ]
+    },
+    {
+        "word": "Voz Kechish",
+        "type": [],
+        "definition": [
+            "Renunciation [\/r\u026an\u028cnt.sie\u026a.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Voz Kechishga Undamoq",
+        "type": [],
+        "definition": [
+            "Dissuade [\/d\u026aswe\u026ad\/]"
+        ]
+    },
+    {
+        "word": "Voz Kechmoq",
+        "type": [],
+        "definition": [
+            "Abdicate [\/\u00e6b.d\u026a.ke\u026at\/]"
+        ]
+    },
+    {
+        "word": "Vujudga Keltirish",
+        "type": [],
+        "definition": [
+            "Creation [\/krie\u026a.\u0283\u0259n\/]"
+        ]
+    },
+    {
+        "word": "Vulqon",
+        "type": [],
+        "definition": [
+            "Volcano [\/v\u0252lke\u026a.n\u0259\u028a\/]"
+        ]
+    },
+    {
+        "word": "Vulqon Otilishi",
+        "type": [],
+        "definition": [
+            "Erupt [\/\u026ar\u028cpt\/]"
+        ]
+    },
+    {
+        "word": "Vulqonli",
+        "type": [],
+        "definition": [
+            "Volcanic [\/v\u0252lk\u00e6n.\u026ak\/]"
+        ]
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "word": "Kompyuter tarmog\u02bbi adminstratori",
+        "type": [],
+        "definition": [
+            "Tarmoqni joriy boshqarish va uni rivojlantirish istiqboli bilan shug\u2018ullanadigan shaxs yoki shaxslar guruhi. Asosiy vazifalari: ishonchli ishlashni ta\u2019minlash, foydalanish (kirish) parollari va adreslarini aniqlash va berish, boshqa tarmoqlar bilan birgalikda ishlashni ta\u2019minlash, ma\u2019lumotlar baza-larining administratorlari bilan birgalikda ishlash. Boshqarish vositasi \u2013 tarmoq boshqaruv tizimi."
+        ]
+    },
+    {
+        "word": "Klaviaturasi bo\u02bblmagan cho\u02bbntak kompyuteri",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni kiritish uchun plastik perodan foydalaniladigan cho\u2018ntak kompyuteri turi. Pero bosilishga sezgir bo\u2018lgan displey sirtiga tekkiziladi. Matn yozma tarzda kiritiladi yoki virtual klaviaturada teriladi. Protsessorning takt chastotasi 200 MHz. Operativ xotira - 16\/32 Mbyte. Operatsion tizim asosan, MS Word va MS Excel portativ versiyalar kiritilgan Windows CE. Ma\u2019lumotlarni uzatish uchun infraqizil port bilan jihozlangan, uning yordamida stol kompyuterlariga va sotkali telefonlarga ulanadi."
+        ]
+    },
+    {
+        "word": "Katta ikkilik obyekt",
+        "type": [],
+        "definition": [
+            "Ba\u2019zi dasturlash tillaridagi va ma\u2019lumotlar bazalarini boshqarish tizimidagi, ixtiyoriy ikkilik axborotni saqlash uchun mo\u2018ljallangan, ma\u2019lumotlar turi."
+        ]
+    },
+    {
+        "word": "Kompyuterning tez ishlashi",
+        "type": [],
+        "definition": [
+            "Aniq bir kompyuterning ma\u2019lumotlarni qayta ishlash tezligi. Ko\u2018pgina omillarga, jumladan, tashqi qurilmalarning tez ishlashiga bog\u2018liq. Kompyuterning tez ishlashini odatda, protsessorning tez ishlashi belgilaydi."
+        ]
+    },
+    {
+        "word": "Kiritish",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni protsessorga, operativ xotiraga yoki tashqi qurilmaga yozish jarayoni. Foydalanuvchi tomonidan klaviaturadan, ovoz orqali; avtomatik tarzda tashqi qurilmadan amalga oshirilishi mumkin. Komandalarni (hajmi katta bo\u2018lmagan) joystik, sichqoncha, trekbol, perolar, trekpoint va sensor pa-nel yordamida kiritish mumkin."
+        ]
+    },
+    {
+        "word": "Kattalik",
+        "type": [],
+        "definition": [
+            "O\u2018z nomi yoki qiymat bilan yoki ham unisi, ham bunisi bilan belgilanadigan ma\u2019lumotlar elementi. Xotiraning bir qismi, nom (identifikator) va xotirada saqlanadigan qiymat bilan beriladi."
+        ]
+    },
+    {
+        "word": "Kompyuter virusi",
+        "type": [],
+        "definition": [
+            "1 Hisoblash tizimiga, ma\u2019lumotlarni buzish, o\u2018zgartirish yoki yo\u2018q qilish maqsadida kiritiladigan anonim dastur.\r\n 2 Quyidagi xususiyatlarga: o\u2018zini boshqa fayllarga, diskka, elektron hisoblash mashinasiga ko\u2018chirish; aniq chaqiruvsiz bajarish; axborotdan ruxsat etilmagan tarzda foydalanishni amalga oshirish; aniqlashga urinishdan maskirovka qilish imkoniyatiga ega dastur.\r\n 3 O\u2018zining nusxasini yoki boshqa zararli dasturlar yarata oladigan va ularni kompyuter fayllariga, tizim sohalariga kiritadigan, shuningdek, boshqa destruktiv harakatlarni amalga oshiradigan zararli dastur."
+        ]
+    },
+    {
+        "word": "Ko\u02bbrsatish uchun belgilangan versiya",
+        "type": [],
+        "definition": [
+            "Dasturiy mahsulotning varianti; haqiqiy versiya to\u2018g\u2018risida maksimal darajada to\u2018liq tasavvur berishi kerak bo\u2018ladi. Bu versiyaga, odatda, ma\u2019lumotlarning aniq namunalari qo\u2018yiladi, foydalanuvchining sharoitlariga sozlash uchun mo\u2018ljallangan dasturlar undan chiqarib tashlanadi. Odatda, bepul yetkazib beriladi, lekin undan amalda qo\u2018llash uchun foydalanishning imkoni yo\u2018q"
+        ]
+    },
+    {
+        "word": "Kompyuter o\u02bbyini",
+        "type": [],
+        "definition": [
+            "Kompyuter imkoniyatlaridan, uning interaktiv imkoniyatlaridan, video, audio effektlardan foydalanib tuzilgan o\u2018yin. O\u2018yinlar amaliy, rivojlantiruvchi, o\u2018qitadigan va ko\u2018ngil ochadigan o\u2018yinlarga bo\u2018linadi. Kompyuter tarmoqlaridan foydalanilgan virtual borliqni yaratadigan o\u2018yinlar ishlab chiqilgan. O\u2018yinlarning rivojlantirilishi butun bir yo\u2018nalish \u2013 o\u2018yin informatikasini yuzaga keltirdi."
+        ]
+    },
+    {
+        "word": "Kichik hisoblash tizimlari interfeysi",
+        "type": [],
+        "definition": [
+            "Shaxsiy kompyuterlarning periferik qurilmalar (masalan, qattiq magnit disk, printer, lokal tarmoq) bilan birgalikda ishlashi uchun belgilangan standart. Yuqori tezlikli parallel interfeysni ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "Kadr",
+        "type": [],
+        "definition": [
+            "Telekommunikatsiyada va kompyuter tarmoqlarida: aloqa kanali orqali uzatish uchun ma\u2019lum bir formatdagi ma\u2019lumotlar paketi; videografikada: videooqimdagi alohida kadr; NTML tili va Web-dizaynda: alohida Web-sahifani ko\u2018rsatuvchi brauzer oynasining sohasi; dasturlashda (asosan quyi darajali tillarda): funksiyaning lokal o\u2018zgaruvchilarini saqlash uchun ajratiladigan xotira sohasi."
+        ]
+    },
+    {
+        "word": "Kartrij",
+        "type": [],
+        "definition": [
+            "Qurilmaning almashtiriladigan qismi. Odatda, bu, printer uchun bo\u2018yaydigan tasma, lazer printerlar yoki ko\u2018paytiruvchi apparatlar uchun toner, purkagichli printerlar uchun siyoh saqlanadigan kasseta."
+        ]
+    },
+    {
+        "word": "Kilobayt (Kbyte)",
+        "type": [],
+        "definition": [
+            "Xotira hajmini yoki ma\u2019lumotlar miqdorini o\u2018lchash birligi. 210=1024 byte ga teng."
+        ]
+    },
+    {
+        "word": "Klaviatura",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni kompyuterga qo\u2018lda kiritish uchun xizmat qiladigan qurilma. Klaviaturalar klavishlar soni bilan ajralib turadi. IBM o\u2018xshash kompyuterlar uchun 101 ta klavishli klaviatura standart hisoblanadi, bu klaviaturada funksional klavishlar, harflar, raqamlar va yordamchi simvollar bloklari, kursorni boshqarish klavishlari; raqamli klaviatura (kiritish oson bo\u2018lishi uchun takrorlanadi) bloklari ajratilgan. Klavishlar har gal bosilganda protsessorga klavishda chizilgan simvol kodi emas, balki keyin dasturiy yo\u2018l bilan simvol bilan bog\u2018lanadigan kla-vish kodi yuboriladi. Bunday yondashuv teriladigan simvollarni tez o\u2018zgartirish imkonini beradi."
+        ]
+    },
+    {
+        "word": "Klaster",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni saqlash tizimlarida \u2013 qayd etilgan sonli sektorlardan tashkil topgan, operatsion tizimlarda ma\u2019lumotlarni o\u2018qish va yozish uchun ishlatiladigan diskning butun qismi. Disk fazosining fayllarni joylashtirish uchun ajratiladigan minimal qismi. Klasterning o\u2018lchami qanchalik kichik bo\u2018lsa, disk xotirasidan shunchalik samarali foydalaniladi."
+        ]
+    },
+    {
+        "word": "Klon",
+        "type": [],
+        "definition": [
+            "Avval yaratilgan boshqa vositalarga funksional jihatdan o\u2018xshash bo\u2018lgan texnik yoki dasturiy vositalar."
+        ]
+    },
+    {
+        "word": "Kalit",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar bazasini boshqarish tizimidagi kalit. Baza faylida xabarni identifikatsiya qilish va unga tez kira olishni ta\u2019minlash uchun ishlatiladigan belgilar ketma-ketligi."
+        ]
+    },
+    {
+        "word": "Kod",
+        "type": [],
+        "definition": [
+            "Simvollar to\u2018plami. Kompyuter o\u2018yinlarida, kom-pyuter dasturining dastlabki matnida yoki klavia-turaning taqsimlanishida parol bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Kodek",
+        "type": [],
+        "definition": [
+            "Videoma\u2019lumotlar va tovushni kompres-siya\/dekompressiyalaydigan qurilma. Videokonfe-rensiya o\u2018tkazilganda, u mikrofon va kameradan analog signallarni qabul qiladi. Bu signallar diskret shaklga o\u2018zgartiriladi va tarmoq orqali boshqa tizimga yuboriladi. Kodek tarmoq orqali boshqa tizimning diskret signallarini qabul qilib, ularni analog signallarga o\u2018zgartiradi va radiokarnaylar hamda monitorlar orasida taqsimlaydi."
+        ]
+    },
+    {
+        "word": "Kod jadvali",
+        "type": [],
+        "definition": [
+            "Klaviaturada simvollar to\u2018plamini operativ o\u2018zgartirish uchun mo\u2018ljallangan simvollarni kodlash jadvali. Windows va OS\/2 operatsion tizimlarda qo\u2018llaniladi."
+        ]
+    },
+    {
+        "word": "Komanda",
+        "type": [],
+        "definition": [
+            "Bajaruvchiga, uning uchun tushunarli tilda berilgan va bajaruvchining harakatini qat\u2019iy belgilaydigan ko\u2018rsatma. Komanda turli usullar bilan berilishi mumkin; kompyuterda bu simvollarning ma\u2019lum bir to\u2018plami, agar kiritish klaviatura orqali amalga oshirilsa, va\/yoki elektr signallar, agar kiritish portlar orqali (masalan, modem bo\u2018ylab) amalga oshirilsa."
+        ]
+    },
+    {
+        "word": "Kompakt-disk",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni doimiy saqlash uchun mo\u2018ljallangan disk, himoyalovchi shaffof plyonka bilan qoplangan alyumin qotishmadan qilingan doirani o\u2018zida ifodalaydi."
+        ]
+    },
+    {
+        "word": "Kompilyator",
+        "type": [],
+        "definition": [
+            "Ishlab chiqiladigan dasturning boshlang\u2018ich kodining dasturlash tilidan mashinaga tushunarli bo\u2018lgan bajariladigan kodga o\u2018zgartirilishini amalga oshiradigan dastur."
+        ]
+    },
+    {
+        "word": "Kompilyatsiya",
+        "type": [],
+        "definition": [
+            "Biror-bir dasturlash tilida yozilgan dasturni unga ekvivalent bo\u2018lgan tilga (mashina tili yoki oraliq til) o\u2018girish. Kompilyatsiya jarayoni mantiqan boshlang\u2018ich matnni tahlil qilish, sintezlash yoki kodni generatsiya qilishga asoslangan bosqichlardan iborat. Fizik jihatdan \u2013 har bir bosqichda kompilyator boshlang\u2018ich matnni boshdan oxirigacha tekshirib chiqadi."
+        ]
+    },
+    {
+        "word": "Komponovkachi",
+        "type": [],
+        "definition": [
+            "Dasturlash tizimining bir qismi yoki mustaqil dastur, obyekt modullardan va bibliotekadan olinadigan standart qismlardan bajariladigan dasturni yig\u2018adi."
+        ]
+    },
+    {
+        "word": "Kompyuter",
+        "type": [],
+        "definition": [
+            "Komandalarni bajara oladigan raqamli (diskret) hisoblash mashinasi. Kompyuterning asosiy vazifasi \u2013 dasturlar yordamida ma\u2019lumotlarni qayta ishlashdir. Kompyuterda apparatura qism va dasturiy ta\u2019minot ajratiladi. Apparatura qismning asosini mikroprotsessor tashkil qiladi. Dasturiy ta\u2019minot asosi \u2013 operatsion tizim."
+        ]
+    },
+    {
+        "word": "Kompyuter tarmog\u02bbi",
+        "type": [],
+        "definition": [
+            "Resurslardan birgalikda foydalanish va ma\u2019lumotlar almashinish uchun, aloqa kanallari bilan o\u2018zaro bog\u2018langan kompyuterlar va tarmoq uskunasi jami. Resurslar \u2013 bu uskuna, dasturlar va ma\u2019lumotlar bazasidir."
+        ]
+    },
+    {
+        "word": "Konveyer",
+        "type": [],
+        "definition": [
+            "Dasturlar yoki modullarni bir-biriga ketma-ket ulash metodi."
+        ]
+    },
+    {
+        "word": "Konversiyalash",
+        "type": [],
+        "definition": [
+            "Bir formatda yozilgan ma\u2019lumotlarni boshqa bir formatga o\u2018zgartirish jarayoni."
+        ]
+    },
+    {
+        "word": "Konkatenatsiya",
+        "type": [],
+        "definition": [
+            "Simvollarning bir nechta satrini bitta satrga birlashtirish operatsiyasi. Dasturlash tillarida bu ope-ratsiyani bajaradigan maxsus funksiyalar mavjud. Masalan, Pascal tilida konkatenatsiya operatsiyasi + bilan belgilanadi."
+        ]
+    },
+    {
+        "word": "Konsol",
+        "type": [],
+        "definition": [
+            "Foydalanuvchi tomonidan kompyuter ishini boshqarish uchun mo\u2018ljallangan qurilma. Masalan, klaviatura, displey, sichqoncha konsol qurilmalardir."
+        ]
+    },
+    {
+        "word": "Konstanta",
+        "type": [],
+        "definition": [
+            "Xotirada joy egallaydigan, nom va muayyan turga ega bo\u2018lgan, ma\u2019lumotlar elementi; o\u2018zgaruvchidan farqli ravishda, uning qiymati hech qachon o\u2018zgarmaydi. Dasturlashda foydalaniladi."
+        ]
+    },
+    {
+        "word": "Konteyner",
+        "type": [],
+        "definition": [
+            ""
+        ]
+    },
+    {
+        "word": "Kontekst",
+        "type": [],
+        "definition": [
+            "Matnning, qandaydir so\u2018z yoki jumlaning ahamiyatini aniqlash imkonini beradigan qismi."
+        ]
+    },
+    {
+        "word": "Kontroller",
+        "type": [],
+        "definition": [
+            "Periferik uskunani boshqarish va ma\u2019lumotlarni markaziy protsessor uchun oldindan qayta ishlash uchun mo\u2018ljallangan qurilma. Alohida qurilmalar uchun protsessor komandalari interpretatsiya qilinishini bajaradi."
+        ]
+    },
+    {
+        "word": "Konfiguratsion fayl",
+        "type": [],
+        "definition": [
+            "Tizimning tarkibiy qismlari, tizimning muayyan sozlanishini belgilaydigan yordamchi parametrlar tavsiflanadigan fayl. Konfiguratsion fayllar deyarli barcha kuchli tizimlarda bor. Odatda, bu, tizimning o\u2018zi interpretatsiya qiladigan matnli fayllardir."
+        ]
+    },
+    {
+        "word": "Konfiguratsiya",
+        "type": [],
+        "definition": [
+            "Texnik va\/yoki dasturiy tizimning tarkibi. Ba\u2019zan, konfiguratsiya deyilganda nafaqat tizimning tarkibi, balki topologiyasi ham tushuniladi."
+        ]
+    },
+    {
+        "word": "Kontsentrator",
+        "type": [],
+        "definition": [
+            "1 Ko\u2018plab abonent liniyalari, stansiyalari yoki boshqa konsentratorlar ulanadigan aktiv yoki passiv qurilma. Bunday qurilmaning chiqish uchlari kirish uchlariga qaraganda ancha kam. Qo\u2018llash sohasiga bog\u2018liq ravishda konsentrator funksiyalari an\u2019anaviy kanallar konsentratori funksiyalaridan farq qilishi mumkin. Jumladan, lokal aloqa tarmoqlarida u ko\u2018p portli takrorlagich funksiyasini bajaradi.\r\n 2 Markaziy stansiya. Tarmoqning, \u00abyulduz\u00bb topologiyali tarmoqlarda radial bog\u2018lanishlarni tashkil qilish uchun mo\u2018ljallangan kommutatsion yadrosi.\r\n 3 Markaziy kross (strukturalangan kabelli tizimlarda)."
+        ]
+    },
+    {
+        "word": "Konyunksiya",
+        "type": [],
+        "definition": [
+            "Mantiqiy amal. P va Q mulohazalar chin bo\u2018lgandagina chin bo\u2018ladigan, boshqa barcha hollarda yolg\u2018on bo\u2018ladigan yangi mulohaza P va Q mulohazalarning konyunksiyasi deb ataladi. (P&Q kabi belgilanadi, \u00abham P ham Q\u00bb deb o\u2018qiladi)."
+        ]
+    },
+    {
+        "word": "Kriptografiya",
+        "type": [],
+        "definition": [
+            "1 Ma\u2019lumotlarning semantik mazmunini yashirish, ulardan ruxsat etilmagan tarzda foydalanish yoki ularning aniqlab bo\u2018lmaydigan o\u2018zgartirilishini oldini olish maqsadida, ma\u2019lumotlarni o\u2018zgartirish prinsiplari, vositalari va metodlarini, qamrab oluvchi fan.\r\n 2 Telekommunikatsiyalar kanallari orqali uzatishda yoki saqlashda, ma\u2019lumotlarning maxfiyligi va\/yoki haqiqiyligini ta\u2019minlash metodlari haqidagi fan.\r\n 3 Axborotni tushunarsiz ko\u2018rinishga keltirish prinsiplari, vositalari va metodlari, shuningdek, uni qabul qilish uchun yaroqli ko\u2018rinishga qayta tiklash."
+        ]
+    },
+    {
+        "word": "Krossplatformali dasturiy ta\u02bcminot",
+        "type": [],
+        "definition": [
+            "Bittadan ko\u2018p apparat platformada va\/yoki operatsion tizimda ishlaydigan dasturiy ta\u2019minot. Bir vaqtda Linux hamda Windows operatsion tizimlarida ishlash uchun mo\u2018ljallangan dasturiy ta\u2019minot bunga tipik misol bo\u2018la oladi."
+        ]
+    },
+    {
+        "word": "Kross-tizim",
+        "type": [],
+        "definition": [
+            "Dasturlar yaratish imkoniyati bo\u2018lmagan va tayyor dastur \u00abtikiladigan\u00bb ixtisoslashtirilgan kompyuterlar uchun dasturlar ishlab chiqish imkonini beradigan dasturiy vosita (universal kompyuterdagi)."
+        ]
+    },
+    {
+        "word": "Kursor, ko\u02bbrsatkich",
+        "type": [],
+        "definition": [
+            "Kompyuter tizimi monitoriga chiqariladigan va berilgan onda foydalanuvchi ishlaydigan joyni ko\u2018rsatadigan maxsus belgi."
+        ]
+    },
+    {
+        "word": "Kesh-xotira",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni vaqtinchalik saqlash uchun xizmat qiladigan xotira. Kompyuterning ishlash samaradorligini oshirish uchun foydalaniladi. Operativ xotira va qattiq magnit disk o\u2018rtasidagi kesh-xotira ikki turda bo\u2018ladi; apparat va dasturiy kesh-xotira. Apparat kesh-xotiradan odatda, tarmoq serverlarida, diskli adapterlarda (kontrollerlarda) foydalaniladi, u yarimo\u2018tkazgichli, energiyaga bog\u2018liq, juda tez ishlaydigan xotirani o\u2018zida ifodalaydi. Dasturiy kesh-xotira operativ xotiraning bir qismidir, odatda, stol tizimlarida tashqi xotira bilan ishlash samaradorligini oshirish uchun foydalaniladi."
+        ]
+    },
+    {
+        "word": "Kirishlarni hisoblagich",
+        "type": [],
+        "definition": [
+            "Web-sahifa yoki saytga kiruvchilar va\/yoki kirishlar sonini hisoblash imkonini beradigan skrip."
+        ]
+    },
+    {
+        "word": "Komponentlarning obyekt modeli",
+        "type": [],
+        "definition": [
+            "Microsoft kompaniyasining har biri bir vaqtning o\u2018zida bir nechta dasturda ishlatilishi mumkin bo\u2018lgan, o\u2018zaro birga ishlaydigan taqsimlangan komponentlar asosida dasturiy ta\u2019minot yaratish uchun mo\u2018ljallangan texnologik standarti."
+        ]
+    },
+    {
+        "word": "Kengayish platasi",
+        "type": [],
+        "definition": [
+            "Kiritish\/chiqarish qurilmalari (diskovodlar, modemlar, tarmoq) adapterlari o\u2018rnatilgan bosma plata."
+        ]
+    },
+    {
+        "word": "Kichik katalog",
+        "type": [],
+        "definition": [
+            "Boshqa katalogga kiradigan fayllar katalogi."
+        ]
+    },
+    {
+        "word": "Kichik dastur",
+        "type": [],
+        "definition": [
+            "Dasturning maxsus ravishda rasmiylashtirilgan qismi; unga zarur bo\u2018lganda boshqa dasturlardan murojaat qilish mumkin. Ko\u2018plab dasturlash tillarida protsedura tushunchasi bilan mos tushadi. Dastur-ning tez-tez takrorlanadigan fragmentlarini almashtirish va uning kompaktligiga erishish uchun foydalaniladi."
+        ]
+    },
+    {
+        "word": "Ketma-ket port",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar o\u2018tish tartibiga ko\u2018ra bitma-bit uzatiladigan port; ma\u2019lumotlar parallel portga qaraganda birmuncha sekin uzatiladi. Odatda, ketma-ket portga modem ulanadi."
+        ]
+    },
+    {
+        "word": "Kompakt-diskdagi doimiy xotirlovchi qurilma",
+        "type": [],
+        "definition": [
+            "1 Kompyuter va boshqa kompyuterlashtirilgan qurilmalar uchun mo\u2018ljallangan, kompakt-diskda joylashtirilgan tashqi doimiy xotira. Foydalanuchi-ning ma\u2019lumotlar bloki diskda 2048 byte ni egallaydi. Har bir blokdagi 304 byte dan qo\u2018shimcha axborot va xatolarni to\u2018liq kuzatib borish va tuzatish uchun foydalaniladi. To\u2018la fizik blok 2352 byte ni egallaydi.\r\n 2 Kompakt - disklarni o\u2018qish uchun mo\u2018ljallangan qurilma."
+        ]
+    },
+    {
+        "word": "Kengayish",
+        "type": [],
+        "definition": [
+            "Fayl nomining bir qismi; uning yordamida fayllarni tasniflash amalga oshiriladi. Masalan, MS-DOS da kengayish, agar bor bo\u2018lsa, nuqtadan keyingi (bittadan uchtagacha) simvoldan iborat bo\u2018lishi mumkin; kengayishdan bajariladigan fayllarni (.COM, .EXE, .BAT), turli dasturlash tillari dasturlarining matnlarini ajratish uchun (BAS \u2013 BASIC, PAS \u2013 Pascal) foydalaniladi."
+        ]
+    },
+    {
+        "word": "Kengaytirilgan fayllarning joylashish jadvali",
+        "type": [],
+        "definition": [
+            "Asosan, flesh-to\u2018plagichlar uchun mo\u2018ljallangan proprietar fayl tizimi. Birinchi marta Microsoft firmasi tomonidan Windows Embedded CE 6.0.da o\u2018rnatilgan qurilmalar uchun taqdim etilgan."
+        ]
+    },
+    {
+        "word": "Kengayadigan belgilash tili",
+        "type": [],
+        "definition": [
+            "WWW tarmog\u2018ida gipermatnli hujjatlarni tayyorlash, saqlash va uzatish uchun mo\u2018ljallangan til."
+        ]
+    },
+    {
+        "word": "Kiritish\/chiqarish qurilmalari",
+        "type": [],
+        "definition": [
+            "Turli ish prinsiplariga asoslangan, lekin funksional jihatdan ma\u2019lumotlar, komandalar kiritilishini va ma\u2019lumotlar chiqarilishini bajaradigan fizik qurilmalar. Ma\u2019lumotlarni kiritish qurilmalari: manipulyatorlar (klaviatura, sichqoncha, joystik, trekbol, trekpoint, skaner, pero, sensorli panel), datchiklar, mikrofon, videokamera. Ma\u2019lumotlarni chiqarish qurilmalari: printer, plotter, radiokarnay, televizor. Kiritish\/chiqarish qurilmalari: telefon, teletayp, teletekst, telefaks, displey."
+        ]
+    }
+]

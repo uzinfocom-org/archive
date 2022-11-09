@@ -1,0 +1,86 @@
+[
+    {
+        "word": "Qo\u02bbsh mustaqil shina arxitekturasi",
+        "type": [],
+        "definition": [
+            "Protsessorni qurish arxitekturasi, bunda ma\u2019lumotlar bir vaqtda bir-biriga bog\u2018liq bo\u2018lmagan holda ikkita shina orqali parallel uzatiladi. Kompyuter platformalar o\u2018tkazish qobiliyatining ko\u2018pgina muammolarini hal qiladi. Amaliy dasturlarning talablarini qondirish va protsessorlarning yangi avlodlarini yanada rivojlantirish imkoniyatlarini ta\u2019minlash uchun, Intel firmasi tomonidan ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Qog\u02bbozsiz texnologiya",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar bilan qog\u2018oz tashuvchilardan foydalanmasdan ishlash texnologiyasi. Qog\u2018ozsiz texnologiyada kompyuterlardan, magnit va optik ma\u2019lumotlar tashuvchilardan foydalanish ko\u2018zda tutiladi, buning hisobiga boshqarish samaradorligi oshadi."
+        ]
+    },
+    {
+        "word": "Qo\u02bbyilganlik",
+        "type": [],
+        "definition": [
+            "O\u2018xshash yoki boshqa bir konstruktsiyaga kirish yuz beradigan algoritm, dastur, komanda strukturasi. Masalan, sikldagi sikl, shartli operatordagi shartli operator."
+        ]
+    },
+    {
+        "word": "Qalqib chiqadigan menyu",
+        "type": [],
+        "definition": [
+            "Iyerarxiyaning keyingi sathida paydo bo\u2018ladigan va tanlab olinadigan momentgacha yashirin menyu."
+        ]
+    },
+    {
+        "word": "Qo\u02bbshimcha",
+        "type": [],
+        "definition": [
+            "Qandaydir tartiblashtirilgan strukturaga (massivga, ro\u2018yxatga, faylga) tegishli joyga yangi elementni qo\u2018shish protsedurasi. Mantiqiy va fizik darajalarda qilinishi mumkin."
+        ]
+    },
+    {
+        "word": "Qaynoq start",
+        "type": [],
+        "definition": [
+            "Operatsion tizimni kompyuterni uzib qo\u2018ymasdan\/ulamasdan turib qayta yuklash. MS-DOS operatsion tizimli kompyuterlarda bu \u2013 uchta, Ctrl, Alt, Delete klavishalarini bir vaqtda bosish (Ctrl+Alt+Delete ko\u2018rinishda yoziladi)."
+        ]
+    },
+    {
+        "word": "Qattiq magnit disk",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar saqlash uchun mo\u2018ljallangan disk. Olinadigan egiluvchan diskdan farqli ravishda, qattiq magnit disk hech qachon olinmaydi, diskovod bilan bir butun yaxlitni tashkil qiladi. Disk alyumin qotishma va magnit qoplamadan qilingan. Disklar yuqori tezlikli dvigatel va yupqa plyonkali o\u2018qish\/yozish kallaklari bilan birga germetik korpusga joylashtiriladi. Qattiq disklarning sig\u2018imi turlicha \u2013 20 Mbyte dan 9,1 Gbyte gacha bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "Qotib qolish",
+        "type": [],
+        "definition": [
+            "Dasturiy ta\u2019minotning noto\u2018g\u2018ri ishlashi operatorning noto\u2018g\u2018ri harakatlari yoki texnik vositalarning ishlamay qolishi tufayli yuzaga keladigan kompyuterning holati. Bunda kompyuter ishning keyingi qadamini bajarmaydi va standart uzilishlarga javob bermaydi. Turli darajadagi \u00abqotib qolishlar\u00bb ajratiladi. Dastur \u00abqotib qolganda\u00bb, odatda, bir vaqtda Ctrl va Break klavishalari bosiladi; operatsion tizim \u00abqotib qolganda\u00bb, \u00abqaynoq\u00bb start (ishga tushirish) bajariladi; klaviatura o\u2018chib qolganda, Reset klavishasi bosiladi, agar bu klavisha bo\u2018lsa, yoki kompyuter o\u2018chirib-yoqiladi."
+        ]
+    },
+    {
+        "word": "Qiymat",
+        "type": [],
+        "definition": [
+            "Ifoda yoki o\u2018zgaruvchining aniq bir mazmuni; har doim yo\u2018l qo\u2018yiladigan qiymatlar sohasiga tegishli bo\u2018lishi kerak."
+        ]
+    },
+    {
+        "word": "Q-Bus",
+        "type": [],
+        "definition": [
+            "Digital Equipment Corporation firmasining Micro VAX va PDP-11 kompyuterlarida qo\u2018llaniladigan shinalarning bir turi. Unibus shinasining arzonlashtirilgan varianti bo\u2018lgan Q-Bus da multipleksirlashdan foydalaniladi, shu sababli, ma\u2019lumotlar liniyalari va adreslarda ham ayni shu kontaktlardan foydalaniladi. Bu, amalda funksionallik saqlangan holda, o\u2018lchamni kichraytirish, konstruktsiyani arzonlashtirish imkonini berdi. Birmuncha vaqt o\u2018tgandan keyin, shinaning adres fazosi 16 bit dan 18 bit gacha, keyin 22 bit gacha oshirildi. Shuningdek, ma\u2019lumotlar bloklarini yuborish rejimi qo\u2018shildi."
+        ]
+    },
+    {
+        "word": "Qobiq",
+        "type": [],
+        "definition": [
+            "Asosiy dastur bilan ishlashni soddalashtiradigan dastur (dasturlar kompleksi). Qobiqlardan dasturlash muhitini yaratish uchun keng foydalaniladi. Masalan, Borland firmasi Paskal, Si, Prolog tillari bilan ishlash uchun qobiq ishlab chiqdi va uni dasturlash tili tarkibiga kiritdi, bu dasturlash jarayonini ancha soddalashtiradi. Qobiqlarga ehtiyoj bo\u2018lmaydigan tizimlarni ishlab chiqishga yo\u2018naltirilgan tendensiya bor. Ba\u2019zida o\u2018rab turgan muhit nomidan foydalaniladi."
+        ]
+    },
+    {
+        "word": "Qayta yoziladigan kompakt-disk",
+        "type": [],
+        "definition": [
+            "Kompakt - disklardagi ma\u2019lumotlarni o\u2018qish va yozish uchun xizmat qiladigan qurilma."
+        ]
+    }
+]

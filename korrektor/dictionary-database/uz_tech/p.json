@@ -1,0 +1,296 @@
+[
+    {
+        "word": "Protsessorning tez  ishlashi",
+        "type": [],
+        "definition": [
+            "Protsessorning operatsiyalarni bajarish tezligi. Protsessorda alohida operatsiyalarni bajarish tezligi turlicha, shuning uchun butun protsessorning ishlash tezligi sifatida, \u00abregistr \u2012 registr\u00bb komandalarini bajarish tezligi yoki suzuvchi vergulli sonlar ustidagi komandalarni bajarish tezligi olinadi. Uning maxsus nomi \u2013 flops."
+        ]
+    },
+    {
+        "word": "Pentium",
+        "type": [],
+        "definition": [
+            "Intel firmasining ishlanmasi bo\u2018lgan mikroprotsessorlar oilasi, 32 razryadli adres shinasi va 64 razryadli ma\u2019lumotlar shinasiga ega."
+        ]
+    },
+    {
+        "word": "Pentium IV",
+        "type": [],
+        "definition": [
+            "Intel firmasining protsessori. 2001 yilda chiqarilgan. 0,18 \u00b5m  va 0,13 \u00b5m texnologiya bo\u2018yicha tayyorlangan. Ishchi chastota 1,3 HHz dan 2,4 HHz gacha bo\u2018lgan versiyalar chiqariladi. Protsessor chastotasi 400 MHz bo\u2018lgan \u00abchipset-protsessor\u00bb shinadan (tizim shinasi) foydalanadi. Birinchi sath kesh-xotira 8 kbyte, ikkinchi sath kesh-xotira \u2013 256 kbyte. Protsessorning ta\u2019minot kuchlanishi 1,7 V va 1,3 V. Tranzistorlar soni \u2013 42 mln."
+        ]
+    },
+    {
+        "word": "Pentium III",
+        "type": [],
+        "definition": [
+            "Intel firmasining protsessori. 1999 yilda chiqarilgan. Commermine yadrosi bilan 0,18 \u00b5m texnologiya bo\u2018yicha, Tualatin yadrosi bilan 0,13 \u00b5m  texnologiya bo\u2018yicha tayyorlangan. Ishchi chastota 533 MHz dan 1260 MHz gacha bo\u2018lgan versiyalar chiqariladi. Protsessor chastotasi 100-133 MHz bo\u2018lgan \u00abchipset \u2012 protsessor\u00bb shinasidan (tizim shinasi) foydalanadi. Birinchi sath keshi xotira 32 kbyte, ikkinchi sath kesh-xotira 256 kbyte. Protsessorning ta\u2019minot kuchlanishi 1,7 V. Tranzistorlar soni \u2013 28 mln."
+        ]
+    },
+    {
+        "word": "Pentium mover drive",
+        "type": [],
+        "definition": [
+            "Pentium arxitekturasiga ega bo\u2018lgan integral sxema. i486 protsessorli kompyuterlarni modernizatsiyalash uchun mo\u2018ljallangan."
+        ]
+    },
+    {
+        "word": "Power PC",
+        "type": [],
+        "definition": [
+            "Kompyuterlar uchun markaziy protsessor sifatida foydalaniladigan mikroprotsessor. Intel protsessorlariga muqobil sifatida IBM, Motorola va Apple firmalari tomonidan birgalikda ishlab chiqilgan."
+        ]
+    },
+    {
+        "word": "Prolog",
+        "type": [],
+        "definition": [
+            "Sun\u2019iy intellekt masalalari uchun deklarativ dasturlash tili bo\u2018lib, tabiiy va boshqa tillarga ishlov beradi."
+        ]
+    },
+    {
+        "word": "Paketli qayta ishlash",
+        "type": [],
+        "definition": [
+            "Operatsion tizim yordamida ma\u2019lum bir izchillikda bir nechta dasturning bajarilishini tashkil qilish. Paketli qayta ishlash paketli fayllar yordamida tashkil qilinadi."
+        ]
+    },
+    {
+        "word": "Paketli fayl",
+        "type": [],
+        "definition": [
+            "Har bir satrini operatsion tizim o\u2018zining komandalari sifatida talqin qiladigan matnli fayl. Paketli qayta ishlashni tashkil qilish uchun foydalaniladi. Bajariladigan fayl turlaridan biri. Fayl nomida kengayish tizimi orqali aniqlanadi."
+        ]
+    },
+    {
+        "word": "Panel",
+        "type": [],
+        "definition": [
+            "Oynaning, menyu yoki tugmalar to\u2018plami joylashgan, to\u2018g\u2018riburchakli ajratilgan sohasi."
+        ]
+    },
+    {
+        "word": "Papka",
+        "type": [],
+        "definition": [
+            "Obyektga yo\u2018naltirilgan dasturlash nuqtai nazaridan qaraganda, kompyuter resurslari va fayllar uchun konteyner hisoblanadigan obyekt."
+        ]
+    },
+    {
+        "word": "Parallel qayta ishlash",
+        "type": [],
+        "definition": [
+            "Kompyuterda bir nechta jarayonning bir vaqtda bajarilishi. Umumiy holda, bu jarayonning bajarilishi uchun ko\u2018p protsessorli tizimlar zarur. Parallel qayta ishlash vazifalar bajarilishini tezlashtiradi."
+        ]
+    },
+    {
+        "word": "Parallel port",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarning baytlar bilan (barcha bitlar bir vaqt-da) kiritilishi\/chiqarilishi amalga oshiriladigan port. Parallel port ma\u2019lumotlarni ketma-ket portga nisbatan tezroq uzatadi, odatda unga printer ulanadi."
+        ]
+    },
+    {
+        "word": "Parametr",
+        "type": [],
+        "definition": [
+            "Qiymati kichik dasturga (protseduraga, funksiyaga) tashqi muhitdan beriladigan o\u2018zgaruvchan kattalik. Formal va faktik parametrlar ajratiladi. O\u2018z nomi bilan ko\u2018rsatilgan o\u2018zgaruvchilar formal parametrlar deb ataladi. Ular ustida kichik dasturlarni yozishda umumiy ko\u2018rinishda barcha zarur ishlar amalga oshiriladi. Kichik dasturlardan formal parametrlar o\u2018rniga foydalanishda taqdim etilgan o\u2018zgaruvchilar yoki ularning qiymatlari faktik parametrlar deb ataladi."
+        ]
+    },
+    {
+        "word": "Parol",
+        "type": [],
+        "definition": [
+            "1 Yopiq (himoyalangan) tizimga kira olish uchun foydalaniladigan kod (belgilar ketma-ketligi).\r\n 2 Foydalanuvchilarning tizimga kirishida foydalaniladigan himoya vositasi, shuningdek, tashkilotlarda kompyuterlar va resurslarga kirish uchun qo\u2018llaniladi."
+        ]
+    },
+    {
+        "word": "Peyjerli aloqa",
+        "type": [],
+        "definition": [
+            "Alifbo-raqamli bir tomonlama radioaloqa tizimi. Tizim uzelida o\u2018ta yuqori chastotalarda ishlaydigan radiouzatkich o\u2018rnatiladi. Tizim abonentlari har doim o\u2018zlari bilan xabarlarni qabul qiluvchi qurilma \u2012 peyjer olib yuradilar. Peyjer \u2012 bu, xabar aks etadigan displeyli qabulqilgichdir. Xabarni peyjerga uzatish uchun, peyjerli aloqa tizimi operatorining telefon raqamini va peyjer raqamini bilish zarur. Operator telefon orqali uzatiladigan xabarni olgach, uni kompyuterga kiritadi. Kompyuter peyjerga alifbo-raqamli radioxabar jo\u2018natadi."
+        ]
+    },
+    {
+        "word": "Periferik qurilmalar",
+        "type": [],
+        "definition": [
+            "Kompyuterga kiritish\/chiqarish portlari orqali ulanadigan va keng ko\u2018lamdagi vazifalar hal qilinishini ta\u2019minlaydigan qurilmalar."
+        ]
+    },
+    {
+        "word": "Pero",
+        "type": [],
+        "definition": [
+            "Kiritish qurilmasi; ko\u2018rinishiga qarab, displey ekranida yoza oladigan avtoruchkani o\u2018zida ifodalaydi. Juda qulay kiritish vositasi, ayniqsa grafik ma\u2019lumotlar uchun. Pero bilan qo\u2018lyozma matnni ham kiritish mumkin, agar simvollarni optik aniqlash dasturi bo\u2018lsa."
+        ]
+    },
+    {
+        "word": "Piktogramma",
+        "type": [],
+        "definition": [
+            "Qandaydir harakatning, ogohlantirishning, obyektning (dastur, fayl) yoki tushunchaning grafik tasviri. Grafik interfeyslarda tezda tushunish va o\u2018zlashtirish uchun foydalaniladi, bunda eng umumiy, tushunarli obrazlar tanlanadi."
+        ]
+    },
+    {
+        "word": "Platforma",
+        "type": [],
+        "definition": [
+            "Oddiy kompyuterlarda yoki mobil telefonlarga o\u2018rnatilgan operatsion tizim turi. Zamonaviy smartfonlar uchun 4 ta asosiy turdagi platforma mavjud: Palm OS, Symbian, Linux va Pocket PC\/Windows Mobile."
+        ]
+    },
+    {
+        "word": "Plotter",
+        "type": [],
+        "definition": [
+            "Grafik axborotni qog\u2018oz tashuvchiga yoki boshqa bir tashuvchiga chiqarish qurilmasi.\r\n Izoh \u2012 Peroli, qalamli, purkagichli, elektrostatik graftuzgichlar, tasvir to\u2018g\u2018ridan-to\u2018g\u2018ri chiqariladigan plotterlar, termoplotterlar va lazer graftuzgichlar ajratiladi."
+        ]
+    },
+    {
+        "word": "Pozitsion sanoq tizimi",
+        "type": [],
+        "definition": [
+            "Sonlarni yozishda raqamlarning joylashgan o\u2018rni ahamiyatga ega bo\u2018ladigan sanoq tizimi. Har bir pozitsion sanoq tizimida asos bo\u2018ladi. Har qanday son asos raqamlardan tuzilgan ketma-ketlik ko\u2018rinishida yoziladi. Asos raqamlari soni asosning o\u2018ziga teng bo\u2018ladi. Asos, har bir raqamning salmog\u2018i katta qo\u2018shni razryadda turgan raqam salmog\u2018idan necha marta kichikligini ko\u2018rsatadi. Qurilgan pozitsion sanoq tizimlarining soni har qanday bo\u2018lishi mumkin. Informatikada asosan to\u2018rtta tizimdan: o\u2018nlik, ikkilik, sakkizlik va o\u2018n oltitalik tizimdan foydalaniladi. Pozitsion sanoq tizimlari hisoblashlar, ham butun, ham kasr sonlarni ko\u2018rsatish uchun juda qulay."
+        ]
+    },
+    {
+        "word": "Polimorfizm",
+        "type": [],
+        "definition": [
+            "Kichik dasturlar (protseduralar, funksiyalar)ning, ma\u2019lumotlarni ularning turiga bog\u2018liq holda turli algoritm bo\u2018yicha qayta ishlash xususiyati; obyektga yo\u2018naltirilgan dasturlashda keng foydalaniladi."
+        ]
+    },
+    {
+        "word": "Port",
+        "type": [],
+        "definition": [
+            "Kompyuterning, periferik qurilmalarni kompyuter ichki shinasiga ulash amalga oshiriladigan qurilmasi."
+        ]
+    },
+    {
+        "word": "Portal",
+        "type": [],
+        "definition": [
+            "Internet dan foydalanuvchiga bir Web-sayt doirasida ishlaydigan, pochta, izlash, ob-havo, yangiliklar, forumlar, muhokama qilish, ovoz berish kabi turli interaktiv xizmatlar taqdim etiladigan Web-sayt."
+        ]
+    },
+    {
+        "word": "Portativ kompyuter",
+        "type": [],
+        "definition": [
+            "Foydalanuvchi har doim o\u2018zida olib yurishi mumkin bo\u2018lgan ko\u2018tarib yuriladigan shaxsiy kompyuter.\r\n Izoh \u2012 Portativ kompyuterlarning turlari ularning quvvati va o\u2018lchamlariga bog\u2018liq ravishda farqlanadi: elektron yon daftarcha, shaxsiy raqamli sekretar, cho\u2018ntak kompyuteri, bloknotli kompyuter, laptop."
+        ]
+    },
+    {
+        "word": "Postuslovie",
+        "type": [],
+        "definition": [
+            "Haqiqatligi protsedura yoki sikl jismi bajarilgandan keyin tekshiriladigan shart."
+        ]
+    },
+    {
+        "word": "Postfiks",
+        "type": [],
+        "definition": [
+            "Asosiy element orqasidan yoziladigan, operator, komandani tavsiflash elementi; o\u2018zining operandidan keyin yoziladigan operatsiya. Masalan, Si tilida x++."
+        ]
+    },
+    {
+        "word": "Predikat",
+        "type": [],
+        "definition": [
+            "O\u2018zining mulohaza argumentlariga ega bo\u2018lgan va (\u00abchin\u00bb yoki \u00abyolg\u2018on\u00bb) mantiqiy qiymatni qaytaradigan funksiya. Predikat \u2013 mulohazaga o\u2018xshash, lekin o\u2018zgaruvchi bo\u2018lganligi uchun mulohaza hisoblanmaydigan gapdir. Predikat mulohaza bo\u2018ladi, agar o\u2018zgaruvchi o\u2018rniga aniq bir qiymat qo\u2018yilsa."
+        ]
+    },
+    {
+        "word": "Preprotsessor",
+        "type": [],
+        "definition": [
+            "Kirish ma\u2019lumotlarining asosiy dasturga oldindan qayta ishlanishini ta\u2019minlaydigan dastur."
+        ]
+    },
+    {
+        "word": "Printer",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni kompyuterdan qog\u2018ozda, plyonkada o\u2018qish uchun qulay ko\u2018rinishda berish uchun xizmat qiladigan qurilma. Printerlar bosish usuli, vazifasi va bosma ranglari soni bo\u2018yicha farqlanadi. Bosish usuliga ko\u2018ra, matritsali, termik, purkagichli va lazer printerlarga bo\u2018linadi; vazifasiga ko\u2018ra, ko\u2018tarib yuriladigan (bloknotli shaxsiy kompyuterlar uchun) shaxsiy, muassasa, mini tipografiyalar; ranglar soniga ko\u2018ra, bir rangli, rangli. Asosiy xarakteristikalari: bosish tezligi (sekundiga belgi, minutiga sahifa, varaq); bosish sifati (nuqta\/dyuym)."
+        ]
+    },
+    {
+        "word": "Programmator",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni, shu jumladan, dasturlarni doimiy xotirlovchi qurilmaga yozish qurilmasi.Ma\u2019lumotlar doimiy xotirlovchi qurilmada elektron sxemalar ko\u2018rinishida saqlanadi. Programmator qattiq ultrabinafsha nurlanish vujudga keltiradi, uning yordamida elektron sxemalar o\u2018zgaradi."
+        ]
+    },
+    {
+        "word": "Programmofon",
+        "type": [],
+        "definition": [
+            "Shaxsiy kompyuterdan telefon sifatida foydalanish imkonini beradigan dasturiy mahsulot. Programmofondan foydalanish uchun modem, mikrofon va radiokarnay bilan jihozlangan kompyuter zarur bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "Proksi server",
+        "type": [],
+        "definition": [
+            "Lokal kompyuter tarmog\u2018i va Internet o\u2018rtasida uzatiladigan paketlar filtratsiyasini amalga oshiradigan dasturiy ta\u2019minot. Eng ko\u2018p so\u2018raladigan hujjatlarni keshlash hisobiga, tarmoq trafigini kamaytirish va lokal tarmoq xavfsizligini oshirish uchun mo\u2018ljallangan."
+        ]
+    },
+    {
+        "word": "Protokol",
+        "type": [],
+        "definition": [
+            "Kompyuterlar yoki tizimlar o\u2018rtasida ma\u2019lumotlar almashinuvini ta\u2019minlaydigan uzatiladigan ma\u2019lumotlar formati, kelishuvlar va qoidalar. Bu qoidalar, tarmoq qurilmalari almashinadigan xabarlar mazmunini, formatini, vaqt parametrlarini, ketma-ketligini va xatolar tekshirilishini aniqlaydi."
+        ]
+    },
+    {
+        "word": "Protsedura",
+        "type": [],
+        "definition": [
+            "Dasturning, umumiy holda kirish parametrlariga bog\u2018liq bo\u2018lgan ba\u2019zi standart amallarni bajaradigan qismi. Protsedurani kichik dastur deb hisoblash mumkin.\r\n Izoh \u2012 Protseduralar standart protseduralar va foydalanuvchi protseduralariga, dasturga nisbatan tashqi va ichki protseduralarga bo\u2018linadi. Standart protsedura dasturlash tili tarkibiga kiradi va tegishli biblioteka tarkibida yetkaziladi, foydalanuvchi protsedurasini har bir ishlab chiquvchi mustaqil yaratadi. Tashqi protsedura dasturga bog\u2018liq bo\u2018lmagan tarzda saqlanadi, ichki protsedura dastur tarkibiga kiradi."
+        ]
+    },
+    {
+        "word": "Protseduraga yo\u02bbnaltirilgan dasturlash tili",
+        "type": [],
+        "definition": [
+            "Asosiga \u00abmasalani hal qilish uchun nima qilish kerak\u00bb ish prinsipi qo\u2018yilgan yuqori daraja dasturlash tili. Ishlar operatorlar tomonidan yoziladi va bajariladi. Pirovard natijani olish uchun bajarilishi zarur bo\u2018lgan operatorlar ketma-ketligi to\u2018planadi. Bunday ketma-ketlik dastur deb ataladi. Protsedura tillarini oddiy (BASIC, Fortran, COBOL) va blokli (modulli) (Pascal, Modula-2 va Si) tillarga ajratish mumkin. Protsedura tillari shuningdek, operator tillari yoki imperativ tillar deb ham ataladi."
+        ]
+    },
+    {
+        "word": "Protsessor",
+        "type": [],
+        "definition": [
+            "Operatsion tizim dasturlari belgilagan arifmetik ope-ratsiyalarning bajarilishiga javob beradigan va kompyuterning boshqa barcha qurilmalari ishini muvofiqlashtiradigan apparat ta\u2019minoti."
+        ]
+    },
+    {
+        "word": "Proshivka",
+        "type": [],
+        "definition": [
+            "Kompyuter yoki har qanday raqamli hisoblash qurilmasi \u2013 mikrokalkulyator, sotali telefon, GPS navigatorning, ichida mikrodasturi bo\u2018lgan energiyaga bog\u2018liq bo\u2018lmagan xotirasining ichidagi. \u00abProshivka\u00bb so\u2018zi bilan ba\u2019zan, xotiraga tegishli qurilmani, uning mikrodasturini yangilash maqsadida yozish uchun mo\u2018ljallangan doimiy xotirlovchi qurilmaning obrazi, shuningdek, bu obrazni qurilmaning energiyaga bog\u2018liq bo\u2018lmagan xotirasiga yozish jarayonining o\u2018zi nomlanadi."
+        ]
+    },
+    {
+        "word": "Psevdografika",
+        "type": [],
+        "definition": [
+            "Klaviatura klavishlariga biriktirilgan simvollar yordamida matn rejimida displey ekranida olingan grafik tasvir."
+        ]
+    },
+    {
+        "word": "Psevdotasodifiy sonlar",
+        "type": [],
+        "definition": [
+            "Qandaydir algoritm bo\u2018yicha olingan, lekin tasodifiy sonlar sifatida foydalaniladigan sonlar. Bir xil taqsimlangan psevdotasodifiy sonlarni olish metodlaridan biri. J.fon Neyman tomonidan taklif qilingan: Ixtiyoriy ikkilik son olinadi va kvadratga oshiriladi, keyin o\u2018rtasi ajratiladi va jarayon boshidan takrorlanadi; qandaydir qadamdan boshlab sonning o\u2018rtasi tasodifiy son bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "Pascal dasturlash tili",
+        "type": [],
+        "definition": [
+            "Keng ko\u2018lamli masalalarga mo\u2018ljallangan yuqori darajadagi dasturlash tili. Pascal tili strukturali dasturlash tili hisoblanadi. 1960 yil oxirlarida Niklaus Virt tomonidan yaratilgan. Bu til, XVII asrda yashab o\u2018tgan fransuz matematigi Blaz Pascal sharafiga qo\u2018yilgan. Blaz Pascal sonlarni qo\u2018shish uchun yaratilgan dastlabki mexanik mashinalardan birining ixtirochisi bo\u2018lgan."
+        ]
+    }
+]

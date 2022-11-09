@@ -1,0 +1,86 @@
+[
+    {
+        "word": "Hisoblash mashinasi",
+        "type": [],
+        "definition": [
+            "Matematik, asosan axborot bilan bog\u2018liq vazifalarni hal qilishda ma\u2019lumotlarni avtomatik qayta ishlash uchun mo\u2018ljallangan dasturiy vositalar va qurilmalar kompleksi. Mashinani boshqarish ma\u2019lumotlarni qayta ishlash, dasturlar ko\u2018rinishida mashinaga kiritiladigan algoritmlar bo\u2018yicha amalga oshiriladi. Dasturlar va ma\u2019lumotlar mashina xotirasida saqlanadi. Asosiy qurilmasi markaziy protsessor."
+        ]
+    },
+    {
+        "word": "Hisoblash tarmog\u02bbi",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni tarmoq elementlari o\u2018rtasida uzatish uchun mo\u2018ljallangan kompyuterlar, yordamchi uskuna, aloqa kanallari va maxsus dasturiy ta\u2019minot kompleksi. Hisoblash tarmoqlari vazifalarga, uskuna turiga hamda aloqa liniyalariga bog\u2018liq ravishda, lokal bo\u2018lmagan, korporativ, hududiy va global tarmoqlarga bo\u2018linadi. Tarmoqlar resurslardan yanada to\u2018liqroq foydalanish yoki ularni qayta taqsimlash uchun, katta hajmdagi ma\u2019lumotlar uzatilgan holda, tez va avtomatik aloqa uchun yaratiladi."
+        ]
+    },
+    {
+        "word": "Hisoblash texnikasi",
+        "type": [],
+        "definition": [
+            "Texnikaning, hisoblash mashinalari va ular bilan bog\u2018liq barcha qurilmalarni ishlab chiqish, ularni ishlab chiqarish va ulardan foydalanish masalalari bilan shug\u2018ullanadigan sohasi."
+        ]
+    },
+    {
+        "word": "Hisoblash eksperimenti",
+        "type": [],
+        "definition": [
+            "Kompyuter modeli ishlab chiqilgan hodisa, jarayon, mashinani o\u2018rganish metodi. Hisoblash eksperimentining sifati, modelning real obyektga o\u2018xshashligiga va hisoblanadigan parametrlarni belgilaydigan eksperimentatorga bog\u2018liq. Hisoblash eksperimentining boshqa har qanday eksperimentdan afzalligi, tezligi-ning yuqori bo\u2018lishligida va xarajatlarning nisbatan kamligida. Texnika va informatikada, matematika, fizika, ximiya, biologiya, ekologiyada keng foydalaniladi."
+        ]
+    },
+    {
+        "word": "Hujjat",
+        "type": [],
+        "definition": [
+            "1 Qayd etilgan ko\u2018rinishda belgilangan tartibda rasmiylashtirilgan axborotni ichiga oladigan, amaldagi qonunchilikka muvofiq huquqiy ahamiyatga ega bo\u2018lgan moddiy obyekt.\r\n 2 Qandaydir kompyuter dasturida ish natijalari saqlangan paytda yaratiladigan fayl. Matn redaktorlari fayllari, elektron jadvallar, rasmlar va boshqalar hujjatlarga misol bo\u2018lishi mumkin"
+        ]
+    },
+    {
+        "word": "Hujjatlashtirilgan axborot",
+        "type": [],
+        "definition": [
+            "Moddiy tashuvchida qayd qilingan va identifikatsiya qilish imkonini beradigan rekvizitlarga ega bo\u2018lgan axborot"
+        ]
+    },
+    {
+        "word": "Hujjatlarni indekslash",
+        "type": [],
+        "definition": [
+            "Axborot \u2013 qidiruv tili atamalarida so\u2018rovlar va hujjatlar mazmunini tavsiflash jarayoni; hujjatga, uning ma\u2019naviy mazmunini aks ettiradigan asosiy so\u2018zlar to\u2018plamini belgilash."
+        ]
+    },
+    {
+        "word": "HDDSCan",
+        "type": [],
+        "definition": [
+            "Axborot to\u2018plagichlarni testlash uchun belgilangan utilita (HDD, RAID, Flash). Dastur axborot to\u2018plagichlarni BAD-bloklar mavjudligiga diagnostikalash, to\u2018plagichning S.M.A.R.T \u2013 atributlarini ko\u2018rib chiqish, maxsus sozlashlarni (ta\u2019minotni boshqarish, shpindelning start\/stop, akustik rejimni rostlash) o\u2018zgartirish uchun mo\u2018ljallangan."
+        ]
+    },
+    {
+        "word": "HFS+",
+        "type": [],
+        "definition": [
+            "Apple Inc tomonidan, oldin foydalanilgan HFS ni, Macintosh kompyuterlaridagi asosiy fayl tizimni almashtirish uchun ishlab chiqilgan fayl tizimi. HFS+ MAC OS imkoniyatlarini kengaytirish uchun, HFS ning takomillashtirilgan versiyasi sifatida qarab chiqilishi mumkin. Ishlab chiqish vaqtida bu tizim Sequoia deb atalgan."
+        ]
+    },
+    {
+        "word": "Hot Java",
+        "type": [],
+        "definition": [
+            "Internet tarmog\u2018ida WWW texnologiyasi bilan ishlash uchun belgilangan brauzer. Java tilida til imkoniyatlarini ko\u2018rsatish uchun ishlab chiqilgan, lekin mustaqil ahamiyatga ham ega."
+        ]
+    },
+    {
+        "word": "Huper Transport",
+        "type": [],
+        "definition": [
+            "Yuqori o\u2018tkazish qobiliyatiga va kichik kechikish-larga ega bo\u2018lgan, ikki yo\u2018nalishli ketma-ket\/parallel kompyuter shinasi. To\u2018liq o\u2018lchamli, to\u2018liq tezlikli 32 bitli shina ikki yo\u2018nalishli rejimda o\u2018tkazish qobiliyatini 51600 Mbyte\/s gacha ta\u2019minlashi mumkin."
+        ]
+    },
+    {
+        "word": "Hisobotlar va ko\u02bbchirmalar amaliy tili",
+        "type": [],
+        "definition": [
+            "Umumiy shlyuz interfeysi ssenariylarini yaratish uchun mo\u2018ljallangan dasturlash tili. Talqin qiluvchi turdagi kuchli til. XX asrning 80-yillarida Lari Uoll tomonidan yaratilgan."
+        ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "word": "Vektor",
+        "type": [],
+        "definition": [
+            "Tartib bo\u2018yicha raqamlangan elementlarning oxirgi ketma-ketligi. Bir o\u2018lchamli massiv. Elementlar turli xil: butun, simvolli bo\u2018lishi mumkin. Ba\u2019zi dasturlash tillarida (Pascal, C) vektorda barcha elementlar bir turda bo\u2018lishi kerak, boshqa tillarda (FOX) vektorda turli xil elementlar bo\u2018lishi mumkin."
+        ]
+    },
+    {
+        "word": "Vektorli grafika",
+        "type": [],
+        "definition": [
+            "Tasvirni, har qanday usul bilan, shu jumladan, grafik komandalar bilan tavsiflangan grafik elementlar yig\u2018indisi sifatida taqdim etish usuli. Ko\u2018pincha, ikkilik koddagi fayllar sifatida taqdim qilinadi."
+        ]
+    },
+    {
+        "word": "Versiya",
+        "type": [],
+        "definition": [
+            "Dasturiy mahsulotning, ba\u2019zi o\u2018zgartirishlar kiritilgan varianti. Turli versiyalar quyidagicha tarzda indekslanadi: jiddiy o\u2018zgartirishlar nuqtagacha raqam bilan oraliq variantlar nuqtadan keyingi raqamlar bilan ko\u2018rsatiladi. Masalan, MS-DOS ning versiyalari bor: MS-DOS 6.2 va MS-DOS 6.22. Oxirgisi chiqarilgan 6.22 DOS versiya (dos-olti-nuqta-ikki-ikki deb o\u2018qiladi) 6.2 versiyadan birmuncha farq qilishligini bildiradi."
+        ]
+    },
+    {
+        "word": "Videoxotira",
+        "type": [],
+        "definition": [
+            "Displeyda sifatli tasvirni ta\u2019minlash uchun mo\u2018ljallangan qo\u2018shimcha xotira. Videoadapterning qismi hisoblanadi, bir necha megabaytgacha hajmga ega. Videoxotirada bir yoki bir nechta ekranning tasviri shakllanadi, displeyga uzatiladi. Ba\u2019zi kompyuterlarda videoxotira operativ xotiradan ajratiladi."
+        ]
+    },
+    {
+        "word": "Vizual dasturlash",
+        "type": [],
+        "definition": [
+            "Ko\u2018rgazmali vositalar yordamida ilovalar yaratish ko\u2018zda tutiladigan dasturlash. Dasturchi dastur matnini yaratmaydi, balki natijada nima bo\u2018lishini ko\u2018rsatadi. Dastur matni vizual prototip yordamida avtomatik tarzda yuzaga keladi. Vizual dasturlash obyektga yo\u2018naltirilgan dasturlashga va OLE texnologiyalarga yoki unga o\u2018xshash texnologiyalarga asoslanadi. Vizual dasturlash elementlaridan Visual C ++ dan tortib DELPHI gacha bo\u2018lgan ilovalarni yaratish vositalarida va ma\u2019lum bir dasturlash tillarida keng foydalaniladi."
+        ]
+    },
+    {
+        "word": "Vinchester",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni saqlash qurilmasi, qattiq magnit diskdagi to\u2018plagichning o\u2018zi IBM firmasi tomonidan 1973 yilda ishlab chiqilgan. Diskning xarakteristikalari quyidagicha edi: sig\u2018imi 30 Mbyte, foydalanish vaqti 30 ms. Boshqa versiyaga ko\u2018ra, to\u2018plagich har biri 30 Mbyte bo\u2018lgan ikkita diskdan iborat bo\u2018lgan."
+        ]
+    },
+    {
+        "word": "Virtual mashina",
+        "type": [],
+        "definition": [
+            "Kompyuterda dasturiy ta\u2019minot yaratadigan, fizik qurilma modellashtiriladigan muhit. Windows da virtual mashinalar, har biri o\u2018zining xususiy xizmatlariga, jumladan, xotira resurslariga, fayl tizimi serverlariga, qurilmalar drayverlariga, periferiyadan foydalanish huquqiga ega bo\u2018lgan alohida kompyuterlarni modellashtiradi. Windows virtual mashinalarning ikkita asosiy turini ichiga oladi: Windows ilovalarini ishga tushirish uchun foydalaniladigan System VM va Windows da bajariladigan MS-DOS ning har bir ilovasi uchun yaratiladigan DOS VM."
+        ]
+    },
+    {
+        "word": "Virtual xotira",
+        "type": [],
+        "definition": [
+            "Kompyuterning qattiq diskdagi xotira bilan bo\u2018lgani kabi ishlash metodi. Katta hajmdagi ma\u2019lumotlarni qayta ishlash imkonini beradi va ko\u2018p vazifali ishlash rejimini ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "Virtual borliq",
+        "type": [],
+        "definition": [
+            "Zamonaviy texnik va dasturiy vositalar bilan real dunyoni imitatsiya qilish."
+        ]
+    },
+    {
+        "word": "Virtual disk",
+        "type": [],
+        "definition": [
+            "Operativ xotira qismidan dasturiy tarzda yaratilgan, psevdodiskli to\u2018plagich. Operatsion tizim u bilan, haqiqatda mavjud bo\u2018lgan disk bilan ishlagandek ishlaydi. Ikki holatda, moddiy mavjud bo\u2018lgan diskni vaqtinchalik takrorlash uchun va ma\u2019lumotlardan foydalanishni tezlashtirish maqsadida foydalaniladi, chunki operativ xotira diskli xotiraga nisbatan ancha tez. Ko\u2018pincha elektron disk deb ataladi."
+        ]
+    },
+    {
+        "word": "Voqea",
+        "type": [],
+        "definition": [
+            "Foydalanuvchining harakati yoki operatsion tizim yuzaga keltiradigan xabar, masalan, tugmachani bosish, oynani yopish. Har qanday voqea obyekt bilan, uning xususiyatlari va metodlari bilan bog\u2018liq. Murakkab tizimlarni loyihalash va obyektga yo\u2018naltirilgan tahlil tushunchasi."
+        ]
+    },
+    {
+        "word": "Voqea - boshqariladigan dasturlash",
+        "type": [],
+        "definition": [
+            "Dastur turli voqealarga (foydalanuvchining harakatlariga) qanday javob berishi tavsiflanadigan dasturlash. Obyektga yo\u2018naltirilgan dasturlashning bir turi."
+        ]
+    },
+    {
+        "word": "VMware ESX Server",
+        "type": [],
+        "definition": [
+            "VMware kompaniyasi tomonidan VMware vSphere (oldin VMware Infrastructure) komponenti sifatida taqdim etiladigan, faoliyat darajasini virtuallashtirish uchun belgilangan dasturiy mahsulot. ESX 5.0 versiyadan boshlab ESXi mahsuloti bilan almashtirilgan. ESX va ESXi o\u2018rnatilgan gipervizorlar hisoblanadi, o\u2018rnatish paytida mashinada belgilangan operatsion tizim bo\u2018lishligi talab qilinmaydi. ESX\/ESXi fizik kompyuterni virtual mashinalar deb ataladigan mantiqiy bo\u2018limlarga ajratish imkonini beradi. O\u2018z ichiga virtual resurslarni boshqarish vositalarini oladi. ESXi o\u2018rnatilishi uchun kamida 2 Gbite operativ xotira talab qilinadi."
+        ]
+    },
+    {
+        "word": "Vaqtni taqsimlash",
+        "type": [],
+        "definition": [
+            "Kompyuterning bitta markaziy protsessor bilan ishlash rejimi, bunda protsessor muntazam ravishda bir vazifani hal qilishdan boshqasiga o\u2018tib turadi. Vaqtning taqsimlanishini operatsion tizim amalga oshiradi. Bu rejimdan ko\u2018p dasturli \u00abbir vaqtda\u00bb ishlash uchun foydalaniladi. Protsessor barcha ishlarni izchil, lekin juda tez bajaradi. Shuning uchun, har bir vazifaga juda qisqa muddatga protsessor resurslari ajratilsa, foydalanuvchiga ishlar parallel bajarilayotgandek tuyuladi. Vaqtni taqsimlash rejimi UNIX va Windows tizimlarida yaxshi amalga oshirilgan. Masalan, vaqtni taqsimlash rejimida bir vaqtda matn redaktori bilan ishlash, qandaydir faylni bosishga chiqarish va ma\u2019lumotlarni tarmoq orqali qabul qilish mumkin."
+        ]
+    },
+    {
+        "word": "Virtual voqelikni modellashtiradigan til",
+        "type": [],
+        "definition": [
+            "HTML tilining uch o\u2018lchamli analogi hisoblanadigan til; WWW texnologiyasida ilovalar yaratish uchun foydalaniladi. Silicon Graphics kompaniyasi tomonidan ishlab chiqilgan."
+        ]
+    }
+]

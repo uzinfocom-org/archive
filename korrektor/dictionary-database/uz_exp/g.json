@@ -1,0 +1,737 @@
+[
+    {
+        "word": "Geliokonsentrator",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043b\u0438\u043e\u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0442\u043e\u0440"
+        ]
+    },
+    {
+        "word": "Geoantiklinal",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043e\u0430\u043d\u0442\u0438\u043a\u043b\u0438\u043d\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Geosinklinal",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043e\u0441\u0438\u043d\u043a\u043b\u0438\u043d\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gidropodyomnik",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u043f\u043e\u0434\u044a\u0451\u043c\u043d\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Gidrosalpinks",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0441\u0430\u043b\u044c\u043f\u0438\u043d\u043a\u0441"
+        ]
+    },
+    {
+        "word": "Geksilrezorsin",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043a\u0441\u0438\u043b\u0440\u0435\u0437\u043e\u0440\u0446\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Geliomobil",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043b\u0438\u043e\u043c\u043e\u0431\u0438\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gidromodul",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u043c\u043e\u0434\u0443\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gomoklinal",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043c\u043e\u043a\u043b\u0438\u043d\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Geliotsentrizm",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043b\u0438\u043e\u0446\u0435\u043d\u0442\u0440\u0438\u0437\u043c"
+        ]
+    },
+    {
+        "word": "Gemitsellyuloza",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043c\u0438\u0446\u0435\u043b\u043b\u044e\u043b\u043e\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Gallyutsinatsiya",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u043b\u043b\u044e\u0446\u0438\u043d\u0430\u0446\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Geliotsentrik",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043b\u0438\u043e\u0446\u0435\u043d\u0442\u0440\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Gomoyosmotik",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043c\u043e\u0439\u043e\u0441\u043c\u043e\u0442\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Gamiltonian",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u043c\u0438\u043b\u044c\u0442\u043e\u043d\u0438\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Gialobazalt",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0430\u043b\u043e\u0431\u0430\u0437\u0430\u043b\u044c\u0442"
+        ]
+    },
+    {
+        "word": "Gidroimpuls",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0438\u043c\u043f\u0443\u043b\u044c\u0441"
+        ]
+    },
+    {
+        "word": "Gipokotil",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u043e\u043a\u043e\u0442\u0438\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gonobobel",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043d\u043e\u0431\u043e\u0431\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gasteromitset",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u0441\u0442\u0435\u0440\u043e\u043c\u0438\u0446\u0435\u0442"
+        ]
+    },
+    {
+        "word": "Geterotsiklik",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u0442\u0435\u0440\u043e\u0446\u0438\u043a\u043b\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Gidrotsefaliya",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0446\u0435\u0444\u0430\u043b\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Gidrotsilindr",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0446\u0438\u043b\u0438\u043d\u0434\u0440"
+        ]
+    },
+    {
+        "word": "Gipotsikloida",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u043e\u0446\u0438\u043a\u043b\u043e\u0438\u0434\u0430"
+        ]
+    },
+    {
+        "word": "Giposulfit",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u043e\u0441\u0443\u043b\u044c\u0444\u0438\u0442"
+        ]
+    },
+    {
+        "word": "Gorizontal",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gotovalniy",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u0442\u043e\u0432\u0430\u043b\u044c\u043d\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Geksanal",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043a\u0441\u0430\u043d\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Geogelmint",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043e\u0433\u0435\u043b\u044c\u043c\u0438\u043d\u0442"
+        ]
+    },
+    {
+        "word": "Gidrogel",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0433\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gidrozol",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0437\u043e\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gidroftalm",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0444\u0442\u0430\u043b\u044c\u043c"
+        ]
+    },
+    {
+        "word": "Gipostil",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u043e\u0441\u0442\u0438\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Glioksal",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u0438\u043e\u043a\u0441\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Geotsentrizm",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043e\u0446\u0435\u043d\u0442\u0440\u0438\u0437\u043c"
+        ]
+    },
+    {
+        "word": "Gidrotsiklon",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0446\u0438\u043a\u043b\u043e\u043d"
+        ]
+    },
+    {
+        "word": "Gimenomitset",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043c\u0435\u043d\u043e\u043c\u0438\u0446\u0435\u0442"
+        ]
+    },
+    {
+        "word": "Gomotsentrik",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043c\u043e\u0446\u0435\u043d\u0442\u0440\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Geotsentrik",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043e\u0446\u0435\u043d\u0442\u0440\u0438\u043a"
+        ]
+    },
+    {
+        "word": "Geraldika",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u0440\u0430\u043b\u044c\u0434\u0438\u043a\u0430"
+        ]
+    },
+    {
+        "word": "Gomoyoterm",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043c\u043e\u0439\u043e\u0442\u0435\u0440\u043c"
+        ]
+    },
+    {
+        "word": "Gazgolder",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u0437\u0433\u043e\u043b\u044c\u0434\u0435\u0440"
+        ]
+    },
+    {
+        "word": "Gemoftalm",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043c\u043e\u0444\u0442\u0430\u043b\u044c\u043c"
+        ]
+    },
+    {
+        "word": "Gidropult",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u043f\u0443\u043b\u044c\u0442"
+        ]
+    },
+    {
+        "word": "Gidrosulf",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0441\u0443\u043b\u044c\u0444"
+        ]
+    },
+    {
+        "word": "Gotovalnya",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u0442\u043e\u0432\u0430\u043b\u044c\u043d\u044f"
+        ]
+    },
+    {
+        "word": "Grizayl",
+        "type": [],
+        "definition": [
+            "\u0433\u0440\u0438\u0437\u0430\u0439\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gumboldit",
+        "type": [],
+        "definition": [
+            "\u0433\u0443\u043c\u0431\u043e\u043b\u044c\u0434\u0438\u0442"
+        ]
+    },
+    {
+        "word": "Gastrotsel",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u0441\u0442\u0440\u043e\u0446\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gentamitsin",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043d\u0442\u0430\u043c\u0438\u0446\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Gifomitseta",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0444\u043e\u043c\u0438\u0446\u0435\u0442\u0430"
+        ]
+    },
+    {
+        "word": "Glitsinuriya",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u0438\u0446\u0438\u043d\u0443\u0440\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Gramitsidin",
+        "type": [],
+        "definition": [
+            "\u0433\u0440\u0430\u043c\u0438\u0446\u0438\u0434\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Glyatsiolog",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u044f\u0446\u0438\u043e\u043b\u043e\u0433"
+        ]
+    },
+    {
+        "word": "Gipotsentr",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u043e\u0446\u0435\u043d\u0442\u0440"
+        ]
+    },
+    {
+        "word": "Gospital",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u0441\u043f\u0438\u0442\u0430\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Galtel",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u043b\u0442\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gilyotina",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043b\u044c\u043e\u0442\u0438\u043d\u0430"
+        ]
+    },
+    {
+        "word": "Giposulf",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u043e\u0441\u0443\u043b\u044c\u0444"
+        ]
+    },
+    {
+        "word": "Glazur",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u0430\u0437\u0443\u0440[\u044c]"
+        ]
+    },
+    {
+        "word": "Goldenit",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043b\u044c\u0434\u0435\u043d\u0438\u0442"
+        ]
+    },
+    {
+        "word": "Gomrul",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043c\u0440\u0443\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gidrotsele",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0440\u043e\u0446\u0435\u043b\u0435"
+        ]
+    },
+    {
+        "word": "Gipotetsiy",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u043e\u0442\u0435\u0446\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Glagolitsa",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u0430\u0433\u043e\u043b\u0438\u0446\u0430"
+        ]
+    },
+    {
+        "word": "Gerbitsid",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u0440\u0431\u0438\u0446\u0438\u0434"
+        ]
+    },
+    {
+        "word": "Glitserin",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u0438\u0446\u0435\u0440\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Gusenitsa",
+        "type": [],
+        "definition": [
+            "\u0433\u0443\u0441\u0435\u043d\u0438\u0446\u0430"
+        ]
+    },
+    {
+        "word": "Gastrol",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u0441\u0442\u0440\u043e\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gelmint",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043b\u044c\u043c\u0438\u043d\u0442"
+        ]
+    },
+    {
+        "word": "Gorelyef",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u0440\u0435\u043b\u044c\u0435\u0444"
+        ]
+    },
+    {
+        "word": "Gafel",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u0444\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Geran",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u0440\u0430\u043d[\u044c]"
+        ]
+    },
+    {
+        "word": "Gidalgo",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0434\u0430\u043b\u044c\u0433\u043e"
+        ]
+    },
+    {
+        "word": "Gilbert",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043b\u044c\u0431\u0435\u0440\u0442"
+        ]
+    },
+    {
+        "word": "Gallyutsin",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u043b\u043b\u044e\u0446\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Glitsiniya",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u0438\u0446\u0438\u043d\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Giperoksiya",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u0435\u0440\u043e\u043a\u0441\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Gipoksiya",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043f\u043e\u043a\u0441\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Gorchitsa",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u0440\u0447\u0438\u0446\u0430"
+        ]
+    },
+    {
+        "word": "Gaubitsa",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u0443\u0431\u0438\u0446\u0430"
+        ]
+    },
+    {
+        "word": "Genotsid",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043d\u043e\u0446\u0438\u0434"
+        ]
+    },
+    {
+        "word": "Giatsint",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u0430\u0446\u0438\u043d\u0442"
+        ]
+    },
+    {
+        "word": "Galvan",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u043b\u044c\u0432\u0430\u043d"
+        ]
+    },
+    {
+        "word": "Gantel",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u043d\u0442\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Garmon",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u0440\u043c\u043e\u043d[\u044c]"
+        ]
+    },
+    {
+        "word": "Grifel",
+        "type": [],
+        "definition": [
+            "\u0433\u0440\u0438\u0444\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Gelvin",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043b\u044c\u0432\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Gildiya",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043b\u044c\u0434\u0438\u044f"
+        ]
+    },
+    {
+        "word": "Golmiy",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043b\u044c\u043c\u0438\u0439"
+        ]
+    },
+    {
+        "word": "Gril",
+        "type": [],
+        "definition": [
+            "\u0433\u0440\u0438\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Ginetsey",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043d\u0435\u0446\u0435\u0439"
+        ]
+    },
+    {
+        "word": "Glautsin",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u0430\u0443\u0446\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Golotsen",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043b\u043e\u0446\u0435\u043d"
+        ]
+    },
+    {
+        "word": "Gersog",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u0440\u0446\u043e\u0433"
+        ]
+    },
+    {
+        "word": "Gavan",
+        "type": [],
+        "definition": [
+            "\u0433\u0430\u0432\u0430\u043d[\u044c]"
+        ]
+    },
+    {
+        "word": "Gilza",
+        "type": [],
+        "definition": [
+            "\u0433\u0438\u043b\u044c\u0437\u0430"
+        ]
+    },
+    {
+        "word": "Gel",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u043b[\u044c]"
+        ]
+    },
+    {
+        "word": "Golfi",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043b\u044c\u0444\u0438"
+        ]
+    },
+    {
+        "word": "Glitsin",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u0438\u0446\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Glyutsin",
+        "type": [],
+        "definition": [
+            "\u0433\u043b\u044e\u0446\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Goatsin",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u0430\u0446\u0438\u043d"
+        ]
+    },
+    {
+        "word": "Guash",
+        "type": [],
+        "definition": [
+            "\u0433\u0443\u0430\u0448[\u044c]"
+        ]
+    },
+    {
+        "word": "Golf",
+        "type": [],
+        "definition": [
+            "\u0433\u043e\u043b\u044c\u0444"
+        ]
+    },
+    {
+        "word": "Gers",
+        "type": [],
+        "definition": [
+            "\u0433\u0435\u0440\u0446"
+        ]
+    }
+]

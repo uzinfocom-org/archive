@@ -1,0 +1,905 @@
+[
+    {
+        "word": "Yagona G\u02bbazna Hisob-Raqami",
+        "type": [],
+        "definition": [
+            "g'aznachilik tomonidan boshqariladigan maxsus bank hisob-raqami bo'lib, bu hisobraqamga Davlat budjeti mablag'lari hamda budjet tashkilotlarining budjetdan tashqari mablag'lari kiritiladi. Yagona g'azna hisobraqamidan Davlat budjeti mablag'laridan nazarda tutilgan yuridik va jismoniy shaxslarning xarajatlari to'lanadi, shuningdek, davlat maqsadli jamg'armalarining xarajatlari amalga oshiriladi."
+        ]
+    },
+    {
+        "word": "Yagona Iqtisodiy Mintaqa (Makon)",
+        "type": [],
+        "definition": [
+            "erkinlashtirilgan maxsus iqtisodiy zona bo'lib, subyektlar o'rtasidagi iqtisodiy munosabatlar, maxsus qabul qilingan qonunlar asosida tashkil etiladi. Ular ko'p tomonlama shartnoma asosida yagona iqtisodiy siyosat olib boradi va iqtisodiy ittifoq yuzaga keladi. Bu zonada integratsiyalashuv yuqori darajada bo'lib, raqobat erkinlashtirilgan asosda amalga oshiriladi."
+        ]
+    },
+    {
+        "word": "Yagona Kassa Tamoyili",
+        "type": [],
+        "definition": [
+            "budjet daromadlari barcha tushumini, budjet taqchilligi manbalarini jalb etish, moliyalashtirish va budjetning yagona hisob-raqamidan barcha xarajatlarni amalga oshirishni ko'zda tutadi."
+        ]
+    },
+    {
+        "word": "Yagona Soliq, To\u02bblovi",
+        "type": [],
+        "definition": [
+            "kichik biznes subyektlarini qo'llab-quwatlash maqsadida turli soliq va yig'imlar o'rniga soddalashtirilgan tartibda to'lanuvchi soliq turi."
+        ]
+    },
+    {
+        "word": "Yagona Tarif Setkasi",
+        "type": [],
+        "definition": [
+            "quyi darajadagi ishchilardan tortib tashkilot rahbarlarigacha bo'lgan barcha xodimlar mehnatining tarifikatsiyasi va unga haq to'lashdir."
+        ]
+    },
+    {
+        "word": "Yagona Yer Soligini To\u02bblovchilar",
+        "type": [],
+        "definition": [
+            "qishloq xo'jaligi kooperativlari (shirkadar), fermer xo'jaliklari, agrofirmalar, boshqa qishloq xo'jalik mahsulotlarini ishlab chiqaruvchi budjetga soliq to'lovchilar hisoblanadi."
+        ]
+    },
+    {
+        "word": "Yaim Darajalaridagi Farqlar",
+        "type": [],
+        "definition": [
+            "potensial va real YalMning darajalari orasidagi farqlar"
+        ]
+    },
+    {
+        "word": "Yaim Deflyatori",
+        "type": [],
+        "definition": [
+            "mamlakatda narxlar umumiy darajasining o'sishini ifoda etuvchi umumlashtiruvchi makroiqtisodiy ko'rsatkich. U nominal YalM hajmini real YalMhajmigabo'lish orqali aniqlaniladi"
+        ]
+    },
+    {
+        "word": "Yaimni Hisoblashning \u201cPirovard Iste\u02bcmol Elementlari\u201d Uslubi",
+        "type": [],
+        "definition": [
+            "uy xo'jaliklari, davlat muassasalari, uy xo'jaligiga xizmat ko'rsatuvchi xususiy tashkilotlar, pirovard iste\u2019mol bilan bog'liq sarf-xarajatlar yig'indisi hamda yalpi jamg'armalar, mahsulot va xizmatlar eksporti va importining qoldiqlari yig'indisi sifatida hisoblanadi."
+        ]
+    },
+    {
+        "word": "Yakka Tartibdagi Mehnat Faoliyati",
+        "type": [],
+        "definition": [
+            "fuqarolarning tovar ishlab chiqarish va aholiga pullik xizmat ko'rsatish bo'yicha mehnat faoliyati."
+        ]
+    },
+    {
+        "word": "Yakka Tartibdagi Tadbirkorlik",
+        "type": [],
+        "definition": [
+            "yuridik shaxs tashkil etmagan holda jismoniy shaxs (yakka tartibdagi tadbirkor) tomonidan tadbirkorlik faoliyatining amalga oshirilishidir."
+        ]
+    },
+    {
+        "word": "Yakunty Davlat Attestatsiyasi",
+        "type": [],
+        "definition": [
+            "bakalavr yoki magistr darajasiga qo'yiladigan malaka talablariga muvofiq holda, ma\u2019lum talab va tartibotlar vositasida (fanlar bo'yicha davlat attestatsiyasi, bitiruv malakaviy ishi yoki magistrlik dissertatsiyasi himoyasi) bitiruvchi tomonidan oliy ta\u2019lim o'quv reja va dasturlarining bajarilishi sifatini baholash."
+        ]
+    },
+    {
+        "word": "Yakuniy Iste\u02bcmol",
+        "type": [],
+        "definition": [
+            "qiymati boshqa tovar va xizmat qiymatiga o'tmaydigan tovar va xizmatlardan iborat."
+        ]
+    },
+    {
+        "word": "Yakuniy Nazorat",
+        "type": [],
+        "definition": [
+            "xo'jalik va moliyaviy operatsiyalar amalga oshirilganidan keyin o'tkazilib, tekshirilayotgan hujjatlarni va korxonaning butun moliyaviy holatini chuqur o'rganish bilan farq qiladi."
+        ]
+    },
+    {
+        "word": "Yalpi Daromad",
+        "type": [],
+        "definition": [
+            "korxonada olingan sof daromadning bir qismidir. Ma\u2019lumki, yalpi foyda amalda sotilgan mahsulot qiymati va ishlab chiqarishga ketgan xarajatlar o'rtasidagi farq sifatida namoyon bo'ladi. U markazlashtirilgan davlat sof daromadi va korxona sof daromadiga bo'linadi. Markazlashtirilgan davlat sof daromadi qo'shilgan qiymat solig'i, aksiz solig'i va foydadan ajratmalardan hosil bo'ladi. Qo'shilgan qiymat solig'i va aksiz solig'i korxona mahsulotini sotish jarayonida qat\u2019iy me\u2019yorlar bo'yicha undiriladi, foydadan ajratmalar korxona tomonidan uni taqsimlash paytida davlat budjetiga kiritiladi. Foydaning boshqa qismi korxonaning ixtiyorida qoldiriladi va davr xarajatlari, moliyaviy faoliyatdan talofotlar, dividendlarni to'lash va boshqa ehtiyojlar xarajatlarini qoplash uchun ishlatilad"
+        ]
+    },
+    {
+        "word": "Yalpi Foyda",
+        "type": [],
+        "definition": [
+            "korxona yalpi daromadining barcha majburiy to'lovlami chiqarib tashlagandan so'ng korxona ixtiyorida qoluvchi qismi"
+        ]
+    },
+    {
+        "word": "Yalpi Foydaning Grafigi (Chizmasi)",
+        "type": [],
+        "definition": [
+            "ishlab chiqarishning ma\u2019qul holatida foyda va zararlarning hududi (miqyosi)ni aks ettiradigan grafik (chizma)."
+        ]
+    },
+    {
+        "word": "Yalpi Ichki Mahsulot",
+        "type": [],
+        "definition": [
+            "ma\u2019lum davr 1 yil mobaynida mamlakat ichida ishlab chiqarilganbarchatayyortovarlarvako'rsatilgan xizmatlarning pul ko'rinishidagi qiymati. 3 ta metod: daromadlar, xarajatlar va qo'shimcha qiymat metodi orqali hisoblab chiqiladi. Rivojlangan mamlakatlarda XX asrning 50-yillaridan boshlab statistikada yalpi ichki mahsulot ko'rsatkichi qo'llanila boshlandi. Ushbu ko'rsatkich yordamida milliy iqtisodiyotning rivojlanish qonuniyatlari va tendensiyalarl tahlil etiladi, boshqa mamlakatlar iqtisodiyotlarining rivojlanish natijalari bilan solishtiriladi, iqtisodiyotning ishlab chiqarish strukturasiga baho beriladi, iqtisodiyotning qanchalik tashqi iqtisodiy aloqalarga bog'liq ekanligi aniqlanadi. Yalpi ichki mahsulot ko'rsatkichi yalpi milliy mahsulotdan mamlakatning tashqi kapital sarflaridan olgan foyda saldosi miqdoriga farq qiladi. Chunki hozirgi sharoitda o'ta yirik korxonalar faoliyati kuchayib bormoqda. Ushbu faoliyatdan olingan foyda saldosi YaMM miqdorini ko'paytirib yuborishi mumkin. O'zbekistonda yalpi ichki mahsulot ko'rsatkichi hisoblanadi."
+        ]
+    },
+    {
+        "word": "Yalpi Ichki Mahsulot Deflyatori",
+        "type": [],
+        "definition": [
+            "yalpi ichki mahsulot uchun aniqlangan baho indeksi. Uni aniqlash uchun yalpi ichki mahsulot qiymat indeksi YalMning fizik hajm indeksiga nisbatan olinadi."
+        ]
+    },
+    {
+        "word": "Yalpi Ichki Mahsulotni (Yaim) Hisoblashning \u201cIshlab Chiqarish\u201d Uslubi",
+        "type": [],
+        "definition": [
+            "ko'rsatkich tarmoqlar bo'yicha qo'shilgan qiymat, mahsulotga sof soliqlar (ya\u2019ni subsidiyalar chegirib tashlangandan so'ng) va import qilingan mahsulot sof soliqlari qo'shilgan qiymat yig'indisi sifatida belgilanadi. Tarmoq qo'shilgan qiymati yalpi ishlab chiqarilgan mahsulot bilan oraliq iste\u2019mol o'rtasidagi tafovutdan iborat bo'ladi."
+        ]
+    },
+    {
+        "word": "Yalpi Ijtimoiy Mahsulot",
+        "type": [],
+        "definition": [
+            "yil davomida jamiyat tomonidan moddiy sohada yaratilgan mahsulotlarning pul birligidagi qiymati; ijtimoiy ishlab chiqarishning asosiy statistik ko'rsatldchlaridan biri."
+        ]
+    },
+    {
+        "word": "Yalpi Investitsiyalar",
+        "type": [],
+        "definition": [
+            "korxona va firmalarning mashina, dastgohlar xaridi, qurilish, zaxiralarning o'zgarishi bilan bog'liq barcha sarflar. YaMM xarajatlar usulida hisoblaganda tarkibiga qo'shiladi"
+        ]
+    },
+    {
+        "word": "Yalpi Ishlab Chiqarish Yoki Yalpi Mahsulot",
+        "type": [],
+        "definition": [
+            "mamlakatda (tarmoqda, sektorda) ishlab chiqarilgan tovar va xizmatlarning ishlab chiqarilgan vaqtdagi bozor baholaridagi qiymati."
+        ]
+    },
+    {
+        "word": "Yalpi Jamg\u02bbarish",
+        "type": [],
+        "definition": [
+            "joriy davrda ishlab chiqarilgan va ana shu davrda iste\u2019mol qilinmagan tovar va xizmatlarning rezident birliklari tomonidan faqat sotib olinishi natijasida shakllangan jamg'arma"
+        ]
+    },
+    {
+        "word": "Yalpi Mahsulotni Inflirlash Va Deflirlash",
+        "type": [],
+        "definition": [
+            "YaMM real hajmini nominal YaMMni narx indeksiga bo'lish orqali aniqlash (qarang: real YaMM)."
+        ]
+    },
+    {
+        "word": "Yalpi Milliy Daromad",
+        "type": [],
+        "definition": [
+            "shu mamlakat rezidentlarining shu mamlakatningvaxorijiy mamlakatlarning YalMniyaratishdavomida olgan birlamchi daromadlari (mulkdan olgan soliq bilan birga)ning yig'indisi."
+        ]
+    },
+    {
+        "word": "Yalpi Milliy Ixtiyoridagi Daromad (Yaimd)",
+        "type": [],
+        "definition": [
+            "shu mamlakat rezidentlari tomonidan olingan birlamchi daromadlar va sof joriy transfertlar yig'indisi."
+        ]
+    },
+    {
+        "word": "Yalpi Milliy Mahsulot (Yamm)",
+        "type": [],
+        "definition": [
+            "bir yil mobaynida mamlakatda ishlab chiqarilgan mahsulotlar va xizmatlar yig'indisining bozor narxlarida ifodalanishidir. Bir mahsulotni takroriy hisoblashga yo'l qo'ymaslik uchun YaMM ga korxona tomonidan yaratilgan qo'shilgan qiymat kiritilishi zarurdir. Pirovard mahsulot yoki qo'shilgan qiymat korxonalar tomonidan ishlab chiqarilgan mahsulot miqdorining bozor bahosidan iste\u2019mol qilingan xomashyo va materiallar ayirmasiga teng. YaMMni ikki, ya\u2019ni xarajatlar va daromadlar yo'li bilan hisoblash mumkm. Xarajatlar bo'yicha YaMM quyidagilarni jamlash orqali hisoblanadi: shaxsiy iste\u2019mol uchun xarajatlar, ya\u2019ni aholining iste\u2019mol buyumlari va xizmatiarni sotib olishga qilgan xarajatlari; korxonalar (firma) yalpi investitsiyalari, ya\u2019ni ularni mashinalar, dastgohlarni sotib olishga, hamma qurilishga, zaxiralarning o'zgarishi bilan bog'liq bo'lgan barcha xarajatlari; davlat tomonidan tovar va xizmatlar xaridi, ya\u2019ni davlat va uning organlari tomonidan korxonalar pirovard mahsuloti va ishlab chiqarish omillari xarid qilish bilan bog'liq xarajatlar; sof eksport, ya\u2019ni ushbu mamlakat tovarlari va xizmatlari uchun xorijiy xarajatlarning ana shu mamlakat fuqarolari va tashkilotlari chet el tovar va xizmatlari uchun sarflangan xarajatlardan ortiqcha miqdori. Daromadlar bo'yicha yalpi milliy mahsulot yollanma ishchilarning ish haqini renta to'lovlami, foizni, korporatsiyalardan daromadlar bilan bog'liq bo'lmagan ikkita to'lov turi iste\u2019mol qilingan kapitalga ajratmalari hamda korporatsiyalarning bilvosita soliqlari miqdorini jamlash orqali hisoblanadi."
+        ]
+    },
+    {
+        "word": "Yalpi Pul Tushumi",
+        "type": [],
+        "definition": [
+            "tovar mahsuloti, ish, xizmat va moddiy boyliklarni sotishdan tushuvchi pulning umumiy miqdori"
+        ]
+    },
+    {
+        "word": "Yalpi Qo\u02bbshilgan Qiymat",
+        "type": [],
+        "definition": [
+            "alohida olingan xo'jalik yurituvchi subyektlar, tarmoqlar va iqtisodiy sektorlarning faoliyati natijasi bo'lib, uning hajmi yalpi ishlab chiqarish va oraliq iste\u2019moli orasidagi farqqa teng."
+        ]
+    },
+    {
+        "word": "Yalpi Taklif",
+        "type": [],
+        "definition": [
+            "mamlakatda, ma\u2019lum vaqt davomida, tadbirkorlik sektori va davlat tomonidan ishlab chiqarilgan, va baholarning turli darajasida taklif qilinadigan tovar va xizmatlarning umumiy hajmi"
+        ]
+    },
+    {
+        "word": "Yalpi Talab",
+        "type": [],
+        "definition": [
+            "uy xo'jaliklari, firmalar, davlat va xorijliklar, mamlakat rezidentlari tomonidan ishlab chiqarilgan tovarlar va xizmatlarni baholarning turli darajasida sotib olishga qilingan xarajatlarning umumiy yig'indisi."
+        ]
+    },
+    {
+        "word": "Yangi Industrial Mamlakatlar",
+        "type": [],
+        "definition": [
+            "iqtisodiy jihatdan eng tez rivojlanayotgan Osiyo, Afrika va Lotin Amerikasidagi davlatlar."
+        ]
+    },
+    {
+        "word": "Yangi Iqtisodiy Siyosat",
+        "type": [],
+        "definition": [
+            "Sovet davlatida 1921-yilda joriy etilgan. Tovar-pul munosabatlariga keng o'rin berilgan, denatsionalizatsiya amalga oshirilgan, xususiy ishlab chiqarish va savdoga keng o'rin berilgan va yagona oziq-ovqat solig'i joriy etilgan. Yangi iqtisodiy siyosatdagi kapitalistik munosabatlar iqtisodiyotni tez tiklash va rivojlantirishga imkon berdi. Faqat og'ir sanoat, bank, temiryo'l, tashqi savdogina davlat monopoliyasida bo'Igan. Moliya tizimi pul islohoti orqali kuchaytirilgan. 1928-yildan boshlab inkor etilib, ma\u2019muriy-buyruqbozlikka o'tildi."
+        ]
+    },
+    {
+        "word": "Yangi Klassik (Neoklassik) Yo\u02bbnalish",
+        "type": [],
+        "definition": [
+            "garb iqtisodiy adabiyotida \u201cYangi klassik ekonomiks\u201d deb ataladi va bu yo'nalish asosida marjinalizm g'oyalari yotadi. Buyuk ingliz iqtisodchisi A. Marshall (1842-1894) nomi bilan bog'liq. Shu davrda \u201cSiyosiy iqtisod\u201d o'rniga mafkurasiz \u201cEkonomiks\u201d matni paydo bo'ldi. Unda sof erkin bozor iqtisodiyoti targ'ib etiladi, davlatning roli imkoni boricha kam bo'lmog'i kerak. Bu yo'nalishda liberalizm va neoliberalizm oqimlari mavjud. Amerika monetarizmi - M. Fridman (1912, AQSH) o'zining \u201cKapitalizm va erkinlik\u201d (1960) kitobida \u201cerkin ishbilarmonlik\u2019 ni himoya qiladi. \u201cOzodlik yo'lida qurbon berish\u201dni va \u201ctabiiy ishsizlik\u201dni qo'llab-quwatlaydi, davlat tomonidan beriladigan yordamga qarshi chiqadi, iqtisodiyotni to'g'ri pul siyosati bilan (davlat kam aralashadi) tartibga solish tarafdori. Bu oqim g'oyalari Rossiya Federatsiyasi iqtisodiyotida qo'llanilmoqda."
+        ]
+    },
+    {
+        "word": "Yangi Maktab",
+        "type": [],
+        "definition": [
+            "boshqaruv nazariyasidagi bu yo'nalish boshqaruv ilmiga aniq fanlar usullari va apparatini joriy etish bilan xarakterlanadi"
+        ]
+    },
+    {
+        "word": "Yangi Tovar",
+        "type": [],
+        "definition": [
+            "biror bozorda birinchi marta taklif qilinadigan tovar."
+        ]
+    },
+    {
+        "word": "Yangi Tovarni Ishlab Chiqish",
+        "type": [],
+        "definition": [
+            "korxonaning o'z kuchi bilan o' tkazish asosida original, sifati yaxshilangan va modifikatsiyalangan mahsulotlarni yaratish jarayoni. Bu jarayon odatda g'oyalarni ishlab chiqish, tanlash, yangi tovar konsepsiyasini ishlab chiqish va uni tekshirish, marketing strategiyasini ishlab chiqish, biznes tahlili, yangi mahsulotni ishlab chiqish, sinov marketingi va tijoratlashtirishdan iborat bo'ladi."
+        ]
+    },
+    {
+        "word": "Yapon Boshqaruv Modeli Va Boshqaruv Madaniyatining Asosiy Jihatlari",
+        "type": [],
+        "definition": [
+            "strategiya; innovatsion boshqaruv madaniyatining shakllanishida doimiylik; jahon texnika madaniyatining eng so'nggi namunalarini tez o'zlashtirish; inson omili rivojlanishi, zamonaviylashuvi va boshqaruv personali bilan ishlashni istiqbolli resurslar sifatida qarash; madaniyat me\u2019yorlarini saqlash, qo'llab-quwatlash va ko'paytirish."
+        ]
+    },
+    {
+        "word": "Yapon Mo\u02bbjizasi",
+        "type": [],
+        "definition": [
+            "uning quyidagi jihatlarini ko'rsatish mumkin: - qattiq intizom, yuqori darajadagi mehnat unumdorligi; innovatsiya, yangilikka intilish; jamiyat, korxona manfaatini shaxsiy manfaatdan ustun qo'yish; raqobatbardosh mahsulot ishlab chiqarishni o'z burchi deb bilish, ichki va tashqi bozorni ajratmasllk; 5 ta \u201cS\u201d ga qat\u2019iy rioya qilish, ya\u2019ni: 1. Seyri - uyushqoqlik. 2. Seyton - poklik. 3. Seyso - tozalik. 4. Seykets - ahloqlilik. 5. Sitauks - intizom; ilmiyamally ishlar ixtirochilikni rag'batlantirish; \u201ctovar yoki xizmat o'zo'zi uchun gapirsin\u201d shiori; yapon xalqining mehnatsevarligi va boshqalar."
+        ]
+    },
+    {
+        "word": "Yapon Firmasi Boshqaruv Strategiyasining Asosiy Xarakteristikal Ari",
+        "type": [],
+        "definition": [
+            "o'zgarishlargamoslashish; muhitgava muhitdagijoygamoslashish; o'zgarayotgan dunyo da ma\u2019lum vaqtga emas, balki uzoq istiqbolda yashash uchun barcha imkoniyatlarni hisobga olish va ulardan foydalanish; texnika, texnologiya va ij timoiy omil yutuqlarini yashashning asosiy resurslari sifatida ajratib olish."
+        ]
+    },
+    {
+        "word": "Yapon Shamlari",
+        "type": [],
+        "definition": [
+            "sham bahoning ushbu vaqt intervali (-1 ) ichida tanlab olingan to'rt ifodasini aks ettiradi, kattaligi: 1 daqiqa, 5 daqiqa, 10 daqiqa, 60 daqiqa (soatli), haftali, oyli va boshqa shu kabi."
+        ]
+    },
+    {
+        "word": "Yaratilgan Aktivlar",
+        "type": [],
+        "definition": [
+            "tizimda ishlab chiqarish doirasida yaratilgan nomoliyaviy aktivlar."
+        ]
+    },
+    {
+        "word": "Yarim Tayyor Mahsulotlar",
+        "type": [],
+        "definition": [
+            "ba\u2019zi bir ishlov bosqichlarini o'tgan, lekin hali tayyor mahsulotga aylanmagan mehnat buyumlaridan iborat. Ularning xususiyati shundan iboratki, garchi ular mazkur bosqichdagi barcha ishlov operatsiyalarini o'tgan bo'lsalar ham, lekin ishlov yoki yig'ish uchun navbatdagi bosqichga yo'naltirilishi kerak bo'ladi."
+        ]
+    },
+    {
+        "word": "Yarmarka",
+        "type": [],
+        "definition": [
+            "belgilangan muddatlarga bir joyda muntazam to'planadigan bozor; yarmarka ishtirokchilariga o'zlari ishlab chiqargan mahsulotlar namunalarini ko'rsatishga imkoniyat yaratish, savdo bitimlari tuzish maqsadlarida yangi yutuqlar va texnik kamolotni namoyish qilish."
+        ]
+    },
+    {
+        "word": "Yasak",
+        "type": [],
+        "definition": [
+            "qadimgi davrda yashagan xalqlarning to'lagan natural soliqlari. Aholi o'z qishloq boshliqlariga soliqni natural (mahsulot, xomashyo) ko'rinishda to'lab berganlar."
+        ]
+    },
+    {
+        "word": "Yashil Karta",
+        "type": [],
+        "definition": [
+            "avtotransport vositalari egalarining fuqarolik javobgarligini majburiy sug'urtalash to'g'risidagi xalqaro shartnomalar tizimi. Mazkur sug'urta turi bo'yicha shartnoma tuzilganlik faktini tasdiqlovchi polis. 1949-yilda Yevropaning 13 ta davlati o'rtasida yashil karta to'g'risida shartnoma tuzilgan. Hozirgi paytda yashil kartaga a\u2019zo mamlakatlar 30 dan ziyodni tashkil etadi. Yashil kartaga a\u2019zo bo'lgan mamlakatlarda tegishli milliy byurolar tashkil etilgan va u mazkur davlat hududida yashil karta bilan bog'liq ishlarni muvofiqlashtirib turadi"
+        ]
+    },
+    {
+        "word": "Yashirin Kelishuv",
+        "type": [],
+        "definition": [
+            "xalqaro savdodagi g'irrom raqobat shakllaridan biri. Uning ikki turi bor: l) yopiq savdo qatnashchilari o'rtasida; 2) bozorni taqsimlash va narxlar o'rnatish haqidagi norasmiy shartnomalar."
+        ]
+    },
+    {
+        "word": "Yashirin Soliq",
+        "type": [],
+        "definition": [
+            "iste\u2019molchi tomonidan bevosita to'lanmaydigan, lekin unga mo'ljallangan mahsulotning bahosi tarkibiga uni ogohlantirmasdan, unga xabar bermasdan, unga bildirmasdan kiritilgan soliq. Masalan, bojlar."
+        ]
+    },
+    {
+        "word": "Yashirin Talab",
+        "type": [],
+        "definition": [
+            "qandaydir konkret ehtiyoj bor va talabga aylanishi mumkin, lekin uni mavjud tovarlar bilan qondirib bo'lmaydi"
+        ]
+    },
+    {
+        "word": "Yassi Muntazam Tarkib",
+        "type": [],
+        "definition": [
+            "uncha katta bo'lmagan saviyaga ega bo'lgan tarkib va bitta rahbarga bo'ysunuvchi katta sondagi xizmatchilar"
+        ]
+    },
+    {
+        "word": "Yaxlitlanmagan Narx",
+        "type": [],
+        "definition": [
+            "yaxlit raqamlardan sal pasaytirib qo'yiladigan narx."
+        ]
+    },
+    {
+        "word": "Yem-Xashak Balansi",
+        "type": [],
+        "definition": [
+            "korxona uchun zarur yem-xashakning hamma turlari ko'rsatilgan, yem-xashaklar jismoniy holidagina emas, balki oziq turlarida va o'zlashtiriladigan oqsil moddalari tarzida ham hisobga olinadigan ish hujjati."
+        ]
+    },
+    {
+        "word": "Yer",
+        "type": [],
+        "definition": [
+            "tabiiy resurslar (ekiladigan yerlar, suv resurslari, foydali qazilmalar va h.k.). Yer iqtisodiyotda ishlab chiqarishning omillari bo' lgan resurslarning bir elementi hisoblanadi"
+        ]
+    },
+    {
+        "word": "Yer Kadastri",
+        "type": [],
+        "definition": [
+            "yerning tabiiy, xo'jalik va huquqiy o'rni to'g'risida ma\u2019Iumotlar to'plami bo'lib, u yerdan foydalanuvchilarning ro'yxati, yerning miqdori va sifati hisobi, tuproq banitirovkasi va yerni iqtisodiy baholash ma\u2019lumotlarini o'z ichiga oladi."
+        ]
+    },
+    {
+        "word": "Yer Narxi",
+        "type": [],
+        "definition": [
+            "cheklanmagan vaqt davomida yerdan olingan barcha daromadlar yig'indisining keltirilgan (boshlang'ich yilga) qiymati."
+        ]
+    },
+    {
+        "word": "Yer Osti Boyliklari",
+        "type": [],
+        "definition": [
+            "tabiiy muhit tizimining yer qa ri bilan eng yaqin bog'langan elementi bo'lib, ular jonsiz tabiat resurslari hisoblanadi. Ulardan konstruksion va boshqa materiallar, kimyoviy qo'shilmalar, o'g'itlar va boshqalarni ishlab chiqarishda keng miqyoslarda foydalaniladi. O'zbekistonning yer osti boyliklari g'oyat xilmaxil, zaxiralari esa ko'p bo'lib, ular 100 ga yaqin mineral xomashyo turlarini, 2,7 mingdan ziyod turli foydali qazilma konlarini o'z ichiga oladi."
+        ]
+    },
+    {
+        "word": "Yer Osti Boyliklari Rentasi",
+        "type": [],
+        "definition": [
+            "shaxslar va davlat birliklariga qarashli konlardan ma\u2019lum vaqt davomida muayyan xaq evaziga boshqa institutsion birliklar foydalanishi uchun berilgan ruxsatnoma (litsenziya)ga to'lanadigan haq."
+        ]
+    },
+    {
+        "word": "Yer Ostidan Foydalanganlik Uchun Soliq",
+        "type": [],
+        "definition": [
+            "soliqni \u041e \u2018zb ekiston Respublikasi hududida foydali qazilmalar qazib olishni, shuningdek, foydali qazilmalar qazib olish bilan bog'liq bo'lmagan yer osti inshootlari qurish va ulardan foydalanishni amalga oshiruvchi yuridik va jismoniy shaxslar to'laydilar. Uning obyekti bo'lib foydali qazilmalar qazib olish hajmi, texnogen hosilalarning hajmi, foydali qazilmalar qazib olish bilan bog'liq bo'lmagan yer osti inshootlari hajmi, rangli toshlar xomashyosi, paleontologiya qoldiqlari va boshqa geologik kollektsiya materiallari namunalarini to'plash uchun berib qo'yilgan yer qa\u2019ri uchastkasi maydoni hisoblanadi. Soliqning stavkasi O'zbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi."
+        ]
+    },
+    {
+        "word": "Yer Rentasi",
+        "type": [],
+        "definition": [
+            "qishloq xo'jaligi ishlab chiqaruvchilari tomonidan quruq yerdan foydalanganlik uchun yer egasiga to'lanadigan haqdir. Renta darajasi, ya\u2019ni renta qiymati quyidagi omillarga: yerning tabiiy unumdorligiga, yerning iste\u2019molchilarga nisbatan joylashish darajasiga va unga sarf etilgan moddiy va mehnat resurslari xarajati miqdoriga bog'liqdir."
+        ]
+    },
+    {
+        "word": "Yer Solig\u02bbi",
+        "type": [],
+        "definition": [
+            "yer egalari, yerga egalik qiluvchilar va yerdan foydalanuvchilar to'laydigan soliq. Uning miqdori yer egalari, yerga egalik qiluvchilar va yerdan foydalanuvchilar xo'jalik faoliyatining natijalariga bog'liq bo'lmasdan, balki bir yil uchun yer birligiga nisbatan barqaror to'lovlar ko'rinishida o'rnatiladi. O'z mulkida, egaligida yoki foydalanishida yer uchastkalariga ega bo'Igan yuridik va jismoniy shaxslarbusoliqningto'lovchilaridir.Soliqningstavkasi O'zbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi. Yer solig'i yuridik shaxslar tomonidan har yili birinchi yanvargacha bo'lgan holatga qarab mustaqil hisoblab chiqariladi va soliq bo'yicha hisob-kitoblar yer uchastkasi joylashgan hududdagi soliq organiga joriy yilning birinchi fevraligacha taqdim etiladi. Yuridik shaxslar tomonidan (qishloq xo'jaligi korxonalaridan tashqari) soliq yilning har choragida ikkinchi oyning 15-kunigacha to'lansa, qishloq xo'jaligi korxonalari bu soliqni bir yilda bir marta - hisobot yilining 15-dekabrigacha to'laydilar. Bu muddat jismoniy shaxslar uchun joriy yilning birinchi noyabrigacha belgilangan."
+        ]
+    },
+    {
+        "word": "Yer Transformatsiyasi",
+        "type": [],
+        "definition": [
+            "qishloq xo'jaligiga yaroqli yerlarni bir turdan boshqa turga o'tkazilishi, yer fondiga tarkibiy o'zgartirishlar kiritiUshi."
+        ]
+    },
+    {
+        "word": "Yer Uchastkasi",
+        "type": [],
+        "definition": [
+            "yer fondining qayd etilgan chegaraga, maydonga, joylashish manziliga, huquqiy rejimi hamda davlat yer kadastri va yer uchastkasiga bo'lgan huquqlariga, davlat ro'yxatidan o'tkazish hujjatlarida aks ettiriladigan boshqa jihatlarga ega bo'lgan muayyan qismi."
+        ]
+    },
+    {
+        "word": "Yer Uchun Ijara Haqi",
+        "type": [],
+        "definition": [
+            "uning hajmi (o'lchami), shartlari va o'tkazish muddatlari shartnomaga muvofiq o'rnatiladi. Qishloq xo'jaligi maqsadlariga mo'ljallangan yerlar ijaraga olinganda uning miqdori ijaralangan uchastkalardan olinadigan yer solig'ining summasidan oshmasligi kerak. Yer uchun ijara haqi alohida yoki butun ijaraga olingan mulkning ijara haqi tarkibida ham olinishi mumkin. Lekin bu holda ham yer uchun ijara haqi, albatta, mahalliy budjetning daromadiga o'tkazilishi kerak."
+        ]
+    },
+    {
+        "word": "Yer Uchun To\u02bblovlarning Shakllari",
+        "type": [],
+        "definition": [
+            "yer solig'i, ijara haqi va yeming normativ bahosidan iborat. Yerning egalari, yerning mulkdorlari va yerdan foydalanuvchilar yillik yer solig'iga tortiladi. Ijaraga berilgan yer uchun ijara haqi olinadi. Qonunda ko'zda tutilgan hollarda sotib olish va bankdan kredit olish uchun garov sifatida yerdan foydalanilganda yeming normativ bahosi belgilanadi (o'rnatiladi)."
+        ]
+    },
+    {
+        "word": "Yerning Bahosi",
+        "type": [],
+        "definition": [
+            "yer egasi yerdan olgan daromadini boshqa yo'l bilan topishi uchun zarur bo'lgan pul miqdori. Yerning bahosi rentaning miqdoriga to'g'ri proporsional, ssuda foizi darajasiga teskari proporsionaldir."
+        ]
+    },
+    {
+        "word": "Yerning Normativ Bahosi",
+        "type": [],
+        "definition": [
+            "hisobli qoplash muddati davomida olinishi lozim bo'lgan potensial daromaddan kelib chiqqan holda ma\u2019lum sifatdagi va joydagi yer uchastkasining qiymatini ifodalaydigan ko'rsatkich. Yerni mulk sifatida berish uchun, unga nisbatan jamoa-hissali mulkni o'rnatish uchun, meros sifatida berish, taqdim etish, bank kreditini olish uchun yer uchastkasidan garov sifatida foydalanilganda yer munosabatlarini iqtisodiy tartibga solishni ta\u2019minlash uchun joriy etilgan. Odatda yeming normativ bahosi yer maydoni birligiga to'g'ri keluvchi yer solig'ining 50 martalik hajmi miqdorida o'rnatiladi. Bu baho hisoblanayotgan paytda yer solig'i bo'yicha berilgan imtiyozlar inobatga olinmaydi."
+        ]
+    },
+    {
+        "word": "Yetakchi",
+        "type": [],
+        "definition": [
+            "raqobat bozoridagi mo'ljal hisoblanadi. Boshqa firmalar o'z strategiyasi va taktikalarini to'g'ridan-to'g'ri yoki bir vosita yetakchiga o'xshash taktikasi yoki kelishmovchilikni bartaraf etish harakati bo'lishi mumkin."
+        ]
+    },
+    {
+        "word": "Yetakchi Bank",
+        "type": [],
+        "definition": [
+            "sinditsiyalashtirilgan kreditlash tashabbusi bilan chiqqan va zimmasiga ishtirokchi-banklar nomidan kredit hujjatlarini yuritish mas\u2019uliyati yuklatilgan qarz oluvchining asosiy talab qilib olinguncha depozit hisob-varag'iga xizmat ko'rsatuvchi bank"
+        ]
+    },
+    {
+        "word": "Yetakchi Tovar Narxi",
+        "type": [],
+        "definition": [
+            "biror assortiment guruhida eng katta talabga ega bo'lgan tovar bo'lib, iste\u2019molchilarni butun assortimentga ko'proqjalb etish maqsadida unga nisbatan pastroqnarxbelgilanishi."
+        ]
+    },
+    {
+        "word": "Yetakchilik",
+        "type": [],
+        "definition": [
+            "boshqaruvi o'zaro hamkorlikning, hukmronlikning har xil manbalarini samaraliroq birlashishiga asoslangan va odamlarni umumiy maqsadlarga erishishga undashga qaratilgan o'ziga xos odob."
+        ]
+    },
+    {
+        "word": "Yetakchining Kasbga Egaligi",
+        "type": [],
+        "definition": [
+            "menejer tomonidan ishlab chiqarish (tijorat)ni tashkil qilish va boshqaruv sohasidagi maxsus bilimlar va ko'nikmalarni egallashi, har xil sohalardagi odamlar bilan ishlash mahorati."
+        ]
+    },
+    {
+        "word": "Yevro Kreditlar",
+        "type": [],
+        "definition": [
+            "yevro valyutalarda beriladigan kreditlardir"
+        ]
+    },
+    {
+        "word": "Yevropa Dollarlar",
+        "type": [],
+        "definition": [
+            "yevropa banklaridagi dollar jamg'armalari, kredit, operatsiyalarida foydalaniladi. AQSHdan tashqarida, ya\u2019ni Yevropa banklarida mulk egalarining AQSH dollarida qo'ygan pul mablag'lari"
+        ]
+    },
+    {
+        "word": "Yevropa Hamjamiyati",
+        "type": [],
+        "definition": [
+            "tarkibiga G'arbiy Yevropa regional tashkilotlaridan 3 tasi, ya\u2019ni Yevropa iqtisodiy uyushmasi, Yevropa ko'mir va po'lat birlashmasi hamda Yevroatom kirgan G'arbiy Yevropa mamlakatlarining davlatlararo birlashmasi bo'lib, 1957- yilda tashkil topgan."
+        ]
+    },
+    {
+        "word": "Yevropa Hamjamiyati Komissiyasi",
+        "type": [],
+        "definition": [
+            "uning 17 a\u2019zosini milliy xukumatlar tayinlaydi, lekin ular o'z faoliyatlarida buxukumatlaridan tamomila mustaqildir."
+        ]
+    },
+    {
+        "word": "Yevropa Iqtisodiy Uyushmasi",
+        "type": [],
+        "definition": [
+            "1957-yilda G'arbiy Yevropadagi 6 ta davlat: Fransiya, Italiya, Germaniya, Niderlandiya, Belgiya va Lyuksemburg davlatlari o'rtasida boj chegaralarini yo'qotish va \u201cUmumiy bozor\u201d barpo etish maqsadida tuzilgan iqtisodiy uyushma. 1973-yilda unga Buyuk Britaniya, Daniya va Irlandiya, 1981-yilda Gretsiya, 1986-yilda Ispaniya va Portugaliya ham a\u2019zo bo' lib kirdi. Bu uyushmani tuzishdan ko'zlangan maqsad boj ittifoqi va uyushmaga kirgan davlatlar o'rtasida tovar, kapital, xizmatlar va ishchi kuchining Umumiy bozorini tashkil etishdan iborat. Shuning uchun ham u \u201cUmumiy bozor\u201d nomini oldi. YEIUning tashkil etilishi G'arbiy Yevropa markazining rivojlanishini tezlashtirdi."
+        ]
+    },
+    {
+        "word": "Yevropa Kengashi",
+        "type": [],
+        "definition": [
+            "1974 yilda tuzilgan bo'lib, uning doirasida bunday kengashlaming muntazam o'tkazib turilishi kerakligi haqida qaror qabul kildilar. Yevropa kengashi oliy bosqich ahamiyatini kasb etib, murakkab holatlarda hamjamiyatning boshqa muassasalari bilan kelishishga erishishning iloji bo'lmagan hollarda Yevropa kengashi va Vazirlar kengashi unga murojaat etishlari mumkin."
+        ]
+    },
+    {
+        "word": "Yevropa Kreditlar",
+        "type": [],
+        "definition": [
+            "mamlakatlar yirik tijorat banklarining Yevro valyuta bozori resurslari hisobidan chiqaradigan xalqaro zayomlari."
+        ]
+    },
+    {
+        "word": "Yevropa Obligatsiyalar",
+        "type": [],
+        "definition": [
+            "Yevropa bozorida uzoq muddatli zayom olish bilan zayomchi tomonidan chiqariladigan uzoq muddatli majburiyatnoma,- qimmatli qo'g'oz turlari."
+        ]
+    },
+    {
+        "word": "Yevropa Parlamenti",
+        "type": [],
+        "definition": [
+            "Yevropa xalqlarining demokratik jarchisi. Unda umumiy ovoz berish yo'li bilan saylanadigan 518 deputat bor. Asosiy vazifasi - Komissiya faoliyatini nazorat kilish, hamjamiyat budj eti va qonunlarini ma\u2019qullash va ularga o'zgartirishlar kiritishdir."
+        ]
+    },
+    {
+        "word": "Yevropa Taraqqiyot Tiklanish Bankining Maqsadi",
+        "type": [],
+        "definition": [
+            "demokratiya va bozor iqtisodi tamoyillariga sodiq Markaziy va Sharqiy Yevropa mamlakatlarida bozorni, xususiy tadbirkorlik faoliyatiniyo'naltirilganochiqiqtisodgao'tishiniqo'llab-quwatlash. 1990-yilda tashkil qilingan."
+        ]
+    },
+    {
+        "word": "Yevropa Valyuta Birligi",
+        "type": [],
+        "definition": [
+            "G'arbiy Yevropa mamlakatlarining o'zaro hisob-kitoblarida amal qiluvchi valyuta birligi. 1979-yilda tashkil etilgan."
+        ]
+    },
+    {
+        "word": "Yevropa Valyuta Birligi",
+        "type": [],
+        "definition": [
+            "Yevropa valyuta tizimida qatnashuvchi mamlakatlar o'rtasida qo'llaniladigan xalqaro schyot birligi."
+        ]
+    },
+    {
+        "word": "Yevropolis",
+        "type": [],
+        "definition": [
+            "Yevropa iqtisodiy hamjamiyati mamlakatlarida sug'urta shartnomasi tuzganlik faktini tasdiqlovchi sug'urta polisi."
+        ]
+    },
+    {
+        "word": "Yevro Valyuta",
+        "type": [],
+        "definition": [
+            "Yevropaning qator rivojlangan mamlakatlari muomalaga chiqargan va mamlakat hududidan tashqarida naqd pulsiz deposit - ssuda operatsiyalarini amalga oshirishda foydalaniladigan valyutalar"
+        ]
+    },
+    {
+        "word": "Yig\u02bbilib Qolish",
+        "type": [],
+        "definition": [
+            "alohida bosqichlar orasida oldingi bosqich natijalarining (chiqish) to'planib qolishi. Buning sababi shuki, oldingi bosqich natijalari keying bosqichga, ushbu bosqich haddan tashqari yuklanganligi sababli, o'tmaydi. Yig'ilib qolish - oldingibosqichning o'tkazish imkoniyati keyingisiga nisbatan ko'proq bo'lgan holda o'rinli."
+        ]
+    },
+    {
+        "word": "Yig\u02bbimlar",
+        "type": [],
+        "definition": [
+            "qonun aktlariga muvofiq belgilangan tartibda va shartlarda to'lovchilar tomonidan tegishli darajadagi budjetlarga yoki budjetdan tashqari fondlarga o'tkaziladigan majburiy badallar. Ularning tarkibiga savdo-sotiq qilish huquqi uchun yig'im, shu jumladan, ayrim turdagi tovarlarni sotish huquqini beruvchi litsenziya yig'imlari, yuridik shaxslarni, shuningdek, tadbirkorlik faoliyati bilan shug'ullanuvchi jismoniy shaxslarni ro' yxatga olganlik uchun yig'im, avtotrasport to'xtash joyidan foydalanganlik uchun yig'im, obodonchilik ishlari uchun yig'im va boshqalar kiradi."
+        ]
+    },
+    {
+        "word": "Yig\u02bbish Liniyasi",
+        "type": [],
+        "definition": [
+            "alohida mahsulotlar ishlab chiqilishiga maxsuslashtirilgan tizimli ishlab chiqarish oqimi. Mahsulotlar, har birida bitta maxsus operatsiya bajariladigan ish bekatlaridan nazorat qilinib, tezlik bilan o'tadi"
+        ]
+    },
+    {
+        "word": "Yig\u02bbish Liniyasini Muvozanatlashtirish",
+        "type": [],
+        "definition": [
+            "har bir ish bekatida shunday sikl vaqtini belgilashki, bunda har bir ishchi shuncha ish qilsinki, yig'ish liniyasi sikli vaqti ichida ulgurib, uning bo'sh vaqti barcha ish joylarida imkon boricha kam bo'lsin."
+        ]
+    },
+    {
+        "word": "Yillik Hisobot",
+        "type": [],
+        "definition": [
+            "bir yillik davlat budjet daromadlari va xarajatlarini aks ettirgan hujjat."
+        ]
+    },
+    {
+        "word": "Yillik Moliyaviy Hisobot",
+        "type": [],
+        "definition": [
+            "hisobot yilida korxona faoliyatini har tomonlama ta\u2019riflovchi hisobot turi. Yillik moliyaviy hisobot inventarizatsiya va boshqa usullar bilan tekshirilgan hisob ma\u2019lumotlariga asosan tuziladi. Uni tuzishga qadar turli tayyorgarlik ishlari bajariladi: inventarizatsiya o'tkazilib, uning natijalari hisobda aks ettiriladi; yilning oxirida buxgalteriyaga kelgan barcha hujjatlarni ishlab chiqarish tugatiladi; yordamchi ishlab chiqarishlar ish va xizmatlarining haqiqiy tannarxi aniqlanadi; umumishlab chiqarish xarajatlari taqsimlanadi; tugallanmagan ishlab chiqarishlar tannarxi va tayyor mahsulotlarning haqiqiy tannarxi aniqlanadi; moliyaviy natijalar (foydayokizarar) aniqlanadi; ayrimko'rsatkichlarningo'zaro aloqalari tekshiriladi va boshqalar. O'zbekiston Respublikasining \u201cBuxgalteriya hisobi to'g'risida\u2019gi qonuni (16-modda) bilan yillik hisobotning quyidagi shakllarini tuzish nazarda tutilgan: 1. Korxona balansi. 2. Moliyaviy natijalar to'g'risida hisobot. 3. Asosiy vositalar harakati to'g'risidagi hisobot. 4. Pul oqimlari to'g'risidagi hisobot. 5. Xususiy kapital to'g'risidagi hisobot. Yuqoridagi hisobot shakllariga izohlar, hisob-kitoblar va tushuntirishlar ilova qilinadi. Moliyaviy hisobot quyidagi organlarga taqdim etiladi: soliq organlariga; ta\u2019sis hujjatlariga muvofiq mulkdorlarga; davlat statistika organlariga; qonun hujjatlariga muvofiq boshqa organlarga."
+        ]
+    },
+    {
+        "word": "Yilning Sof Foydasi",
+        "type": [],
+        "definition": [
+            "soliq to'lagandan keyin xo'jalik yurituvchi subyekt, ya\u2019ni korxona (firma) ixtiyorida qoladigan hamda xo'jalik subyekti mustaqil tasarruf etadigan foyda."
+        ]
+    },
+    {
+        "word": "Yo\u02bbl Fondini Shakllantiruvchi Soliqlar",
+        "type": [],
+        "definition": [
+            "yoqilg'imoylovchi materiallarni sotishdan olinadigan soliq, avtomobil yo'laridan foydalanuvchilardan olinadigan soliq, transport vositalarining egalaridan olinadigan soliq va transport vositalarini sotib olganlik uchun to'lanadigan soliqdan iborat."
+        ]
+    },
+    {
+        "word": "Yollovchilar Va O \u02bcZi Uchun Ishlaydigan Shaxslar",
+        "type": [],
+        "definition": [
+            "muayyan haq evaziga ishlaydigan yollanma xodimlar bilan o'zinio'zi band etuvchi shaxslar yollovchilar deb ataladi, muayyan haq evaziga ishlamaydigan va yollanma xodimlari bo'lmagan shaxslar esa o'zi uchun ishlaydigan shaxslar deb ataladi."
+        ]
+    },
+    {
+        "word": "Yollovchilarning Ijtimoiy Sug\u02bburtaga Haqiqiy Ajratmalari",
+        "type": [],
+        "definition": [
+            "sug'urta korxonalariga yoki boshqa turdagi institutsion birliklarga, o'zxodimlarini nafaqa bilan ta\u2019minlash uchun ijtimoiy sug'urta dasturi boshqaruviga yollovchilar tomonidan bevosita ijtimoiy ta\u2019minot jamg'armasiga ijtimoiy sug'urta evaziga to'lanadigan ajratmalar."
+        ]
+    },
+    {
+        "word": "Yo\u02bblovchi Aylanmasi",
+        "type": [],
+        "definition": [
+            "yo'lovchilar tashish bo'yicha transport ishi hajmini ifodalaydigan ko'rsatkich. Bunda yo'lovchilarni qanchalik uzoq masofaga olib borilishi ham hisobga olinadi."
+        ]
+    },
+    {
+        "word": "Yo\u02bblovchi Kilometr",
+        "type": [],
+        "definition": [
+            "yo'lovchi tashishning o'lchov birligi. Yo'lochi kilometr tashilgan yo'lovchilar sonini ular qancha masofaga (kilometrga) olib borilgani bilan o'lchanadi."
+        ]
+    },
+    {
+        "word": "Yo\u02bblovchi Oqimi",
+        "type": [],
+        "definition": [
+            "transport yo'lagida biron-bir vaqt davomida tashilgan yolovchilar miqdori. Ko'pincha shahar va shahar atrofi yo'nalishlarida yo'lovchi oqimi nisbatan yuqori bo'ladi. Yo'lovchi oqimi sutkaning ma\u2019lum vaqtida, hafta kunlarida va yil mavsumiga qarab ham farqlanishi mumkin."
+        ]
+    },
+    {
+        "word": "Yo\u02bbnalishli Regressiya Chizig\u02bbi",
+        "type": [],
+        "definition": [
+            "ushbu chiziq baholar o'rtachalashtirilishidan iboratdir. Agarda ushbu chiziq teng vaznli baho sifatida tasawur etilsa, unda yangisini yuqoriga yoki pastga bo'Igan har qanday og'ishi Bull VS Bear kuchini ko'rsatadi"
+        ]
+    },
+    {
+        "word": "Yollanib Ishlaydiganlar",
+        "type": [],
+        "definition": [
+            "korxona rahbariyati bilan mehnat faoliyati shartlari to'g'risida tuzilgan yozma kontrakt (shartnoma) yoki og'zaki bitim bo'yicha ishlaydigan shaxslar bo'lib, ular ana shu faoliyat uchun yollanish vaqtida kelishib olingan ish haqini oladilar."
+        ]
+    },
+    {
+        "word": "Yollanma Xodim",
+        "type": [],
+        "definition": [
+            "ma\u2019lum shartlar asosida yollanib ishlovchi. Korxona bilan shaxs o'rtasida rasmiy yoki norasmiy kelishuv mavjud bo' lgan hollarda yollanma xodim munosabati paydo bo' ladi. Bunday kelishuv har ikki tomon uchun ixtiyoriy hisoblanadi va yollanuvchi shaxs muayyan pul yoki natura shaklidagi haq evaziga korxona uchun mehnat qilishi zarur."
+        ]
+    },
+    {
+        "word": "Yollanma Xodimlar Mehnatiga Haq, To\u02bblash",
+        "type": [],
+        "definition": [
+            "korxona tomonidan yollangan mehnat xodimlariga hisobot davrida ular qilgan ish evaziga pul va natura shaklida ko'rsatiladigan barcha rag' batlantirish."
+        ]
+    },
+    {
+        "word": "Yollanma Xodimlarga Maxsus Jamg\u02bbarmasiz (Fond) Beriladigan Ijtimoiy Sug\u02bburta Nafaqasi",
+        "type": [],
+        "definition": [
+            "ijtimoiy sug'urta bo'yicha beriladigan nafaqa yollovchilar, ijtimoiy sug'urta dasturi boshqaruvchilari tomonidan maxsus jamg'arma tashkil etmasdan, o'z xodimlariga, ularning boqimandalariga va o'z boshqaruvchisini yo'qotgan shaxslarga to'lanadigan nafaqalardan iborat bo'ladi"
+        ]
+    },
+    {
+        "word": "Yollanma Xodimlarning Ijtimoiy Sug\u02bburta Ajratmasi",
+        "type": [],
+        "definition": [
+            "ijtimoiy ta\u2019minot jamg'armalariga, sug'urta korxonalariga, yoki boshqa turdagi institutsion birliklarga farovon ta\u2019minlasb uchun ijtimoiy sug'urta dasturi boshqaruvi rahbarlariga yollanma xodimlar to'laydigan ijtimoiy sug'urta ajratmasi"
+        ]
+    },
+    {
+        "word": "Yopilish Baholari",
+        "type": [],
+        "definition": [
+            "birja yopilishiga qayd etilgan baho."
+        ]
+    },
+    {
+        "word": "Yopiq Aksiyadorlar Jamiyati",
+        "type": [],
+        "definition": [
+            "aksiyalari faqat o'zining muassislari orasida yoki oldindan belgilab qo'yiladigan boshqa shaxslar doirasida taqsimlanadigan, o'zi chiqaradigan aksiyalarga ochiq obuna o'tkazishga yoki ularni sotib olish uchun cheklanmagan doiradagi shaxslarga boshqacha tarzda tavsiya etishga haqli bo'lmagan jamiyat"
+        ]
+    },
+    {
+        "word": "Yopiq. Auksion",
+        "type": [],
+        "definition": [
+            "bunda tovar uchun auksion qatnashchilari bir-biriga bog'liq bo'lmagan holda stavkalarini qo'yadi va tovar kim ko'p stavka qo'ygan bo'lsa shunga beriladi"
+        ]
+    },
+    {
+        "word": "Yopiq, Iqtisodiyot",
+        "type": [],
+        "definition": [
+            "tovar va xizmatlarning eksport va importini amalga oshirmaydigan mamlakat iqtisodiyoti; xalqaro savdoda ishtirok etmaydigan iqlisodiyot; hozirgi mutlaq yopiq iqtisodiyot mavjud emas. Yopiq iqtisodiyot modelida tovarlar, xizmatlar va kapital oqimlari, milliy chegaralar tashqarisiga chiqmaydi."
+        ]
+    },
+    {
+        "word": "Yopiq, Tender \u041a\u043e\u02bcrinishdagi Auksion",
+        "type": [],
+        "definition": [
+            "sotib oluvchilarning shaxsiy ishtirokisiz ularning bergan takliflariga asosan, qatnashuvchilar taklif etgan eng yuqori (yoki past) baho bo'yicha qimmatbaho qog'ozlar, tovarlar, mol-mulkni sotishning tashkil qilinishi."
+        ]
+    },
+    {
+        "word": "Yordamchi Ishlab Chiqarish",
+        "type": [],
+        "definition": [
+            "ishlab chiqarish jarayonining bir qismi bo'lib, u asosiy ishlab chiqarish fondlarini qayta tiklash, ta\u2019mirlash, asosiy ishlab chiqarish jarayonini energiya va boshqa yordamchi materiallar bilan ta\u2019minlash ishlarini amalga oshiradi."
+        ]
+    },
+    {
+        "word": "Yordamchi Materiallar",
+        "type": [],
+        "definition": [
+            "asosiy materiallardan farq qilib, ishlab chiqarilayotgan mahsulotning asosini tashkil qilmaydi, balki mahsulot ishlab chiqarishda biron-bir vosita sifatida ishtirok etadi. Yoqilg'i o'z mohiyatiga ko'ra yordamchi materiallarning bir turi hisoblanadi."
+        ]
+    },
+    {
+        "word": "Yordamchi Moliya Korporatsiyalar",
+        "type": [],
+        "definition": [
+            "kichik sektor faoliyati moliyaviy vositachilik bilan yaqindan bog'liq, ammo ularning o'zlari vositachi sifatida ishtirok eta olmaydigan barcha rezidentlik korporatsiyalar va kvazikorporatsiyalardan tarkib topadi."
+        ]
+    },
+    {
+        "word": "Yordamchi Tarmoq",
+        "type": [],
+        "definition": [
+            "korxonaning tovar mahsuloti bo'yicha asosiy tarmog'idan keyingi o'rinda turadigan, asosiy tarmoq bilan texnologik hamda tashkiliy jihatdan bog'langan, asosiy tarm\u043eqning muttasil rivojlanib borishi uchun bevosita yordam ko'rsatadigan tarmoq."
+        ]
+    },
+    {
+        "word": "Yordamchi-Texnik Personal",
+        "type": [],
+        "definition": [
+            "rahbarlar va mutaxassislar faoliyatiga xizmat ko'rsatuvchi hodimlar. Ular qoida bo'yicha, alohida boshqaruv operatsiyalariga qarab tasniflanadi. Bunday hodimlarga kotiblar, mashinistlar, texniklar va boshqalar kiradi."
+        ]
+    },
+    {
+        "word": "Yuk Oboroti",
+        "type": [],
+        "definition": [
+            "ma\u2019lum vaqt davomida tashilgan yukning hajmi (miqdori), yuk oboroti, transport sohasining asosiy ko'rsatkichi. Tashilgan yukning soni va tashish masofasi (km)ga ko'ra hisoblab chiqiladi"
+        ]
+    },
+    {
+        "word": "Yuksalish",
+        "type": [],
+        "definition": [
+            "iqtisodiyotning davriy rivojlanishining jonlanish bosqichidan keyin keladigan bosqich, unda talab oshib boradi, investitsiyalar hajmi o'sadi, bank foizi kamayadi, ishlab chiqarish hajmi oshib boradi, ishsizlik tabiiy darajasi kamayadi."
+        ]
+    },
+    {
+        "word": "Yumshoq, Narx",
+        "type": [],
+        "definition": [
+            "xaridorning savdolashish qobiliyatiga bog'liq tarzda uzil-kesil aniqlanadigan narx."
+        ]
+    },
+    {
+        "word": "Yunesko",
+        "type": [],
+        "definition": [
+            "(maorif, fan va madaniyat masalalari bo'yicha BMT maxsus tashkiloti) - hukumatlararo tashkilot, BMTning ixtisoslashgan tashkiloti. 1946-yilda tashkil etilgan, unga 158 mamlakat a\u2019zodir. YUNESKO ning asosiy maqsadi xalq ta\u2019limi va madaniyat sohasida xalqaro hamkorlikka yordam berish, madaniyat va ilmiytexnika sohasiga taalluqli axborotlarni yoyish, ta\u2019lim sohasidagi kamsitishlarga qarshi kurash, milliy madaniyatlarni himoya qilishdir"
+        ]
+    },
+    {
+        "word": "Yunktad",
+        "type": [],
+        "definition": [
+            "oliy tashkiloti savdo va rivojlanish bo'yicha konferensiya bo'lib, uning ixtiyorida 6-ta komitet ishlaydi. U BMTning xalqaro savdo tashkiloti hisoblanmaydi. U 1964-yil tashkil topgan, unga 168 ta davlat a\u2019zo. Uning asosiy vazifasi xalqaro savdoni rivojlantirish, teng huquqli iqtisodiy munosabatlarni o'rnatishga yordam berish. Uning qarorlari taklif xarakteriga ega."
+        ]
+    },
+    {
+        "word": "Yupi",
+        "type": [],
+        "definition": [
+            "AQSH axborot agentligi, dunyoda eng yirik axborot agentliklaridan biri, 1958-yilda tashkil etilgan. \u201cAssociated Press\u201d bilan birgalikda AQSHda axborot tarqatishni o'z qo'lida monopolizatsiya qilgan \u201cYUPI\u201d 1000 ta amerika ro'znomalari, 4150 radio va telestansiyalari, jahonning 100 dan ortiq mamlakatlarida 800 ta ro'znoma va 300 ta radiostansiyaga xizmat ko'rsatadi. Shtab-kvartirasi Vashingtonda joylashgan."
+        ]
+    },
+    {
+        "word": "Yuridik Shaxs",
+        "type": [],
+        "definition": [
+            "alohidalashgan mulkka ega mulkni mustaqil sotib olish va shaxsiy nomulkiy huquqlariga va majburiyatlariga ega tashkilot. Yuridik shaxslar sudlarda, xo'jalik sudlarida da\u2019vogar va javob beruvchi bo'lishi mumkin. Masalan, korxonalar ham yuridik shaxs hisoblanadi, ustav (nizom) asosida vujudga keladi va harakat qiladi. Yuridik shaxs o'z nomiga, manzilgohiga va bankda hisob raqamiga ega bo'ladi. Yuridik shaxs o'zining mulki doirasida javobgar hisoblanadi. Davlat yuridik shaxslar qarzlari bo'yicha, o'z navbatida yuridik shaxslar davlat qarzlari bo'yicha javobgar hisoblanmaydi. Yuridik shaxs faoliyati uni tashkil etgan organ yoki mavjud qonunchilik nazarda tutgan hollarda to'xtatiladi."
+        ]
+    },
+    {
+        "word": "Yuridik Shaxslardan Olinadigan Soliqlar",
+        "type": [],
+        "definition": [
+            "qo'shilgan qiymat solig'i, korxona va tashkilotlarning daromadi (foydasi) dan olinadigan soliq, aksizlar, yo'l fondini shakllantirish uchun manba sifatida foydalaniladigan soliqlar, korxona mol-mulki solig'i, yer uchun to'lovlar, reklama solig'i, birjada amalga oshirilgan bitimlardan olinadigan yig'im, mahalliy auksion va lotoreyalami o'tkazish huquqi uchun litsenziya yig'imi, boshqa soliq, yig'im va majburiy to'lovlardan iborat."
+        ]
+    },
+    {
+        "word": "Yuridik Shaxslarning (No Qishloq Xo\u02bbjalik) Yer Solig\u02bbi",
+        "type": [],
+        "definition": [
+            "o'zining mulkida, egaligida va foydalanishida yer uchastkalari bo'lgan yuridik shaxslar yer solig'i to'lovchilari bo'lib hisoblanadi."
+        ]
+    },
+    {
+        "word": "Yuridik Shaxslarning Daromadidan (Foydasidan) Soliq,",
+        "type": [],
+        "definition": [
+            "yuridik shaxslarning hamma faoliyatidan olgan daromadlari (foydasi) bir qismining budjetga majburiy to'lovidir. Bu yerda soliq to'lovchilar soliqqa tortish maqsadida rezident va norezidentlarga bo'linadi"
+        ]
+    },
+    {
+        "word": "Yuridik Shaxslarning Mol-Mulk Solig\u02bbi",
+        "type": [],
+        "definition": [
+            "korxonalar mulklarining dastlabki qiymati, o'rnatilmagan mulklar qiymatidan hisoblanib, ularning daromadidan budjetga to'lanadigan majburiy to'lovlardir."
+        ]
+    },
+    {
+        "word": "Yurist Maslahatchi",
+        "type": [],
+        "definition": [
+            "muassasa, korxona, yoki tashkilotdagi yuridik masalalar bo'yicha doimiy maslahatchi. Huquq masalalari bo'yicha ushbu korxona yoki tashkilotning manfaatini sud va boshqa vaziyatlarda himoya qiladi."
+        ]
+    },
+    {
+        "word": "Yusuf Xos Hojib Bolasog\u02bbuniy",
+        "type": [],
+        "definition": [
+            "turk tilidagi ilk \u201cQutadg'u bilig\u201d (\u201cSaodatga yo'llovchi bilim\u201d, 1069-70) asarida ajoyib iqtisodiy g'oyalarni bayon etgan (1990-yilda chop etildi). Ayniqsa, hunarkasb o'rganish, savdo-sotiqning ahamiyatiga e\u2019tibor berilgan. Kitobda \u201csanat, hunar - kishiga chiroy, turli-tuman hunarlarni o'rganmaslik tubanlik belgisi\u201d (64-bet) ekanligi haqida fikrlar va mehnat taqsimoti g'oyalari bor. Davlat va iqtisodiyot masalalaridagi bog'Ianishni yaxshi tushungan."
+        ]
+    },
+    {
+        "word": "Yutuq",
+        "type": [],
+        "definition": [
+            "lotoreyalar, o'yinlar, tanlovlar, musobaqalar (olimpiadalar), festivallar va shu kabi boshqa tadbirlarda olingan, natura holida yoki pulda ifodalangan to'lovlar, sovrinlar va boshqa daromadlar."
+        ]
+    }
+]

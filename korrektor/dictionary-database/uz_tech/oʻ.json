@@ -1,0 +1,16 @@
+[
+    {
+        "word": "O\u02bbzgaruvchi",
+        "type": [],
+        "definition": [
+            "Dasturlash tili obyekti. Algoritmik tillarda o\u2018zgaruvchi \u2013 bu, xotiraning nomlangan qismidir. Xotiraning bu qismiga o\u2018zgaruvchining turli qiymatlari joylashtirilishi mumkin, lekin har bir vaqt onida bu yagona qiymat bo\u2018lishi kerak."
+        ]
+    },
+    {
+        "word": "O\u02bbqish",
+        "type": [],
+        "definition": [
+            "Tashqi xotirlovchi qurilmalardagi ma\u2019lumotlarni operativ xotiraga qaytadan yozish jarayoni. Bunda tashqi qurilmadagi ma\u2019lumotlar saqlanadi."
+        ]
+    }
+]

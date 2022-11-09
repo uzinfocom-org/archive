@@ -1,0 +1,275 @@
+[
+    {
+        "word": "Tayanch kiritish-chiqarish tizimi",
+        "type": [],
+        "definition": [
+            "Shaxsiy kompyuterlarda ishga tushish vaqtida qurilmalarni tekshirish, operatsion tizimni ishga tushirish hamda qurilmalar o\u2018rtasidagi ma\u2019lumot almashinuvini ta\u2019minlash uchun kerak bo\u2018lgan asosiy dasturiy ta\u2019minot. Tayanch kiritish-chiqarish tizimi doimiy xotira qurilmasi mikrosxemasiga yozilgan dastur."
+        ]
+    },
+    {
+        "word": "To\u02bbplagichning tez ishlashi",
+        "type": [],
+        "definition": [
+            "To\u2018plagichdagi ma\u2019lumotlarni o\u2018qish\/yozish tezligi. Ikkita parametr bilan: o\u2018rtacha foydalanish vaqti hamda ma\u2019lumotlar uzatish tezligi bilan belgilanadi."
+        ]
+    },
+    {
+        "word": "Tezkor fayl tizimi",
+        "type": [],
+        "definition": [
+            "OS\/2 operatsion tizimining fayl tizimi bo\u2018lib, fayllarni nomlashda 254 ta belgidan foydalanish va fayllarni minimal fragmentlashni ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "Tarmoqlanish",
+        "type": [],
+        "definition": [
+            "Algoritmlarni tuzishda foydalaniladigan uchta asosiy strukturadan biri. Sharoitga bog\u2018liq holda, algoritm turli tarmoqlarini bajarish imkonini beradi. Ba\u2019zi manbalarda bu struktura tanlash deb ataladi. Tarmoqlanishga yuqori daraja dasturlash tillaridagi if\u2026 then\u2026 else; case\u2026 of kabi komandalar kiradi."
+        ]
+    },
+    {
+        "word": "Tashqi xotirlovchi qurilma",
+        "type": [],
+        "definition": [
+            "Konstruktiv jihatdan alohida qilingan, ma\u2019lumotlarni uzoq muddat saqlash uchun mo\u2018ljallangan qurilma; energiyaga bog\u2018liq bo\u2018lmagan xotira."
+        ]
+    },
+    {
+        "word": "Tashqi qurilma",
+        "type": [],
+        "definition": [
+            "Kompyuterning markaziy protsessori bilan bevosita ishlamaydigan qurilma."
+        ]
+    },
+    {
+        "word": "Tanlab-tanlab olish",
+        "type": [],
+        "definition": [
+            "Saralash maqsadida, ma\u2019lumotlarni qandaydir belgilariga ko\u2018ra bir joydan boshqa bir joyga ko\u2018chirish yoki ulardan nusxa olish jarayoni, natijalovchi hujjatlarni tuzish."
+        ]
+    },
+    {
+        "word": "Tasodifiy sonlar generatori",
+        "type": [],
+        "definition": [
+            "Tasodifiy sonlar ishlab chiqadigan qurilma yoki dastur. Haqiqatda tasodifiy sonlarni olish juda qiyin, amalda natijada doim psevdotasodifiy sonlar paydo bo\u2018ladi."
+        ]
+    },
+    {
+        "word": "Takt chastota generatori",
+        "type": [],
+        "definition": [
+            "Teng vaqt oraliqlaridan so\u2018ng impulslar ketma-ketligini ishlab chiqaradigan qurilma. Ikkita ketma-ket impuls orasidagi vaqt takt deb ataladi. Protsessorning ba\u2019zi komandalari bir nechta takt ichida chiqariladi. Kompyuterning barcha elementlari orqali o\u2018tadigan impulslar ularni yagona taktda \u2013 sinxron ishlashga majbur qiladi. Takt impulslarning gene-ratsiya chastotasi kompyuterning tez ishlashini belgilaydi."
+        ]
+    },
+    {
+        "word": "Tizimning do\u02bbstonaligi",
+        "type": [],
+        "definition": [
+            "Tizimning, foydalanuvchi bu tizim bilan ishlash paytida qulaylik yaratilishini aks ettiradigan sifat xarakteristikasi. Bu xarakteristika ham tizim uskunasiga, ham dasturiy vositalarga taalluqli. Masalan, odatdagi klaviatura o\u2018rniga qo\u2018lni tutib turadigan va har bir qo\u2018l uchun alohida bo\u2018lgan: ikki qismdan iborat klaviatura ishlab chiqilgan; suzib chiqadigan menyu oddiy menyudan qulayroq"
+        ]
+    },
+    {
+        "word": "Tiqin",
+        "type": [],
+        "definition": [
+            "Strukturaviy dasturlashda (dasturni normal bajarish va kompilyatsiyalash mumkin bo\u2018lishi uchun) amalda dasturlashning har bir qadamida dasturga kiritiladigan ahamiyatsiz protsedura."
+        ]
+    },
+    {
+        "word": "To\u02bbxtatish",
+        "type": [],
+        "definition": [
+            "Jarayon to\u2018xtatib turiladigan vaqt. Dasturlash tillari-dagi navbatdagi operator bajarilishini to\u2018xtatib turish protsedurasi."
+        ]
+    },
+    {
+        "word": "Talqin qiluvchi dastur",
+        "type": [],
+        "definition": [
+            "Dasturni dasturlash tilida, uni darhol bajarmasdan mashina tilidagi dasturga o\u2018giradigan kompilyatordan farqli ravishda, dasturlash tilida yozilgan komandalarni darhol bajaradigan va rasshifrovka qiladigan dastur."
+        ]
+    },
+    {
+        "word": "Tarmoq ma\u02bclumotlar bazasi",
+        "type": [],
+        "definition": [
+            "Elementlari o\u2018zaro ixtiyoriy ravishda bog\u2018langan ma\u2019lumotlar bazasi. Nazariy jihatdan har bir element bazaning istalgan boshqa bir elementi bilan bog\u2018langan bo\u2018lishi mumkin. Graf yordamida tavsiflanadi."
+        ]
+    },
+    {
+        "word": "Tarmoq operatsion tizimi",
+        "type": [],
+        "definition": [
+            "Tarmoqning ishini ta\u2019minlaydigan operatsion tizim. Asosiy funksiyalari: xabarlar uzatilishini boshqarish, ma\u2019lumotlarni ruxsatsiz foydalanishdan himoyalash, kataloglarni boshqarish, elektron pochta. Lokal tarmoqlarda Novell firmasining NetWare tarmoq operatsion tizimidan keng foydalaniladi."
+        ]
+    },
+    {
+        "word": "Tarmoq kompyuteri",
+        "type": [],
+        "definition": [
+            "Terminal sifatida global yoki korporativ tarmoqlarda ishlash uchun mo\u2018ljallangan kompyuter. An\u2019anaviy shaxsiy kompyuterlardan tarmoqqa ulash uchun mo\u2018ljallangan o\u2018rnatiladigan vositalar va qattiq diskning bo\u2018lmasligi bilan farqlanadi. Tarmoq kompyuterini IBM, Apple, Sun kabi mashhur firmalar kiradigan konsorsium ishlab chiqadi. Tarmoq kompyuterlari asosan uyda qo\u2018llanish uchun yaratiladi, Internet tarmog\u2018i standartlariga asoslanadi."
+        ]
+    },
+    {
+        "word": "Tarmoq",
+        "type": [],
+        "definition": [
+            "Texnik vositalar, ma\u2019lumotlar, dasturlar tashkil qilish strukturasi. Graflar yordamida tavsiflanadi va tadqiq qilinadi. Qurilmalar o\u2018rtasidagi ulanishlar bo\u2018lib, foydalanuvchilarga ma\u2019lumotlarni saqlash, ular bilan almashinish, ularga murojaat qilish imkonini yaratadi. Tarmoqqa asosan mikrokompyuterlar, minikompyuterlar, meyn-freymlar, terminallar, printerlar, fakslar, peyjerlar va turli ma\u2019lumot saqlaydigan qurilmalar ulanadi."
+        ]
+    },
+    {
+        "word": "Tizim",
+        "type": [],
+        "definition": [
+            "Qo\u2018yilgan vazifa (vazifalar) ni birgalikda hal etish maqsadida bog\u2018langan dasturlar, modullar, obyektlar yig\u2018indisi. Masalan, operatsion tizim foydalanuvchi bilan shaxsiy kompyuter o\u2018rtasidagi bog\u2018lanishni ta\u2019minlash uchun mo\u2018ljallangan."
+        ]
+    },
+    {
+        "word": "Tarmoq boshqaruv tizimi",
+        "type": [],
+        "definition": [
+            "Tarmoqni boshqarish va nazorat qilishning apparat va dasturiy vositalari jami, tarmoqni boshqaradigan kompyuterda joylashtirilgan dasturdan; tarmoq abonentlarining kompyuterlarida joylashtirilgan apparat va dasturiy agentlardan iborat. Tarmoqlarni boshqarishning umumqabul qilingan protokoli \u2013 SNMP (Simple Network Management Protokol \u2013 oddiy tarmoqni boshqarish protokoli) mavjud, bu protokol hatto turli xil abonentlar bo\u2018lgan tarmoqni ham boshqarish imkonini beradi. Tarmoqni boshqarishning asosiy funksiyalari: tarmoqni skanerlash va SNMP protokoli bo\u2018lgan qurilmalar mavjudligini aniqlash; tarmoq holatini aniqlash, portlar darajasida abonentlarni masofadan diagnostika qilish, parol bo\u2018yicha foydalanishga cheklashlar belgilash, 7\/0I tarmoq jurnalini yuritish va boshqalar, ya\u2019ni tarmoq administratorini ma\u2019lumotlarni boshqarish uchun barcha zarur narsalar bilan ta\u2019minlash."
+        ]
+    },
+    {
+        "word": "Tizimli dasturiy ta\u02bcminot",
+        "type": [],
+        "definition": [
+            "Foydalanuvchilarga kompyuter bilan ishlash imkoniyatini beradigan va bu ishni osonlashtiradigan dasturiy ta\u2019minot. Operatsion tizim tizimli dasturiy ta\u2019minotning asosiy qismi hisoblanadi. Tizimli dasturiy ta\u2019minotga translyatorlar, qobiqlar, ma\u2019lumotlar bazalarini boshqarish tizimlari kiradi."
+        ]
+    },
+    {
+        "word": "Tizimli blok",
+        "type": [],
+        "definition": [
+            "Shaxsiy kompyuterning, ta\u2019minot bloki, asosiy plata, kengayish platasi, magnit va optik disklardagi to\u2018plagichlar joylashgan qismi."
+        ]
+    },
+    {
+        "word": "Tizimli yondashuv",
+        "type": [],
+        "definition": [
+            "Har bir masala, vazifa, hodisa, obyektni birmuncha keng yaxlit va ajralmas butunning \u2013 o\u2018zaro bog\u2018lagan tarkibiy elementlar tizimining bir qismi sifatida qarab chiqish metodi. Tizim ishlashining maqsadlari aniqlanishini, uning boshqa tizimlar bilan aloqalari ajratib ko\u2018rsatilishini ko\u2018zda tutadi; vazifaning hal etilishi o\u2018zaro bog\u2018langan vazifalar va yuqoriroq darajadagi muammolar hal etilishiga bog\u2018liq qilib qo\u2018yiladi."
+        ]
+    },
+    {
+        "word": "Tushadigan menyu",
+        "type": [],
+        "definition": [
+            "Barcha oynalarga qo\u2018llaniladigan komandalar menyusi; displey ekranining yuqori burchagida joylashgan sarlavhasi ko\u2018rsatilgan holda chaqiriladigan, bevosita shu sarlavha ostida paydo bo\u2018ladigan va komanda tanlangandan so\u2018ng yo\u2018qo\u2018ladigan menyu. Shuningdek, \u00abglobal menyu\u00bb deb ham ataladi."
+        ]
+    },
+    {
+        "word": "Teredo",
+        "type": [],
+        "definition": [
+            "IPv6 paketlarni IPv4 tarmoq orqali, xususan, NAT texnologiyasi bo\u2018yicha ishlaydigan qurilmalar orqali, ularni UDP-deytagrammalarga inkapsullash yo\u2018li bilan uzatish uchun mo\u2018ljallangan tarmoq protokoli."
+        ]
+    },
+    {
+        "word": "Ta\u02bcminot",
+        "type": [],
+        "definition": [
+            "Faoliyatning qandaydir turlarini amalga oshirish uchun xizmat qiladigan metodlar, vositalar to\u2018plami. Tizimning texnik ta\u2019minoti \u2013 bu, tizimga kiradigan texnik vositalar to\u2018plamidir. Dasturiy ta\u2019minot \u2013 dasturlar va ularni qo\u2018llash yuzasidan yo\u2018l-yo\u2018riqlar yig\u2018indisi. Tizim dasturiy ta\u2019minoti \u2013 operatsion tizim va ma\u2019lumotlar muhofaza qilinishini, ularni arxivlash va dearxivlashni amalga oshiradigan yordamchi dasturlar to\u2018plami, har xil testlar, ma\u2019lumotlarni tiklash dasturlaridir."
+        ]
+    },
+    {
+        "word": "Teskari aloqa",
+        "type": [],
+        "definition": [
+            "Tizim chiqish parametrlarining tizimning ishlashiga ta\u2019sir ko\u2018rsatishi. Teskari aloqa prinsipi kibernetika tizimlaridagi asosiy prinsipdir. Masalan, odam \u2013 kompyuter teskari aloqa bo\u2018lgan tizimdir: odam kompyuterdagi o\u2018z ishining natijasini ko\u2018radi va natijaga bog\u2018liq ravishda keyingi ishni amalga oshiradi."
+        ]
+    },
+    {
+        "word": "Tizimni optimallash",
+        "type": [],
+        "definition": [
+            "Optimallash kriteriysi, optimallash parametrlari va cheklashlar belgilanadigan, tizimni takomillashtirish jarayoni."
+        ]
+    },
+    {
+        "word": "Tizim platasi",
+        "type": [],
+        "definition": [
+            "Kompyuterning asosiy komponentlari: mikroprotsessor, xotira (doimiy, operativ, video), kiritish\/chiqarish adapterlari o\u2018rnatilgan bosma plata. Tizim platasi shaxsiy kompyuterda foydalaniladigan shinalarni belgilaydi. Ba\u2019zan, \u00abona\u00bb yoki asosiy plata deb ham ataladi."
+        ]
+    },
+    {
+        "word": "Takrorlanish",
+        "type": [],
+        "definition": [
+            "Algoritmlarni tuzishda foydalaniladigan uchta asosiy strukturadan biri; sharoitga bog\u2018liq ravishda, algoritmning ayrim qadamlarini bir necha marta bajarish imkonini beradi. Ba\u2019zi manbalarda bu struktura sikl deb ataladi."
+        ]
+    },
+    {
+        "word": "Takrorlagich",
+        "type": [],
+        "definition": [
+            "Tarmoq elementlari orasida kabel uzunligi oshganda, kompyuter tarmog\u2018idagi signalni kuchaytiradigan va regeneratsiyalaydigan elektron qurilma."
+        ]
+    },
+    {
+        "word": "To\u02bbxtatish",
+        "type": [],
+        "definition": [
+            "Boshqa bir dasturni yoki kiritish\/chiqarishni bajarishga o\u2018tish uchun, joriy dastur bajarilishini vaqtinchalik to\u2018xtatib turish. Apparat va dasturiy to\u2018xtatishlar bor. To\u2018xtatishlarni operatsion tizim boshqaradi. To\u2018xtatishlarni boshqarish uchun, maxsus to\u2018xtatishlar kontrolleri mavjud.\r\n Basqa bir ba\u01f5darlaman\u0131 yaki kirgiziw\/sh\u0131\u01f5ar\u0131wd\u0131 or\u0131nlaw\u01f5a \u00f3tiw ush\u0131n, \u00e1meldegi ba\u01f5darlaman\u0131\u0144 or\u0131nlan\u0131w\u0131n waqt\u0131nsha toqtat\u0131p tur\u0131w. Apparat ham ba\u01f5darlamal\u0131q toqtat\u0131wlar bar. Toqtat\u0131wlard\u0131 operaciyal\u0131q sistema basqarad\u0131. Toqtat\u0131wlard\u0131 basqar\u0131w ush\u0131n, arnawl\u0131 toqtat\u0131wlar kontrolleri bar."
+        ]
+    },
+    {
+        "word": "Taqsimlangan ma\u02bclumotlar bazasi",
+        "type": [],
+        "definition": [
+            "Ikki yoki undan ortiq kompyuterda joylashtiriladigan, foydalanuvchi tomonidan yaxlit, bir butun ma\u2019lumotlar bazasi sifatida tushuniladigan ma\u2019lumotlar bazasi."
+        ]
+    },
+    {
+        "word": "Taqsimlangan qayta ishlash",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni qayta ishlash uchun, hisoblash tarmoqlariga ulangan katta miqdordagi kompyuterlarning qo\u2018llanilishi; ikki yoki undan ko\u2018p kompyuterni, yagona dastur boshqaruvi ostida shart emas, aynan bir topshiriq ustida birgalikda ishlaydigan qilib ulash. Barcha qayta ishlash bitta katta kompyuterda bajariladigan markazlashtirilgan qayta ishlashdan farqli ravishda, taqsimlangan qayta ishlashda topshiriq bitta tarmoqqa birlashtirilgan ko\u2018plab meynfreymlar, mini-kompyuterlar, shaxsiy kompyuterlar, serverlar va ishchi stansiyalar o\u2018rtasida bo\u2018linadi."
+        ]
+    },
+    {
+        "word": "Taqsimlangan tarmoq",
+        "type": [],
+        "definition": [
+            "Boshqarish barcha serverlar o\u2018rtasida taqsimlangan, resurslar (apparat, dasturiy resurslar, ma\u2019lumotlar) va foydalanuvchilar alohida serverlarga biriktirilmagan, balki butun tarmoqqa tegishli bo\u2018lgan kompyuter tarmog\u2018i."
+        ]
+    },
+    {
+        "word": "Taqsimlangan tizim",
+        "type": [],
+        "definition": [
+            "Tizimni tashkil qilish, bunda kompyuterda qayta ishlash quvvatlari markazlashtirish o\u2018rniga taqsimlanadi."
+        ]
+    },
+    {
+        "word": "Tarmoq resurslari",
+        "type": [],
+        "definition": [
+            "Tarmoq abonentlari foydalanishlari mumkin bo\u2018lgan ma\u2019lumotlar bazalari, dasturlar, alohida qurilmalar (masalan, printer, diskli to\u2018plagichlar)."
+        ]
+    },
+    {
+        "word": "Til",
+        "type": [],
+        "definition": [
+            "Xabarlar uzatish uchun belgilangan qoidalar va belgilashlar tizimi. Odamlar muomala qiladigan tabiiy tillar va odam \u2013 mashina, mashina \u2013 mashina tizimlarining birgalikda ishlashini ta\u2019minlash uchun belgilangan sun\u2019iy (yoki formal) tillar farqlanadi. Formal tillarga dasturlash tillari kiradi. Formal til alifbo, sintaksis va semantika bilan belgilanadi."
+        ]
+    },
+    {
+        "word": "Tezlashtirilgan grafika porti",
+        "type": [],
+        "definition": [
+            "Videoadapter va tizim platasi mikrosxemalari o\u2018rtasidagi interfeys. PSI shinasiga asoslanadi. 1997 yilning ikkinchi yarmida ishlab chiqilgan. AGP ning bir nechta realizatsiyalari mavjud: AGP 1x, AGP 2x, AGP 4x lar mos ravishda 266, 533 va 1066 Mbyte\/s uzatish tezligiga ega. Ayni vaqtda PCI-Express grafi-ka porti ularning o\u2018rnini egallagan."
+        ]
+    },
+    {
+        "word": "Takomillashtirish",
+        "type": [],
+        "definition": [
+            "Avvalgi mahsulotni takomillashtirish uchun belgilangan qurilma va\/yoki dasturiy mahsulot. Avvalgi versiyani to\u2018ldiradi. O\u2018rnatilgandan so\u2018ng tizim yangi mahsulotning funksional imkoniyatlarini oladi."
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "word": "Grafik adapter",
+        "type": [],
+        "definition": [
+            "Shaxsiy kompyuterning, displeyli qurilma (odatda, monitor)ning grafik funksiyalarini ta\u2019minlaydigan kengayish platasi. Grafik adapterlar, shuningdek, \u00abdispley adapterlari\u00bb va \u00abvideokartalar\u00bb deb ham ataladi."
+        ]
+    },
+    {
+        "word": "Grafik akselerator",
+        "type": [],
+        "definition": [
+            "Markaziy protsessordan foydalanmasdan, grafik ma\u2019lumotlar bilan ko\u2018plab operatsiyalarni bajarish imkonini beradigan qurilma. Grafik akseleratorlar shartli ravishda uch turga bo\u2018linadi: grafik qobiqlar uchun mo\u2018ljallangan, uch o\u2018lchamli grafikani yaratish uchun mo\u2018ljallangan (3D akseleratorlar), dinamik tasvirlarni tiklash uchun mo\u2018ljallangan grafik akseleratorlar."
+        ]
+    },
+    {
+        "word": "Geoinformatsion tizim",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlar fizik obyektlarni va ularning fazoda joylashishi sxemalarini tavsiflaydigan informatsion tizim."
+        ]
+    },
+    {
+        "word": "Gigabayt (Gbyte)",
+        "type": [],
+        "definition": [
+            "Kompyuter tizimlari xotira sig\u2018imini o\u2018lchash birligi 230 yoki 1.073.741.824 byte ga teng."
+        ]
+    },
+    {
+        "word": "Gipervizor",
+        "type": [],
+        "definition": [
+            "Ayni bir xost-kompyuterda bir vaqtda bir qancha yoki ko\u2018plab operatsion tizimlar parallel bajarilishini ta\u2019minlaydigan yoki bajarilishiga imkon yaratadigan dasturiy yoki apparat sxema. Gipervizor, shuningdek, operatsion tizimlarning bir-biridan izolyatsiya qilinishini, muhofazasini va xavfsizligini, ishga tushirilgan turli operatsion tizimlar o\u2018rtasida resurslar ajratilishini va bu resurslar boshqarilishini ham ta\u2019minlaydi. Gipervizor qandaydir ma\u2019noda minimal operatsion tizim (mikroyadro yoki nanoyadro) hisoblanadi."
+        ]
+    },
+    {
+        "word": "Giperkard",
+        "type": [],
+        "definition": [
+            "Macintosh kompyuterida, 6-9 versiyalar MAC OS tizimida gipermedia ilovalar yaratish imkonini beradigan vizual dasturlash muhiti. Giperkardni, foydalanuvchiga qulay, interaktiv ko\u2018rinishda taklif etgan holda, matnlar, rasmlar, tovushlar, animatsiyani birga to\u2018plash imkonini beradigan \u00abaxborot tashkilotchisi\u00bb deb atash mumkin."
+        ]
+    },
+    {
+        "word": "Giperhavola",
+        "type": [],
+        "definition": [
+            "Matndagi, dastur (brauzer) aniqlaydigan maxsus belgilar. Dastur berilgan matnning ko\u2018rsatilgan bo\u2018lagiga yoki umumiy holda boshqa kompyuterda joylashgan boshqa faylga o\u2018tishni amalga oshiradi. Giperhavolalar brauzer talablariga ko\u2018ra, matnni ishlab chiquvchi tomonidan qo\u2018yib chiqiladi."
+        ]
+    },
+    {
+        "word": "Gipermatn tavsiflash tili",
+        "type": [],
+        "definition": [
+            "Web-brauzerning dizayn matnini loyihalash imkonini beradigan, maxsus simvollar (teglar)dan tarkib topgan, Web-hujjat matnini yozish tili. HTML tili shakllarni formatlash va qayta ishlash, shriftlarni boshqarish, ma\u2019lumotlarni grafik ko\u2018rinishda uzatish, gipermatnli aloqalarni tashkil etish va Java appletlarni qo\u2018llab-quvvatlash imkonini beradi."
+        ]
+    },
+    {
+        "word": "Global o\u02bbzgaruvchi",
+        "type": [],
+        "definition": [
+            "Dasturlash tillaridagi o\u2018zgaruvchi; lokal o\u2018zgaruvchidan farqli ravishda, dasturning barcha protseduralarida va bloklarida foydalanilishi mumkin."
+        ]
+    },
+    {
+        "word": "Golografiya",
+        "type": [],
+        "definition": [
+            "Fan va texnikaning, tabiati turlicha bo\u2018lgan to\u2018lqin maydonlarni yozish va qayta ishlash uchun mo\u2018ljallangan qurilmalar va usullar yaratish, ularni o\u2018rganish bilan shug\u2018ullanadigan bo\u2018limi."
+        ]
+    },
+    {
+        "word": "Graf",
+        "type": [],
+        "definition": [
+            "Graflar nazariyasining asosiy tushunchasi, nuqtalar ko\u2018pligidan va nuqtalar juftining ba\u2019zi turkumidan iborat struktura. Ilovalarda graf tarmoq ko\u2018rinishida ko\u2018rsatiladi, bu yerda uzellar nuqtalar ko\u2018pligi, uzellar birikmasi esa, qirralar deb ataladigan nuqtalar jufti. Yo\u2018naltirilgan va yo\u2018naltirilmagan graflar ajratiladi. Graflardan informatikada keng foydalaniladi."
+        ]
+    },
+    {
+        "word": "Grafika",
+        "type": [],
+        "definition": [
+            "Matnli ma\u2019lumotlar va grafik timsollar birlashtirilgan kompyuterda ma\u2019lumotlarni vizual taqdim etishning eng umumiy usuli. Mashina tashuvchilarda grafik tasvirning o\u2018zini taqdim etishning rastrli va vektorli grafika kabi ikki turi bor."
+        ]
+    },
+    {
+        "word": "Grafik foydalanuvchi interfeysi",
+        "type": [],
+        "definition": [
+            "Ma\u2019lumotlarni vizuallashtirish imkonini beruvchi dastur. Grafik foydalanuvchi interfeysiga misollar: OSF\/Motif, Windows, OS\/2 Presentation Manager."
+        ]
+    },
+    {
+        "word": "Grafik redaktor (muharrir)",
+        "type": [],
+        "definition": [
+            "Kompyuter yordamida ikki o\u2018lchovli tasvirlarni tuzish va tahrir qilish imkonini beradigan dastur (yoki dasturlar paketi).\r\n Izoh \u2012 Grafik redaktorlarning turlari: 1 Rastrli grafik redaktorlar. Nisbatan ommalashgan redaktorlar: Microsoft Windows va MAC OS X operatsion tizimlari uchun Adobe Photoshop. GNU\/Linux va boshqa POSIX standartiga muvofiq operatsion tizimlari uchun GIMP redaktori. 2 Vektorli grafik redaktorlar. Nisbatan ommalashgan redaktorlar: Corel Draw, Macromedia Free Hand \u2212 Windows uchun, Inkscape \u2212 barcha operatsion tizimlar uchun."
+        ]
+    },
+    {
+        "word": "Grafik almashinish formati",
+        "type": [],
+        "definition": [
+            "Aniq nomlanishi \u2212 GIF89A; grafik tasvirni siqish usuli va grafik fayllar formati, Internet sahifalarida ko\u2018proq ishlatiladigan format hisoblanadi; ma\u2019lumotlarni yo\u2018qotmasdan siqishni ta\u2019minlaydi."
+        ]
+    },
+    {
+        "word": "GeForce",
+        "type": [],
+        "definition": [
+            "Iste\u2019mol bozoriga yo\u2018naltirilgan, NVIDIA kompaniyasi asosiy platalarining grafik protsessorlari va chipsetlari oilasi brendi. GeForce grafik protsessorlaridan asosan, shaxsiy va ko\u2018tarib yuriladigan kompyuterlar uchun mo\u2018ljallangan videoadapterlarda foydalaniladi."
+        ]
+    },
+    {
+        "word": "Gipermatnni uzatish protokoli",
+        "type": [],
+        "definition": [
+            "Gipermatnni uzatish uchun foydalaniladigan protokol. Protokolning asosiy vazifasi Web-server bilan aloqa o\u02bbrnatish va HTML sahifalarini mijozning Web-brauzeriga yetkazilishini ta\u2019minlash hisoblanadi. Protokol ishlashi uchun IP bog\u02bblanish orqali Internet ga ulanish talab etiladi. Web-hujjat olinadigan kompyuter adresi oldidan http:\/\/ prefiksi qo\u02bbyiladi."
+        ]
+    }
+]
